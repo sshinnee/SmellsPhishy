@@ -20,11 +20,16 @@ function evaluateURL(url) {
 
 function sanitizeURL(url) {
 	var flags = [];
-	if url.containsUnusualCharacters() {
+	if (containsUnusualCharacters(url)) {
 		flags.push(['uc']);
+		return;
 	} else {
 		return;
 	}
+}
+
+function containsUnusualCharacters(url) {
+	return false;
 }
 
 function removeHomographs(url) {
