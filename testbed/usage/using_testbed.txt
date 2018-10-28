@@ -1,0 +1,7 @@
+In order to use the sample phishing sites in the phishing_sites directory, one needs to set up a server that serves up these sites. 
+
+Since they are all in the same directory, start the same server at the level just inside of the SmellsPhishy project directory (i.e. the same level as where the directories phishing_sites/ and testbed/ are.
+
+You can set up a server with the command "python -m SimpleHTTPServer 8088" for a set up on port 8088 on Linux and Mac.
+
+Finally, when assessing the phishing site inside test_url_functions.html page, use a directory path like ""../phishing_site/[path_to_phishing_site]". A screenshot example exists inside this folder.
