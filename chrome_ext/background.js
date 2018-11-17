@@ -114,18 +114,7 @@ chrome.webRequest.onHeadersReceived.addListener(function(details)
 					redirect_url = header["value"];
 			}
 			
-			var user_action = confirm("Continue with redirect?\n\n"
-									  + "Status code: " + details.statusCode + "\n"
-									  + "Original URL: " + details.url + "\n"
-									  + "Initiator: " + details.initiator + "\n"
-									  + "Redirected URL: " + redirect_url
-									  + "WhoIsInfo: " + getWhoIsInfo(redirect_url));
-		  
-			if (user_action != true) 
-			{
-				blockingResponse.cancel = true;
-				return blockingResponse;
-			}
+			checkPhishing(redirect_url);
 		}
 	}
 	else
@@ -158,12 +147,34 @@ function getWhoIsInfo(url) {
 	var apiUrl = "https://www.whoisxmlapi.com/whoisserver/WhoisService?apiKey=at_ydUtZpQodw1xHDcjPenlRDVfFitlB&domainName=" + url;
 	var whoIsInfo;
 	var xmlHttp = new XMLHttpRequest();
-    xmlHttp.onreadystatechange = function() { 
-        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-            callback(xmlHttp.responseText);
-    }
-    xmlHttp.open("GET", apiUrl, true); // true for asynchronous 
+    xmlHttp.open("GET", apiUrl, false); // true for asynchronous 
     xmlHttp.send(null);
 	whoIsInfo = xmlHttp.responseText;
 	return whoIsInfo;
 };
+
+
+function checkDomain(url) {
+	getWhoIsInfo(url);
+}
+
+// Function that does all the various phishing checks
+function checkPhishing(url) {
+	/* likely need to return an array containing [immediate_failure, probability score] for each check */
+	checkUrl(url);
+	checkDomain(url);
+	checkPageStats(url);
+	checkContent(url);
+	
+	var useraction = confirm("Continue with redirect?\n\n"
+							 + "Status code: " + details.statusCode + "\n"
+							 + "Original URL: " + details.url + "\n"
+							 + "Initiator: " + details.initiator + "\n"
+							 + "Redirected URL: " + redirect_url + "\n");
+		  
+	if (user_action != true) 
+	{
+		blockingResponse.cancel = true;
+		return blockingResponse;
+	}
+}
