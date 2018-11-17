@@ -1,0 +1,31 @@
+{
+  "name": "Punycode and Redirect Detector",
+  "description" : "Detects redirects by hooking for 300-308 HTTP response codes and punycode in urls",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "phishing.png",
+	"default_title": "Detects punycode and redirects"
+  },
+  "permissions": [
+	"storage",
+	"webRequest",
+	"webRequestBlocking",
+	"<all_urls>"
+	],
+  "options_page": "popup.html",
+  "background": {
+	"scripts": ["background.js"],
+	"persistent": true
+  },
+  "manifest_version": 2,
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      },
+      "description": "Launch punycode and redirect detector"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+<html>
+
+<head>
+    <title>Punycode and Redirect Detector</title>
+	<script src="popup.js"></script>
+    <style>
+        .divTable {
+            display: table;
+            height: 80px;
+            width: 100px;
+            overflow: hidden;
+            white-space: nowrap;
+            border: none;
+        }
+        
+        .divTableRow {
+            display: table-row;
+        }
+        
+        .divTableHeading {
+            background-color: #EEE;
+            display: table-header-group;
+        }
+        
+        .divTableCell,
+        .divTableHead {
+            display: table-cell;
+            text-align: left;
+            vertical-align: middle;
+            padding: 3px 10px;
+        }
+        
+        .divTableHeading {
+            background-color: #EEE;
+            display: table-header-group;
+            font-weight: bold;
+        }
+        
+        .divTableFoot {
+            background-color: #EEE;
+            display: table-footer-group;
+            font-weight: bold;
+        }
+        
+        .divTableBody {
+            display: table-row-group;
+        }
+        
+        input[type=checkbox] {
+            height: 0;
+            width: 0;
+            visibility: hidden;
+        }
+        
+        label {
+            cursor: pointer;
+            text-indent: -9999px;
+            width: 40px;
+            height: 20px;
+            background: grey;
+            display: block;
+            border-radius: 100px;
+            position: relative;
+        }
+        
+        label:after {
+            content: '';
+            position: absolute;
+            top: 5px;
+            left: 5px;
+            width: 10px;
+            height: 10px;
+            background: #fff;
+            border-radius: 15px;
+            transition: 0.3s;
+        }
+        
+        input:checked + label {
+            background: #bada55;
+        }
+        
+        input:checked + label:after {
+            left: calc(100% - 5px);
+            transform: translateX(-100%);
+        }
+        
+        label:active:after {
+            width: 50px;
+        }
+        
+        // centering
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+    Settings
+    <hr>
+    <div class="divTable">
+        <div class="divTableBody">
+            <div class="divTableRow">
+                <div class="divTableCell">Detect punycode</div>
+                <div class="divTableCell">
+                    <input type="checkbox" id="punycode_switch"/>
+                    <label for="punycode_switch">Toggle</label>
+                </div>
+            </div>
+            <div class="divTableRow">
+                <div class="divTableCell">Detect redirects</div>
+                <div class="divTableCell">
+                    <input type="checkbox" id="redirectcode_switch"/>
+                    <label for="redirectcode_switch">Toggle</label>
+                </div>
+            </div>
+        </div>
+	</div>
+</body>
+
+</html>
