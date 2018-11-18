@@ -99,7 +99,7 @@ chrome.webRequest.onHeadersReceived.addListener(function(details)
 		if (details.statusCode >= 300 && details.statusCode <= 308) 
 		{
 			var redirect_url = "";
-			var headers = details.requestHeaders, blockingResponse = {};
+			var headers = details.requestHeaders;
 			var numHeaders = details.responseHeaders.length;
 			/* console.log("START");
 			var str = JSON.stringify(details.responseHeaders, null, 4);
@@ -175,6 +175,7 @@ function checkPhishing(url, details) {
 		  
 	if (userAction != true) 
 	{
+		var blockingResponse = {};
 		blockingResponse.cancel = true;
 		return blockingResponse;
 	}
