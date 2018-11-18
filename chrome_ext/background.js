@@ -152,9 +152,13 @@ function getWhoIsInfo(url) {
 	return xmlHttp.responseText;
 };
 
-
+// Perform domain-based checks
 function checkDomain(url) {
 	var whoIsInfo = getWhoIsInfo(url);
+	
+	// Check that registration date is > 1 month ago
+	var registrationDate = whoIsInfo.find("createdDate").text();
+	
 	return whoIsInfo;
 }
 	
