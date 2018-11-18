@@ -37,28 +37,13 @@ function getElementByXpath(path) {
   return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 }
 
-function getGoogleHit() {
-	var aElems = document.getElementsByTagName("cite");
-	console.log("first citation element"+aElems[0]);
-	// for (var i=0; i<aElems.length; ++i) {
-	//     var classesArr = aElems[i].className.split(/\s+/),
-	//         classesObj = {};
-	//     for (var j=0; j<classesArr.length; ++j) {
-	//         classesObj[classesArr[i]] = true;
-	//     }
-	//     if (classesObj.hasOwnProperty("title") && classesObj.hasOwnProperty("loggedin")) {
-	//         // action
-	//     }
-	// }
-}
-
 function getTopHit(response) {
 	var el = document.createElement( 'html' );
 	el.innerHTML = response;
 	console.log("inside top hit function: ");
 	var newurl = el.querySelectorAll('cite.iUh30')[0].outerHTML.split(">")[1].split("<")[0];
 	console.log("new url from top hit function is: " + newurl);
-	return newurl;//getElementByXpath('//*[@id="rso"]/div[1]/div/div/link');//"not implemented yet";
+	return newurl;
 }
 
 function httpGet(theUrl)
@@ -89,43 +74,14 @@ function makeHTTPRequestASync(url) {
 function makeGoogleSearch(phrase) {
 	var query_phrase = phrase.replace(/\s+/g, "+");
 	console.log("trying to read make google request for this: " + phrase.toString());
-	var rawFile = new XMLHttpRequest();
 	var query = "http://www.google.com/search?q=" + query_phrase.toString();
 	var google_hit_response = httpGet(query);//makeHTTPRequestASync(query);
 	console.log("google search response is: " + google_hit_response);
 
 	var newurl = getTopHit(google_hit_response);
-	//var querywindow = window.open(query, "_blank");
-	//var google_key = "AIzaSyAtYqyizGNGx5fpMb9egZKjruQrDI4g1zU";
-	//console.log("we are in this window: " + querywindow.document.baseURI.toString());
-	//var newurl = querywindow.document.querySelectorAll('cite.iUh30');
-	//var newurl = getGoogleHit();
-	//var newurl = $x('//*[@id="rso"]/div[1]/div/div/link)//getElementByXpath('//*[@id="rso"]/div[1]/div/div/link');
-	//document.getElementsByClassName("iUh30");
-	////*[@id="rso"]/div[1]/div/div/div/div/div[1]/a/div/cite
 	console.log("new url woot woot change applied: " + newurl.toString());
-	//../phishing_sites/smalldoll.ga/login-yahoo-verify/index2.php
-	//rawFile.open("https://www.googleapis.com/customsearch/v1?key=" + google_key + "&cx=012822220640327100223:c8gjadm06xo" + "&q=" + query_phrase.toString(), false);
-	//rawFile.open("GET", "http://www.google.com/search?q=" + phrase.toString(), false);
-	// rawFile.onreadystatechange = function () {
-	// 	if (rawFile.readyState === 4) {
-	// 		if (rawFile.status === 200 || rawFile.status == 0) {
-	// 			text = rawFile.responseText;
-	// 			console.log("woot we are in google page");
-	// 		}
-	// 	}
-	// }
-	// rawFile.send();
-	// responseHeaders = rawFile.getAllResponseHeaders(); 
-	// ////*[@id="rso"]/div/div/div[1]/div/div/div[1]/a
-	// ////*[@id="rso"]/div/div/div[1]/div/div/div[1]/a
-	// ////*[@id="rso"]/div[1]/div/div[1]/div/div/div[1]/a/div/cite
-	// console.log("response headers for this url: " + "http://www.google.com/search?q=" + phrase.toString() + responseHeaders.toString());
-	// //title = rawFile.responseText.toString().split("<title>")[1].split("</title>")[0];
-	// top_hit = rawFile.responseText.split("cite class=\"iUh30\">")[1].split("</cite>")[0];
-	// console.log("this is your top hit: \n" + top_hit.toString());
-	// console.log("end of page");
-	return newurl;//responseHeaders;//title;
+
+	return newurl;
 }
 
 function readDictionaryFile(filename) {
