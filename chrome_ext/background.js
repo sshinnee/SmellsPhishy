@@ -114,7 +114,7 @@ chrome.webRequest.onHeadersReceived.addListener(function(details)
 					redirect_url = header["value"];
 			}
 			
-			checkPhishing(redirect_url);
+			checkPhishing(redirect_url, details);
 		}
 	}
 	else
@@ -155,23 +155,25 @@ function getWhoIsInfo(url) {
 
 function checkDomain(url) {
 	var whoIsInfo = getWhoIsInfo(url);
+	return whoIsInfo;
 }
-
-// Function that does all the various phishing checks
-function checkPhishing(url) {
-	/* likely need to return an array containing [immediate_failure, probability score] for each check */
-	checkUrl(url);
-	checkDomain(url);
-	checkPageStats(url, origUrl);
-	checkContent(url);
 	
-	var useraction = confirm("Continue with redirect?\n\n"
+// Function that does all the various phishing checks
+function checkPhishing(url, details) {
+	/* likely need to return an array containing [immediate_failure, probability score] for each check */
+	//checkUrl(url);
+	//checkDomain(url);
+	//checkPageStats(url, origUrl);
+	//checkContent(url);
+	
+	var userAction = confirm("Continue with redirect?\n\n"
 							 + "Status code: " + details.statusCode + "\n"
 							 + "Original URL: " + details.url + "\n"
 							 + "Initiator: " + details.initiator + "\n"
-							 + "Redirected URL: " + redirect_url + "\n");
+							 + "Redirected URL: " + url + "\n"
+							 + "WhoIs: " + checkDomain(url));
 		  
-	if (user_action != true) 
+	if (userAction != true) 
 	{
 		blockingResponse.cancel = true;
 		return blockingResponse;
