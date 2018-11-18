@@ -8,19 +8,20 @@ function displaySimilarURLs() {
 	for (var i=0; i<input_urls.length; i++) {
 		var output_url = identifySimilarURL(input_urls[i].toString());
 		output_urls_formatted += output_url.toString() + '<br>';
-
+		console.log("output urls are: " + output_urls_formatted);
 	}
 	document.getElementById('similar_urls').innerHTML = "List of Similar URLs:<br><br> " + output_urls_formatted;
 }
 function identifySimilarURL(url) {
-	var newurl = readPageTitle(url);
-	console.log("our new similar url: " + newurl.toString());
+	//read page title
+	var page_title = readPageTitle(url);
+	console.log("page title is: " + page_title.toString());
 	// if (containsUnusualCharacters(url)) {
 	// 	newurl = removeHomographs(url);
 	// }
-	//read page title
+	var newurl = makeGoogleSearch(page_title);
+
 	//tokenize the url
-	newurl = makeGoogleSearch(newurl);
 	var tokens = url.split(".")
 	for (var i=0; i<tokens.length; i++) {
 		if (!inDictionary(tokens[i], dictionary)) {
@@ -32,28 +33,55 @@ function identifySimilarURL(url) {
 	return newurl;
 }
 
+function getElementByXpath(path) {
+  return document.evaluate(path, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+}
+
+function getTopHit(response) {
+	var el = document.createElement( 'html' );
+	el.innerHTML = response;
+	console.log("inside top hit function: ");
+	var newurl = el.querySelectorAll('cite.iUh30')[0].outerHTML.split(">")[1].split("<")[0];
+	console.log("new url from top hit function is: " + newurl);
+	return newurl;
+}
+
+function httpGet(theUrl)
+{
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+    xmlHttp.send( null );
+    console.log("returning response from httpGet: " + xmlHttp.responseText);
+    return xmlHttp.responseText;
+}
+
+function makeHTTPRequestASync(url) {
+    var xmlHttp = new XMLHttpRequest();
+
+    xmlHttp.onreadystatechange = function() { 
+        if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+        	console.log("we are receigin http response from: " + url);
+            return xmlHttp.responseText;
+    }
+    xmlHttp.open("GET", url, true); // true for asynchronous 
+    xmlHttp.setRequestHeader('Access-Control-Allow-Headers', 'Origin, Content-Type, X-Auth-Token');
+    xmlHttp.setRequestHeader('Access-Control-Allow-Methods', '*');
+    xmlHttp.setRequestHeader('Access-Control-Allow-Origin', '*');
+    xmlHttp.send(null);
+    console.log("random blah: " + url);
+    //return xmlHttp.responseText;
+}
 function makeGoogleSearch(phrase) {
-	console.log("trying to read this url now: " + url.toString());
-	var title = "";
-	var rawFile = new XMLHttpRequest();
-	rawFile.open("GET", "http://www.google.com/search?q=" + phrase.toString(), false);
-	rawFile.onreadystatechange = function () {
-		if (rawFile.readyState === 4) {
-			if (rawFile.status === 200 || rawFile.status == 0) {
-				text = rawFile.responseText;
-				console.log("woot we are in google page");
-			}
-		}
-	}
-	rawFile.send();
-	responseHeaders = rawFile.getAllResponseHeaders(); 
-	////*[@id="rso"]/div/div/div[1]/div/div/div[1]/a
-	////*[@id="rso"]/div/div/div[1]/div/div/div[1]/a
-	console.log("response headers for this url: " + responseHeaders.toString());
-	title = rawFile.responseText.toString().split("<title>")[1].split("</title>")[0];
-	console.log("this is your page: \n" + title.toString());
-	console.log("end of page");
-	return title;//responseHeaders;//title;
+	var query_phrase = phrase.replace(/\s+/g, "+");
+	console.log("trying to read make google request for this: " + phrase.toString());
+	var query = "http://www.google.com/search?q=" + query_phrase.toString();
+	var google_hit_response = httpGet(query);//makeHTTPRequestASync(query);
+	console.log("google search response is: " + google_hit_response);
+
+	var newurl = getTopHit(google_hit_response);
+	console.log("new url woot woot change applied: " + newurl.toString());
+
+	return newurl;
 }
 
 function readDictionaryFile(filename) {
@@ -64,7 +92,7 @@ function readDictionaryFile(filename) {
 		if (rawFile.readyState === 4) {
 			if (rawFile.status === 200 || rawFile.status == 0) {
 				text = rawFile.responseText;
-				console.log("we actually got in here")
+				console.log("we actually got in here");
 			}
 		}
 	}
