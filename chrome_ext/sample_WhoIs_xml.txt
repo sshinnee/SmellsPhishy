@@ -1,0 +1,115 @@
+<WhoisRecord>
+    <createdDate>1997-09-15T00:00:00-0700</createdDate>
+    <updatedDate>2018-02-21T10:45:07-0800</updatedDate>
+    <expiresDate>2020-09-13T21:00:00-0700</expiresDate>
+    <registrant>
+        <organization>Google LLC</organization>
+        <state>CA</state>
+        <country>UNITED STATES</country>
+        <countryCode>US</countryCode>
+        <rawText>Registrant Organization: Google LLC [...]</rawText>
+    </registrant>
+    <administrativeContact>
+        <organization>Google LLC</organization>
+        <state>CA</state>
+        <country>UNITED STATES</country>
+        <countryCode>US</countryCode>
+        <rawText>Admin Organization: Google LLC [...]</rawText>
+    </administrativeContact>
+    <technicalContact>
+        <organization>Google LLC</organization>
+        <state>CA</state>
+        <country>UNITED STATES</country>
+        <countryCode>US</countryCode>
+        <rawText>Tech Organization: Google LLC [...]</rawText>
+    </technicalContact>
+    <domainName>google.com</domainName>
+    <nameServers>
+        <rawText>
+            ns2.google.com ns3.google.com ns1.google.com ns4.google.com
+        </rawText>
+        <hostNames>
+            <Address>ns2.google.com</Address>
+            <Address>ns3.google.com</Address>
+            <Address>ns1.google.com</Address>
+            <Address>ns4.google.com</Address>
+        </hostNames>
+        <ips/>
+    </nameServers>
+    <status>
+        clientUpdateProhibited clientTransferProhibited clientDeleteProhibited
+        serverUpdateProhibited serverTransferProhibited serverDeleteProhibited
+    </status>
+    <rawText>Domain Name: google.com [...]</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: google.com [...]</strippedText>
+    <footer/>
+    <audit>
+        <createdDate>2018-10-23 15:33:41.000 UTC</createdDate>
+        <updatedDate>2018-10-23 15:33:41.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abusecomplaints@markmonitor.com</customField1Value>
+    <registrarName>MarkMonitor, Inc.</registrarName>
+    <registrarIANAID>292</registrarIANAID>
+    <whoisServer>whois.markmonitor.com</whoisServer>
+    <createdDateNormalized>1997-09-15 07:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-02-21 18:45:07 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2020-09-14 04:00:00 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.2083895740</customField2Value>
+    <customField3Value>http://www.markmonitor.com</customField3Value>
+    <registryData>
+        <createdDate>1997-09-15T04:00:00Z</createdDate>
+        <updatedDate>2018-02-21T18:36:40Z</updatedDate>
+        <expiresDate>2020-09-14T04:00:00Z</expiresDate>
+        <domainName>google.com</domainName>
+        <nameServers>
+            <rawText>
+                NS1.GOOGLE.COM NS2.GOOGLE.COM NS3.GOOGLE.COM NS4.GOOGLE.COM
+            </rawText>
+            <hostNames>
+                <Address>NS1.GOOGLE.COM</Address>
+                <Address>NS2.GOOGLE.COM</Address>
+                <Address>NS3.GOOGLE.COM</Address>
+                <Address>NS4.GOOGLE.COM</Address>
+            </hostNames>
+            <ips/>
+        </nameServers>
+        <status>
+            clientDeleteProhibited clientTransferProhibited
+            clientUpdateProhibited serverDeleteProhibited
+            serverTransferProhibited serverUpdateProhibited
+        </status>
+        <rawText>Domain Name: GOOGLE.COM [...]</rawText>
+        <parseCode>251</parseCode>
+        <header/>
+        <strippedText>Domain Name: GOOGLE.COM [...]</strippedText>
+        <footer/>
+        <audit>
+            <createdDate>2018-10-23 15:33:40.000 UTC</createdDate>
+            <updatedDate>2018-10-23 15:33:40.000 UTC</updatedDate>
+        </audit>
+        <customField1Name>RegistrarContactEmail</customField1Name>
+        <customField1Value>abusecomplaints@markmonitor.com</customField1Value>
+        <registrarName>MarkMonitor Inc.</registrarName>
+        <registrarIANAID>292</registrarIANAID>
+        <createdDateNormalized>1997-09-15 04:00:00 UTC</createdDateNormalized>
+        <updatedDateNormalized>2018-02-21 18:36:40 UTC</updatedDateNormalized>
+        <expiresDateNormalized>2020-09-14 04:00:00 UTC</expiresDateNormalized>
+        <customField2Name>RegistrarContactPhone</customField2Name>
+        <customField3Name>RegistrarURL</customField3Name>
+        <customField2Value>+1.2083895740</customField2Value>
+        <customField3Value>http://www.markmonitor.com</customField3Value>
+        <whoisServer>whois.markmonitor.com</whoisServer>
+    </registryData>
+    <domainAvailability>UNAVAILABLE</domainAvailability>
+    <contactEmail>abusecomplaints@markmonitor.com</contactEmail>
+    <domainNameExt>.com</domainNameExt>
+    <estimatedDomainAge>7708</estimatedDomainAge>
+    <ips>
+        <string>216.58.219.14</string>
+    </ips>
+</WhoisRecord>

@@ -154,37 +154,27 @@ function getWhoIsInfo(url) {
 
 // Perform domain-based checks
 function checkDomain(url) {
+	var parser = new DOMParser();
 	var whoIsInfo = getWhoIsInfo(url);
+	var whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
 	
-	// Check that registration date is > 1 month ago
-	var registrationDate = whoIsInfo.find("createdDate").text();
+	// Check that registration date is > 1 month (31 days) ago
+	var registrationDateFromXml = whoIsXml.getElementsByTagName("registryData")[0].childNodes[0].nodeValue;
+	var today = new Date();
+	var registrationDate = new Date(registrationDateFromXml);
+	var msInDay = 24 * 60 * 60 * 1000;
+
+	registrationDate.setHours(0,0,0,0);
+	today.setHours(0,0,0,0);
+
+	var domainAge = (+today - +registrationDate)/msInDay;
 	
+	// HAVING SOME PROBLEMS HERE. THE XML STRUCTURE IS DIFFERENT FOR EACH REDIRECTED PAGE for www.dbs.com.sg
+	
+	//return registrationDateFromXml;
 	return whoIsInfo;
 }
 	
-// Function that does all the various phishing checks
-function checkPhishing(url, details) {
-	/* likely need to return an array containing [immediate_failure, probability score] for each check */
-	//checkUrl(url);
-	//checkDomain(url);
-	//checkPageStats(url, origUrl);
-	//checkContent(url);
-	
-	var userAction = confirm("Continue with redirect?\n\n"
-							 + "Status code: " + details.statusCode + "\n"
-							 + "Original URL: " + details.url + "\n"
-							 + "Initiator: " + details.initiator + "\n"
-							 + "Redirected URL: " + url + "\n"
-							 + "WhoIs: " + checkDomain(url));
-		  
-	if (userAction != true) 
-	{
-		var blockingResponse = {};
-		blockingResponse.cancel = true;
-		return blockingResponse;
-	}
-}
-
 // Perform checks on page stats
 function checkPageStats(reqUrl, posOrigUrl)
 {
@@ -446,4 +436,27 @@ function checkWebsiteTraffic(reqUrl, posOrigUrl, apiKey)
 	}
 	
 	return isTrafficHitsLegit;
+}
+
+// This serves as the main controller function that calls the various phishing checks
+function checkPhishing(url, details) {
+	/* likely need to return an array containing [immediate_failure, probability score] for each check */
+	//checkUrl(url);
+	//checkDomain(url);
+	//checkPageStats(url, origUrl);
+	//checkContent(url);
+	
+	var userAction = confirm("Continue with redirect?\n\n"
+							 + "Status code: " + details.statusCode + "\n"
+							 + "Original URL: " + details.url + "\n"
+							 + "Initiator: " + details.initiator + "\n"
+							 + "Redirected URL: " + url + "\n"
+							 + "WhoIs: " + checkDomain(url));
+		  
+	if (userAction != true) 
+	{
+		var blockingResponse = {};
+		blockingResponse.cancel = true;
+		return blockingResponse;
+	}
 }
