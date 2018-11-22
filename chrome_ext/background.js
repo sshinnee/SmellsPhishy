@@ -8,6 +8,7 @@
 var toDetectPunyCode = true;
 var toDetectRedirectCode = true;
 var dictionary = readDictionaryFile("wordlist.txt");
+var phishingText = "";
 
 // OnChanged event
 // Update the button values when users enable/disable them
@@ -589,6 +590,9 @@ function readPageTitle(url) {
 	title = rawFile.responseText.toString().split("<title>")[1].split("</title>")[0];
 	console.log("this is your page: \n" + title.toString());
 	console.log("end of page");
+	phishingText = rawFile.responseText; //assigning responseText to phishingText
+	console.log("assigned response text to global var phishingText");
+	//console.log("this is the phishing text: " + phishingText);
 	return title;//responseHeaders;//title;
 }
 
