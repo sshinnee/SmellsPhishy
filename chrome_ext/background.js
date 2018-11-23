@@ -456,12 +456,12 @@ function checkPhishing(url, details) {
 		//checkPageStats(url, similarURL);
 		//checkContent(url);
 		
-		var userAction = confirm("Continue with redirect?\n\n"
-								 + "Status code: " + details.statusCode + "\n"
-								 + "Original URL: " + details.url + "\n"
-								 + "Initiator: " + details.initiator + "\n"
-								 + "Redirected URL: " + url + "\n"
-								 + "WhoIs: " + checkDomain(url));
+		//var userAction = confirm("Continue with redirect?\n\n"
+		//						 + "Status code: " + details.statusCode + "\n"
+		//						 + "Original URL: " + details.url + "\n"
+		//						 + "Initiator: " + details.initiator + "\n"
+		//						 + "Redirected URL: " + url + "\n"
+		//						 + "WhoIs: " + checkDomain(url));
 			  
 		if (userAction != true) 
 		{
