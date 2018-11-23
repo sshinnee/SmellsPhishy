@@ -15,7 +15,7 @@
 	],
   "options_page": "popup.html",
   "background": {
-	"scripts": ["background.js"],
+	"scripts": ["background.js","lionel.js"],
 	"persistent": true
   },
   "manifest_version": 2,
