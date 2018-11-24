@@ -120,6 +120,10 @@ chrome.webRequest.onHeadersReceived.addListener(function(details)
 					redirect_url = header["value"];
 			}
 			
+			// Check whether it is just HTTPS upgrade
+			if (getTLD(redirect_url) === getTLD(details.url))
+				return;
+			
 			isRedirect = true;
 			checkPhishing(redirect_url, details);
 		}
@@ -249,7 +253,7 @@ function httpGet(theUrl)
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
     xmlHttp.send( null );
-    console.log("returning response from httpGet: " + xmlHttp.responseText);
+    //console.log("returning response from httpGet: " + xmlHttp.responseText);
     return xmlHttp.responseText;
 }
 
@@ -266,18 +270,19 @@ function makeHTTPRequestASync(url) {
     xmlHttp.setRequestHeader('Access-Control-Allow-Methods', '*');
     xmlHttp.setRequestHeader('Access-Control-Allow-Origin', '*');
     xmlHttp.send(null);
-    console.log("random blah: " + url);
+    //console.log("random blah: " + url);
     //return xmlHttp.responseText;
 }
+
 function makeGoogleSearch(phrase) {
 	var query_phrase = phrase.replace(/\s+/g, "+");
 	console.log("trying to read make google request for this: " + phrase.toString());
 	var query = "http://www.google.com/search?q=" + query_phrase.toString();
 	var google_hit_response = httpGet(query);//makeHTTPRequestASync(query);
-	console.log("google search response is: " + google_hit_response);
+	//console.log("google search response is: " + google_hit_response);
 
 	var newurl = getTopHit(google_hit_response);
-	console.log("new url woot woot change applied: " + newurl.toString());
+	//console.log("new url woot woot change applied: " + newurl.toString());
 
 	return newurl;
 }
