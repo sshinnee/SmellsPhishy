@@ -120,9 +120,14 @@ chrome.webRequest.onHeadersReceived.addListener(function(details)
 					redirect_url = header["value"];
 			}
 			
-			// Check whether it is just HTTPS upgrade
-			if (getTLD(redirect_url) === getTLD(details.url))
+			console.log("Original url: " + details.url);
+			console.log("Redirected url: " + redirect_url);
+			
+			// Check whether it is just HTTPS upgrade or local redirection
+			if (getTLD(details.url) === getTLD(redirect_url) || redirect_url.indexOf("/") === 0) {
+				console.log("HTTPS UPGRADING OR LOCAL REDIRECT - SKIP CHECKS");
 				return;
+			}
 			
 			isRedirect = true;
 			checkPhishing(redirect_url, details);

@@ -7,29 +7,42 @@ const whoIsUrl = "https://www.whoisxmlapi.com/whoisserver/WhoisService?";
 var whoIsInfo = null;
 var whoIsXml = null;
 var domainLocation = null;
-
+var registrantWhoIsInfo = null;
+var registrantWhoIsXml = null;
+var registrantDomainLocation = null;
 
 // Make WhoIs API call to WhoIs service
-function getWhoIsInfo(url) {
+function getWhoIsInfo(url, mode) {
 	var apiUrl = whoIsUrl + "apiKey=" + whoIsApiKey + "&domainName=" + url;
 	var xmlHttp = new XMLHttpRequest();
     
 	xmlHttp.open("GET", apiUrl, false); // true for asynchronous 
     xmlHttp.send(null);
-	whoIsInfo = xmlHttp.responseText;
 	
-	if (whoIsInfo.indexOf("SGNIC") > -1) {
-		console.log("DOMAIN LOCATION = SG");
-		domainLocation = "sg";
+	if (mode === 0) {
+		whoIsInfo = xmlHttp.responseText;
+	
+		if (whoIsInfo.indexOf("SGNIC") > -1)
+			domainLocation = "sg";
+		else 
+			domainLocation = "global";
+		
+		console.log("DOMAIN LOCATION = " + domainLocation);
 	}
 	else {
-		console.log("DOMAIN LOCATION = GLOBAL");
-		domainLocation = "global";
+		registrantWhoIsInfo = xmlHttp.responseText;
+	
+		if (registrantWhoIsInfo.indexOf("SGNIC") > -1)
+			registrantDomainLocation = "sg";
+		else
+			registrantDomainLocation = "global";
+		
+		console.log("DOMAIN LOCATION = " + registrantDomainLocation);
 	}
 };
 
 // Checks  that domain is > 1 month (31 days) old
-function checkDomainAge(domainLocation) {
+function checkDomainAge() {
 	var registrationDateFromXml;
 
 	if (domainLocation === "global")
@@ -48,14 +61,16 @@ function checkDomainAge(domainLocation) {
 
 	var domainAge = (+today - +registrationDate)/msInDay;
 	
-	if (domainAge > 31)
+	if (domainAge > 31) {
 		return 1;
-	else
+	}
+	else {
 		return 0;
+	}
 }
 
 // Checks  that expiry is more than 6 months (186 days) away
-function checkDomainExpiry(domainLocation) {
+function checkDomainExpiry() {
 	var expiryDateFromXml;
 
 	if (domainLocation === "global")
@@ -74,10 +89,12 @@ function checkDomainExpiry(domainLocation) {
 
 	var daysToExpiry = (+expiryDate - +today)/msInDay;
 	
-	if (daysToExpiry < 93)
+	if (daysToExpiry < 93) {
 		return 1;
-	else
+	}
+	else {
 		return 0;
+	}
 }
 
 // Get the top level domain (TLD) from a URL
@@ -102,7 +119,8 @@ function getTLD(url) {
 }
 
 function checkDomainRegistrant() {
-		var registrant;
+	var registrant = null;
+	var registrantRegistrant = null;
 
 	if (domainLocation === "global")
 		registrant= whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
@@ -115,9 +133,29 @@ function checkDomainRegistrant() {
 	var searchUrl = makeGoogleSearch(registrant);
 	var searchTLD = getTLD(searchUrl);
 	
-	return 1;
+	// Get registrant's website WhoIs records
+	getWhoIsInfo(1);
+	// Convert WhoIsInfo into XML
+	var parser = new DOMParser();
+	whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
+	
+	if (registrantDomainLocation === "global")
+		registrantRegistrant = whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
+	else
+		registrantRegistrant = whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
+		registrantRegistrant = (registrantRegistrant.split(' \(SGNIC'))[0];
+	
+	console.log("REGISTRANT'S REGISTRANT: " + registrantRegistrant);
+	
+	if (registrant === registrantRegistrant) {
+		console.log("REGISTRANT VERIFIED");
+		return 1;
+	}
+	else {
+		console.log("REGISTRANT UNVERIFIED");
+		return 0;
+	}
 }
-
 
 // Perform domain-based checks
 function checkDomain(url) {
@@ -126,7 +164,7 @@ function checkDomain(url) {
 
 	// Make WhoIs API call
 	console.log("URL: " + url);
-	getWhoIsInfo(url);
+	getWhoIsInfo(url, 0);
 	
 	// Convert WhoIsInfo into XML
 	var parser = new DOMParser();
