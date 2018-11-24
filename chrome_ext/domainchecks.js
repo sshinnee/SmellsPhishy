@@ -140,9 +140,9 @@ function checkDomainRegistrant() {
 	whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
 	
 	if (registrantDomainLocation === "global")
-		registrantRegistrant = whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
+		registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
 	else
-		registrantRegistrant = whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
+		registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
 		registrantRegistrant = (registrantRegistrant.split(' \(SGNIC'))[0];
 	
 	console.log("REGISTRANT'S REGISTRANT: " + registrantRegistrant);
