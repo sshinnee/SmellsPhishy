@@ -1,0 +1,142 @@
+<WhoisRecord>
+  <domainName>dbs.com.sg</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-24 07:00:06.773 UTC</createdDate>
+    <updatedDate>2018-11-24 07:00:06.773 UTC</updatedDate>
+  </audit>
+  <registrarName>CSC</registrarName>
+  <registryData>
+    <createdDate>01-Oct-1996 00:00:00</createdDate>
+    <updatedDate>19-Sep-2018 13:48:07</updatedDate>
+    <expiresDate>01-Oct-2019 00:00:00</expiresDate>
+    <registrant>
+      <name>DBS BANK LTD. (SGNIC-ORG1485545)</name>
+      <rawText>Name:           DBS BANK LTD. (SGNIC-ORG1485545)
+</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>DOMAINS ADMINISTRATOR (SGNIC-PER20184060)</name>
+      <rawText>
+Name:           DOMAINS ADMINISTRATOR (SGNIC-PER20184060)
+</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>DBS BANK LTD. (SGNIC-ORG1542987)</name>
+      <email>socialmedia@dbs.com</email>
+      <rawText>
+Name:           DBS BANK LTD. (SGNIC-ORG1542987)
+Email:          socialmedia@dbs.com
+</rawText>
+    </technicalContact>
+    <domainName>dbs.com.sg</domainName>
+    <nameServers>
+      <rawText>A1-38.AKAM.NET
+A10-67.AKAM.NET
+A13-64.AKAM.NET
+A14-65.AKAM.NET
+A22-66.AKAM.NET
+A3-67.AKAM.NET
+DNSSEC1.SINGNET.COM.SG
+DNSSEC2.SINGNET.COM.SG
+SECDNS.STARHUB.NET.SG
+SECDNS2.STARHUB.NET.SG
+</rawText>
+      <hostNames>
+        <Address>A1-38.AKAM.NET</Address>
+        <Address>A10-67.AKAM.NET</Address>
+        <Address>A13-64.AKAM.NET</Address>
+        <Address>A14-65.AKAM.NET</Address>
+        <Address>A22-66.AKAM.NET</Address>
+        <Address>A3-67.AKAM.NET</Address>
+        <Address>DNSSEC1.SINGNET.COM.SG</Address>
+        <Address>DNSSEC2.SINGNET.COM.SG</Address>
+        <Address>SECDNS.STARHUB.NET.SG</Address>
+        <Address>SECDNS2.STARHUB.NET.SG</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>OK
+CLIENT TRANSFER PROHIBITED
+VerifiedID@SG-Not Required</status>
+    <rawText>----------------------------------------------------------------------  
+ SGNIC WHOIS Server
+---------------------------------------------------------------------- 
+
+The following data is provided for information purposes only.
+
+Registrar:   CSC
+
+    Domain Name:		DBS.COM.SG 
+    Creation Date:		01-Oct-1996 00:00:00
+    Modified Date:		19-Sep-2018 13:48:07
+    Expiration Date:		01-Oct-2019 00:00:00
+    Domain Status:		OK
+    Domain Status:		CLIENT TRANSFER PROHIBITED
+    Domain Status:		VerifiedID@SG-Not Required
+
+
+    Registrant:
+
+        Name:           DBS BANK LTD. (SGNIC-ORG1485545)        
+        
+
+
+    Administrative Contact:
+          
+        Name:           DOMAINS ADMINISTRATOR (SGNIC-PER20184060)        
+        
+
+
+    Technical Contact:
+        
+        Name:           DBS BANK LTD. (SGNIC-ORG1542987)        
+        Email:          socialmedia@dbs.com
+        
+
+
+    Name Servers:
+        A1-38.AKAM.NET  
+        A10-67.AKAM.NET  
+        A13-64.AKAM.NET  
+        A14-65.AKAM.NET  
+        A22-66.AKAM.NET  
+        A3-67.AKAM.NET  
+        DNSSEC1.SINGNET.COM.SG  (165.21.83.11)
+        DNSSEC2.SINGNET.COM.SG  (165.21.100.11)
+        SECDNS.STARHUB.NET.SG  (203.116.1.94)
+        SECDNS2.STARHUB.NET.SG  (203.116.254.150)
+
+
+
+    DNSSEC:
+        unsigned</rawText>
+    <parseCode>3579</parseCode>
+    <header>----------------------------------------------------------------------
+SGNIC WHOIS Server
+----------------------------------------------------------------------
+The following data is provided for information purposes only.</header>
+    <strippedText>Registrar:   CSC
+Domain Name:		DBS.COM.SG
+Creation Date:		01-Oct-1996 00:00:00
+Modified Date:		19-Sep-2018 13:48:07
+Expiration Date:		01-Oct-2019 00:00:00
+Domain Status:		OK
+Domain Status:		CLIENT TRANSFER PROHIBITED
+Domain Status:		VerifiedID@SG-Not Required
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-24 07:00:06.773 UTC</createdDate>
+      <updatedDate>2018-11-24 07:00:06.773 UTC</updatedDate>
+    </audit>
+    <registrarName>CSC</registrarName>
+    <createdDateNormalized>1996-10-01 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-09-19 13:48:07 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-10-01 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.nic.net.sg</whoisServer>
+  </registryData>
+  <contactEmail>socialmedia@dbs.com</contactEmail>
+  <domainNameExt>.com.sg</domainNameExt>
+  <estimatedDomainAge>8089</estimatedDomainAge>
+</WhoisRecord>

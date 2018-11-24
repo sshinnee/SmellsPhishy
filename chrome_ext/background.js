@@ -7,6 +7,8 @@
 // Global Variables
 var toDetectPunyCode = true;
 var toDetectRedirectCode = true;
+var isPunyCode = false;
+var isRedirect = false;
 var dictionary = readDictionaryFile("wordlist.txt");
 var phishingText = "";
 
@@ -71,7 +73,8 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 		//Check for xn-- OR non Ascii Printable in URL
 		if ((details.url.indexOf("xn--") != -1)||(!isAsciiPrintable(details.url)))
 		{
-alert(details.parentFrameId + " " + details.frameId);
+			isPunyCode = true;
+			alert(details.parentFrameId + " " + details.frameId);
 
 			var user_action = confirm("Website has homographic URL, proceed?\n\n"
 							+ "To be visited URL: " + details.url);
@@ -94,6 +97,7 @@ alert(details.parentFrameId + " " + details.frameId);
 {urls: ["<all_urls>"]},
 ["blocking"]);
 
+// Performs redirect detection. Passes the redirected url to checkPhishing for processing.
 chrome.webRequest.onHeadersReceived.addListener(function(details) 
 {
 	if (toDetectRedirectCode)
@@ -116,6 +120,7 @@ chrome.webRequest.onHeadersReceived.addListener(function(details)
 					redirect_url = header["value"];
 			}
 			
+			isRedirect = true;
 			checkPhishing(redirect_url, details);
 		}
 	}
@@ -145,60 +150,29 @@ function isAsciiPrintable(str) {
   return true;
 };
 
-// Make WhoIs API call to WhoIs service
-function getWhoIsInfo(url) {
-	var apiUrl = "https://www.whoisxmlapi.com/whoisserver/WhoisService?apiKey=at_ydUtZpQodw1xHDcjPenlRDVfFitlB&domainName=" + url;
-	var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open("GET", apiUrl, false); // true for asynchronous 
-    xmlHttp.send(null);
-	return xmlHttp.responseText;
-};
-
-// Perform domain-based checks
-function checkDomain(url) {
-	var parser = new DOMParser();
-	var whoIsInfo = getWhoIsInfo(url);
-	var whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
-	
-	// Check that registration date is > 1 month (31 days) ago
-	var registrationDateFromXml = whoIsXml.getElementsByTagName("registryData")[0].childNodes[0].nodeValue;
-	var today = new Date();
-	var registrationDate = new Date(registrationDateFromXml);
-	var msInDay = 24 * 60 * 60 * 1000;
-
-	registrationDate.setHours(0,0,0,0);
-	today.setHours(0,0,0,0);
-
-	var domainAge = (+today - +registrationDate)/msInDay;
-	
-	// HAVING SOME PROBLEMS HERE. THE XML STRUCTURE IS DIFFERENT FOR EACH REDIRECTED PAGE for www.dbs.com.sg
-	
-	//return registrationDateFromXml;
-	return whoIsInfo;
-}
-
 // This serves as the main controller function that calls the various phishing checks
 function checkPhishing(url, details) {
 	/* likely need to return an array containing [immediate_failure, probability score] for each check */
 	
-	var similarURL = identifySimilarURL(url);
-	if (url === similarURL)
+	//var similarURL = identifySimilarURL(url);
+	//if (url === similarURL)
+	if (false)
 	{
 		// Identical URL. No phishing check required.
 		console.log("Identical URL. No phishing check.");
 	}
 	else
 	{
-		//checkDomain(url);
+		var domainChecks = checkDomain(url);
 		//checkPageStats(url, similarURL);
-		checkContent(url);
+		//checkContent(url);
 		
-		//var userAction = confirm("Continue with redirect?\n\n"
-		//						 + "Status code: " + details.statusCode + "\n"
-		//						 + "Original URL: " + details.url + "\n"
-		//						 + "Initiator: " + details.initiator + "\n"
-		//						 + "Redirected URL: " + url + "\n"
-		//						 + "WhoIs: " + checkDomain(url));
+		var userAction = confirm("Continue with redirect?\n\n"
+								 + "Status code: " + details.statusCode + "\n"
+								 + "Original URL: " + details.url + "\n"
+								 + "Initiator: " + details.initiator + "\n"
+								 + "Redirected URL: " + url + "\n"
+								 + "WhoIs: " + whoIsInfo);
 			  
 		if (userAction != true) 
 		{
