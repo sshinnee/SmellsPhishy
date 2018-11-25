@@ -10,6 +10,10 @@ var domainLocation = null;
 var registrantWhoIsInfo = null;
 var registrantWhoIsXml = null;
 var registrantDomainLocation = null;
+var checkDomainAgePassed = 0;
+var checkDomainExpiryPassed = 0;
+var checkDomainRegistrantPassed = 0;
+
 
 // Make WhoIs API call to WhoIs service
 function getWhoIsInfo(url, mode) {
@@ -38,15 +42,16 @@ function getWhoIsInfo(url, mode) {
 			else
 				registrantDomainLocation = "global";
 			
-			console.log("DOMAIN LOCATION = " + registrantDomainLocation);
+			console.log("REGISTRANT LOCATION = " + registrantDomainLocation);
 		}
 	} catch (err) {
 		console.log("there was an error in getWhoIsInfo " + err.toString());
 	}
-};
+}
 
 // Checks  that domain is > 1 month (31 days) old
 function checkDomainAge() {
+
 	try {
 		var registrationDateFromXml;
 		//alert("inside domain age check");
@@ -70,6 +75,7 @@ function checkDomainAge() {
 		console.log("domain age is: " + domainAge.toString());
 		
 		if (domainAge > 31) {
+			checkDomainAgePassed = 1;
 			return 1;
 		}
 		else {
@@ -83,13 +89,15 @@ function checkDomainAge() {
 
 // Checks  that expiry is more than 6 months (186 days) away
 function checkDomainExpiry() {
+
 	try {
 		var expiryDateFromXml;
 
-		if (domainLocation === "global")
+		if (domainLocation === "global") {
 			expiryDateFromXml= whoIsXml.getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
-		else
+		} else {
 			expiryDateFromXml= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
+		}
 
 		console.log("EXPIRY DATE: " + expiryDateFromXml);
 		
@@ -105,6 +113,7 @@ function checkDomainExpiry() {
 		console.log("days to expiry: " + str(daysToExpiry))
 		
 		if (daysToExpiry < 93) {
+			checkDomainExpiryPassed = 1;
 			return 1;
 		}
 		else {
@@ -138,15 +147,18 @@ function getTLD(url) {
 }
 
 function checkDomainRegistrant() {
+
 	try {
 		var registrant = null;
 		var registrantRegistrant = null;
-
-		if (domainLocation === "global")
+		
+		if (domainLocation === "global") {
 			registrant= whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
-		else
+		}
+		else {
 			registrant= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
 			registrant = (registrant.split(' \(SGNIC'))[0];
+		}
 
 		console.log("REGISTRANT: " + registrant);
 		
@@ -154,21 +166,26 @@ function checkDomainRegistrant() {
 		var searchTLD = getTLD(searchUrl);
 		
 		// Get registrant's website WhoIs records
-		getWhoIsInfo(1);
-		// Convert WhoIsInfo into XML
+		getWhoIsInfo(url, 1);
+		// Convert Registrant's WhoIsInfo into XML
 		var parser = new DOMParser();
-		whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
+		registrantWhoIsXml = parser.parseFromString(registrantWhoIsInfo, "text/xml");
 		
-		if (registrantDomainLocation === "global")
+		console.log(registrantWhoIsXml);
+		
+		if (registrantDomainLocation === "global") {
 			registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
-		else
+		}
+		else {
 			registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
 			registrantRegistrant = (registrantRegistrant.split(' \(SGNIC'))[0];
+		}
 		
 		console.log("REGISTRANT'S REGISTRANT: " + registrantRegistrant);
 		
 		if (registrant === registrantRegistrant) {
 			console.log("REGISTRANT VERIFIED");
+			checkDomainRegistrantPassed = 1;
 			return 1;
 		}
 		else {
@@ -187,6 +204,18 @@ function checkDomain(url) {
 	var passedChecks = 0;
 
 	//alert("check domain starting");
+
+	// Reset all variables (not sure whether this is persistent through calls)
+	whoIsInfo = null;
+	whoIsXml = null;
+	domainLocation = null;
+	registrantWhoIsInfo = null;
+	registrantWhoIsXml = null;
+	registrantDomainLocation = null;
+	checkDomainAgePassed = 0;
+	checkDomainExpiryPassed = 0;
+	checkDomainRegistrantPassed = 0;
+
 	// Make WhoIs API call
 	console.log("URL: " + url);
 	getWhoIsInfo(url, 0);
