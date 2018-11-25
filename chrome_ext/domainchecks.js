@@ -10,6 +10,10 @@ var domainLocation = null;
 var registrantWhoIsInfo = null;
 var registrantWhoIsXml = null;
 var registrantDomainLocation = null;
+var checkDomainAgePassed = 0;
+var checkDomainExpiryPassed = 0;
+var checkDomainRegistrantPassed = 0;
+
 
 // Make WhoIs API call to WhoIs service
 function getWhoIsInfo(url, mode) {
@@ -39,12 +43,12 @@ function getWhoIsInfo(url, mode) {
 		
 		console.log("REGISTRANT DOMAIN LOCATION = " + registrantDomainLocation);
 	}
-};
+}
 
 // Checks  that domain is > 1 month (31 days) old
 function checkDomainAge() {
 	var registrationDateFromXml;
-
+	
 	if (domainLocation === "global")
 		registrationDateFromXml= whoIsXml.getElementsByTagName("createdDate")[0].childNodes[0].nodeValue;
 	else
@@ -62,6 +66,7 @@ function checkDomainAge() {
 	var domainAge = (+today - +registrationDate)/msInDay;
 	
 	if (domainAge > 31) {
+		checkDomainAgePassed = 1;
 		return 1;
 	}
 	else {
@@ -72,7 +77,7 @@ function checkDomainAge() {
 // Checks  that expiry is more than 6 months (186 days) away
 function checkDomainExpiry() {
 	var expiryDateFromXml;
-
+	
 	if (domainLocation === "global")
 		expiryDateFromXml= whoIsXml.getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
 	else
@@ -90,6 +95,7 @@ function checkDomainExpiry() {
 	var daysToExpiry = (+expiryDate - +today)/msInDay;
 	
 	if (daysToExpiry < 93) {
+		checkDomainExpiryPassed = 1;
 		return 1;
 	}
 	else {
@@ -121,7 +127,7 @@ function getTLD(url) {
 function checkDomainRegistrant() {
 	var registrant = null;
 	var registrantRegistrant = null;
-
+	
 	if (domainLocation === "global") {
 		registrant= whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
 	}
@@ -155,6 +161,7 @@ function checkDomainRegistrant() {
 	
 	if (registrant === registrantRegistrant) {
 		console.log("REGISTRANT VERIFIED");
+		checkDomainRegistrantPassed = 1;
 		return 1;
 	}
 	else {
@@ -168,6 +175,17 @@ function checkDomain(url) {
 	var totalChecks = 1;
 	var passedChecks = 0;
 
+	// Reset all variables (not sure whether this is persistent through calls)
+	whoIsInfo = null;
+	whoIsXml = null;
+	domainLocation = null;
+	registrantWhoIsInfo = null;
+	registrantWhoIsXml = null;
+	registrantDomainLocation = null;
+	checkDomainAgePassed = 0;
+	checkDomainExpiryPassed = 0;
+	checkDomainRegistrantPassed = 0;
+	
 	// Make WhoIs API call
 	console.log("URL: " + url);
 	getWhoIsInfo(url, 0);
