@@ -1,22 +1,23 @@
 {
   "name": "SmellsPhishy",
-  "description" : "Phishing Detector",
+  "description": "Phishing Detector",
   "version": "1.0",
   "browser_action": {
     "default_popup": "popup.html",
     "default_icon": "phishing.png",
-	"default_title": "Detects punycode and redirects"
+    "default_title": "Detects punycode and redirects"
   },
   "permissions": [
-	"storage",
-	"webRequest",
-	"webRequestBlocking",
-	"<all_urls>"
-	],
+    "storage",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
   "options_page": "popup.html",
   "background": {
-	"scripts": ["background.js","lionel.js", "domainchecks.js"],
-	"persistent": true
+    "page": "background.html",
+    //"scripts": ["background.js", "lionel.js", "domainchecks.js"],
+    "persistent": true
   },
   "manifest_version": 2,
   "commands": {

@@ -9,7 +9,7 @@ var toDetectPunyCode = true;
 var toDetectRedirectCode = true;
 var isPunyCode = false;
 var isRedirect = false;
-var dictionary = readDictionaryFile("wordlist.txt");
+//var dictionary = readDictionaryFile("wordlist.txt");
 var phishingText = "";
 
 // OnChanged event
@@ -73,6 +73,7 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 		//Check for xn-- OR non Ascii Printable in URL
 		if ((details.url.indexOf("xn--") != -1)||(!isAsciiPrintable(details.url)))
 		{
+			console.log("we are inside the console after ascii printable");
 			isPunyCode = true;
 			alert(details.parentFrameId + " " + details.frameId);
 
@@ -100,6 +101,8 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 // Performs redirect detection. Passes the redirected url to checkPhishing for processing.
 chrome.webRequest.onHeadersReceived.addListener(function(details) 
 {
+	console.log("we are inside on headers received, going to call checkPhishing");
+	checkPhishing(details.url, details);
 	if (toDetectRedirectCode)
 	{
 		if (details.statusCode >= 300 && details.statusCode <= 308) 
@@ -163,18 +166,19 @@ function isAsciiPrintable(str) {
 function checkPhishing(url, details) {
 	/* likely need to return an array containing [immediate_failure, probability score] for each check */
 	
-	//var similarURL = identifySimilarURL(url);
-	//if (url === similarURL)
-	if (false)
+	var similarURL = identifySimilarURL(url);
+	if (url === similarURL)
+	//if (false)
 	{
 		// Identical URL. No phishing check required.
 		console.log("Identical URL. No phishing check.");
 	}
 	else
 	{
+		console.log("this is our url being called: " + url.toString());
 		var domainChecks = checkDomain(url);
-		//checkPageStats(url, similarURL);
-		//checkContent(url);
+		var pageRankChecks = checkPageStats(url, similarURL);
+		var contentChecks = checkContent(url);
 		
 		var userAction = confirm("Continue with redirect?\n\n"
 								 + "Status code: " + details.statusCode + "\n"
@@ -230,13 +234,13 @@ function identifySimilarURL(url) {
 
 	//tokenize the url
 	var tokens = url.split(".")
-	for (var i=0; i<tokens.length; i++) {
-		if (!inDictionary(tokens[i], dictionary)) {
-			//make a google search for any brands.companies
-			continue;
-		}
-		//token[i] 
-	}
+	// for (var i=0; i<tokens.length; i++) {
+	// 	if (!inDictionary(tokens[i], dictionary)) {
+	// 		//make a google search for any brands.companies
+	// 		continue;
+	// 	}
+	// 	//token[i] 
+	// }
 	return newurl;
 }
 
