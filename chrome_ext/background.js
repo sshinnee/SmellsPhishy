@@ -75,13 +75,14 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 		{
 			isPunyCode = true;
 			alert(details.parentFrameId + " " + details.frameId);
-
+			/*
 			var user_action = confirm("Website has homographic URL, proceed?\n\n"
 							+ "To be visited URL: " + details.url);
 									  
 			if (user_action != true) {
 				return {cancel:true};  // Do not display page
-			}
+			}*/
+			checkPhishing(details.url, details);;
 		}
 		else
 		{	
