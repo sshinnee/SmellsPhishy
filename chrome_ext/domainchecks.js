@@ -37,7 +37,7 @@ function getWhoIsInfo(url, mode) {
 		else
 			registrantDomainLocation = "global";
 		
-		console.log("DOMAIN LOCATION = " + registrantDomainLocation);
+		console.log("REGISTRANT DOMAIN LOCATION = " + registrantDomainLocation);
 	}
 };
 
@@ -122,11 +122,13 @@ function checkDomainRegistrant() {
 	var registrant = null;
 	var registrantRegistrant = null;
 
-	if (domainLocation === "global")
+	if (domainLocation === "global") {
 		registrant= whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
-	else
+	}
+	else {
 		registrant= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
 		registrant = (registrant.split(' \(SGNIC'))[0];
+	}
 
 	console.log("REGISTRANT: " + registrant);
 	
@@ -134,16 +136,20 @@ function checkDomainRegistrant() {
 	var searchTLD = getTLD(searchUrl);
 	
 	// Get registrant's website WhoIs records
-	getWhoIsInfo(1);
-	// Convert WhoIsInfo into XML
+	getWhoIsInfo(url, 1);
+	// Convert Registrant's WhoIsInfo into XML
 	var parser = new DOMParser();
 	registrantWhoIsXml = parser.parseFromString(registrantWhoIsInfo, "text/xml");
 	
-	if (registrantDomainLocation === "global")
+	console.log(registrantWhoIsXml);
+	
+	if (registrantDomainLocation === "global") {
 		registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
-	else
+	}
+	else {
 		registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
 		registrantRegistrant = (registrantRegistrant.split(' \(SGNIC'))[0];
+	}
 	
 	console.log("REGISTRANT'S REGISTRANT: " + registrantRegistrant);
 	
