@@ -137,7 +137,7 @@ function checkDomainRegistrant() {
 	getWhoIsInfo(1);
 	// Convert WhoIsInfo into XML
 	var parser = new DOMParser();
-	whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
+	registrantWhoIsXml = parser.parseFromString(registrantWhoIsInfo, "text/xml");
 	
 	if (registrantDomainLocation === "global")
 		registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
