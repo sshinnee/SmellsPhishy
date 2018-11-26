@@ -7,8 +7,10 @@
 // Global Variables
 var toDetectPunyCode = true;
 var toDetectRedirectCode = true;
+var toDetectGlobal = true;
 var isPunyCode = false;
 var isRedirect = false;
+var isGlobal = false;
 //var dictionary = readDictionaryFile("wordlist.txt");
 var phishingText = "";
 
@@ -18,7 +20,11 @@ chrome.storage.onChanged.addListener(function(changes, namespace)
 {
 	for (var key in changes) {
 		var storageChange = changes[key];
-		if (key == 'punycode_storage')
+		if (key == 'global_storage')
+		{
+			toDetectGlobal = storageChange.newValue;
+		}
+		else if (key == 'punycode_storage')
 		{
 			toDetectPunyCode = storageChange.newValue;
 		}
@@ -31,7 +37,7 @@ chrome.storage.onChanged.addListener(function(changes, namespace)
 	}
 	
 	// Set badge to indicate if the browser extensions is on/off
-	if (toDetectPunyCode == false && toDetectRedirectCode == false)
+	if (toDetectGlobal == false && toDetectPunyCode == false && toDetectRedirectCode == false)
 	{
 		chrome.browserAction.setBadgeText({text: 'OFF'});
 		chrome.browserAction.setBadgeBackgroundColor({color: '#4688F1'});
@@ -42,12 +48,19 @@ chrome.storage.onChanged.addListener(function(changes, namespace)
 		chrome.browserAction.setBadgeBackgroundColor({color: '#4688F1'});
 	}
 	
-	console.log("Updated: PunyCode: " + toDetectPunyCode + " RedirectCode: " + toDetectRedirectCode);	
+	console.log("Updated: Global: " + toDetectGlobal + " PunyCode: " + toDetectPunyCode + " RedirectCode: " + toDetectRedirectCode);	
 });
 
 // After installed, set the default values for the options.
 // Both options are set to true.
 chrome.runtime.onInstalled.addListener(function() {
+	chrome.storage.sync.set({
+		global_storage: toDetectGlobal
+	}, function() {
+		// Update status to let user know options were saved.
+		//alert("Options saved");
+	});
+	
     chrome.storage.sync.set({
 		punycode_storage: toDetectPunyCode
 	}, function() {
@@ -77,7 +90,7 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 		if ((details.url.indexOf("xn--") != -1)||(!isAsciiPrintable(details.url)))
 		{
 			isPunyCode = true;
-			alert(details.parentFrameId + " " + details.frameId);
+			//alert(details.parentFrameId + " " + details.frameId);
 			/*
 			var user_action = confirm("Website has homographic URL, proceed?\n\n"
 							+ "To be visited URL: " + details.url);
@@ -176,7 +189,7 @@ function checkPhishing(url, details) {
 	}
 	else
 	{
-		var domainChecks = checkDomain(url);
+		//var domainChecks = checkDomain(url); // Incurring errors here
 		//checkPageStats(url, similarURL);
 		//checkContent(url);
 		

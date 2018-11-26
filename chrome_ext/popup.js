@@ -1,5 +1,10 @@
 function load_options() 
 {
+	chrome.storage.sync.get(['global_storage'], function(item)
+	{
+		document.getElementById('global_switch').checked = item.global_storage;
+	});
+	
 	chrome.storage.sync.get(['punycode_storage'], function(item)
 	{
 		document.getElementById('punycode_switch').checked = item.punycode_storage;
@@ -13,6 +18,16 @@ function load_options()
 
 window.addEventListener('load', function load(event) {	
 	load_options();
+	
+	document.getElementById('global_switch').onchange = function() 
+	{
+		chrome.storage.sync.set({
+			global_storage: document.getElementById('global_switch').checked
+		}, function() {
+			// Update status to let user know options were saved.
+			//alert("Options saved");
+		});
+	};
 	
 	document.getElementById('punycode_switch').onchange = function() 
 	{

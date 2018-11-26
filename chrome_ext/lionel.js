@@ -10,9 +10,13 @@
 //console.log(posUrl);
 //checkPageStats(reqUrl, posUrl);
 
-var pageStatsApiKey="a60267b0831842808a637bbce385d829";
+// backupApiKey="ce17f518e2514b768d5b3a96ec3240b5";
+var pageStatsApiKey="f0f253af31414dd19513a3c962963247";
 var urlGlobalRankThreshold = 10; // Threshold: possible url rank +- 10 ranks.
 var urlVisitThresholdPercentage = 0.5; // requestingUrlVisits Threshold: +- 0.5*possibleOriginalUrlVisits
+
+var isTrafficHitsLegit = [0, ""];
+var isGlobalRankLegit = [0, ""];
 
 // Perform checks on page stats
 function checkPageStats(requestingUrl, possibleOriginalUrl)
@@ -26,16 +30,16 @@ function checkPageStats(requestingUrl, possibleOriginalUrl)
 	
 	// Traffic Hits
 	// Compare if requesting URL with possible original url if web traffic is within threshold.
-	var isTrafficHitsLegit=compareWebsiteTraffic(requestingUrl, possibleOriginalUrl);
-	console.log("TrafficHitsLegit: "+isTrafficHitsLegit);
+	compareWebsiteTraffic(requestingUrl, possibleOriginalUrl);
+	console.log("TrafficHitsLegit:"+isTrafficHitsLegit);
 	
 	// Global rank
 	// Compare if requesting URL with possible original url if global rank is within threshold.
-	var isGlobalRankLegit=compareGlobalRank(requestingUrl, possibleOriginalUrl);
+	compareGlobalRank(requestingUrl, possibleOriginalUrl);
 	console.log("GlobalRankLegit:" + isGlobalRankLegit);
 	
 	// Results
-	if (isTrafficHitsLegit && isGlobalRankLegit)
+	if (isTrafficHitsLegit[0] && isGlobalRankLegit[0])
 	{
 		console.log("PageStats ("+requestingUrl+") Legit");
 	}
@@ -99,7 +103,7 @@ function getWebsiteTraffic(url)
 // Compare requesting URL with possible original URL for global rank.
 function compareGlobalRank(requestingUrl, possibleOriginalUrl)
 {
-	var isGlobalRankLegit=false;
+	isGlobalRankLegit = [0, ""];
 	
 	// Requesting URL
 	var requestingUrlGlobalRank = getGlobalRank(requestingUrl);
@@ -119,17 +123,19 @@ function compareGlobalRank(requestingUrl, possibleOriginalUrl)
 		
 		if ((requestingUrlRank >= (possibleOriginalUrlRank-urlGlobalRankThreshold)) && (requestingUrlRank <= (possibleOriginalUrlRank+urlGlobalRankThreshold)))
 		{
-			isGlobalRankLegit = true;
+			isGlobalRankLegit = [1, "Within Threshold"];
 		}
 		else
 		{
-			isGlobalRankLegit = false;
+			isGlobalRankLegit = [0, "Not within threshold"];
 		}
 	}
 	else
 	{
 		// Unable to determine.
 		// Request failed.
+		isGlobalRankLegit = [0, "Request failed"];
+		
 		console.log("(GlobalRank) Requesting URL status: " + requestingUrlGlobalRank.meta.status);
 		if (requestingUrlGlobalRank.meta.status == 'Error')
 		{
@@ -142,14 +148,12 @@ function compareGlobalRank(requestingUrl, possibleOriginalUrl)
 			console.log("(GlobalRank) Original URL status: " + possibleOriginalUrlGlobalRank.meta.error_code + " - " + possibleOriginalUrlGlobalRank.meta.error_message);
 		}
 	}
-	
-	return isGlobalRankLegit;
 }
 
 // Compare requesting URL with possible original URL for website traffic.
 function compareWebsiteTraffic(requestingUrl, possibleOriginalUrl)
 {
-	var isTrafficHitsLegit=false;
+	isTrafficHitsLegit = [0, ""];
 	
 	// Requesting URL
 	var requestingUrlWebsiteTraffic = getWebsiteTraffic(requestingUrl);
@@ -170,16 +174,18 @@ function compareWebsiteTraffic(requestingUrl, possibleOriginalUrl)
 		
 		if ((requestingUrlVisits >= (possibleOriginalUrlVisits-thresholdAmount)) && (requestingUrlVisits <= (possibleOriginalUrlVisits+thresholdAmount)))
 		{
-			isTrafficHitsLegit = true;
+			isTrafficHitsLegit = [1, "Within Threshold"];
 		}
 		else
 		{
-			isTrafficHitsLegit = false;
+			isTrafficHitsLegit = [0, "Not within threshold"];
 		}
 	}
 	else
 	{
 		// Request failed.
+		isTrafficHitsLegit = [0, "Request failed"];
+		
 		console.log("(TrafficHit) Requesting URL status: " + requestingUrlWebsiteTraffic.meta.status);
 		if (requestingUrlWebsiteTraffic.meta.status == 'Error')
 		{
@@ -192,6 +198,4 @@ function compareWebsiteTraffic(requestingUrl, possibleOriginalUrl)
 			console.log("(TrafficHit) Original URL status: " + possibleOriginalUrlWebsiteTraffic.meta.error_code + " - " + possibleOriginalUrlWebsiteTraffic.meta.error_message);
 		}
 	}
-	
-	return isTrafficHitsLegit;
 }
