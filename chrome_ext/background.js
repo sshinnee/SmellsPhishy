@@ -167,6 +167,9 @@ function checkPhishing(url, details) {
 	/* likely need to return an array containing [immediate_failure, probability score] for each check */
 	
 	var similarURL = identifySimilarURL(url);
+	console.log("this is our url being called: " + url.toString());
+	console.log("this is the similar url found: " + similarURL.toString());
+
 	if (url === similarURL)
 	//if (false)
 	{
@@ -175,18 +178,30 @@ function checkPhishing(url, details) {
 	}
 	else
 	{
-		console.log("this is our url being called: " + url.toString());
+		console.log("starting domain check");
 		var domainChecks = checkDomain(url);
+		console.log("starting page rank check");
 		var pageRankChecks = checkPageStats(url, similarURL);
+		console.log("starting content check");
 		var contentChecks = checkContent(url);
 		
-		var userAction = confirm("Continue with redirect?\n\n"
+		console.log("just before confirm box");
+		var userAction = confirm("Continue forward?\n\n"
 								 + "Status code: " + details.statusCode + "\n"
 								 + "Original URL: " + details.url + "\n"
+								 + "Similar Base URL: " + similarURL + "\n"
 								 + "Initiator: " + details.initiator + "\n"
 								 + "Redirected URL: " + url + "\n"
 								 + "WhoIs: " + whoIsInfo);
-			  
+				// var userAction = confirm("Continue forward?\n\n"
+				// 				 + "Status code: " + details.statusCode + "\n"
+				// 				 + "Original URL: " + details.url + "\n"
+				// 				 + "Similar Base URL: " + similarURL + "\n"
+				// 				 + "Initiator: " + details.initiator + "\n"
+				// 				 + "Redirected URL: " + url + "\n"
+				// 				 + "WhoIs: " + whoIsInfo);
+		console.log("just after confirm box");
+
 		if (userAction != true) 
 		{
 			var blockingResponse = {};

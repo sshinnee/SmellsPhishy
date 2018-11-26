@@ -41,7 +41,7 @@ function getWhoIsInfo(url, mode) {
 			console.log("DOMAIN LOCATION = " + registrantDomainLocation);
 		}
 	} catch (err) {
-		console.log("there was an error in getWhoIsInfo");
+		console.log("there was an error in getWhoIsInfo " + err.toString());
 	}
 };
 
@@ -76,7 +76,7 @@ function checkDomainAge() {
 			return 0;
 		}
 	} catch (err) {
-		console.log("there was an error in checkDomainAge");
+		console.log("there was an error in checkDomainAge " + err.toString());
 		return 0;
 	}
 }
@@ -111,7 +111,7 @@ function checkDomainExpiry() {
 			return 0;
 		}
 	} catch (err) {
-		console.log("there was an error in checkDomainExpiry");
+		console.log("there was an error in checkDomainExpiry " + err.toString());
 		return 0;
 	}
 }
@@ -176,7 +176,7 @@ function checkDomainRegistrant() {
 			return 0;
 		}
 	} catch (err) {
-		console.log("there was an error in checkDomainRegistrant");
+		console.log("there was an error in checkDomainRegistrant " + err.toString());
 		return 0;
 	}
 }
