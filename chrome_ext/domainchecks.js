@@ -10,9 +10,9 @@ var domainLocation = null;
 var registrantWhoIsInfo = null;
 var registrantWhoIsXml = null;
 var registrantDomainLocation = null;
-var checkDomainAgePassed = 0;
-var checkDomainExpiryPassed = 0;
-var checkDomainRegistrantPassed = 0;
+var checkDomainAgeResults = [0, ""];
+var checkDomainExpiryResults = [0, ""];
+var checkDomainRegistrantResults = [0, ""];
 
 
 // Make WhoIs API call to WhoIs service
@@ -66,10 +66,11 @@ function checkDomainAge() {
 	var domainAge = (+today - +registrationDate)/msInDay;
 	
 	if (domainAge > 31) {
-		checkDomainAgePassed = 1;
+		checkDomainAgeResults = [1, "Domain Age > 1 month"];
 		return 1;
 	}
 	else {
+		checkDomainAgeResults = [0, "Domain Age < 1 month"];
 		return 0;
 	}
 }
@@ -94,11 +95,12 @@ function checkDomainExpiry() {
 
 	var daysToExpiry = (+expiryDate - +today)/msInDay;
 	
-	if (daysToExpiry < 93) {
-		checkDomainExpiryPassed = 1;
+	if (daysToExpiry > 93) {
+		checkDomainExpiryResults = [1, "Domain Expires After > 3 months"];
 		return 1;
 	}
 	else {
+		checkDomainExpiryResults = [0, "Domain Expires After < 3 months"];
 		return 0;
 	}
 }
@@ -161,11 +163,12 @@ function checkDomainRegistrant() {
 	
 	if (registrant === registrantRegistrant) {
 		console.log("REGISTRANT VERIFIED");
-		checkDomainRegistrantPassed = 1;
+		checkDomainRegistrantResults = [1, "Domain Registrant Verified"];
 		return 1;
 	}
 	else {
 		console.log("REGISTRANT UNVERIFIED");
+		checkDomainRegistrantResults = [1, "Domain Registrant Unverified"];
 		return 0;
 	}
 }
@@ -182,9 +185,9 @@ function checkDomain(url) {
 	registrantWhoIsInfo = null;
 	registrantWhoIsXml = null;
 	registrantDomainLocation = null;
-	checkDomainAgePassed = 0;
-	checkDomainExpiryPassed = 0;
-	checkDomainRegistrantPassed = 0;
+	checkDomainAgeResults  = [0, ""];
+	checkDomainExpiryResults  = [0, ""];
+	checkDomainRegistrantResults = [0, ""];
 	
 	// Make WhoIs API call
 	console.log("URL: " + url);

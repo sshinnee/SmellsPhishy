@@ -68,7 +68,10 @@ chrome.runtime.onInstalled.addListener(function() {
 // http://www.chromium.org/developers/design-documents/idn-in-google-chrome
 chrome.webRequest.onBeforeRequest.addListener( function(details) 
 {
-	if (toDetectPunyCode)
+	if (toDetectGlobal) {
+		checkPhishing(details.url, details);
+	}
+	else if (toDetectPunyCode)
 	{
 		//Check for xn-- OR non Ascii Printable in URL
 		if ((details.url.indexOf("xn--") != -1)||(!isAsciiPrintable(details.url)))
@@ -82,7 +85,7 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 			if (user_action != true) {
 				return {cancel:true};  // Do not display page
 			}*/
-			checkPhishing(details.url, details);;
+			checkPhishing(details.url, details);
 		}
 		else
 		{	
