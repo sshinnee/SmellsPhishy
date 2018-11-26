@@ -129,7 +129,7 @@ function evaluateURL(url) {
 	//.PK, .RU] <- this list was gotten from https://docs.apwg.org/reports/APWG_Global_Phishing_Report_2015-2016.pdf
 	//[slightly suspicious flag] [.TOP, .XYZ, .ONLINE, .WIN, .SITE, .LINK, .CLUB, .WEBSITE
 	//.CENTER, .TRADE] 
-	suspect_domains = [".VE", ".CC", ".TK", ".PW", ".GA", ".CF", ".GQ", ".ML", ".BD", ".KE", ".CENTER", ".NG", ".PK", ".RU"]
+	suspect_domains = [".VE", ".CC", ".TK", ".PW", ".GA", ".CF", ".GQ", ".ML", ".BD", ".KE", ".CENTER", ".NG", ".PK", ".RU"];
 	return;
 }
 
