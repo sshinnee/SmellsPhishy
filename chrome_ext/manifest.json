@@ -15,7 +15,7 @@
 	],
   "options_page": "popup.html",
   "background": {
-	"scripts": ["background.js","lionel.js", "domainchecks.js", "contentchecks.js"],
+	"scripts": ["background.js", "samantha.js", "lionel.js", "domainchecks.js", "contentchecks.js"],
 	"persistent": true
   },
   "manifest_version": 2,
