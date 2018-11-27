@@ -180,18 +180,18 @@ function isAsciiPrintable(str) {
 function checkPhishing(url, details) {
 	/* likely need to return an array containing [immediate_failure, probability score] for each check */
 	
-	//var similarURL = identifySimilarURL(url);
-	//if (url === similarURL)
-	if (false)
+	var similarURL = identifySimilarURL(url);
+	if (url === similarURL)
+	//if (false)
 	{
 		// Identical URL. No phishing check required.
 		console.log("Identical URL. No phishing check.");
 	}
 	else
 	{
-		var domainChecks = checkDomain(url); // Incurring errors here
-		//checkPageStats(url, similarURL);
-		//checkContent(url);
+		checkDomain(url);
+		checkPageStats(url, similarURL);
+		checkContent(url);
 		
 		var userAction = confirm("Continue with redirect?\n\n"
 								 + "Status code: " + details.statusCode + "\n"

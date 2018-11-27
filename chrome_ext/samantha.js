@@ -9,14 +9,14 @@ function identifySimilarURL(url) {
 	var newurl = makeGoogleSearch(page_title);
 
 	//tokenize the url
-	var tokens = url.split(".")
+	/*var tokens = url.split(".")
 	for (var i=0; i<tokens.length; i++) {
 		if (!inDictionary(tokens[i], dictionary)) {
 			//make a google search for any brands.companies
 			continue;
 		}
 		//token[i] 
-	}
+	}*/
 	return newurl;
 }
 
