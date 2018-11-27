@@ -9,8 +9,8 @@ function checkContent(url) {
 	// Reset value
 	checkContentResults = [0, "No Content Results!"];
 	
-	if (strFormArray.length > 0) {
-
+	if (strFormArray.length > 1) {
+		likelyPhishing = true;
 		for (var i = 1; i < strFormArray.length; i++) {
 			indForm = strFormArray[i].substr(0, strFormArray[i].indexOf("</form>"));
 			//console.log("PK: " + indForm);
@@ -27,10 +27,10 @@ function checkContent(url) {
 	
 	if (likelyPhishing)
 	{
-		checkContentResults = [0, "Suspicious words detected"];
+		checkContentResults = [0, "Form was detected"];
 	}
 	else
 	{
-		checkContentResults = [1, "No suspicious words"];
+		checkContentResults = [1, "Form was not detected"];
 	}
 }

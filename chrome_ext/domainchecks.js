@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-const whoIsApiKey = "at_15EUQMPZzFIfXQ3KY0zF3l34ge5Jq";
+const whoIsApiKey = "at_UpfusZDlQq9mgyVaW7d9bQXxY2DnN";//"at_15EUQMPZzFIfXQ3KY0zF3l34ge5Jq";
 const whoIsUrl = "https://www.whoisxmlapi.com/whoisserver/WhoisService?";
 var whoIsInfo = null;
 var whoIsXml = null;
@@ -16,118 +16,100 @@ var checkDomainRegistrantResults = [0, "Domain Not Registered!"];
 
 
 // Make WhoIs API call to WhoIs service
-function getWhoIsInfo(url, mode) {
-	var apiUrl = whoIsUrl + "apiKey=" + whoIsApiKey + "&domainName=" + url;
-	var xmlHttp = new XMLHttpRequest();
-    
-	xmlHttp.open("GET", apiUrl, false); // true for asynchronous 
-    xmlHttp.send(null);
-	
-	if (mode === 0) {
-		whoIsInfo = xmlHttp.responseText;
+function getWhoIsInfo(url) {
+	try {
+		var apiUrl = whoIsUrl + "apiKey=" + whoIsApiKey + "&domainName=" + url;
+		var xmlHttp = new XMLHttpRequest();
+	    
+		xmlHttp.open("GET", apiUrl, false); // true for asynchronous 
+	    xmlHttp.send(null);
 		
-		if (whoIsInfo.indexOf("No match for domain") > -1) {
-			console.log("DOMAIN IS NOT REGISTERED!");
-			domainLocation = "fail";
-			return
-		}
-	
-		if (whoIsInfo.indexOf("SGNIC") > -1)
-			domainLocation = "sg";
-		else 
-			domainLocation = "global";
+		console.log(xmlHttp.responseText);
+
+		return xmlHttp.responseText;
 		
-		console.log("DOMAIN LOCATION = " + domainLocation);
+	} catch (err) {
+		console.log("there was an error in getWhoIsInfo " + err.toString());
+		return "";
 	}
-	else {
-		registrantWhoIsInfo = xmlHttp.responseText;
-	
-		if (registrantWhoIsInfo.indexOf("SGNIC") > -1)
-			registrantDomainLocation = "sg";
-		else
-			registrantDomainLocation = "global";
-		
-		console.log("REGISTRANT DOMAIN LOCATION = " + registrantDomainLocation);
-	}
-}
+};
 
 // Checks  that domain is > 1 month (31 days) old
 function checkDomainAge() {
-	var registrationDateFromXml;
-	
 	try {
-		if (domainLocation === "global" && whoIsInfo.indexOf("createdDate") > -1) 
-			registrationDateFromXml= whoIsXml.getElementsByTagName("createdDate")[0].childNodes[0].nodeValue;
-		else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("createdDate") > -1)
-			registrationDateFromXml= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("createdDate")[0].childNodes[0].nodeValue;
+		//alert("inside domain age check");
+		console.log("inside check domain age");
+		var registration_date = xml_info.split("<registryData>")[1].split("<createdDateNormalized>")[1].substring(0, 10);
+		console.log("this is our raw registration date: " + registration_date.toString());
+
+		//create a new Date object
+		var registration_date_obj = new Date(parseInt(registration_date.substring(0, 4)), parseInt(registration_date.substring(5, 7))-1, parseInt(registration_date.substring(8, 10)));
+		
+		console.log("this is our registration date from date object: " + registration_date_obj.toString());
+
+		var todays_date = new Date();
+
+		console.log("this is today's date: " + todays_date.toString());
+		
+		var domain_age = getDayDifference(todays_date, registration_date_obj);
+
+		if (domain_age > 31) {
+			checkDomainAgePassed = 1;
+			checkDomainAgeResults = [1, "domain age is: " + domain_age.toString() + " days (passed)"];
+			return 1;
+		}
 		else {
-			checkDomainAgeResults = [0, "Unsupported WHOIS format"];
+			checkDomainAgeResults = [0, "domain age is: " + domain_age.toString() + " days (failed)"];
 			return 0;
 		}
-	}
-	catch {
-		checkDomainExpiryResults = [0, "Unsupported WHOIS format"];
-		return 0;
-	}
-	
-	console.log("CREATED DATE: " + registrationDateFromXml);
-	
-	var today = new Date();
-	var registrationDate = new Date(registrationDateFromXml);
-	var msInDay = 24 * 60 * 60 * 1000;
-
-	registrationDate.setHours(0,0,0,0);
-	today.setHours(0,0,0,0);
-
-	var domainAge = (+today - +registrationDate)/msInDay;
-	
-	if (domainAge > 31) {
-		checkDomainAgeResults = [1, "Domain Age > 1 month"];
-		return 1;
-	}
-	else {
-		checkDomainAgeResults = [0, "Domain Age < 1 month"];
-		return 0;
+	} catch (err) {
+		console.log("there was an error in checkDomainAge " + err.toString());
+		return [0, "- " + getErrorMessage(xml_info)];
 	}
 }
 
 // Checks  that expiry is more than 6 months (186 days) away
 function checkDomainExpiry() {
-	var expiryDateFromXml;
-	
 	try {
-		if (domainLocation === "global" && whoIsInfo.indexOf("expiresDate") > -1)
-			expiryDateFromXml= whoIsXml.getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
-		else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("expiresDate") > -1)
-			expiryDateFromXml= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
+		//alert("inside domain expiry check");
+		console.log("inside check domain expiry");
+		var expiration_date = xml_info.split("<registryData>")[1].split("<expiresDateNormalized>")[1].substring(0, 10);
+		console.log("this is our raw expiry date: " + expiration_date.toString());
+
+		//create a new Date object
+		var expiration_date_obj = new Date(parseInt(expiration_date.substring(0, 4)), parseInt(expiration_date.substring(5, 7))-1, parseInt(expiration_date.substring(8, 10)));
+		
+		console.log("this is our expiration date from date object: " + expiration_date_obj.toString());
+
+		var todays_date = new Date();
+
+		console.log("this is today's date: " + todays_date.toString());
+		
+		var days_to_expiry = getDayDifference(expiration_date_obj, todays_date);
+
+		if (days_to_expiry > 93) {
+			checkDomainExpiryPassed = 1;
+			checkDomainExpiryResults = [1, "days to expiry: " + days_to_expiry.toString() + " days (passed)"];
+			return 1
+		}
 		else {
-			checkDomainExpiryResults = [0, "Unsupported WHOIS format"];
+			checkDomainExpiryResults = [0, "days to expiry: " + days_to_expiry.toString() + " days (failed)"];
 			return 0;
 		}
-	}
-	catch {
-		checkDomainExpiryResults = [0, "Unsupported WHOIS format"];
+	} catch (err) {
+		console.log("there was an error in checkDomainExpiry " + err.toString());
+		checkDomainExpiryResults = [0, "- " + getErrorMessage(xml_info)];
 		return 0;
 	}
-	
-	console.log("EXPIRY DATE: " + expiryDateFromXml);
-	
-	var today = new Date();
-	var expiryDate = new Date(expiryDateFromXml);
-	var msInDay = 24 * 60 * 60 * 1000;
+}
 
-	expiryDate.setHours(0,0,0,0);
-	today.setHours(0,0,0,0);
-
-	var daysToExpiry = (+expiryDate - +today)/msInDay;
-	
-	if (daysToExpiry > 93) {
-		checkDomainExpiryResults = [1, "Domain Expires After > 3 months"];
-		return 1;
-	}
-	else {
-		checkDomainExpiryResults = [0, "Domain Expires After < 3 months"];
-		return 0;
+function getErrorMessage(xml_info) {
+	try {
+		var error_message = xml_info.split("<dataError>")[1].split("</dataError>")[0];
+		return error_message;
+	} catch (err) {
+		console.log("there was an error getting the error message");
+		return "";
 	}
 }
 
@@ -237,21 +219,26 @@ function checkDomain(url) {
 	
 	// Make WhoIs API call
 	console.log("URL: " + url);
-	getWhoIsInfo(url, 0);
+	var whoIsInfo = getWhoIsInfo(url);
+
+	console.log("checking domain age");
+	var domainAgeResult = checkDomainAge(whoIsInfo);
+	passedChecks += domainAgeResult[0];
+	domainPopUpText += "<br>" + domainAgeResult[1];
+
+	console.log("checking domain expiry");
+	var domainExpiryResult = checkDomainExpiry(whoIsInfo);
+	passedChecks += domainExpiryResult[0];
+	domainPopUpText += "<br>" + domainExpiryResult[1];
+
+	console.log("checking domain registrant")
+
+	var domainRegistrantResult = checkDomainRegistrantInfo(whoIsInfo, ["registrant", "technicalContact", "administrativeContact"]);
 	
-	// Pass through checks only if domain is registered
-	if (domainLocation !== "fail") {
-		// Convert WhoIsInfo into XML
-		var parser = new DOMParser();
-		whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
-		
-		// Pass through domain-related checks
-		passedChecks += checkDomainAge();
-		passedChecks += checkDomainExpiry();
-		passedChecks += checkDomainRegistrant();
-	}
-	
-		//return results;
+	passedChecks += domainRegistrantResult[0];
+	domainPopUpText += "<br>" + domainRegistrantResult[1];
+
+	//return results;
 	if (passedChecks > (totalChecks/2))
 		return true;
 	else
