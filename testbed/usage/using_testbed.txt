@@ -6,4 +6,15 @@ You can set up a server with the command "python -m SimpleHTTPServer 8088" for a
 
 Please also start an instance of Chrome that disables CORS. This Stack Overflow answer provides information on how to do that: https://stackoverflow.com/questions/3102819/disable-same-origin-policy-in-chrome.
 
+A quick summary:
+
+For Mac (on Terminal):
+$ open -n -a "Google Chrome" --args --user-data-dir=/tmp/temp_chrome_user_data_dir http://localhost:8100/ --disable-web-security
+
+For Windows (on Command Prompt):
+$ chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
+
+For Linux (Command Line Shell):
+$ google-chrome --disable-web-security
+
 Finally, when assessing the phishing site inside test_url_functions.html page, use a directory path like ""../phishing_site/[path_to_phishing_site]". A screenshot example exists inside this folder.

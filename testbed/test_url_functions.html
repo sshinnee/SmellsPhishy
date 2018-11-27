@@ -4,11 +4,21 @@
 </head>
 <body>
 	<script src="javascript/url_decoding.js"></script>
+	<script src="javascript/check_domain.js"></script>
+	<script src="javascript/check_url.js"></script>
+	<script src="javascript/check_site_stats.js"></script>
+	<script src="javascript/check_content.js"></script>
 	<textarea id='user_input' rows="10" cols="150">Put In Your URL(s) here</textarea>
 	<br><br>
 	<button onclick="displaySimilarURLs()">Get Similar URLs</button>
-
+	<button onclick="displayURLChecks()">Get URL Checks</button>
+    <button onclick="displayDomainChecks()">Get Domain Checks</button>
+    <button onclick="displaySiteStatistics()">Get Site Statistics</button>
+    <button onclick="displayPageContentChecks()">Get Page Content Checks</button>
 	<p id="similar_urls"></p>
-
+	<p id="url_results"></p>
+    <p id="domain_results"></p>
+    <p id="site_results"></p>
+    <p id="content_results"></p>
 </body>
 </html>

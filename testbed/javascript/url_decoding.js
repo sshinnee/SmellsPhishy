@@ -1,4 +1,4 @@
-var dictionary = readDictionaryFile("wordlist.txt");
+//var dictionary = readDictionaryFile("wordlist.txt");
 
 function displaySimilarURLs() {
 	var input_urls_raw = document.getElementById('user_input').value;
