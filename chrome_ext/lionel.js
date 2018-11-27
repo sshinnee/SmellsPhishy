@@ -134,7 +134,7 @@ function compareGlobalRank(requestingUrl, possibleOriginalUrl)
 	{
 		// Unable to determine.
 		// Request failed.
-		isGlobalRankLegit = [0, "Request failed"];
+		isGlobalRankLegit = [0, "URL not found in database"];
 		
 		console.log("(GlobalRank) Requesting URL status: " + requestingUrlGlobalRank.meta.status);
 		if (requestingUrlGlobalRank.meta.status == 'Error')
@@ -184,7 +184,7 @@ function compareWebsiteTraffic(requestingUrl, possibleOriginalUrl)
 	else
 	{
 		// Request failed.
-		isTrafficHitsLegit = [0, "Request failed"];
+		isTrafficHitsLegit = [0, "URL not found in database"];
 		
 		console.log("(TrafficHit) Requesting URL status: " + requestingUrlWebsiteTraffic.meta.status);
 		if (requestingUrlWebsiteTraffic.meta.status == 'Error')
