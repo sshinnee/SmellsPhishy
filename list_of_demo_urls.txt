@@ -1,0 +1,13 @@
+list of demo urls (taken from PhishBank):
+
+http://colegiolemosdecastro.com.br/mail/hayscounty/pass.php
+
+http://federal.co.id/wp-admin/network/fck/Yahoosecured2018/Yahoosecured2018/home/index2.php
+
+http://et-depos-sms937493.com/tangerine/index.html
+
+http://kallems.com/php-captcha/please-we-waiting-loading/Confirmation/Confirm/websc_info/
+
+http://verify-webapps26378.servirc.com/signin
+
+http://verification1224s.ddns.net/sig/customer_center/customer-IDPP00C359/myaccount/signin
