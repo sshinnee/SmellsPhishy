@@ -55,12 +55,18 @@ function getWhoIsInfo(url, mode) {
 function checkDomainAge() {
 	var registrationDateFromXml;
 	
-	if (domainLocation === "global" && whoIsInfo.indexOf("createdDate") > -1) 
-		registrationDateFromXml= whoIsXml.getElementsByTagName("createdDate")[0].childNodes[0].nodeValue;
-	else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("createdDate") > -1)
-		registrationDateFromXml= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("createdDate")[0].childNodes[0].nodeValue;
-	else {
-		checkDomainAgeResults = [0, "Unsupported WHOIS format"];
+	try {
+		if (domainLocation === "global" && whoIsInfo.indexOf("createdDate") > -1) 
+			registrationDateFromXml= whoIsXml.getElementsByTagName("createdDate")[0].childNodes[0].nodeValue;
+		else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("createdDate") > -1)
+			registrationDateFromXml= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("createdDate")[0].childNodes[0].nodeValue;
+		else {
+			checkDomainAgeResults = [0, "Unsupported WHOIS format"];
+			return 0;
+		}
+	}
+	catch {
+		checkDomainExpiryResults = [0, "Unsupported WHOIS format"];
 		return 0;
 	}
 	
@@ -89,11 +95,17 @@ function checkDomainAge() {
 function checkDomainExpiry() {
 	var expiryDateFromXml;
 	
-	if (domainLocation === "global" && whoIsInfo.indexOf("expiresDate") > -1)
-		expiryDateFromXml= whoIsXml.getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
-	else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("expiresDate") > -1)
-		expiryDateFromXml= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
-	else {
+	try {
+		if (domainLocation === "global" && whoIsInfo.indexOf("expiresDate") > -1)
+			expiryDateFromXml= whoIsXml.getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
+		else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("expiresDate") > -1)
+			expiryDateFromXml= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("expiresDate")[0].childNodes[0].nodeValue;
+		else {
+			checkDomainExpiryResults = [0, "Unsupported WHOIS format"];
+			return 0;
+		}
+	}
+	catch {
 		checkDomainExpiryResults = [0, "Unsupported WHOIS format"];
 		return 0;
 	}
@@ -144,14 +156,20 @@ function checkDomainRegistrant() {
 	var registrant = null;
 	var registrantRegistrant = null;
 	
-	if (domainLocation === "global" && whoIsInfo.indexOf("organization")) {
-		registrant= whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
+	try {
+		if (domainLocation === "global" && whoIsInfo.indexOf("organization") > -1) {
+			registrant= whoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
+		}
+		else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("registrant") > -1 && whoIsInfo.indexOf("name") > -1) {
+			registrant= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
+			registrant = (registrant.split(' \(SGNIC'))[0];
+		}
+		else {
+			checkDomainRegistrantResults = [0, "Unsupported WHOIS format"];
+			return 0;
+		}
 	}
-	else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("registrant") > -1 && whoIsInfo.indexOf("name") > -1) {
-		registrant= whoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
-		registrant = (registrant.split(' \(SGNIC'))[0];
-	}
-	else {
+	catch {
 		checkDomainRegistrantResults = [0, "Unsupported WHOIS format"];
 		return 0;
 	}
@@ -169,16 +187,22 @@ function checkDomainRegistrant() {
 	
 	console.log(registrantWhoIsXml);
 	
-	if (registrantDomainLocation === "global") {
-		registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
+	try {
+		if (registrantDomainLocation === "global" && whoIsInfo.indexOf("registrant") > -1 && whoIsInfo.indexOf("organization") > -1) {
+			registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registrant")[0].getElementsByTagName("organization")[0].childNodes[0].nodeValue;
+		}
+		else if (whoIsInfo.indexOf("registryData") > -1 && whoIsInfo.indexOf("registrant") > -1 && whoIsInfo.indexOf("name") > -1) {
+			registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
+			registrantRegistrant = (registrantRegistrant.split(' \(SGNIC'))[0];
+		}
+		else {
+			checkDomainRegistrantResults = [0, "Unsupported WHOIS format"];
+			return 0;
+		}
 	}
-	else if (whoIsXml.indexOf("registryData") > -1 && whoIsXml.indexOf("registrant") > -1 && whoIsXml.indexOf("name") > -1) {
-		registrantRegistrant = registrantWhoIsXml.getElementsByTagName("registryData")[0].getElementsByTagName("registrant")[0].getElementsByTagName("name")[0].childNodes[0].nodeValue;
-		registrantRegistrant = (registrantRegistrant.split(' \(SGNIC'))[0];
-	}
-	else {
+	catch {
 		checkDomainRegistrantResults = [0, "Unsupported WHOIS format"];
-		return 0;
+			return 0;
 	}
 	
 	console.log("REGISTRANT'S REGISTRANT: " + registrantRegistrant);
