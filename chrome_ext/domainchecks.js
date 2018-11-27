@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-const whoIsApiKey = "at_chfU6P2qyK8tozeFQPH1of8epIY43";
+const whoIsApiKey = "at_15EUQMPZzFIfXQ3KY0zF3l34ge5Jq";
 const whoIsUrl = "https://www.whoisxmlapi.com/whoisserver/WhoisService?";
 var whoIsInfo = null;
 var whoIsXml = null;
