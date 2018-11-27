@@ -193,12 +193,64 @@ function checkPhishing(url, details) {
 		checkPageStats(url, similarURL);
 		checkContent(url);
 		
-		var userAction = confirm("Continue with redirect?\n\n"
-								 + "Status code: " + details.statusCode + "\n"
-								 + "Original URL: " + details.url + "\n"
-								 + "Initiator: " + details.initiator + "\n"
-								 + "Redirected URL: " + url + "\n"
-								 + "WhoIs: ");
+		var displayMessage="SmellsPhishy Evaluation Results:\n";
+		if (checkDomainAgeResults[0])
+		{
+			displayMessage+="Domain Age: PASSED - " + checkDomainAgeResults[1] + "\n";
+		}
+		else
+		{
+			displayMessage+="Domain Age: FAILED - " + checkDomainAgeResults[1] + "\n";
+		}
+		
+		if (checkDomainExpiryResults[0])
+		{
+			displayMessage+="Domain Expiry: PASSED - " + checkDomainExpiryResults[1] + "\n";
+		}
+		else
+		{
+			displayMessage+="Domain Expiry: FAILED - " + checkDomainExpiryResults[1] + "\n";
+		}
+		
+		if (checkDomainRegistrantResults[0])
+		{
+			displayMessage+="Domain Registrant: PASSED - " + checkDomainRegistrantResults[1] + "\n";
+		}
+		else
+		{
+			displayMessage+="Domain Registrant: FAILED - " + checkDomainRegistrantResults[1] + "\n";
+		}
+		
+		if (isTrafficHitsLegit[0])
+		{
+			displayMessage+="Traffic Hits: PASSED - " + isTrafficHitsLegit[1] + "\n";
+		}
+		else
+		{
+			displayMessage+="Traffic Hits: FAILED - " + isTrafficHitsLegit[1] + "\n";
+		}
+		
+		if (isGlobalRankLegit[0])
+		{
+			displayMessage+="Global Rank: PASSED - " + isGlobalRankLegit[1] + "\n";
+		}
+		else
+		{
+			displayMessage+="Global Rank: FAILED - " + isGlobalRankLegit[1] + "\n";
+		}
+		
+		if (checkContentResults[0])
+		{
+			displayMessage+="Content: PASSED - " + checkContentResults[1] + "\n";
+		}
+		else
+		{
+			displayMessage+="Content: FAILED - " + checkContentResults[1] + "\n";
+		}
+		
+		displayMessage+="\nContinue to " + url + " ?\n";
+		
+		var userAction = confirm(displayMessage);
 			  
 		if (userAction != true) 
 		{

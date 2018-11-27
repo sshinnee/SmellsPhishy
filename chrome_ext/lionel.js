@@ -11,12 +11,12 @@
 //checkPageStats(reqUrl, posUrl);
 
 // backupApiKey="ce17f518e2514b768d5b3a96ec3240b5";
-var pageStatsApiKey="f0f253af31414dd19513a3c962963247";
+var pageStatsApiKey="ce17f518e2514b768d5b3a96ec3240b5";
 var urlGlobalRankThreshold = 10; // Threshold: possible url rank +- 10 ranks.
 var urlVisitThresholdPercentage = 0.5; // requestingUrlVisits Threshold: +- 0.5*possibleOriginalUrlVisits
 
-var isTrafficHitsLegit = [0, ""];
-var isGlobalRankLegit = [0, ""];
+var isTrafficHitsLegit = [0, "No Traffic Hits!"];
+var isGlobalRankLegit = [0, "No Global Rank!"];
 
 // Perform checks on page stats
 function checkPageStats(requestingUrl, possibleOriginalUrl)
@@ -103,7 +103,7 @@ function getWebsiteTraffic(url)
 // Compare requesting URL with possible original URL for global rank.
 function compareGlobalRank(requestingUrl, possibleOriginalUrl)
 {
-	isGlobalRankLegit = [0, ""];
+	isGlobalRankLegit = [0, "No Global Rank!"];
 	
 	// Requesting URL
 	var requestingUrlGlobalRank = getGlobalRank(requestingUrl);
@@ -153,7 +153,7 @@ function compareGlobalRank(requestingUrl, possibleOriginalUrl)
 // Compare requesting URL with possible original URL for website traffic.
 function compareWebsiteTraffic(requestingUrl, possibleOriginalUrl)
 {
-	isTrafficHitsLegit = [0, ""];
+	isTrafficHitsLegit = [0, "No Traffic Hits!"];
 	
 	// Requesting URL
 	var requestingUrlWebsiteTraffic = getWebsiteTraffic(requestingUrl);

@@ -1,10 +1,14 @@
-function checkContent(url) {
+var checkContentResults = [0, "No Content Results!"];
 
+function checkContent(url) {
 	var strFormArray = phishingText.split("<form");
 	var indForm;
 	var likelyPhishing = false;
 	var suspiciousWords = ["password", "login", "address", "userid", "username"];
 
+	// Reset value
+	checkContentResults = [0, "No Content Results!"];
+	
 	if (strFormArray.length > 0) {
 
 		for (var i = 1; i < strFormArray.length; i++) {
@@ -20,5 +24,13 @@ function checkContent(url) {
 	}
 
 	console.log("PK: " + likelyPhishing);
-	return likelyPhishing;
+	
+	if (likelyPhishing)
+	{
+		checkContentResults = [0, "Suspicious words detected"];
+	}
+	else
+	{
+		checkContentResults = [1, "No suspicious words"];
+	}
 }
