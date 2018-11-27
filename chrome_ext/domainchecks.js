@@ -10,9 +10,9 @@ var domainLocation = null;
 var registrantWhoIsInfo = null;
 var registrantWhoIsXml = null;
 var registrantDomainLocation = null;
-var checkDomainAgeResults = [0, ""];
-var checkDomainExpiryResults = [0, ""];
-var checkDomainRegistrantResults = [0, ""];
+var checkDomainAgeResults = [0, "Domain Not Registered!"];
+var checkDomainExpiryResults = [0, "Domain Not Registered!"];
+var checkDomainRegistrantResults = [0, "Domain Not Registered!"];
 
 
 // Make WhoIs API call to WhoIs service
@@ -25,6 +25,12 @@ function getWhoIsInfo(url, mode) {
 	
 	if (mode === 0) {
 		whoIsInfo = xmlHttp.responseText;
+		
+		if (whoIsInfo.indexOf("No match for domain") > -1) {
+			console.log("DOMAIN IS NOT REGISTERED!");
+			domainLocation = "fail";
+			return
+		}
 	
 		if (whoIsInfo.indexOf("SGNIC") > -1)
 			domainLocation = "sg";
@@ -144,7 +150,7 @@ function checkDomainRegistrant() {
 	var searchTLD = getTLD(searchUrl);
 	
 	// Get registrant's website WhoIs records
-	getWhoIsInfo(url, 1);
+	getWhoIsInfo(searchTLD, 1);
 	// Convert Registrant's WhoIsInfo into XML
 	var parser = new DOMParser();
 	registrantWhoIsXml = parser.parseFromString(registrantWhoIsInfo, "text/xml");
@@ -168,14 +174,14 @@ function checkDomainRegistrant() {
 	}
 	else {
 		console.log("REGISTRANT UNVERIFIED");
-		checkDomainRegistrantResults = [1, "Domain Registrant Unverified"];
+		checkDomainRegistrantResults = [0, "Domain Registrant Unverified"];
 		return 0;
 	}
 }
 
 // Perform domain-based checks
 function checkDomain(url) {
-	var totalChecks = 1;
+	var totalChecks = 3;
 	var passedChecks = 0;
 
 	// Reset all variables (not sure whether this is persistent through calls)
@@ -185,24 +191,27 @@ function checkDomain(url) {
 	registrantWhoIsInfo = null;
 	registrantWhoIsXml = null;
 	registrantDomainLocation = null;
-	checkDomainAgeResults  = [0, ""];
-	checkDomainExpiryResults  = [0, ""];
-	checkDomainRegistrantResults = [0, ""];
+	checkDomainAgeResults  = [0, "Domain Not Registered!"];
+	checkDomainExpiryResults  = [0, "Domain Not Registered!"];
+	checkDomainRegistrantResults = [0, "Domain Not Registered!"];
 	
 	// Make WhoIs API call
 	console.log("URL: " + url);
 	getWhoIsInfo(url, 0);
 	
-	// Convert WhoIsInfo into XML
-	var parser = new DOMParser();
-	whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
-	
-	// Pass through domain-related checks
-	passedChecks += checkDomainAge();
-	passedChecks += checkDomainExpiry();
-	passedChecks += checkDomainRegistrant();
+	// Pass through checks only if domain is registered
+	if (domainLocation !== "fail") {
+		// Convert WhoIsInfo into XML
+		var parser = new DOMParser();
+		whoIsXml = parser.parseFromString(whoIsInfo, "text/xml");
 		
-	//return results;
+		// Pass through domain-related checks
+		passedChecks += checkDomainAge();
+		passedChecks += checkDomainExpiry();
+		passedChecks += checkDomainRegistrant();
+	}
+	
+		//return results;
 	if (passedChecks > (totalChecks/2))
 		return true;
 	else

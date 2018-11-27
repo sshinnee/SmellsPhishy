@@ -7,7 +7,7 @@
 // Global Variables
 var toDetectPunyCode = true;
 var toDetectRedirectCode = true;
-var toDetectGlobal = true;
+var toDetectGlobal = false;
 var isPunyCode = false;
 var isRedirect = false;
 var isGlobal = false;
@@ -189,7 +189,7 @@ function checkPhishing(url, details) {
 	}
 	else
 	{
-		//var domainChecks = checkDomain(url); // Incurring errors here
+		var domainChecks = checkDomain(url); // Incurring errors here
 		//checkPageStats(url, similarURL);
 		//checkContent(url);
 		
@@ -198,7 +198,7 @@ function checkPhishing(url, details) {
 								 + "Original URL: " + details.url + "\n"
 								 + "Initiator: " + details.initiator + "\n"
 								 + "Redirected URL: " + url + "\n"
-								 + "WhoIs: " + whoIsInfo);
+								 + "WhoIs: ");
 			  
 		if (userAction != true) 
 		{
