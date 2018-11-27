@@ -237,7 +237,7 @@ function checkDomain(url) {
 	domainPopUpText += "<br>" + domainExpiryResult[1];
 
 	console.log("checking domain registrant")
-	var domainRegistrantResult = checkDomainRegistrantInfo(whoIsInfo, ["registrant", "technicalContact", "administrativeContact]);
+	var domainRegistrantResult = checkDomainRegistrantInfo(whoIsInfo, ["registrant", "technicalContact", "administrativeContact"]);
 	passedChecks += domainRegistrantResult[0];
 	domainPopUpText += "<br>" + domainRegistrantResult[1];
 		
