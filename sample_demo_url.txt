@@ -1,0 +1,5 @@
+http://127.0.0.1:8080/phishing_sites/drumcircuit.com/wp-includes/js/us/delta.com/delta2018/index.html
+
+http://127.0.0.1:8080/phishing_sites/ctechgeo.com.br/bankofamerica.html
+
+http://127.0.0.1:8080/smalldoll.ga/login-yahoo-verify/index2.php
