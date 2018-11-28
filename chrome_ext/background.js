@@ -91,9 +91,12 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 	}
 	else if (toDetectPunyCode)
 	{
+		console.log("inside puny code detection");
+		console.log(details.url);
 		//Check for xn-- OR non Ascii Printable in URL
 		if ((details.url.indexOf("xn--") != -1)||(!isAsciiPrintable(details.url)))
 		{
+			console.log("hits check");
 			isPunyCode = true;
 			//alert(details.parentFrameId + " " + details.frameId);
 			/*

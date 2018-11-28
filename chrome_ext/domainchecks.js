@@ -14,6 +14,18 @@ var checkDomainAgeResults = [0, "Domain Not Registered!"];
 var checkDomainExpiryResults = [0, "Domain Not Registered!"];
 var checkDomainRegistrantResults = [0, "Domain Not Registered!"];
 
+function getDayDifference(date1, date2) {
+	//assumes date1 and date2 are Date Objects
+	var one_day_ms=1000*60*60*24;
+
+	var date1_ms = date1.getTime();
+	var date2_ms = date2.getTime();
+
+	var diff = (date1_ms-date2_ms)*1.0/one_day_ms
+
+	console.log("diff between " + date1.toDateString() + " " + date2.toDateString() + " is: " + diff.toString() + " days");
+	return parseInt(diff)
+}
 
 // Make WhoIs API call to WhoIs service
 function getWhoIsInfo(url) {
@@ -35,7 +47,7 @@ function getWhoIsInfo(url) {
 };
 
 // Checks  that domain is > 1 month (31 days) old
-function checkDomainAge() {
+function checkDomainAge(xml_info) {
 	try {
 		//alert("inside domain age check");
 		console.log("inside check domain age");
@@ -69,7 +81,7 @@ function checkDomainAge() {
 }
 
 // Checks  that expiry is more than 6 months (186 days) away
-function checkDomainExpiry() {
+function checkDomainExpiry(xml_info) {
 	try {
 		//alert("inside domain expiry check");
 		console.log("inside check domain expiry");
@@ -205,7 +217,7 @@ function checkDomainRegistrant() {
 function checkDomain(url) {
 	var totalChecks = 3;
 	var passedChecks = 0;
-
+	var domainPopUpText = "";
 	// Reset all variables (not sure whether this is persistent through calls)
 	whoIsInfo = null;
 	whoIsXml = null;
@@ -223,21 +235,24 @@ function checkDomain(url) {
 
 	console.log("checking domain age");
 	var domainAgeResult = checkDomainAge(whoIsInfo);
-	passedChecks += domainAgeResult[0];
-	domainPopUpText += "<br>" + domainAgeResult[1];
+	passedChecks += checkDomainAgeResults[0];
+	domainPopUpText += "<br>" + checkDomainAgeResults[1];
 
 	console.log("checking domain expiry");
 	var domainExpiryResult = checkDomainExpiry(whoIsInfo);
-	passedChecks += domainExpiryResult[0];
-	domainPopUpText += "<br>" + domainExpiryResult[1];
+	passedChecks += checkDomainExpiryResults[0];
+	domainPopUpText += "<br>" + checkDomainExpiryResults[1];
 
 	console.log("checking domain registrant")
 
-	var domainRegistrantResult = checkDomainRegistrantInfo(whoIsInfo, ["registrant", "technicalContact", "administrativeContact"]);
-	
-	passedChecks += domainRegistrantResult[0];
-	domainPopUpText += "<br>" + domainRegistrantResult[1];
+	checkDomainRegistrant();
 
+	//var domainRegistrantResult = checkDomainRegistrantInfo(whoIsInfo, ["registrant", "technicalContact", "administrativeContact"]);
+	
+	passedChecks += checkDomainRegistrantResults[0];
+	domainPopUpText += "<br>" + checkDomainRegistrantResults[1];
+
+	console.log(domainPopUpText);
 	//return results;
 	if (passedChecks > (totalChecks/2))
 		return true;
