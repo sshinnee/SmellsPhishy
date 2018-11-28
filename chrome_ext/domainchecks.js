@@ -213,6 +213,28 @@ function checkDomainRegistrant() {
 	}
 }
 
+function checkDomainRegistrantInfo(xml_info, details) {
+	var to_return;
+	try {
+		for (i=0; i<details.length; i++) {
+			var nice_name = details[i].charAt(0).toUpperCase() + details[i].substring(1);
+			to_return += "<br>" + nice_name.toString() + "<br>" + xml_info.split("<" + details[i].toString() + ">")[1].split("<rawText>")[1].split("</rawText>")[0];//.replace(/nice_name/g, "<br>" + nice_name.substring());
+		}
+		//var registrant = xml_info.split("<registrant>")[1].split("<rawText>")[1].split("</rawText>")[0];
+
+		// var searchUrl = makeGoogleSearch(registrant);
+		// var searchTLD = getTLD(searchUrl);
+
+		console.log("More Information about the registrant: " + to_return.toString());
+
+		return [0.5, "More Information about the registrant: " + to_return.toString()];
+
+	} catch (err) {
+		console.log("there was an error in checkDomainRegistrant " + err.toString());
+		return [0, "- " + getErrorMessage(xml_info)];
+	}
+}
+
 // Perform domain-based checks
 function checkDomain(url) {
 	var totalChecks = 3;
@@ -246,6 +268,8 @@ function checkDomain(url) {
 	console.log("checking domain registrant")
 
 	checkDomainRegistrant();
+
+	checkDomainRegistrantResults[1] = checkDomainRegistrantInfo(whoIsInfo, ["registrant"])[1];
 
 	//var domainRegistrantResult = checkDomainRegistrantInfo(whoIsInfo, ["registrant", "technicalContact", "administrativeContact"]);
 	
