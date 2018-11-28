@@ -106,7 +106,7 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 			if (user_action != true) {
 				return {cancel:true};  // Do not display page
 			}*/
-			checkPhishing(details.url, details);
+			 return checkPhishing(details.url, details);
 		}
 		else
 		{	
@@ -155,7 +155,7 @@ chrome.webRequest.onHeadersReceived.addListener(function(details)
 			}
 			
 			isRedirect = true;
-			checkPhishing(redirect_url, details);
+			return checkPhishing(redirect_url, details);
 		}
 	}
 	else
