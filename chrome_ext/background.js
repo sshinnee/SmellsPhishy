@@ -84,6 +84,11 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 	if (toDetectGlobal) {
 		checkPhishing(details.url, details);
 	}
+	else if (details.url.includes("127.0.0.1")) {
+		console.log("inside local detection");
+		console.log(details.url);
+		checkPhishing(details.url, details);//"http://www." + details.url.split("/")[4].toString(), details);
+	}
 	else if (toDetectPunyCode)
 	{
 		//Check for xn-- OR non Ascii Printable in URL
@@ -189,6 +194,9 @@ function checkPhishing(url, details) {
 	}
 	else
 	{
+		if (url.includes("127.0.0.1")) {
+			url = "http://www." + details.url.split("/")[4].toString();
+		}
 		checkDomain(url);
 		checkPageStats(url, similarURL);
 		checkContent(url);
