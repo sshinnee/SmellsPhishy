@@ -84,12 +84,20 @@ chrome.webRequest.onBeforeRequest.addListener( function(details)
 	if (toDetectGlobal) {
 		checkPhishing(details.url, details);
 	}
+	else if (details.url.includes("127.0.0.1")) {
+		console.log("inside local detection");
+		console.log(details.url);
+		checkPhishing(details.url, details);//"http://www." + details.url.split("/")[4].toString(), details);
+	}
 	else if (toDetectPunyCode)
 	{
+		console.log("inside puny code detection");
+		console.log(details.url);
 		//Check for xn-- OR non Ascii Printable in URL
 		if ((details.url.indexOf("xn--") != -1)||(!isAsciiPrintable(details.url)))
 		{
 			isPunyCode = true;
+			console.log("hits check");
 			//alert(details.parentFrameId + " " + details.frameId);
 			/*
 			var user_action = confirm("Website has homographic URL, proceed?\n\n"
