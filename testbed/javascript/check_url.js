@@ -34,33 +34,39 @@ function evaluateURL(url) {
 	//homograph check
 	if (url.includes("xn--") || !isAsciiPrintable(url)) {
 		return_string += "URL Flag: url contains homographs<br>";
+		clean = false;
 	}
 	//unsual punctuations for first domain
 	for (i=0; i<common_punctuation.length; i++) {
 		if (first_domain.includes(common_punctuation[i])) {
 			return_string += "URL Flag: an unusual character " + common_punctuation[i] + " was found in your first domain. <br>";
+			clean = false;
 		}
 	}
 	var com_split = url.split(".COM");
 	if (com_split[com_split.length-1].split(".").length > 1) {
 		return_string += "URL Flag: some other domains after .com, which is unusual<br>";
+		clean = false;
 	}
 	//special character check
 	for (i=0; i<special_characters.length; i++) {
 		if (url.includes(special_characters[i])) {
 			return_string += "URL Flag: an unusual character " + special_characters[i] + " was found in your url. <br>";
+			clean = false;
 		}
 	}
 	//suspicious domains
 	for (i=0; i<suspicious_tlds.length; i++) {
 		if (url.includes(suspicious_tlds[i])) {
 			return_string += "URL Flag: a suspicious domain " + suspicious_tlds[i] + " was found in your url. <br>";
+			clean = false;
 		}
 	}
 	//unusual domains
 	for (i=0; i<unusual_domains.length; i++) {
 		if (url.includes(unusual_domains[i])) {
 			return_string += "URL Flag: an unusual domain " + unusual_domains[i] + " was found in your url. <br>";
+			clean = false;
 		}
 	}
 
