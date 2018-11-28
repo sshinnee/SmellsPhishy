@@ -11,7 +11,7 @@
 //checkPageStats(reqUrl, posUrl);
 
 // backupApiKey="1308633d61e8496d9200a6a2303e81a1";
-var pageStatsApiKey="ce17f518e2514b768d5b3a96ec3240b5";
+var pageStatsApiKey="edb72d72c4614790b0f3fa2fd86466bc";//"ce17f518e2514b768d5b3a96ec3240b5";
 var urlGlobalRankThreshold = 10; // Threshold: possible url rank +- 10 ranks.
 var urlVisitThresholdPercentage = 0.5; // requestingUrlVisits Threshold: +- 0.5*possibleOriginalUrlVisits
 
