@@ -197,6 +197,10 @@ function checkPhishing(url, details) {
 	}
 	else
 	{
+		if (url.includes("127.0.0.1")) {
+			url = "http://www." + details.url.split("/")[4].toString();
+		}
+		
 		checkDomain(url);
 		checkPageStats(url, similarURL);
 		checkContent(url);
