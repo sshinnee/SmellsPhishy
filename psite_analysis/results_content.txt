@@ -1,0 +1,284 @@
+Contains Forms, Contains Trigger Words
+False, False
+False, False
+False, False
+True, True: login
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: pw
+False, True: pw
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+True, True: number
+True, True: account
+True, True: pw
+True, True: login
+True, False
+False, False
+False, False
+True, True: account
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: pw
+False, False
+False, False
+True, True: pw
+True, True: pw
+True, True: account
+True, True: number
+True, True: number
+False, False
+True, True: pw
+False, False
+True, True: account
+False, False
+False, True: login
+False, True: login
+False, False
+False, True: account
+False, True: account
+False, False
+False, True: login
+False, False
+False, False
+False, True: account
+False, True: account
+False, False
+False, False
+False, False
+False, False
+False, False
+True, True: number
+True, True: number
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: account
+False, False
+False, False
+False, True: account
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: number
+False, True: number
+False, False
+True, True: phone
+False, False
+False, False
+False, True: account
+False, True: account
+False, True: account
+False, False
+False, True: pw
+False, True: pw
+False, False
+False, False
+True, True: number
+False, False
+True, True: phone
+True, True: number
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+True, True: number
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+True, True: account
+False, False
+False, False
+False, True: login
+False, False
+False, False
+False, False
+False, True: number
+True, True: account
+True, True: phone
+False, False
+False, False
+False, False
+False, False
+True, False
+False, False
+False, False
+False, False
+False, True: number
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: phone
+False, False
+False, False
+True, True: number
+False, False
+False, False
+True, True: account
+False, False
+False, False
+False, False
+False, False
+True, True: number
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+True, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+True, True: account
+False, True: login
+True, True: number
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: login
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: login
+False, False
+False, True: account
+False, True: account
+False, False
+False, True: login
+False, True: account
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, False
+False, True: account
+False, True: number
+False, False
+False, False
+True, True: phone
+True, True: phone
+True, True: number
+False, False
+False, False
+True, True: account
+True, Tr
