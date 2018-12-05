@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>direciona-tj5.pw</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:27:37.119 UTC</createdDate>
+    <updatedDate>2018-12-01 14:27:37.119 UTC</updatedDate>
+  </audit>
+  <registrarName>URL Solutions Inc.</registrarName>
+  <registrarIANAID>1449</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-21T11:26:11.0Z</createdDate>
+    <updatedDate>2018-11-30T17:27:45.0Z</updatedDate>
+    <expiresDate>2019-11-21T23:59:59.0Z</expiresDate>
+    <registrant>
+      <city>admin</city>
+      <state>Tech</state>
+      <postalCode>Email</postalCode>
+      <rawText>Admin Email: https://whois.nic.pw/contact/direciona-tj5.pw/admin
+Tech Email: https://whois.nic.pw/contact/direciona-tj5.pw/tech</rawText>
+      <unparsable>Admin Email: https://whois.nic.pw/contact/direciona-tj5.pw/: https://whois.nic.pw/contact/direciona-tj5.pw/tech</unparsable>
+    </registrant>
+    <administrativeContact>
+      <rawText>Admin Email: https://whois.nic.pw/contact/direciona-tj5.pw/admin</rawText>
+    </administrativeContact>
+    <billingContact>
+      <rawText>Billing Email: https://whois.nic.pw/contact/direciona-tj5.pw/billing</rawText>
+    </billingContact>
+    <technicalContact>
+      <rawText>Tech Email: https://whois.nic.pw/contact/direciona-tj5.pw/tech</rawText>
+    </technicalContact>
+    <domainName>direciona-tj5.pw</domainName>
+    <nameServers>
+      <rawText>NS1.BODIS.COM
+NS2.BODIS.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.BODIS.COM</Address>
+        <Address>NS2.BODIS.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited clientTransferProhibited clientUpdateProhibited clientDeleteProhibited</status>
+    <rawText>Domain Name: DIRECIONA-TJ5.PW
+Registry Domain ID: D84259369-CNIC
+Registrar WHOIS Server: whois.pananames.com
+Registrar URL: https://pananames.com
+Updated Date: 2018-11-30T17:27:45.0Z
+Creation Date: 2018-11-21T11:26:11.0Z
+Registry Expiry Date: 2019-11-21T23:59:59.0Z
+Registrar: URL Solutions Inc.
+Registrar IANA ID: 1449
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Email: https://whois.nic.pw/contact/direciona-tj5.pw/registrant
+Admin Email: https://whois.nic.pw/contact/direciona-tj5.pw/admin
+Tech Email: https://whois.nic.pw/contact/direciona-tj5.pw/tech
+Name Server: NS1.BODIS.COM
+Name Server: NS2.BODIS.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.pw/contact/direciona-tj5.pw/billing
+Registrar Abuse Contact Email: abuse@pananames.com
+Registrar Abuse Contact Phone:
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:27:36.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: DIRECIONA-TJ5.PW
+Registry Domain ID: D84259369-CNIC
+Registrar WHOIS Server: whois.pananames.com
+Registrar URL: https://pananames.com
+Updated Date: 2018-11-30T17:27:45.0Z
+Creation Date: 2018-11-21T11:26:11.0Z
+Registry Expiry Date: 2019-11-21T23:59:59.0Z
+Registrar: URL Solutions Inc.
+Registrar IANA ID: 1449
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Email: https://whois.nic.pw/contact/direciona-tj5.pw/registrant
+Admin Email: https://whois.nic.pw/contact/direciona-tj5.pw/admin
+Tech Email: https://whois.nic.pw/contact/direciona-tj5.pw/tech
+Name Server: NS1.BODIS.COM
+Name Server: NS2.BODIS.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.pw/contact/direciona-tj5.pw/billing
+Registrar Abuse Contact Email: abuse@pananames.com
+Registrar Abuse Contact Phone:
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:27:36.0Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:27:37.119 UTC</createdDate>
+      <updatedDate>2018-12-01 14:27:37.119 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@pananames.com</customField1Value>
+    <registrarName>URL Solutions Inc.</registrarName>
+    <registrarIANAID>1449</registrarIANAID>
+    <createdDateNormalized>2018-11-21 11:26:11 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-30 17:27:45 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-21 23:59:59 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>https://pananames.com</customField3Value>
+    <whoisServer>whois.pananames.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@pananames.com</contactEmail>
+  <domainNameExt>.pw</domainNameExt>
+  <estimatedDomainAge>10</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>gob.ec</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-03-22 22:25:25.000 UTC</createdDate>
+    <updatedDate>2018-03-22 22:25:25.000 UTC</updatedDate>
+  </audit>
+  <registrarName>EC</registrarName>
+  <registrarIANAID>250</registrarIANAID>
+  <registryData>
+    <createdDate>15 Apr 2011</createdDate>
+    <updatedDate>10 Jan 2017</updatedDate>
+    <expiresDate>15 Apr 2021</expiresDate>
+    <registrant>
+      <name>Local Name: Garry Donoghue
+Local Organisation: NIC.EC
+Local Address:</name>
+      <street1>Av</street1>
+      <city>Francisco</city>
+      <state>de</state>
+      <postalCode>Orellana</postalCode>
+      <country>NORWAY</country>
+      <countryCode>NO</countryCode>
+      <email>garry.donoghue@nic.ec</email>
+      <telephone>59343729560</telephone>
+      <rawText>Email Address: garry.donoghue@nic.ec
+Phone Number: 5934-3729560
+Local Name: Garry Donoghue
+Local Organisation: NIC.EC
+Local Address:
+Av Francisco de Orellana No, 234
+Edif Blue Towers piso 9 oficina no 902 y 903
+Guayaquil, Guayas	EC</rawText>
+      <unparsable>, 234
+Edif Blue Towers piso 9 oficina no 902 y 903
+Guayaquil, Guayas	EC</unparsable>
+    </registrant>
+    <domainName>gob.ec</domainName>
+    <nameServers>
+      <rawText>sns-pb.isc.org
+n2.nic.ec
+n3.dns.ec
+a.lactld.org
+</rawText>
+      <hostNames>
+        <Address>sns-pb.isc.org</Address>
+        <Address>n2.nic.ec</Address>
+        <Address>n3.dns.ec</Address>
+        <Address>a.lactld.org</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>Delegated</status>
+    <rawText>Los datos detallados a continuación por NIC.EC es información pública cuyo propósito es
+únicamente informativo que sirve para la obtención de la información acerca de o
+relacionado con los registros de un Nombre de Dominio. Los datos se muestran de acuerdo
+a los datos de NIC.EC en la última actualización de su base de datos. Al realizar una
+búsqueda de WHOIS de un dominio, usted declara y acepta que los datos serán utilizados
+solo para fines legales y que no utilizara los datos para envíos masivos no solicitados
+de correo electrónico o para publicidad o fines comerciales no solicitados.
+
+
+Domain Information
+Query: gob.ec
+Status: Delegated
+Created: 15 Apr 2011
+Modified: 10 Jan 2017
+Expires: 15 Apr 2021
+Name Servers:
+    sns-pb.isc.org
+    n2.nic.ec
+    n3.dns.ec
+    a.lactld.org
+
+Registrar Information
+Registrar Name: Registry NIC.EC
+Country: EC
+
+
+
+
+Registrant:
+Email Address: garry.donoghue@nic.ec
+Phone Number: 5934-3729560
+
+Local Name: Garry Donoghue
+Local Organisation: NIC.EC
+Local Address:
+	Av Francisco de Orellana No, 234
+	Edif Blue Towers piso 9 oficina no 902 y 903
+	Guayaquil, Guayas	EC</rawText>
+    <parseCode>1275</parseCode>
+    <header>Los datos detallados a continuación por NIC.EC es información pública cuyo propósito es
+únicamente informativo que sirve para la obtención de la información acerca de o
+relacionado con los registros de un Nombre de Dominio. Los datos se muestran de acuerdo
+a los datos de NIC.EC en la última actualización de su base de datos. Al realizar una
+búsqueda de WHOIS de un dominio, usted declara y acepta que los datos serán utilizados
+solo para fines legales y que no utilizara los datos para envíos masivos no solicitados
+de correo electrónico o para publicidad o fines comerciales no solicitados.
+Domain Information
+Query: gob.ec</header>
+    <strippedText>Status: Delegated
+Created: 15 Apr 2011
+Modified: 10 Jan 2017
+Expires: 15 Apr 2021
+Name Servers:
+sns-pb.isc.org
+n2.nic.ec
+n3.dns.ec
+a.lactld.org
+</strippedText>
+    <footer>Registrar Information</footer>
+    <audit>
+      <createdDate>2018-03-22 22:25:25.000 UTC</createdDate>
+      <updatedDate>2018-03-22 22:25:25.000 UTC</updatedDate>
+    </audit>
+    <registrarName>EC</registrarName>
+    <registrarIANAID>250</registrarIANAID>
+    <createdDateNormalized>2011-04-15 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-01-10 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2021-04-15 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>ec.whois-servers.net</whoisServer>
+  </registryData>
+  <contactEmail>garry.donoghue@nic.ec</contactEmail>
+  <domainNameExt>.ec</domainNameExt>
+  <estimatedDomainAge>2787</estimatedDomainAge>
+</WhoisRecord>

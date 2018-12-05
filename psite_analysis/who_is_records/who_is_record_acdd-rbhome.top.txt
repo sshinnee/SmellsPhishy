@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>acdd-rbhome.top</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 19:10:50.000 UTC</createdDate>
+    <updatedDate>2018-11-30 19:10:50.000 UTC</updatedDate>
+  </audit>
+  <registrarName>PDR Ltd</registrarName>
+  <registryData>
+    <createdDate>2018-11-24T07:14:55Z</createdDate>
+    <updatedDate>2018-11-24T07:14:55Z</updatedDate>
+    <expiresDate>2019-11-24T07:14:55Z</expiresDate>
+    <registrant>
+      <name>Roseli Aparecida Alves</name>
+      <organization>N/A</organization>
+      <street1>Rua Alamo, 88 casa 03
+Bairro: Campanario</street1>
+      <city>Diadema</city>
+      <state>SP</state>
+      <postalCode>09931-280</postalCode>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>rslaparecidaalves@gmail.com</email>
+      <telephone>5511997863556</telephone>
+      <rawText>Registrant Name: Roseli Aparecida Alves
+Registrant Organization: N/A
+Registrant Street:  Rua Alamo, 88 casa 03
+Registrant Street:  Bairro: Campanario
+Registrant City: Diadema
+Registrant State/Province: SP
+Registrant Postal Code: 09931-280
+Registrant Country: BR
+Registrant Phone: +55.11997863556
+Registrant Email: rslaparecidaalves@gmail.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Roseli Aparecida Alves</name>
+      <organization>N/A</organization>
+      <street1>Rua Alamo, 88 casa 03
+Bairro: Campanario</street1>
+      <city>Diadema</city>
+      <state>SP</state>
+      <postalCode>09931-280</postalCode>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>rslaparecidaalves@gmail.com</email>
+      <telephone>5511997863556</telephone>
+      <rawText>Admin Name: Roseli Aparecida Alves
+Admin Organization: N/A
+Admin Street:  Rua Alamo, 88 casa 03
+Admin Street:  Bairro: Campanario
+Admin City: Diadema
+Admin State/Province: SP
+Admin Postal Code: 09931-280
+Admin Country: BR
+Admin Phone: +55.11997863556
+Admin Email: rslaparecidaalves@gmail.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Roseli Aparecida Alves</name>
+      <organization>N/A</organization>
+      <street1>Rua Alamo, 88 casa 03
+Bairro: Campanario</street1>
+      <city>Diadema</city>
+      <state>SP</state>
+      <postalCode>09931-280</postalCode>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>rslaparecidaalves@gmail.com</email>
+      <telephone>5511997863556</telephone>
+      <rawText>Tech Name: Roseli Aparecida Alves
+Tech Organization: N/A
+Tech Street:  Rua Alamo, 88 casa 03
+Tech Street:  Bairro: Campanario
+Tech City: Diadema
+Tech State/Province: SP
+Tech Postal Code: 09931-280
+Tech Country: BR
+Tech Phone: +55.11997863556
+Tech Email: rslaparecidaalves@gmail.com</rawText>
+    </technicalContact>
+    <domainName>acdd-rbhome.top</domainName>
+    <nameServers>
+      <rawText>ns959.hostgator.com.br
+ns958.hostgator.com.br
+</rawText>
+      <hostNames>
+        <Address>ns959.hostgator.com.br</Address>
+        <Address>ns958.hostgator.com.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: acdd-rbhome.top
+Registry Domain ID: D20181124G10001G_85726982-top
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com
+Updated Date: 2018-11-24T07:14:55Z
+Creation Date: 2018-11-24T07:14:55Z
+Registry Expiry Date: 2019-11-24T07:14:55Z
+Registrar: PDR Ltd
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +91.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C20181124C_35776332-top
+Registrant Name: Roseli Aparecida Alves
+Registrant Organization: N/A
+Registrant Street:  Rua Alamo, 88 casa 03
+Registrant Street:  Bairro: Campanario
+Registrant City: Diadema
+Registrant State/Province: SP
+Registrant Postal Code: 09931-280
+Registrant Country: BR
+Registrant Phone: +55.11997863556
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: rslaparecidaalves@gmail.com
+Registry Admin ID: C20181124C_35776332-top
+Admin Name: Roseli Aparecida Alves
+Admin Organization: N/A
+Admin Street:  Rua Alamo, 88 casa 03
+Admin Street:  Bairro: Campanario
+Admin City: Diadema
+Admin State/Province: SP
+Admin Postal Code: 09931-280
+Admin Country: BR
+Admin Phone: +55.11997863556
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: rslaparecidaalves@gmail.com
+Registry Tech ID: C20181124C_35776332-top
+Tech Name: Roseli Aparecida Alves
+Tech Organization: N/A
+Tech Street:  Rua Alamo, 88 casa 03
+Tech Street:  Bairro: Campanario
+Tech City: Diadema
+Tech State/Province: SP
+Tech Postal Code: 09931-280
+Tech Country: BR
+Tech Phone: +55.11997863556
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: rslaparecidaalves@gmail.com
+Name Server: ns959.hostgator.com.br
+Name Server: ns958.hostgator.com.br
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-30T19:07:13Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: The information in the Whois database is collected through ICANN-accredited registrars. Jiangsu bangning science &amp; technology Co., Ltd(“BANGNING”) make this information available to you and do not guarantee its accuracy or completeness. By submitting a whois query, you agree to abide by the following terms of use: you agree that you may use this data only for lawful purposes and that under no circumstances will you use this data to:  (1) to allow， enable， or otherwise support the transmission of mass unsolicited， commercial advertising or solicitations via direct mail， electronic mail， or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume， automated， electronic processes that apply to BANGNING (or its computer systems). Compilation， repackaging， dissemination， or other use of the WHOIS database in its entirety， or of a substantial portion thereof， is not allowed without BANGNING prior written permission. You agree not to use electronic processes that are automated and high-volume to access or query the whois database except as reasonably necessary to register domain names or modify existing registrations. BANGNING reserves the right to restrict your access to the whois database in its sole discretion to ensure operational stability.  BANGNING may restrict or terminate your access to the whois database for failure to abide by these terms of use. BANGNING reserves the right to modify these terms at any time without prior or subsequent notification of any kind.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: acdd-rbhome.top
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com
+Updated Date: 2018-11-24T07:14:55Z
+Creation Date: 2018-11-24T07:14:55Z
+Registry Expiry Date: 2019-11-24T07:14:55Z
+Registrar: PDR Ltd
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +91.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Roseli Aparecida Alves
+Registrant Organization: N/A
+Registrant Street:  Rua Alamo, 88 casa 03
+Registrant Street:  Bairro: Campanario
+Registrant City: Diadema
+Registrant State/Province: SP
+Registrant Postal Code: 09931-280
+Registrant Country: BR
+Registrant Phone: +55.11997863556
+Registrant Email: rslaparecidaalves@gmail.com
+Admin Name: Roseli Aparecida Alves
+Admin Organization: N/A
+Admin Street:  Rua Alamo, 88 casa 03
+Admin Street:  Bairro: Campanario
+Admin City: Diadema
+Admin State/Province: SP
+Admin Postal Code: 09931-280
+Admin Country: BR
+Admin Phone: +55.11997863556
+Admin Email: rslaparecidaalves@gmail.com
+Tech Name: Roseli Aparecida Alves
+Tech Organization: N/A
+Tech Street:  Rua Alamo, 88 casa 03
+Tech Street:  Bairro: Campanario
+Tech City: Diadema
+Tech State/Province: SP
+Tech Postal Code: 09931-280
+Tech Country: BR
+Tech Phone: +55.11997863556
+Tech Email: rslaparecidaalves@gmail.com
+Name Server: ns959.hostgator.com.br
+Name Server: ns958.hostgator.com.br
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-30 19:10:50.000 UTC</createdDate>
+      <updatedDate>2018-11-30 19:10:50.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse-contact@publicdomainregistry.com</customField1Value>
+    <registrarName>PDR Ltd</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2018-11-24 07:14:55 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-24 07:14:55 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-24 07:14:55 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+91.2013775952</customField2Value>
+    <customField3Value>http://publicdomainregistry.com</customField3Value>
+    <whoisServer>whois.publicdomainregistry.com</whoisServer>
+  </registryData>
+  <contactEmail>rslaparecidaalves@gmail.com</contactEmail>
+  <domainNameExt>.top</domainNameExt>
+  <estimatedDomainAge>7</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>csgoskins.xyz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:44:55.090 UTC</createdDate>
+    <updatedDate>2018-12-01 13:44:55.090 UTC</updatedDate>
+  </audit>
+  <registrarName>Registrar of Domain Names REG.RU, LLC</registrarName>
+  <registrarIANAID>1606</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-29T05:58:59.0Z</createdDate>
+    <expiresDate>2019-11-29T23:59:59.0Z</expiresDate>
+    <registrant>
+      <organization>vladivostok Company</organization>
+      <state>vladivostok</state>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>kr0ly@yandex.ru</email>
+      <telephone>79092860838</telephone>
+      <rawText>Registrant Organization: vladivostok Company
+Registrant State/Province: vladivostok
+Registrant Country: RU
+Registrant Phone: +7.9092860838
+Registrant Email: kr0ly@yandex.ru</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Admin Phone: +7.9092860838</name>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>kr0ly@yandex.ru</email>
+      <telephone>79092860838</telephone>
+      <rawText>Admin Phone: +7.9092860838
+Admin Email: kr0ly@yandex.ru</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Billing Phone: +7.9092860838</name>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>kr0ly@yandex.ru</email>
+      <telephone>79092860838</telephone>
+      <rawText>Billing Phone: +7.9092860838
+Billing Email: kr0ly@yandex.ru</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Tech Phone: +7.9092860838</name>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>kr0ly@yandex.ru</email>
+      <telephone>79092860838</telephone>
+      <rawText>Tech Phone: +7.9092860838
+Tech Email: kr0ly@yandex.ru</rawText>
+    </technicalContact>
+    <domainName>csgoskins.xyz</domainName>
+    <nameServers>
+      <rawText>NS1.REG.RU
+NS2.REG.RU
+</rawText>
+      <hostNames>
+        <Address>NS1.REG.RU</Address>
+        <Address>NS2.REG.RU</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited addPeriod</status>
+    <rawText>Domain Name: CSGOSKINS.XYZ
+Registry Domain ID: D85368312-CNIC
+Registrar WHOIS Server: whois.reg.ru
+Registrar URL: https://www.reg.ru/
+Creation Date: 2018-11-29T05:58:59.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Registrar of Domain Names REG.RU, LLC
+Registrar IANA ID: 1606
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: vladivostok Company
+Registrant State/Province: vladivostok
+Registrant Country: RU
+Registrant Phone: +7.9092860838
+Registrant Email: kr0ly@yandex.ru
+Admin Phone: +7.9092860838
+Admin Email: kr0ly@yandex.ru
+Tech Phone: +7.9092860838
+Tech Email: kr0ly@yandex.ru
+Name Server: NS1.REG.RU
+Name Server: NS2.REG.RU
+DNSSEC: unsigned
+Billing Phone: +7.9092860838
+Billing Email: kr0ly@yandex.ru
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:44:54.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4059</parseCode>
+    <header/>
+    <strippedText>Domain Name: CSGOSKINS.XYZ
+Registrar WHOIS Server: whois.reg.ru
+Registrar URL: https://www.reg.ru/
+Creation Date: 2018-11-29T05:58:59.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Registrar of Domain Names REG.RU, LLC
+Registrar IANA ID: 1606
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: vladivostok Company
+Registrant State/Province: vladivostok
+Registrant Country: RU
+Registrant Phone: +7.9092860838
+Registrant Email: kr0ly@yandex.ru
+Admin Phone: +7.9092860838
+Admin Email: kr0ly@yandex.ru
+Tech Phone: +7.9092860838
+Tech Email: kr0ly@yandex.ru
+Name Server: NS1.REG.RU
+Name Server: NS2.REG.RU
+Billing Phone: +7.9092860838
+Billing Email: kr0ly@yandex.ru
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:44:55.090 UTC</createdDate>
+      <updatedDate>2018-12-01 13:44:55.090 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@reg.ru</customField1Value>
+    <registrarName>Registrar of Domain Names REG.RU, LLC</registrarName>
+    <registrarIANAID>1606</registrarIANAID>
+    <createdDateNormalized>2018-11-29 05:58:59 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-11-29 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+7.4955801111</customField2Value>
+    <customField3Value>https://www.reg.ru/</customField3Value>
+    <whoisServer>whois.reg.ru</whoisServer>
+  </registryData>
+  <contactEmail>kr0ly@yandex.ru</contactEmail>
+  <domainNameExt>.xyz</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>ow.ly</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:59:48.050 UTC</createdDate>
+    <updatedDate>2018-12-01 13:59:48.050 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <domainName>ow.ly</domainName>
+    <rawText>Domain Name: ow.ly
+- Domain Status: Strings shorter than four symbols long are to be registered directly under .ly ONLY through Libya Telecom and Technology co. (LTT) in the upcoming period to guarantee that registrants have Local presence.
+--
+Whois information provided by:
+LY Registry
+whois.nic.ly
+-For Whois usage policy please check:
+ http://whois.nic.ly/policy.php</rawText>
+    <parseCode>64</parseCode>
+    <header/>
+    <strippedText>Domain Name: ow.ly
+- Domain Status: Strings shorter than four symbols long are to be registered directly under .ly ONLY through Libya Telecom and Technology co. (LTT) in the upcoming period to guarantee that registrants have Local presence.
+--
+Whois information provided by:
+LY Registry
+whois.nic.ly
+-For Whois usage policy please check:
+http://whois.nic.ly/policy.php
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:59:48.050 UTC</createdDate>
+      <updatedDate>2018-12-01 13:59:48.050 UTC</updatedDate>
+    </audit>
+    <whoisServer>whois.nic.ly</whoisServer>
+  </registryData>
+  <domainNameExt>.ly</domainNameExt>
+</WhoisRecord>

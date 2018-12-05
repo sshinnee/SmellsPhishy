@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>ugo.florist</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:35:43.855 UTC</createdDate>
+    <updatedDate>2018-12-01 13:35:43.855 UTC</updatedDate>
+  </audit>
+  <registrarName>Regional Network Information Center, JSC dba RU-CENTER</registrarName>
+  <registrarIANAID>463</registrarIANAID>
+  <registryData>
+    <createdDate>2015-04-04T10:12:12Z</createdDate>
+    <updatedDate>2018-07-16T15:18:20Z</updatedDate>
+    <expiresDate>2019-04-04T10:12:12Z</expiresDate>
+    <registrant>
+      <name>REDACTED FOR PRIVACY</name>
+      <organization>Privacy protection service - whoisproxy.ru</organization>
+      <street1>REDACTED FOR PRIVACY</street1>
+      <city>REDACTED FOR PRIVACY</city>
+      <state>Moscow</state>
+      <postalCode>REDACTED FOR PRIVACY</postalCode>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <telephone/>
+      <fax/>
+      <rawText>Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy protection service - whoisproxy.ru
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Moscow
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: RU
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>REDACTED FOR PRIVACY</name>
+      <organization>REDACTED FOR PRIVACY</organization>
+      <street1>REDACTED FOR PRIVACY</street1>
+      <city>REDACTED FOR PRIVACY</city>
+      <state>REDACTED FOR PRIVACY</state>
+      <postalCode>REDACTED FOR PRIVACY</postalCode>
+      <country>REDACTED FOR PRIVACY</country>
+      <telephone/>
+      <fax/>
+      <rawText>Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>REDACTED FOR PRIVACY</name>
+      <organization>REDACTED FOR PRIVACY</organization>
+      <street1>REDACTED FOR PRIVACY</street1>
+      <city>REDACTED FOR PRIVACY</city>
+      <state>REDACTED FOR PRIVACY</state>
+      <postalCode>REDACTED FOR PRIVACY</postalCode>
+      <country>REDACTED FOR PRIVACY</country>
+      <telephone/>
+      <fax/>
+      <rawText>Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>ugo.florist</domainName>
+    <nameServers>
+      <rawText>ns2.ukit.com
+ns1.ukit.com
+ns3.ukit.com
+</rawText>
+      <hostNames>
+        <Address>ns2.ukit.com</Address>
+        <Address>ns1.ukit.com</Address>
+        <Address>ns3.ukit.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: ugo.florist
+Registry Domain ID: da08c33bad6241af9b8b62e14335eb87-DONUTS
+Registrar WHOIS Server: www.nic.ru/whois/en/
+Registrar URL: https://www.nic.ru/en/
+Updated Date: 2018-07-16T15:18:20Z
+Creation Date: 2015-04-04T10:12:12Z
+Registry Expiry Date: 2019-04-04T10:12:12Z
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: tld-ncc@nic.ru
+Registrar Abuse Contact Phone: +7.4957370601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy protection service - whoisproxy.ru
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Moscow
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: RU
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns2.ukit.com
+Name Server: ns1.ukit.com
+Name Server: ns3.ukit.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:35:43Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Donuts Inc. provides this Whois service for information purposes, and to assist persons in obtaining information about or related to a domain name registration record. Donuts does not guarantee its accuracy. Users accessing the Donuts Whois service agree to use the data only for lawful purposes, and under no circumstances may this data be used to: a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar’s own existing customers and b) enable high volume, automated, electronic processes that send queries or data to the systems of Donuts or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Donuts Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&amp;E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data can be requested by submitting a request via the form found at https://donuts.domains/about/policies/whois-layered-access/ Donuts Inc. reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: ugo.florist
+Registrar WHOIS Server: www.nic.ru/whois/en/
+Registrar URL: https://www.nic.ru/en/
+Updated Date: 2018-07-16T15:18:20Z
+Creation Date: 2015-04-04T10:12:12Z
+Registry Expiry Date: 2019-04-04T10:12:12Z
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: tld-ncc@nic.ru
+Registrar Abuse Contact Phone: +7.4957370601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Privacy protection service - whoisproxy.ru
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Moscow
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: RU
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns2.ukit.com
+Name Server: ns1.ukit.com
+Name Server: ns3.ukit.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:35:43.855 UTC</createdDate>
+      <updatedDate>2018-12-01 13:35:43.855 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>tld-ncc@nic.ru</customField1Value>
+    <registrarName>Regional Network Information Center, JSC dba RU-CENTER</registrarName>
+    <registrarIANAID>463</registrarIANAID>
+    <createdDateNormalized>2015-04-04 10:12:12 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-07-16 15:18:20 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-04-04 10:12:12 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+7.4957370601</customField2Value>
+    <customField3Value>https://www.nic.ru/en/</customField3Value>
+    <whoisServer>www.nic.ru/whois/en/</whoisServer>
+  </registryData>
+  <contactEmail>tld-ncc@nic.ru</contactEmail>
+  <domainNameExt>.florist</domainNameExt>
+  <estimatedDomainAge>1337</estimatedDomainAge>
+</WhoisRecord>

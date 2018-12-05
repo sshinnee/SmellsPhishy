@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>drukowisko.pl</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:19:45.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:19:45.000 UTC</updatedDate>
+  </audit>
+  <registrarName>AZ.pl Sp. z o.o.</registrarName>
+  <registryData>
+    <createdDate>2015.03.03 10:53:53</createdDate>
+    <updatedDate>2017.12.14 07:48:05</updatedDate>
+    <expiresDate>2019.03.03 10:53:53</expiresDate>
+    <domainName>drukowisko.pl</domainName>
+    <nameServers>
+      <rawText>ns10.az.pl
+ns11.az.pl
+ns12.az.pl
+</rawText>
+      <hostNames>
+        <Address>ns10.az.pl</Address>
+        <Address>ns11.az.pl</Address>
+        <Address>ns12.az.pl</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>DOMAIN NAME:           drukowisko.pl 
+
+registrant type:       organization 
+
+nameservers:           ns10.az.pl. [46.242.144.100] 
+
+                       ns11.az.pl. [46.242.145.8] 
+
+                       ns12.az.pl. [89.171.29.77] 
+
+created:               2015.03.03 10:53:53 
+
+last modified:         2017.12.14 07:48:05 
+
+renewal date:          2019.03.03 10:53:53 
+
+ 
+
+no option 
+
+ 
+
+dnssec:                Unsigned 
+
+ 
+
+ 
+
+REGISTRAR: 
+
+AZ.pl Sp. z o.o.
+
+ul. Zbożowa 4
+
+70-653 Szczecin
+
+Polska/Poland
+
++48.914243780
+
+domena@az.pl 
+
+ 
+
+WHOIS database responses and Registrant data available at: https://dns.pl/en/whois 
+
+ 
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system</rawText>
+    <parseCode>235</parseCode>
+    <header/>
+    <strippedText>DOMAIN NAME:           drukowisko.pl
+registrant type:       organization
+nameservers:           ns10.az.pl. [46.242.144.100]
+ns11.az.pl. [46.242.145.8]
+ns12.az.pl. [89.171.29.77]
+created:               2015.03.03 10:53:53
+last modified:         2017.12.14 07:48:05
+renewal date:          2019.03.03 10:53:53
+
+no option
+
+dnssec:                Unsigned
+
+
+REGISTRAR:
+AZ.pl Sp. z o.o.
+ul. Zbożowa 4
+70-653 Szczecin
+Polska/Poland
++48.914243780
+domena@az.pl
+
+WHOIS database responses and Registrant data available at: https://dns.pl/en/whois
+
+</strippedText>
+    <footer>WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+</footer>
+    <audit>
+      <createdDate>2018-12-01 00:19:45.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:19:45.000 UTC</updatedDate>
+    </audit>
+    <registrarName>AZ.pl Sp. z o.o.</registrarName>
+    <createdDateNormalized>2015-03-03 10:53:53 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-12-14 07:48:05 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-03 10:53:53 UTC</expiresDateNormalized>
+    <whoisServer>whois.dns.pl</whoisServer>
+  </registryData>
+  <contactEmail>domena@az.pl</contactEmail>
+  <domainNameExt>.pl</domainNameExt>
+  <estimatedDomainAge>1369</estimatedDomainAge>
+</WhoisRecord>

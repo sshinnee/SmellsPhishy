@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>com-ar.xyz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:47:48.794 UTC</createdDate>
+    <updatedDate>2018-12-01 13:47:48.794 UTC</updatedDate>
+  </audit>
+  <registrarName>Go Daddy, LLC</registrarName>
+  <registrarIANAID>146</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-29T16:40:33.0Z</createdDate>
+    <updatedDate>2018-11-29T16:40:34.0Z</updatedDate>
+    <expiresDate>2019-11-29T23:59:59.0Z</expiresDate>
+    <registrant>
+      <name>Registrant State/Province: Kauno Apskritis</name>
+      <state>Kauno Apskritis</state>
+      <country>LITHUANIA</country>
+      <countryCode>LT</countryCode>
+      <rawText>Registrant State/Province: Kauno Apskritis
+Registrant Country: LT
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>LITHUANIA</country>
+      <countryCode>LT</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <billingContact>
+      <country>LITHUANIA</country>
+      <countryCode>LT</countryCode>
+      <rawText>Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </billingContact>
+    <technicalContact>
+      <country>LITHUANIA</country>
+      <countryCode>LT</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>com-ar.xyz</domainName>
+    <nameServers>
+      <rawText>NS07.DOMAINCONTROL.COM
+NS08.DOMAINCONTROL.COM
+</rawText>
+      <hostNames>
+        <Address>NS07.DOMAINCONTROL.COM</Address>
+        <Address>NS08.DOMAINCONTROL.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited clientRenewProhibited clientTransferProhibited clientUpdateProhibited clientDeleteProhibited addPeriod</status>
+    <rawText>Domain Name: COM-AR.XYZ
+Registry Domain ID: D85478642-CNIC
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com/
+Updated Date: 2018-11-29T16:40:34.0Z
+Creation Date: 2018-11-29T16:40:33.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Go Daddy, LLC
+Registrar IANA ID: 146
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization:
+Registrant State/Province: Kauno Apskritis
+Registrant Country: LT
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS07.DOMAINCONTROL.COM
+Name Server: NS08.DOMAINCONTROL.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4805058800
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:47:48.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: COM-AR.XYZ
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com/
+Updated Date: 2018-11-29T16:40:34.0Z
+Creation Date: 2018-11-29T16:40:33.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Go Daddy, LLC
+Registrar IANA ID: 146
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant State/Province: Kauno Apskritis
+Registrant Country: LT
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS07.DOMAINCONTROL.COM
+Name Server: NS08.DOMAINCONTROL.COM
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4805058800
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:47:48.794 UTC</createdDate>
+      <updatedDate>2018-12-01 13:47:48.794 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@godaddy.com</customField1Value>
+    <registrarName>Go Daddy, LLC</registrarName>
+    <registrarIANAID>146</registrarIANAID>
+    <createdDateNormalized>2018-11-29 16:40:33 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 16:40:34 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4805058800</customField2Value>
+    <customField3Value>https://www.godaddy.com/</customField3Value>
+    <whoisServer>whois.godaddy.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@godaddy.com</contactEmail>
+  <domainNameExt>.xyz</domainNameExt>
+  <estimatedDomainAge>1</estimatedDomainAge>
+</WhoisRecord>

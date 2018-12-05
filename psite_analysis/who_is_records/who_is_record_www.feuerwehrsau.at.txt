@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>feuerwehrsau.at</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:13:46.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:13:46.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <updatedDate>20140526 15:27:10</updatedDate>
+    <registrant>
+      <name>Manuel Baumgartner</name>
+      <organization>WISOCARE</organization>
+      <street1>Grillparzerstrasse 28</street1>
+      <street2>Grillparzerstrasse 28</street2>
+      <city>Mautern</city>
+      <postalCode>3512</postalCode>
+      <country>AUSTRIA</country>
+      <countryCode>AT</countryCode>
+      <telephone/>
+      <rawText>personname:     Manuel Baumgartner
+organization:   WISOCARE
+street address: Grillparzerstrasse 28
+postal code:    3512
+city:           Mautern
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        NN9648932-NICAT
+changed:        20140526 15:27:08
+source:         AT-DOM
+personname:     Manuel Baumgartner
+organization:   WISOCARE
+street address: Grillparzerstrasse 28
+postal code:    3512
+city:           Mautern
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        NN9648932-NICAT
+changed:        20140526 15:27:08
+source:         AT-DOM</rawText>
+    </registrant>
+    <technicalContact>
+      <name>Domain Admin</name>
+      <organization>World4You Internet Services GmbH</organization>
+      <street1>Hafenstrasse 47-51</street1>
+      <street2>Hafenstrasse 47-51</street2>
+      <city>Linz</city>
+      <postalCode>4020</postalCode>
+      <country>AUSTRIA</country>
+      <countryCode>AT</countryCode>
+      <telephone/>
+      <fax/>
+      <rawText>personname:     Domain Admin
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+fax-no:         &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        GG702595-NICAT
+changed:        20180528 10:51:42
+source:         AT-DOM
+personname:     Domain Admin
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+fax-no:         &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        GG702595-NICAT
+changed:        20180528 10:51:42
+source:         AT-DOM</rawText>
+    </technicalContact>
+    <domainName>feuerwehrsau.at</domainName>
+    <nameServers>
+      <rawText>ns1.world4you.at
+ns2.world4you.at
+</rawText>
+      <hostNames>
+        <Address>ns1.world4you.at</Address>
+        <Address>ns2.world4you.at</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>% Copyright (c)2018 by NIC.AT (1)                                       
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         feuerwehrsau.at
+registrar:      World4You Internet Services GmbH ( https://nic.at/registrar/61 )
+registrant:     NN9648932-NICAT
+tech-c:         GG702595-NICAT
+tech-c:         &lt;data not disclosed&gt;
+nserver:        ns1.world4you.at
+nserver:        ns2.world4you.at
+changed:        20140526 15:27:10
+source:         AT-DOM
+
+personname:     Manuel Baumgartner
+organization:   WISOCARE
+street address: Grillparzerstrasse 28
+postal code:    3512
+city:           Mautern
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        NN9648932-NICAT
+changed:        20140526 15:27:08
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+fax-no:         &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        GG702595-NICAT
+changed:        20180528 10:51:42
+source:         AT-DOM</rawText>
+    <parseCode>3296</parseCode>
+    <header>% Copyright (c)2018 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+% Copyright (c)2018 by NIC.AT (1)
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.</header>
+    <strippedText>
+domain:         feuerwehrsau.at
+registrar:      World4You Internet Services GmbH ( https://nic.at/registrar/61 )
+registrant:     NN9648932-NICAT
+tech-c:         GG702595-NICAT
+tech-c:         &lt;data not disclosed&gt;
+nserver:        ns1.world4you.at
+nserver:        ns2.world4you.at
+changed:        20140526 15:27:10
+source:         AT-DOM
+
+personname:     Manuel Baumgartner
+organization:   WISOCARE
+street address: Grillparzerstrasse 28
+postal code:    3512
+city:           Mautern
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        NN9648932-NICAT
+changed:        20140526 15:27:08
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+fax-no:         &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        GG702595-NICAT
+changed:        20180528 10:51:42
+source:         AT-DOM
+
+domain:         feuerwehrsau.at
+registrar:      World4You Internet Services GmbH ( https://nic.at/registrar/61 )
+registrant:     NN9648932-NICAT
+tech-c:         GG702595-NICAT
+tech-c:         &lt;data not disclosed&gt;
+nserver:        ns1.world4you.at
+nserver:        ns2.world4you.at
+changed:        20140526 15:27:10
+source:         AT-DOM
+
+personname:     Manuel Baumgartner
+organization:   WISOCARE
+street address: Grillparzerstrasse 28
+postal code:    3512
+city:           Mautern
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        NN9648932-NICAT
+changed:        20140526 15:27:08
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   World4You Internet Services GmbH
+street address: Hafenstrasse 47-51
+postal code:    4020
+city:           Linz
+country:        Austria
+phone:          &lt;data not disclosed&gt;
+fax-no:         &lt;data not disclosed&gt;
+e-mail:         &lt;data not disclosed&gt;
+nic-hdl:        GG702595-NICAT
+changed:        20180528 10:51:42
+source:         AT-DOM</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:13:46.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:13:46.000 UTC</updatedDate>
+    </audit>
+    <updatedDateNormalized>2014-05-26 15:27:10 UTC</updatedDateNormalized>
+    <whoisServer>whois.nic.at</whoisServer>
+  </registryData>
+  <domainNameExt>.at</domainNameExt>
+</WhoisRecord>

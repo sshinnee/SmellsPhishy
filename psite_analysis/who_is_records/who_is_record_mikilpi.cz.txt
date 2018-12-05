@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>mikilpi.cz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-01-19 07:16:46.000 UTC</createdDate>
+    <updatedDate>2018-01-19 07:16:46.000 UTC</updatedDate>
+  </audit>
+  <registrarName>REG-IGNUM</registrarName>
+  <registrarIANAID>1746</registrarIANAID>
+  <registryData>
+    <createdDate>16.04.2013 12:07:17</createdDate>
+    <updatedDate>25.04.2017 13:13:56</updatedDate>
+    <expiresDate>16.04.2018</expiresDate>
+    <registrant>
+      <name>Martin Mikulík</name>
+      <organization>Martin Mikulík M factorial</organization>
+      <street1>Durychova</street1>
+      <city>Praha 4</city>
+      <postalCode>14200</postalCode>
+      <country>CZECH REPUBLIC</country>
+      <countryCode>CZ</countryCode>
+      <rawText>contact:      GST44
+org:          Martin Mikulík M factorial
+name:         Martin Mikulík
+address:      Durychova
+address:      Praha 4
+address:      14200
+address:      CZ
+registrar:    REG-MOJEID
+created:      14.04.2013 02:24:09
+contact:      GST44
+org:          Martin Mikulík M factorial
+name:         Martin Mikulík
+address:      Durychova
+address:      Praha 4
+address:      14200
+address:      CZ
+registrar:    REG-MOJEID
+created:      14.04.2013 02:24:09</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Martin Mikulík</name>
+      <organization>Martin Mikulík M factorial</organization>
+      <street1>Durychova</street1>
+      <city>Praha 4</city>
+      <postalCode>14200</postalCode>
+      <country>CZECH REPUBLIC</country>
+      <countryCode>CZ</countryCode>
+      <rawText>contact:      GST44
+org:          Martin Mikulík M factorial
+name:         Martin Mikulík
+address:      Durychova
+address:      Praha 4
+address:      14200
+address:      CZ
+registrar:    REG-MOJEID
+created:      14.04.2013 02:24:09
+contact:      GST44
+org:          Martin Mikulík M factorial
+name:         Martin Mikulík
+address:      Durychova
+address:      Praha 4
+address:      14200
+address:      CZ
+registrar:    REG-MOJEID
+created:      14.04.2013 02:24:09</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Lucie Vojtíková</name>
+      <organization>IGNUM, s.r.o.</organization>
+      <street1>Vinohradská 190</street1>
+      <city>Praha 3</city>
+      <postalCode>130 61</postalCode>
+      <country>CZECH REPUBLIC</country>
+      <countryCode>CZ</countryCode>
+      <email>helpdesk@ignum.cz</email>
+      <telephone>420603111111</telephone>
+      <fax>420296332222</fax>
+      <rawText>contact:      IGNUM-DOMENY
+org:          IGNUM, s. r. o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+e-mail:       jobot@ignum.cz
+registrar:    REG-IGNUM
+created:      13.12.2012 10:40:09
+changed:      01.08.2017 10:55:01
+contact:      IGNUM
+org:          IGNUM, s.r.o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      17.03.2008 14:43:09
+changed:      01.08.2017 10:56:01
+contact:      IGNUM-DOMENY
+org:          IGNUM, s. r. o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+e-mail:       jobot@ignum.cz
+registrar:    REG-IGNUM
+created:      13.12.2012 10:40:09
+changed:      01.08.2017 10:55:01
+contact:      IGNUM
+org:          IGNUM, s.r.o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      17.03.2008 14:43:09
+changed:      01.08.2017 10:56:01</rawText>
+    </technicalContact>
+    <domainName>mikilpi.cz</domainName>
+    <nameServers>
+      <rawText>ns1.ignum.com
+ns2.ignum.cz
+</rawText>
+      <hostNames>
+        <Address>ns1.ignum.com</Address>
+        <Address>ns2.ignum.cz</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>%  (c) 2006-2018 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.10.2
+% Timestamp: Fri Jan 19 08:16:45 2018
+
+domain:       mikilpi.cz
+registrant:   GST44
+admin-c:      GST44
+nsset:        IGNUM
+keyset:       IGNUM
+registrar:    REG-IGNUM
+registered:   16.04.2013 12:07:17
+changed:      14.11.2014 13:15:44
+expire:       16.04.2018
+
+contact:      GST44
+org:          Martin Mikulík M factorial
+name:         Martin Mikulík
+address:      Durychova
+address:      Praha 4
+address:      14200
+address:      CZ
+registrar:    REG-MOJEID
+created:      14.04.2013 02:24:09
+
+nsset:        IGNUM
+nserver:      ns1.ignum.com 
+nserver:      ns2.ignum.cz (217.31.48.201, 2001:1ab0:7e1e:2::5)
+tech-c:       IGNUM-DOMENY
+registrar:    REG-IGNUM
+created:      04.10.2007 15:19:01
+changed:      13.12.2012 16:18:08
+
+contact:      IGNUM-DOMENY
+org:          IGNUM, s. r. o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+e-mail:       jobot@ignum.cz
+registrar:    REG-IGNUM
+created:      13.12.2012 10:40:09
+changed:      01.08.2017 10:55:01
+
+keyset:       IGNUM
+dnskey:       257 3 13 /ml1yEj/W88UjcQ7MCq+7W+vSs1P5NsP3fnhZxBSMn7NIXH9AS7Il+AROwuurb4OcLpMn3J2nE7FFMsf+fbypA==
+tech-c:       IGNUM
+registrar:    REG-IGNUM
+created:      22.12.2011 12:52:38
+changed:      25.04.2017 13:13:56
+
+contact:      IGNUM
+org:          IGNUM, s.r.o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      17.03.2008 14:43:09
+changed:      01.08.2017 10:56:01</rawText>
+    <parseCode>3563</parseCode>
+    <header>%  (c) 2006-2018 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.10.2
+% Timestamp: Fri Jan 19 08:16:45 2018
+%  (c) 2006-2018 CZ.NIC, z.s.p.o.
+%
+% Intended use of supplied data and information
+%
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+%
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+%
+% See also a search service at http://www.nic.cz/whois/
+%
+%
+% Whoisd Server Version: 3.10.2
+% Timestamp: Fri Jan 19 08:16:45 2018</header>
+    <strippedText>
+domain:       mikilpi.cz
+registrant:   GST44
+admin-c:      GST44
+nsset:        IGNUM
+keyset:       IGNUM
+registrar:    REG-IGNUM
+registered:   16.04.2013 12:07:17
+changed:      14.11.2014 13:15:44
+expire:       16.04.2018
+
+contact:      GST44
+org:          Martin Mikulík M factorial
+name:         Martin Mikulík
+address:      Durychova
+address:      Praha 4
+address:      14200
+address:      CZ
+registrar:    REG-MOJEID
+created:      14.04.2013 02:24:09
+
+nsset:        IGNUM
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz (217.31.48.201, 2001:1ab0:7e1e:2::5)
+tech-c:       IGNUM-DOMENY
+registrar:    REG-IGNUM
+created:      04.10.2007 15:19:01
+changed:      13.12.2012 16:18:08
+
+contact:      IGNUM-DOMENY
+org:          IGNUM, s. r. o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+e-mail:       jobot@ignum.cz
+registrar:    REG-IGNUM
+created:      13.12.2012 10:40:09
+changed:      01.08.2017 10:55:01
+
+keyset:       IGNUM
+dnskey:       257 3 13 /ml1yEj/W88UjcQ7MCq+7W+vSs1P5NsP3fnhZxBSMn7NIXH9AS7Il+AROwuurb4OcLpMn3J2nE7FFMsf+fbypA==
+tech-c:       IGNUM
+registrar:    REG-IGNUM
+created:      22.12.2011 12:52:38
+changed:      25.04.2017 13:13:56
+
+contact:      IGNUM
+org:          IGNUM, s.r.o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      17.03.2008 14:43:09
+changed:      01.08.2017 10:56:01
+
+domain:       mikilpi.cz
+registrant:   GST44
+admin-c:      GST44
+nsset:        IGNUM
+keyset:       IGNUM
+registrar:    REG-IGNUM
+registered:   16.04.2013 12:07:17
+changed:      14.11.2014 13:15:44
+expire:       16.04.2018
+
+contact:      GST44
+org:          Martin Mikulík M factorial
+name:         Martin Mikulík
+address:      Durychova
+address:      Praha 4
+address:      14200
+address:      CZ
+registrar:    REG-MOJEID
+created:      14.04.2013 02:24:09
+
+nsset:        IGNUM
+nserver:      ns1.ignum.com
+nserver:      ns2.ignum.cz (217.31.48.201, 2001:1ab0:7e1e:2::5)
+tech-c:       IGNUM-DOMENY
+registrar:    REG-IGNUM
+created:      04.10.2007 15:19:01
+changed:      13.12.2012 16:18:08
+
+contact:      IGNUM-DOMENY
+org:          IGNUM, s. r. o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+e-mail:       jobot@ignum.cz
+registrar:    REG-IGNUM
+created:      13.12.2012 10:40:09
+changed:      01.08.2017 10:55:01
+
+keyset:       IGNUM
+dnskey:       257 3 13 /ml1yEj/W88UjcQ7MCq+7W+vSs1P5NsP3fnhZxBSMn7NIXH9AS7Il+AROwuurb4OcLpMn3J2nE7FFMsf+fbypA==
+tech-c:       IGNUM
+registrar:    REG-IGNUM
+created:      22.12.2011 12:52:38
+changed:      25.04.2017 13:13:56
+
+contact:      IGNUM
+org:          IGNUM, s.r.o.
+name:         Lucie Vojtíková
+address:      Vinohradská 190
+address:      Praha 3
+address:      130 61
+address:      CZ
+phone:        +420.603111111
+fax-no:       +420.296332222
+e-mail:       helpdesk@ignum.cz
+registrar:    REG-IGNUM
+created:      17.03.2008 14:43:09
+changed:      01.08.2017 10:56:01</strippedText>
+    <audit>
+      <createdDate>2018-01-19 07:16:46.000 UTC</createdDate>
+      <updatedDate>2018-01-19 07:16:46.000 UTC</updatedDate>
+    </audit>
+    <registrarName>REG-IGNUM</registrarName>
+    <registrarIANAID>1746</registrarIANAID>
+    <createdDateNormalized>2013-04-16 12:07:17 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-04-25 13:13:56 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-04-16 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.nic.cz</whoisServer>
+  </registryData>
+  <contactEmail>helpdesk@ignum.cz</contactEmail>
+  <domainNameExt>.cz</domainNameExt>
+  <estimatedDomainAge>2055</estimatedDomainAge>
+</WhoisRecord>

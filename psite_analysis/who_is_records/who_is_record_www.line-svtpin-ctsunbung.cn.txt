@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>line-svtpin-ctsunbung.cn</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:45.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:45.000 UTC</updatedDate>
+  </audit>
+  <registrarName>阿里云计算有限公司（万网）</registrarName>
+  <registryData>
+    <createdDate>2018-11-15 11:43:53</createdDate>
+    <expiresDate>2019-11-15 11:43:53</expiresDate>
+    <registrant>
+      <name>闫忠政</name>
+      <email>2456075321@qq.com</email>
+    </registrant>
+    <domainName>line-svtpin-ctsunbung.cn</domainName>
+    <nameServers>
+      <rawText>dns23.hichina.com
+dns24.hichina.com
+</rawText>
+      <hostNames>
+        <Address>dns23.hichina.com</Address>
+        <Address>dns24.hichina.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: line-svtpin-ctsunbung.cn
+ROID: 20181115s10001s07646887-cn
+Domain Status: ok
+Registrant ID: hc2685467737681
+Registrant: 闫忠政
+Registrant Contact Email: 2456075321@qq.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns23.hichina.com
+Name Server: dns24.hichina.com
+Registration Time: 2018-11-15 11:43:53
+Expiration Time: 2019-11-15 11:43:53
+DNSSEC: unsigned</rawText>
+    <parseCode>219</parseCode>
+    <header/>
+    <strippedText>Domain Name: line-svtpin-ctsunbung.cn
+ROID: 20181115s10001s07646887-cn
+Domain Status: ok
+Registrant ID: hc2685467737681
+Registrant: 闫忠政
+Registrant Contact Email: 2456075321@qq.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns23.hichina.com
+Name Server: dns24.hichina.com
+Registration Time: 2018-11-15 11:43:53
+Expiration Time: 2019-11-15 11:43:53
+DNSSEC: unsigned
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 00:14:45.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:45.000 UTC</updatedDate>
+    </audit>
+    <registrarName>阿里云计算有限公司（万网）</registrarName>
+    <createdDateNormalized>2018-11-15 11:43:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-11-15 11:43:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.cnnic.net.cn</whoisServer>
+  </registryData>
+  <contactEmail>2456075321@qq.com</contactEmail>
+  <domainNameExt>.cn</domainNameExt>
+  <estimatedDomainAge>16</estimatedDomainAge>
+</WhoisRecord>

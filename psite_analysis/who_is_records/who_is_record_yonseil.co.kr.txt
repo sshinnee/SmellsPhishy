@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>yonseil.co.kr</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:32:30.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:32:30.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Blueweb.co,Ltd(http://www.blueweb.co.kr)</registrarName>
+  <registrarIANAID>1413</registrarIANAID>
+  <registryData>
+    <createdDate>2014. 01. 08.</createdDate>
+    <updatedDate>2014. 01. 08.</updatedDate>
+    <expiresDate>2024. 01. 08.</expiresDate>
+    <registrant>
+      <name>Jung Hyun Lee</name>
+    </registrant>
+    <administrativeContact>
+      <name>Jung Hyun Lee</name>
+      <email>docljh@empas.com</email>
+    </administrativeContact>
+    <domainName>yonseil.co.kr</domainName>
+    <nameServers>
+      <rawText>ns4.blueweb.co.kr
+ns5.blueweb.co.kr
+</rawText>
+      <hostNames>
+        <Address>ns4.blueweb.co.kr</Address>
+        <Address>ns5.blueweb.co.kr</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>query : yonseil.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : yonseil.co.kr
+등록인                      : 이정현
+책임자                      : 이정현
+책임자 전자우편             : docljh@empas.com
+등록일                      : 2014. 01. 08.
+최근 정보 변경일            : 2014. 01. 08.
+사용 종료일                 : 2024. 01. 08.
+정보공개여부                : N
+등록대행자                  : (주)블루웹(http://www.blueweb.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns4.blueweb.co.kr
+   IP 주소                  : 211.202.2.4
+
+2차 네임서버 정보
+   호스트이름               : ns5.blueweb.co.kr
+   IP 주소                  : 210.205.6.9
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : yonseil.co.kr
+Registrant                  : Jung Hyun Lee
+Administrative Contact(AC)  : Jung Hyun Lee
+AC E-Mail                   : docljh@empas.com
+Registered Date             : 2014. 01. 08.
+Last Updated Date           : 2014. 01. 08.
+Expiration Date             : 2024. 01. 08.
+Publishes                   : N
+Authorized Agency           : Blueweb.co,Ltd(http://www.blueweb.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns4.blueweb.co.kr
+   IP Address               : 211.202.2.4
+
+Secondary Name Server
+   Host Name                : ns5.blueweb.co.kr
+   IP Address               : 210.205.6.9
+
+
+
+- KISA/KRNIC WHOIS Service -</rawText>
+    <parseCode>235</parseCode>
+    <header>query : yonseil.co.kr
+# KOREAN(UTF8)
+도메인이름                  : yonseil.co.kr
+등록인                      : 이정현
+책임자                      : 이정현
+책임자 전자우편             : docljh@empas.com
+등록일                      : 2014. 01. 08.
+최근 정보 변경일            : 2014. 01. 08.
+사용 종료일                 : 2024. 01. 08.
+정보공개여부                : N
+등록대행자                  : (주)블루웹(http://www.blueweb.co.kr)
+DNSSEC                      : 미서명
+1차 네임서버 정보
+호스트이름               : ns4.blueweb.co.kr
+IP 주소                  : 211.202.2.4
+2차 네임서버 정보
+호스트이름               : ns5.blueweb.co.kr
+IP 주소                  : 210.205.6.9
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+</header>
+    <strippedText># ENGLISH
+Domain Name                 : yonseil.co.kr
+Registrant                  : Jung Hyun Lee
+Administrative Contact(AC)  : Jung Hyun Lee
+AC E-Mail                   : docljh@empas.com
+Registered Date             : 2014. 01. 08.
+Last Updated Date           : 2014. 01. 08.
+Expiration Date             : 2024. 01. 08.
+Publishes                   : N
+Authorized Agency           : Blueweb.co,Ltd(http://www.blueweb.co.kr)
+DNSSEC                      : unsigned
+Primary Name Server
+Host Name                : ns4.blueweb.co.kr
+IP Address               : 211.202.2.4
+Secondary Name Server
+Host Name                : ns5.blueweb.co.kr
+IP Address               : 210.205.6.9
+- KISA/KRNIC WHOIS Service -
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 13:32:30.000 UTC</createdDate>
+      <updatedDate>2018-12-01 13:32:30.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Blueweb.co,Ltd(http://www.blueweb.co.kr)</registrarName>
+    <registrarIANAID>1413</registrarIANAID>
+    <createdDateNormalized>2014-01-08 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2014-01-08 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2024-01-08 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.krnic.net</whoisServer>
+  </registryData>
+  <contactEmail>docljh@empas.com</contactEmail>
+  <domainNameExt>.co.kr</domainNameExt>
+  <estimatedDomainAge>1788</estimatedDomainAge>
+</WhoisRecord>

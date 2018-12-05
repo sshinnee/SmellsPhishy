@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>96.lt</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:26:16.838 UTC</createdDate>
+    <updatedDate>2018-12-01 14:26:16.838 UTC</updatedDate>
+  </audit>
+  <registrarName>Telia Lietuva, AB</registrarName>
+  <registryData>
+    <createdDate>2015-09-28</createdDate>
+    <expiresDate>2019-09-29</expiresDate>
+    <domainName>96.lt</domainName>
+    <nameServers>
+      <rawText>ns1.hostinger.com
+ns2.hostinger.com
+ns3.hostinger.com
+ns4.hostinger.com
+</rawText>
+      <hostNames>
+        <Address>ns1.hostinger.com</Address>
+        <Address>ns2.hostinger.com</Address>
+        <Address>ns3.hostinger.com</Address>
+        <Address>ns4.hostinger.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>registered</status>
+    <rawText>% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%
+Domain:			96.lt
+Status:			registered
+Registered:		2015-09-28
+Expires:		2019-09-29
+%
+Registrar:		Telia Lietuva, AB
+Registrar website:	http://www.hostex.lt
+Registrar email:	domains@hostex.lt
+%
+Contact organization:	Telia Lietuva, AB
+Contact email:		domains@hostex.lt
+%
+Nameserver:		ns1.hostinger.com	
+Nameserver:		ns2.hostinger.com	
+Nameserver:		ns3.hostinger.com	
+Nameserver:		ns4.hostinger.com</rawText>
+    <parseCode>219</parseCode>
+    <header>% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%</header>
+    <strippedText>Domain:			96.lt
+Status:			registered
+Registered:		2015-09-28
+Expires:		2019-09-29
+%
+Registrar:		Telia Lietuva, AB
+Registrar website:	http://www.hostex.lt
+Registrar email:	domains@hostex.lt
+%
+Contact organization:	Telia Lietuva, AB
+Contact email:		domains@hostex.lt
+%
+Nameserver:		ns1.hostinger.com
+Nameserver:		ns2.hostinger.com
+Nameserver:		ns3.hostinger.com
+Nameserver:		ns4.hostinger.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:26:16.838 UTC</createdDate>
+      <updatedDate>2018-12-01 14:26:16.838 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>domains@hostex.lt</customField1Value>
+    <registrarName>Telia Lietuva, AB</registrarName>
+    <createdDateNormalized>2015-09-28 00:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-09-29 00:00:00 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.hostex.lt</customField3Value>
+    <whoisServer>whois.domreg.lt</whoisServer>
+  </registryData>
+  <contactEmail>domains@hostex.lt</contactEmail>
+  <domainNameExt>.lt</domainNameExt>
+  <estimatedDomainAge>1160</estimatedDomainAge>
+</WhoisRecord>

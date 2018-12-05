@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>wolka-asg.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:54.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:54.000 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-22T15:12:08Z</createdDate>
+    <updatedDate>2018-11-27T20:18:49Z</updatedDate>
+    <expiresDate>2019-11-22T15:12:08Z</expiresDate>
+    <registrant>
+      <name>george george</name>
+      <street1>no 45</street1>
+      <city>Roma</city>
+      <state>Roma</state>
+      <postalCode>45544</postalCode>
+      <country>ITALY</country>
+      <countryCode>IT</countryCode>
+      <email>ghtrhrtgr@protonmail.com</email>
+      <telephone>155443456674</telephone>
+      <rawText>Registrant Name: george george
+Registrant Street: no 45
+Registrant City: Roma
+Registrant State/Province: Roma
+Registrant Postal Code: 45544
+Registrant Country: IT
+Registrant Phone: +1.55443456674
+Registrant Email: ghtrhrtgr@protonmail.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>george george</name>
+      <street1>no 45</street1>
+      <city>Roma</city>
+      <state>Roma</state>
+      <postalCode>45544</postalCode>
+      <country>ITALY</country>
+      <countryCode>IT</countryCode>
+      <email>ghtrhrtgr@protonmail.com</email>
+      <telephone>155443456674</telephone>
+      <rawText>Admin Name: george george
+Admin Street: no 45
+Admin City: Roma
+Admin State/Province: Roma
+Admin Postal Code: 45544
+Admin Country: IT
+Admin Phone: +1.55443456674
+Admin Email: ghtrhrtgr@protonmail.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>george george</name>
+      <street1>no 45</street1>
+      <city>Roma</city>
+      <state>Roma</state>
+      <postalCode>45544</postalCode>
+      <country>ITALY</country>
+      <countryCode>IT</countryCode>
+      <email>ghtrhrtgr@protonmail.com</email>
+      <telephone>155443456674</telephone>
+      <rawText>Tech Name: george george
+Tech Street: no 45
+Tech City: Roma
+Tech State/Province: Roma
+Tech Postal Code: 45544
+Tech Country: IT
+Tech Phone: +1.55443456674
+Tech Email: ghtrhrtgr@protonmail.com</rawText>
+    </technicalContact>
+    <domainName>wolka-asg.us</domainName>
+    <nameServers>
+      <rawText>ns8.mynewwebsitess.com
+ns7.mynewwebsitess.com
+</rawText>
+      <hostNames>
+        <Address>ns8.mynewwebsitess.com</Address>
+        <Address>ns7.mynewwebsitess.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: wolka-asg.us
+Registry Domain ID: DBE8C8F1BF9474BB1969FA948E53655D8-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-27T20:18:49Z
+Creation Date: 2018-11-22T15:12:08Z
+Registry Expiry Date: 2019-11-22T15:12:08Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C0B0A08059F254AF2AAC0E05595BE1BC6-NSR
+Registrant Name: george george
+Registrant Organization:
+Registrant Street: no 45
+Registrant Street:
+Registrant Street:
+Registrant City: Roma
+Registrant State/Province: Roma
+Registrant Postal Code: 45544
+Registrant Country: IT
+Registrant Phone: +1.55443456674
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: ghtrhrtgr@protonmail.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: CA7BD206138ED47C4BE0E0642B51EB605-NSR
+Admin Name: george george
+Admin Organization:
+Admin Street: no 45
+Admin Street:
+Admin Street:
+Admin City: Roma
+Admin State/Province: Roma
+Admin Postal Code: 45544
+Admin Country: IT
+Admin Phone: +1.55443456674
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: ghtrhrtgr@protonmail.com
+Registry Tech ID: C5A413DA9759147678CCD7939E0E27CB7-NSR
+Tech Name: george george
+Tech Organization:
+Tech Street: no 45
+Tech Street:
+Tech Street:
+Tech City: Roma
+Tech State/Province: Roma
+Tech Postal Code: 45544
+Tech Country: IT
+Tech Phone: +1.55443456674
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: ghtrhrtgr@protonmail.com
+Name Server: ns8.mynewwebsitess.com
+Name Server: ns7.mynewwebsitess.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:14:54Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: wolka-asg.us
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-27T20:18:49Z
+Creation Date: 2018-11-22T15:12:08Z
+Registry Expiry Date: 2019-11-22T15:12:08Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: george george
+Registrant Street: no 45
+Registrant City: Roma
+Registrant State/Province: Roma
+Registrant Postal Code: 45544
+Registrant Country: IT
+Registrant Phone: +1.55443456674
+Registrant Email: ghtrhrtgr@protonmail.com
+Admin Name: george george
+Admin Street: no 45
+Admin City: Roma
+Admin State/Province: Roma
+Admin Postal Code: 45544
+Admin Country: IT
+Admin Phone: +1.55443456674
+Admin Email: ghtrhrtgr@protonmail.com
+Tech Name: george george
+Tech Street: no 45
+Tech City: Roma
+Tech State/Province: Roma
+Tech Postal Code: 45544
+Tech Country: IT
+Tech Phone: +1.55443456674
+Tech Email: ghtrhrtgr@protonmail.com
+Name Server: ns8.mynewwebsitess.com
+Name Server: ns7.mynewwebsitess.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:14:54.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:54.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-11-22 15:12:08 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-27 20:18:49 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-22 15:12:08 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>http://www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>ghtrhrtgr@protonmail.com</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>8</estimatedDomainAge>
+</WhoisRecord>

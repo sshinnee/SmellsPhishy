@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2018-11-29T11:24:25Z</createdDate>
+  <updatedDate>2018-11-29T11:24:27Z</updatedDate>
+  <expiresDate>2019-11-29T11:24:25Z</expiresDate>
+  <registrant>
+    <name>FERNANDA  NOGUEIRA DE SOUSA</name>
+    <organization>FERNANDA  NOGUEIRA DE SOUSA</organization>
+    <street1>Rua Abrahao Garfinkel</street1>
+    <city>sao paulo</city>
+    <state>SP</state>
+    <postalCode>03318-010</postalCode>
+    <country>BRAZIL</country>
+    <countryCode>BR</countryCode>
+    <email>reginaldomoura@sapo.cv</email>
+    <telephone>5511996228992</telephone>
+    <rawText>Registrant Name: FERNANDA  NOGUEIRA DE SOUSA
+Registrant Organization: FERNANDA  NOGUEIRA DE SOUSA
+Registrant Street: Rua Abrahao Garfinkel
+Registrant City: sao paulo
+Registrant State/Province: SP
+Registrant Postal Code: 03318-010
+Registrant Country: BR
+Registrant Phone: +55.11996228992
+Registrant Email: reginaldomoura@sapo.cv</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>FERNANDA  NOGUEIRA DE SOUSA</name>
+    <organization>FERNANDA  NOGUEIRA DE SOUSA</organization>
+    <street1>Rua Abrahao Garfinkel</street1>
+    <city>sao paulo</city>
+    <state>SP</state>
+    <postalCode>03318-010</postalCode>
+    <country>BRAZIL</country>
+    <countryCode>BR</countryCode>
+    <email>reginaldomoura@sapo.cv</email>
+    <telephone>5511996228992</telephone>
+    <rawText>Admin Name: FERNANDA  NOGUEIRA DE SOUSA
+Admin Organization: FERNANDA  NOGUEIRA DE SOUSA
+Admin Street: Rua Abrahao Garfinkel
+Admin City: sao paulo
+Admin State/Province: SP
+Admin Postal Code: 03318-010
+Admin Country: BR
+Admin Phone: +55.11996228992
+Admin Email: reginaldomoura@sapo.cv</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>FERNANDA  NOGUEIRA DE SOUSA</name>
+    <organization>FERNANDA  NOGUEIRA DE SOUSA</organization>
+    <street1>Rua Abrahao Garfinkel</street1>
+    <city>sao paulo</city>
+    <state>SP</state>
+    <postalCode>03318-010</postalCode>
+    <country>BRAZIL</country>
+    <countryCode>BR</countryCode>
+    <email>reginaldomoura@sapo.cv</email>
+    <telephone>5511996228992</telephone>
+    <rawText>Tech Name: FERNANDA  NOGUEIRA DE SOUSA
+Tech Organization: FERNANDA  NOGUEIRA DE SOUSA
+Tech Street: Rua Abrahao Garfinkel
+Tech City: sao paulo
+Tech State/Province: SP
+Tech Postal Code: 03318-010
+Tech Country: BR
+Tech Phone: +55.11996228992
+Tech Email: reginaldomoura@sapo.cv</rawText>
+  </technicalContact>
+  <domainName>empresapublica.com</domainName>
+  <nameServers>
+    <rawText>alla.ns.cloudflare.com
+kai.ns.cloudflare.com
+</rawText>
+    <hostNames>
+      <Address>alla.ns.cloudflare.com</Address>
+      <Address>kai.ns.cloudflare.com</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited</status>
+  <rawText>Domain Name: EMPRESAPUBLICA.COM
+Registry Domain ID: 2338045955_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.hostinger.com
+Registrar URL: https://www.hostinger.com
+Updated Date: 2018-11-29T11:24:27Z
+Creation Date: 2018-11-29T11:24:25Z
+Registrar Registration Expiration Date: 2019-11-29T11:24:25Z
+Registrar: Hostinger, UAB
+Registrar IANA ID: 1636
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: FERNANDA  NOGUEIRA DE SOUSA
+Registrant Organization: FERNANDA  NOGUEIRA DE SOUSA
+Registrant Street: Rua Abrahao Garfinkel   
+Registrant City: sao paulo
+Registrant State/Province: SP
+Registrant Postal Code: 03318-010
+Registrant Country: BR
+Registrant Phone: +55.11996228992
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: reginaldomoura@sapo.cv
+Registry Admin ID: Not Available From Registry
+Admin Name: FERNANDA  NOGUEIRA DE SOUSA
+Admin Organization: FERNANDA  NOGUEIRA DE SOUSA
+Admin Street: Rua Abrahao Garfinkel  
+Admin City: sao paulo
+Admin State/Province: SP
+Admin Postal Code: 03318-010
+Admin Country: BR
+Admin Phone: +55.11996228992
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: reginaldomoura@sapo.cv
+Registry Tech ID: Not Available From Registry
+Tech Name: FERNANDA  NOGUEIRA DE SOUSA
+Tech Organization: FERNANDA  NOGUEIRA DE SOUSA
+Tech Street: Rua Abrahao Garfinkel  
+Tech City: sao paulo
+Tech State/Province: SP
+Tech Postal Code: 03318-010
+Tech Country: BR
+Tech Phone: +55.11996228992
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: reginaldomoura@sapo.cv
+Name Server: alla.ns.cloudflare.com
+Name Server: kai.ns.cloudflare.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@hostinger.com
+Registrar Abuse Contact Phone: +37064503378
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T07:08:53Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: WEBLINK.COM.BR
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Hostinger, UAB. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: EMPRESAPUBLICA.COM
+Registrar WHOIS Server: whois.hostinger.com
+Registrar URL: https://www.hostinger.com
+Updated Date: 2018-11-29T11:24:27Z
+Creation Date: 2018-11-29T11:24:25Z
+Registrar Registration Expiration Date: 2019-11-29T11:24:25Z
+Registrar: Hostinger, UAB
+Registrar IANA ID: 1636
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: FERNANDA  NOGUEIRA DE SOUSA
+Registrant Organization: FERNANDA  NOGUEIRA DE SOUSA
+Registrant Street: Rua Abrahao Garfinkel
+Registrant City: sao paulo
+Registrant State/Province: SP
+Registrant Postal Code: 03318-010
+Registrant Country: BR
+Registrant Phone: +55.11996228992
+Registrant Email: reginaldomoura@sapo.cv
+Admin Name: FERNANDA  NOGUEIRA DE SOUSA
+Admin Organization: FERNANDA  NOGUEIRA DE SOUSA
+Admin Street: Rua Abrahao Garfinkel
+Admin City: sao paulo
+Admin State/Province: SP
+Admin Postal Code: 03318-010
+Admin Country: BR
+Admin Phone: +55.11996228992
+Admin Email: reginaldomoura@sapo.cv
+Tech Name: FERNANDA  NOGUEIRA DE SOUSA
+Tech Organization: FERNANDA  NOGUEIRA DE SOUSA
+Tech Street: Rua Abrahao Garfinkel
+Tech City: sao paulo
+Tech State/Province: SP
+Tech Postal Code: 03318-010
+Tech Country: BR
+Tech Phone: +55.11996228992
+Tech Email: reginaldomoura@sapo.cv
+Name Server: alla.ns.cloudflare.com
+Name Server: kai.ns.cloudflare.com
+Registrar Abuse Contact Email: abuse@hostinger.com
+Registrar Abuse Contact Phone: +37064503378
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 07:08:52.000 UTC</createdDate>
+    <updatedDate>2018-12-01 07:08:52.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@hostinger.com</customField1Value>
+  <registrarName>Hostinger, UAB</registrarName>
+  <registrarIANAID>1636</registrarIANAID>
+  <whoisServer>whois.hostinger.com</whoisServer>
+  <createdDateNormalized>2018-11-29 11:24:25 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-11-29 11:24:27 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-11-29 11:24:25 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+37064503378</customField2Value>
+  <customField3Value>https://www.hostinger.com</customField3Value>
+  <registryData>
+    <createdDate>2018-11-29T11:24:25Z</createdDate>
+    <updatedDate>2018-11-29T11:50:52Z</updatedDate>
+    <expiresDate>2019-11-29T11:24:25Z</expiresDate>
+    <domainName>empresapublica.com</domainName>
+    <nameServers>
+      <rawText>ALLA.NS.CLOUDFLARE.COM
+KAI.NS.CLOUDFLARE.COM
+</rawText>
+      <hostNames>
+        <Address>ALLA.NS.CLOUDFLARE.COM</Address>
+        <Address>KAI.NS.CLOUDFLARE.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: EMPRESAPUBLICA.COM
+   Registry Domain ID: 2338045955_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.hostinger.com
+   Registrar URL: http://www.hostinger.com
+   Updated Date: 2018-11-29T11:50:52Z
+   Creation Date: 2018-11-29T11:24:25Z
+   Registry Expiry Date: 2019-11-29T11:24:25Z
+   Registrar: Hostinger, UAB
+   Registrar IANA ID: 1636
+   Registrar Abuse Contact Email: abuse@hostinger.com
+   Registrar Abuse Contact Phone: +37064503378
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: ALLA.NS.CLOUDFLARE.COM
+   Name Server: KAI.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T07:08:38Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: EMPRESAPUBLICA.COM
+Registry Domain ID: 2338045955_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.hostinger.com
+Registrar URL: http://www.hostinger.com
+Updated Date: 2018-11-29T11:50:52Z
+Creation Date: 2018-11-29T11:24:25Z
+Registry Expiry Date: 2019-11-29T11:24:25Z
+Registrar: Hostinger, UAB
+Registrar IANA ID: 1636
+Registrar Abuse Contact Email: abuse@hostinger.com
+Registrar Abuse Contact Phone: +37064503378
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ALLA.NS.CLOUDFLARE.COM
+Name Server: KAI.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T07:08:38Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 07:08:52.000 UTC</createdDate>
+      <updatedDate>2018-12-01 07:08:52.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@hostinger.com</customField1Value>
+    <registrarName>Hostinger, UAB</registrarName>
+    <registrarIANAID>1636</registrarIANAID>
+    <createdDateNormalized>2018-11-29 11:24:25 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 11:50:52 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 11:24:25 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+37064503378</customField2Value>
+    <customField3Value>http://www.hostinger.com</customField3Value>
+    <whoisServer>whois.hostinger.com</whoisServer>
+  </registryData>
+  <contactEmail>reginaldomoura@sapo.cv</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

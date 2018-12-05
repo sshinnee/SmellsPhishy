@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2011-03-25T04:27:59Z</createdDate>
+  <updatedDate>2018-02-12T03:31:29Z</updatedDate>
+  <expiresDate>2019-03-25T04:27:59Z</expiresDate>
+  <registrant>
+    <name>Adwin Adhynata</name>
+    <organization>FRONTS creative factory</organization>
+    <street1>Jl. Surya Sumantri no. 48</street1>
+    <city>Bandung</city>
+    <state>Jawa Barat</state>
+    <postalCode>40164</postalCode>
+    <country>INDONESIA</country>
+    <countryCode>ID</countryCode>
+    <email>adhynata@yahoo.com</email>
+    <telephone>6281809070540</telephone>
+    <rawText>Registrant Name: Adwin Adhynata
+Registrant Organization: FRONTS creative factory
+Registrant Street: Jl. Surya Sumantri no. 48
+Registrant City: Bandung
+Registrant State/Province: Jawa Barat
+Registrant Postal Code: 40164
+Registrant Country: ID
+Registrant Phone: +62.81809070540
+Registrant Email: adhynata@yahoo.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Adwin Adhynata</name>
+    <organization>FRONTS creative factory</organization>
+    <street1>Jl. Surya Sumantri no. 48</street1>
+    <city>Bandung</city>
+    <state>Jawa Barat</state>
+    <postalCode>40164</postalCode>
+    <country>INDONESIA</country>
+    <countryCode>ID</countryCode>
+    <email>adhynata@yahoo.com</email>
+    <telephone>6281809070540</telephone>
+    <rawText>Admin Name: Adwin Adhynata
+Admin Organization: FRONTS creative factory
+Admin Street: Jl. Surya Sumantri no. 48
+Admin City: Bandung
+Admin State/Province: Jawa Barat
+Admin Postal Code: 40164
+Admin Country: ID
+Admin Phone: +62.81809070540
+Admin Email: adhynata@yahoo.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Adwin Adhynata</name>
+    <organization>FRONTS creative factory</organization>
+    <street1>Jl. Surya Sumantri no. 48</street1>
+    <city>Bandung</city>
+    <state>Jawa Barat</state>
+    <postalCode>40164</postalCode>
+    <country>INDONESIA</country>
+    <countryCode>ID</countryCode>
+    <email>adhynata@yahoo.com</email>
+    <telephone>6281809070540</telephone>
+    <rawText>Tech Name: Adwin Adhynata
+Tech Organization: FRONTS creative factory
+Tech Street: Jl. Surya Sumantri no. 48
+Tech City: Bandung
+Tech State/Province: Jawa Barat
+Tech Postal Code: 40164
+Tech Country: ID
+Tech Phone: +62.81809070540
+Tech Email: adhynata@yahoo.com</rawText>
+  </technicalContact>
+  <domainName>transformmannequins.com</domainName>
+  <nameServers>
+    <rawText>ns1.idwebhost.com
+ns2.idwebhost.com
+</rawText>
+    <hostNames>
+      <Address>ns1.idwebhost.com</Address>
+      <Address>ns2.idwebhost.com</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited</status>
+  <rawText>Domain Name: TRANSFORMMANNEQUINS.COM
+Registry Domain ID: 1647295025_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.resellercamp.com
+Registrar URL: http://resellercamp.com/
+Updated Date: 2018-02-12T03:31:29Z
+Creation Date: 2011-03-25T04:27:59Z
+Registrar Registration Expiration Date: 2019-03-25T04:27:59Z
+Registrar: CV. Jogjacamp
+Registrar IANA ID: 1478
+Registrar Abuse Contact Email: abuse@resellercamp.com
+Registrar Abuse Contact Phone: +62.82141570000
+Domain Status: clientTransferProhibited (http://icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: 
+Registrant Name: Adwin Adhynata
+Registrant Organization: FRONTS creative factory
+Registrant Street: Jl. Surya Sumantri no. 48
+Registrant City: Bandung
+Registrant State/Province: Jawa Barat
+Registrant Postal Code: 40164
+Registrant Country: ID
+Registrant Phone: +62.81809070540
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: adhynata@yahoo.com
+Registry Admin ID: 
+Admin Name: Adwin Adhynata
+Admin Organization: FRONTS creative factory
+Admin Street: Jl. Surya Sumantri no. 48
+Admin City: Bandung
+Admin State/Province: Jawa Barat
+Admin Postal Code: 40164
+Admin Country: ID
+Admin Phone: +62.81809070540
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: adhynata@yahoo.com
+Registry Tech ID: 
+Tech Name: Adwin Adhynata
+Tech Organization: FRONTS creative factory
+Tech Street: Jl. Surya Sumantri no. 48
+Tech City: Bandung
+Tech State/Province: Jawa Barat
+Tech Postal Code: 40164
+Tech Country: ID
+Tech Phone: +62.81809070540
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: adhynata@yahoo.com
+Name Server: ns1.idwebhost.com
+Name Server: ns2.idwebhost.com
+DNSSEC: Unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+&gt;&gt;&gt;Last update of WHOIS database: 2018-12-01T00:16:09Z&lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: IDWEBHOST
+
+The data in this whois database is provided to you for information purposes
+only, that is, to assist you in obtaining information about or related to a
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or
+by telephone.
+The compilation, repackaging, dissemination or other use of this data is
+expressly prohibited without prior written consent from us. The Registrar of
+record is CV. Jogjacamp.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: TRANSFORMMANNEQUINS.COM
+Registrar WHOIS Server: whois.resellercamp.com
+Registrar URL: http://resellercamp.com/
+Updated Date: 2018-02-12T03:31:29Z
+Creation Date: 2011-03-25T04:27:59Z
+Registrar Registration Expiration Date: 2019-03-25T04:27:59Z
+Registrar: CV. Jogjacamp
+Registrar IANA ID: 1478
+Registrar Abuse Contact Email: abuse@resellercamp.com
+Registrar Abuse Contact Phone: +62.82141570000
+Domain Status: clientTransferProhibited (http://icann.org/epp#clientTransferProhibited)
+Registrant Name: Adwin Adhynata
+Registrant Organization: FRONTS creative factory
+Registrant Street: Jl. Surya Sumantri no. 48
+Registrant City: Bandung
+Registrant State/Province: Jawa Barat
+Registrant Postal Code: 40164
+Registrant Country: ID
+Registrant Phone: +62.81809070540
+Registrant Email: adhynata@yahoo.com
+Admin Name: Adwin Adhynata
+Admin Organization: FRONTS creative factory
+Admin Street: Jl. Surya Sumantri no. 48
+Admin City: Bandung
+Admin State/Province: Jawa Barat
+Admin Postal Code: 40164
+Admin Country: ID
+Admin Phone: +62.81809070540
+Admin Email: adhynata@yahoo.com
+Tech Name: Adwin Adhynata
+Tech Organization: FRONTS creative factory
+Tech Street: Jl. Surya Sumantri no. 48
+Tech City: Bandung
+Tech State/Province: Jawa Barat
+Tech Postal Code: 40164
+Tech Country: ID
+Tech Phone: +62.81809070540
+Tech Email: adhynata@yahoo.com
+Name Server: ns1.idwebhost.com
+Name Server: ns2.idwebhost.com
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 00:31:10.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:31:10.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@resellercamp.com</customField1Value>
+  <registrarName>CV. Jogjacamp</registrarName>
+  <registrarIANAID>1478</registrarIANAID>
+  <whoisServer>whois.resellercamp.com</whoisServer>
+  <createdDateNormalized>2011-03-25 04:27:59 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-02-12 03:31:29 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-03-25 04:27:59 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+62.82141570000</customField2Value>
+  <customField3Value>http://resellercamp.com/</customField3Value>
+  <registryData>
+    <createdDate>2011-03-25T04:27:59Z</createdDate>
+    <updatedDate>2018-02-12T03:31:14Z</updatedDate>
+    <expiresDate>2019-03-25T04:27:59Z</expiresDate>
+    <domainName>transformmannequins.com</domainName>
+    <nameServers>
+      <rawText>NS1.IDWEBHOST.COM
+NS2.IDWEBHOST.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.IDWEBHOST.COM</Address>
+        <Address>NS2.IDWEBHOST.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: TRANSFORMMANNEQUINS.COM
+   Registry Domain ID: 1647295025_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.resellercamp.com
+   Registrar URL: http://www.resellercamp.com
+   Updated Date: 2018-02-12T03:31:14Z
+   Creation Date: 2011-03-25T04:27:59Z
+   Registry Expiry Date: 2019-03-25T04:27:59Z
+   Registrar: CV. JOGJACAMP
+   Registrar IANA ID: 1478
+   Registrar Abuse Contact Email: abuse@resellercamp.com
+   Registrar Abuse Contact Phone: +62 274 415 585
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.IDWEBHOST.COM
+   Name Server: NS2.IDWEBHOST.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:30:50Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: TRANSFORMMANNEQUINS.COM
+Registry Domain ID: 1647295025_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.resellercamp.com
+Registrar URL: http://www.resellercamp.com
+Updated Date: 2018-02-12T03:31:14Z
+Creation Date: 2011-03-25T04:27:59Z
+Registry Expiry Date: 2019-03-25T04:27:59Z
+Registrar: CV. JOGJACAMP
+Registrar IANA ID: 1478
+Registrar Abuse Contact Email: abuse@resellercamp.com
+Registrar Abuse Contact Phone: +62 274 415 585
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.IDWEBHOST.COM
+Name Server: NS2.IDWEBHOST.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:30:50Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:31:08.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:31:08.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@resellercamp.com</customField1Value>
+    <registrarName>CV. JOGJACAMP</registrarName>
+    <registrarIANAID>1478</registrarIANAID>
+    <createdDateNormalized>2011-03-25 04:27:59 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-02-12 03:31:14 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-25 04:27:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+62 274 415 585</customField2Value>
+    <customField3Value>http://www.resellercamp.com</customField3Value>
+    <whoisServer>whois.resellercamp.com</whoisServer>
+  </registryData>
+  <contactEmail>adhynata@yahoo.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>2808</estimatedDomainAge>
+</WhoisRecord>

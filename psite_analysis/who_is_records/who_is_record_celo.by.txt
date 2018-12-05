@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>celo.by</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:27:56.936 UTC</createdDate>
+    <updatedDate>2018-12-01 14:27:56.936 UTC</updatedDate>
+  </audit>
+  <registrarName>Open Contact, Ltd
+Org: Крупица Владимир Геннадьевич
+Country: BY
+City: Минск
+Phone: +375173450411
+Email: HIDDEN! Details are available at http://www.cctld.by/whois/</registrarName>
+  <registrarIANAID>1462</registrarIANAID>
+  <registryData>
+    <createdDate>2011-12-05</createdDate>
+    <updatedDate>2018-05-04</updatedDate>
+    <expiresDate>2018-12-19</expiresDate>
+    <domainName>celo.by</domainName>
+    <nameServers>
+      <rawText>ns1.belinfonet.by
+ns2.belinfonet.by
+</rawText>
+      <hostNames>
+        <Address>ns1.belinfonet.by</Address>
+        <Address>ns2.belinfonet.by</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain Name: celo.by
+Registrar: Open Contact, Ltd
+Org: Крупица Владимир Геннадьевич
+Country: BY
+City: Минск
+Phone: +375173450411
+Email: HIDDEN! Details are available at http://www.cctld.by/whois/
+Name Server: ns1.belinfonet.by
+Name Server: ns2.belinfonet.by
+Updated Date: 2018-05-04
+Creation Date: 2011-12-05
+Expiration Date: 2018-12-19
+
+-------------------------------------------
+Service provided by Reliable Software, Ltd.</rawText>
+    <parseCode>235</parseCode>
+    <header/>
+    <strippedText>Domain Name: celo.by
+Registrar: Open Contact, Ltd
+Org: Крупица Владимир Геннадьевич
+Country: BY
+City: Минск
+Phone: +375173450411
+Email: HIDDEN! Details are available at http://www.cctld.by/whois/
+Name Server: ns1.belinfonet.by
+Name Server: ns2.belinfonet.by
+Updated Date: 2018-05-04
+Creation Date: 2011-12-05
+</strippedText>
+    <footer>-------------------------------------------
+Service provided by Reliable Software, Ltd.</footer>
+    <audit>
+      <createdDate>2018-12-01 14:27:56.936 UTC</createdDate>
+      <updatedDate>2018-12-01 14:27:56.936 UTC</updatedDate>
+    </audit>
+    <registrarName>Open Contact, Ltd
+Org: Крупица Владимир Геннадьевич
+Country: BY
+City: Минск
+Phone: +375173450411
+Email: HIDDEN! Details are available at http://www.cctld.by/whois/</registrarName>
+    <registrarIANAID>1462</registrarIANAID>
+    <createdDateNormalized>2011-12-05 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-05-04 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-12-19 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.cctld.by</whoisServer>
+  </registryData>
+  <domainNameExt>.by</domainNameExt>
+  <estimatedDomainAge>2553</estimatedDomainAge>
+</WhoisRecord>

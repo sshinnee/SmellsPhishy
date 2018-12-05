@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>da.gd</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 14:39:47.000 UTC</createdDate>
+    <updatedDate>2018-11-30 14:39:47.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Gandi SAS</registrarName>
+  <registrarIANAID>81</registrarIANAID>
+  <registryData>
+    <createdDate>2011-07-29T00:00:00.0Z</createdDate>
+    <updatedDate>2018-07-24T09:34:52.0Z</updatedDate>
+    <expiresDate>2019-07-29T23:59:59.0Z</expiresDate>
+    <registrant>
+      <rawText>Admin Email: https://whois.nic.gd/contact/da.gd/admin
+Tech Email: https://whois.nic.gd/contact/da.gd/tech</rawText>
+    </registrant>
+    <administrativeContact>
+      <rawText>Admin Email: https://whois.nic.gd/contact/da.gd/admin</rawText>
+    </administrativeContact>
+    <billingContact>
+      <rawText>Billing Email: https://whois.nic.gd/contact/da.gd/billing</rawText>
+    </billingContact>
+    <technicalContact>
+      <rawText>Tech Email: https://whois.nic.gd/contact/da.gd/tech</rawText>
+    </technicalContact>
+    <domainName>da.gd</domainName>
+    <nameServers>
+      <rawText>BILL.NS.CLOUDFLARE.COM
+DELL.NS.CLOUDFLARE.COM
+</rawText>
+      <hostNames>
+        <Address>BILL.NS.CLOUDFLARE.COM</Address>
+        <Address>DELL.NS.CLOUDFLARE.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: DA.GD
+Registry Domain ID: D81921049-CNIC
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net/
+Updated Date: 2018-07-24T09:34:52.0Z
+Creation Date: 2011-07-29T00:00:00.0Z
+Registry Expiry Date: 2019-07-29T23:59:59.0Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Email: https://whois.nic.gd/contact/da.gd/registrant
+Admin Email: https://whois.nic.gd/contact/da.gd/admin
+Tech Email: https://whois.nic.gd/contact/da.gd/tech
+Name Server: BILL.NS.CLOUDFLARE.COM
+Name Server: DELL.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.gd/contact/da.gd/billing
+Registrar Abuse Contact Email: reg.ctlnic-tech@gandi.net
+Registrar Abuse Contact Phone: +33.170393740
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-30T14:39:46.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: DA.GD
+Registry Domain ID: D81921049-CNIC
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net/
+Updated Date: 2018-07-24T09:34:52.0Z
+Creation Date: 2011-07-29T00:00:00.0Z
+Registry Expiry Date: 2019-07-29T23:59:59.0Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Email: https://whois.nic.gd/contact/da.gd/registrant
+Admin Email: https://whois.nic.gd/contact/da.gd/admin
+Tech Email: https://whois.nic.gd/contact/da.gd/tech
+Name Server: BILL.NS.CLOUDFLARE.COM
+Name Server: DELL.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.gd/contact/da.gd/billing
+Registrar Abuse Contact Email: reg.ctlnic-tech@gandi.net
+Registrar Abuse Contact Phone: +33.170393740
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-30T14:39:46.0Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-30 14:39:47.000 UTC</createdDate>
+      <updatedDate>2018-11-30 14:39:47.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>reg.ctlnic-tech@gandi.net</customField1Value>
+    <registrarName>Gandi SAS</registrarName>
+    <registrarIANAID>81</registrarIANAID>
+    <createdDateNormalized>2011-07-29 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-07-24 09:34:52 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-07-29 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+33.170393740</customField2Value>
+    <customField3Value>http://www.gandi.net/</customField3Value>
+    <whoisServer>whois.gandi.net</whoisServer>
+  </registryData>
+  <contactEmail>reg.ctlnic-tech@gandi.net</contactEmail>
+  <domainNameExt>.gd</domainNameExt>
+  <estimatedDomainAge>2682</estimatedDomainAge>
+</WhoisRecord>

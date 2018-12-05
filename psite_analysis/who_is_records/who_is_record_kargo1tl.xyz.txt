@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>kargo1tl.xyz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:07:00.431 UTC</createdDate>
+    <updatedDate>2018-12-01 14:07:00.431 UTC</updatedDate>
+  </audit>
+  <registrarName>Nics Telekomunikasyon A.S.</registrarName>
+  <registrarIANAID>1454</registrarIANAID>
+  <registryData>
+    <createdDate>2017-12-15T21:11:06.0Z</createdDate>
+    <updatedDate>2017-12-20T21:14:51.0Z</updatedDate>
+    <expiresDate>2018-12-15T23:59:59.0Z</expiresDate>
+    <registrant>
+      <organization>Satu Bilisim</organization>
+      <state>Alibeykoy</state>
+      <country>TURKEY</country>
+      <countryCode>TR</countryCode>
+      <rawText>Registrant Organization: Satu Bilisim
+Registrant State/Province: Alibeykoy
+Registrant Country: TR
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>TURKEY</country>
+      <countryCode>TR</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <billingContact>
+      <country>TURKEY</country>
+      <countryCode>TR</countryCode>
+      <rawText>Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </billingContact>
+    <technicalContact>
+      <country>TURKEY</country>
+      <countryCode>TR</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>kargo1tl.xyz</domainName>
+    <nameServers>
+      <rawText>NS1.NATROHOST.COM
+NS2.NATROHOST.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.NATROHOST.COM</Address>
+        <Address>NS2.NATROHOST.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: KARGO1TL.XYZ
+Registry Domain ID: D58073083-CNIC
+Registrar WHOIS Server: whois.nicproxy.com
+Registrar URL: http://www.nicproxy.com
+Updated Date: 2017-12-20T21:14:51.0Z
+Creation Date: 2017-12-15T21:11:06.0Z
+Registry Expiry Date: 2018-12-15T23:59:59.0Z
+Registrar: Nics Telekomunikasyon A.S.
+Registrar IANA ID: 1454
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Satu Bilisim
+Registrant State/Province: Alibeykoy
+Registrant Country: TR
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.NATROHOST.COM
+Name Server: NS2.NATROHOST.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@nicproxy.com
+Registrar Abuse Contact Phone:
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:07:00.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: KARGO1TL.XYZ
+Registrar WHOIS Server: whois.nicproxy.com
+Registrar URL: http://www.nicproxy.com
+Updated Date: 2017-12-20T21:14:51.0Z
+Creation Date: 2017-12-15T21:11:06.0Z
+Registry Expiry Date: 2018-12-15T23:59:59.0Z
+Registrar: Nics Telekomunikasyon A.S.
+Registrar IANA ID: 1454
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Satu Bilisim
+Registrant State/Province: Alibeykoy
+Registrant Country: TR
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.NATROHOST.COM
+Name Server: NS2.NATROHOST.COM
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@nicproxy.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:07:00.431 UTC</createdDate>
+      <updatedDate>2018-12-01 14:07:00.431 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@nicproxy.com</customField1Value>
+    <registrarName>Nics Telekomunikasyon A.S.</registrarName>
+    <registrarIANAID>1454</registrarIANAID>
+    <createdDateNormalized>2017-12-15 21:11:06 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-12-20 21:14:51 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-12-15 23:59:59 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.nicproxy.com</customField3Value>
+    <whoisServer>whois.nicproxy.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@nicproxy.com</contactEmail>
+  <domainNameExt>.xyz</domainNameExt>
+  <estimatedDomainAge>350</estimatedDomainAge>
+</WhoisRecord>

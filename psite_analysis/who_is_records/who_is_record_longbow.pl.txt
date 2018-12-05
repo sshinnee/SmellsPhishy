@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>longbow.pl</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:28:02.925 UTC</createdDate>
+    <updatedDate>2018-12-01 14:28:02.925 UTC</updatedDate>
+  </audit>
+  <registrarName>OVH SAS</registrarName>
+  <registrarIANAID>433</registrarIANAID>
+  <registryData>
+    <createdDate>2014.10.23 11:27:31</createdDate>
+    <updatedDate>2018.10.15 09:56:37</updatedDate>
+    <expiresDate>2019.10.23 11:27:31</expiresDate>
+    <domainName>longbow.pl</domainName>
+    <nameServers>
+      <rawText>dns110.ovh.net
+ns110.ovh.net
+</rawText>
+      <hostNames>
+        <Address>dns110.ovh.net</Address>
+        <Address>ns110.ovh.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>DOMAIN NAME:           longbow.pl 
+
+registrant type:       individual 
+
+nameservers:           dns110.ovh.net.  
+
+                       ns110.ovh.net.  
+
+created:               2014.10.23 11:27:31 
+
+last modified:         2018.10.15 09:56:37 
+
+renewal date:          2019.10.23 11:27:31 
+
+ 
+
+no option 
+
+ 
+
+dnssec:                Signed 
+
+DS:                    57754 8 2 E83C64A8A8C9B047C611770C58A8A342C55EFD83362F3334B423A0F60B7AFEFA 
+
+ 
+
+ 
+
+REGISTRAR: 
+
+OVH SAS
+
+2 Rue Kellermann
+
+59100 Roubaix
+
+Francja/France
+
++48.717500200
+
+https://www.ovh.pl/abuse/ 
+
+ 
+
+WHOIS database responses and Registrant data available at: https://dns.pl/en/whois 
+
+ 
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system</rawText>
+    <parseCode>235</parseCode>
+    <header/>
+    <strippedText>DOMAIN NAME:           longbow.pl
+registrant type:       individual
+nameservers:           dns110.ovh.net.
+ns110.ovh.net.
+created:               2014.10.23 11:27:31
+last modified:         2018.10.15 09:56:37
+renewal date:          2019.10.23 11:27:31
+
+no option
+
+dnssec:                Signed
+DS:                    57754 8 2 E83C64A8A8C9B047C611770C58A8A342C55EFD83362F3334B423A0F60B7AFEFA
+
+
+REGISTRAR:
+OVH SAS
+2 Rue Kellermann
+59100 Roubaix
+Francja/France
++48.717500200
+https://www.ovh.pl/abuse/
+
+WHOIS database responses and Registrant data available at: https://dns.pl/en/whois
+
+</strippedText>
+    <footer>WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+</footer>
+    <audit>
+      <createdDate>2018-12-01 14:28:02.925 UTC</createdDate>
+      <updatedDate>2018-12-01 14:28:02.925 UTC</updatedDate>
+    </audit>
+    <registrarName>OVH SAS</registrarName>
+    <registrarIANAID>433</registrarIANAID>
+    <createdDateNormalized>2014-10-23 11:27:31 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-10-15 09:56:37 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-10-23 11:27:31 UTC</expiresDateNormalized>
+    <whoisServer>whois.dns.pl</whoisServer>
+  </registryData>
+  <domainNameExt>.pl</domainNameExt>
+  <estimatedDomainAge>1500</estimatedDomainAge>
+</WhoisRecord>

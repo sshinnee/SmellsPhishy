@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>stamperlock.com.br</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:35:07.173 UTC</createdDate>
+    <updatedDate>2018-12-01 14:35:07.173 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>20080306 #4302431</createdDate>
+    <updatedDate>20140213</updatedDate>
+    <expiresDate>20190306</expiresDate>
+    <registrant>
+      <name>Stamper Indústria e Comércio de Peças Ltda.</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>owner:       Stamper Indústria e Comércio de Peças Ltda.</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>José Carlos Simone</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>nic-hdl-br:  JOCSI294
+person:      José Carlos Simone
+created:     20101210
+changed:     20180716</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>José Carlos Simone</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>nic-hdl-br:  JOCSI294
+person:      José Carlos Simone
+created:     20101210
+changed:     20180716</rawText>
+    </technicalContact>
+    <domainName>stamperlock.com.br</domainName>
+    <nameServers>
+      <rawText>ns58.hostgator.com.br
+ns59.hostgator.com.br
+</rawText>
+      <hostNames>
+        <Address>ns58.hostgator.com.br</Address>
+        <Address>ns59.hostgator.com.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>published</status>
+    <rawText>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:35:06-02:00
+
+domain:      stamperlock.com.br
+owner:       Stamper Indústria e Comércio de Peças Ltda.
+owner-c:     JOCSI294
+admin-c:     JOCSI294
+tech-c:      JOCSI294
+billing-c:   JOCSI294
+nserver:     ns58.hostgator.com.br
+nsstat:      20181201 AA
+nslastaa:    20181201
+nserver:     ns59.hostgator.com.br
+nsstat:      20181201 AA
+nslastaa:    20181201
+created:     20080306 #4302431
+changed:     20140213
+expires:     20190306
+status:      published
+
+nic-hdl-br:  JOCSI294
+person:      José Carlos Simone
+created:     20101210
+changed:     20180716
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</rawText>
+    <parseCode>3571</parseCode>
+    <header>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:35:06-02:00</header>
+    <strippedText>
+domain:      stamperlock.com.br
+owner:       Stamper Indústria e Comércio de Peças Ltda.
+owner-c:     JOCSI294
+admin-c:     JOCSI294
+tech-c:      JOCSI294
+billing-c:   JOCSI294
+nserver:     ns58.hostgator.com.br
+nsstat:      20181201 AA
+nslastaa:    20181201
+nserver:     ns59.hostgator.com.br
+nsstat:      20181201 AA
+nslastaa:    20181201
+created:     20080306 #4302431
+changed:     20140213
+expires:     20190306
+status:      published
+
+nic-hdl-br:  JOCSI294
+person:      José Carlos Simone
+created:     20101210
+changed:     20180716
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:35:07.173 UTC</createdDate>
+      <updatedDate>2018-12-01 14:35:07.173 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2008-03-06 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2014-02-13 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-06 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.registro.br</whoisServer>
+  </registryData>
+  <contactEmail>cert@cert.br</contactEmail>
+  <domainNameExt>.com.br</domainNameExt>
+  <estimatedDomainAge>3922</estimatedDomainAge>
+</WhoisRecord>

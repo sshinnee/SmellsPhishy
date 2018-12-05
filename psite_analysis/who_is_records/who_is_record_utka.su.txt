@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>utka.su</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:23:47.341 UTC</createdDate>
+    <updatedDate>2018-12-01 14:23:47.341 UTC</updatedDate>
+  </audit>
+  <registrarName>REGRU-SU</registrarName>
+  <registryData>
+    <createdDate>2018-05-20T21:12:32Z</createdDate>
+    <expiresDate>2019-05-20T21:12:32Z</expiresDate>
+    <registrant>
+      <email>rexgif@gmail.com</email>
+    </registrant>
+    <domainName>utka.su</domainName>
+    <nameServers>
+      <rawText>dolly.ns.cloudflare.com
+will.ns.cloudflare.com
+</rawText>
+      <hostNames>
+        <Address>dolly.ns.cloudflare.com</Address>
+        <Address>will.ns.cloudflare.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        UTKA.SU
+nserver:       dolly.ns.cloudflare.com.
+nserver:       will.ns.cloudflare.com.
+state:         REGISTERED, DELEGATED
+person:        Private Person
+e-mail:        rexgif@gmail.com
+registrar:     REGRU-SU
+created:       2018-05-20T21:12:32Z
+paid-till:     2019-05-20T21:12:32Z
+free-date:     2019-06-23
+source:        TCI
+
+Last updated on 2018-12-01T14:21:33Z</rawText>
+    <parseCode>203</parseCode>
+    <header>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).</header>
+    <strippedText>domain:        UTKA.SU
+nserver:       dolly.ns.cloudflare.com.
+nserver:       will.ns.cloudflare.com.
+state:         REGISTERED, DELEGATED
+person:        Private Person
+e-mail:        rexgif@gmail.com
+registrar:     REGRU-SU
+created:       2018-05-20T21:12:32Z
+paid-till:     2019-05-20T21:12:32Z
+free-date:     2019-06-23
+source:        TCI
+Last updated on 2018-12-01T14:21:33Z
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:23:47.341 UTC</createdDate>
+      <updatedDate>2018-12-01 14:23:47.341 UTC</updatedDate>
+    </audit>
+    <registrarName>REGRU-SU</registrarName>
+    <createdDateNormalized>2018-05-20 21:12:32 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-05-20 21:12:32 UTC</expiresDateNormalized>
+    <whoisServer>whois.ripn.net</whoisServer>
+  </registryData>
+  <contactEmail>rexgif@gmail.com</contactEmail>
+  <domainNameExt>.su</domainNameExt>
+  <estimatedDomainAge>194</estimatedDomainAge>
+</WhoisRecord>

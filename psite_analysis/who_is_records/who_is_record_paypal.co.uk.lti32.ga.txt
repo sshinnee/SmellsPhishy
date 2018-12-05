@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>lti32.ga</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:35:03.898 UTC</createdDate>
+    <updatedDate>2018-12-01 14:35:03.898 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>07/10/2015</createdDate>
+    <expiresDate>07/07/2025</expiresDate>
+    <registrant>
+      <name>Domain Administrator</name>
+      <organization>Freenom</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>abuse@freenom.com</email>
+      <telephone>31 20 5315726</telephone>
+      <fax>31 20 5315721</fax>
+      <rawText>Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Domain Administrator</name>
+      <organization>Freenom</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>abuse@freenom.com</email>
+      <telephone>31 20 5315726</telephone>
+      <fax>31 20 5315721</fax>
+      <rawText>Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Domain Administrator</name>
+      <organization>Freenom</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>abuse@freenom.com</email>
+      <telephone>31 20 5315726</telephone>
+      <fax>31 20 5315721</fax>
+      <rawText>Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Domain Administrator</name>
+      <organization>Freenom</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>abuse@freenom.com</email>
+      <telephone>31 20 5315726</telephone>
+      <fax>31 20 5315721</fax>
+      <rawText>Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com</rawText>
+    </technicalContact>
+    <domainName>lti32.ga</domainName>
+    <nameServers>
+      <rawText>NS81.ROOKDNS.COM
+NS82.ROOKDNS.COM
+</rawText>
+      <hostNames>
+        <Address>NS81.ROOKDNS.COM</Address>
+        <Address>NS82.ROOKDNS.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>Active</status>
+    <rawText>Domain name:
+LTI32.GA
+Status: Active
+
+Owner contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+
+Admin contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+
+Billing contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+
+Tech contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+
+Domain Nameservers:
+NS81.ROOKDNS.COM
+NS82.ROOKDNS.COM
+
+
+Domain registered: 07/10/2015
+Record will expire on: 07/07/2025
+Record maintained by: My GA Domain Registry</rawText>
+    <parseCode>4051</parseCode>
+    <header/>
+    <strippedText>Domain name:
+LTI32.GA
+Status: Active
+Owner contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+Admin contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+Billing contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+Tech contact:
+Organization: Freenom
+Name:         Domain Administrator
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31 20 5315726
+Fax:          +31 20 5315721
+E-mail:       abuse@freenom.com
+Domain Nameservers:
+NS81.ROOKDNS.COM
+NS82.ROOKDNS.COM
+Domain registered: 07/10/2015
+Record will expire on: 07/07/2025
+Record maintained by: My GA Domain Registry
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:35:03.898 UTC</createdDate>
+      <updatedDate>2018-12-01 14:35:03.898 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2015-07-10 00:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2025-07-07 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.my.ga</whoisServer>
+  </registryData>
+  <contactEmail>abuse@freenom.com</contactEmail>
+  <domainNameExt>.ga</domainNameExt>
+  <estimatedDomainAge>1240</estimatedDomainAge>
+</WhoisRecord>

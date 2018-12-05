@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>twe.lv</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:47:47.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:47:47.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <updatedDate>2018-12-01T12:12:21.602345+00:00</updatedDate>
+    <registrant>
+      <name>Type: Natural person</name>
+      <rawText>Type: Natural person
+Visit: https://www.nic.lv/whois/contact/twe.lv to contact.</rawText>
+    </registrant>
+    <technicalContact>
+      <name>Type: Natural person</name>
+      <rawText>Type: Natural person
+Visit: https://www.nic.lv/whois/contact/twe.lv to contact.</rawText>
+    </technicalContact>
+    <domainName>twe.lv</domainName>
+    <nameServers>
+      <rawText>r0.ma0.org
+r1.ma0.org
+r2.ma0.org
+r3.ma0.org
+r4.ma0.org
+</rawText>
+      <hostNames>
+        <Address>r0.ma0.org</Address>
+        <Address>r1.ma0.org</Address>
+        <Address>r2.ma0.org</Address>
+        <Address>r3.ma0.org</Address>
+        <Address>r4.ma0.org</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>active</status>
+    <rawText>[Domain]
+Domain: twe.lv
+Status: active
+
+[Holder]
+Type: Natural person
+Visit: https://www.nic.lv/whois/contact/twe.lv to contact.
+
+[Tech]
+Type: Natural person
+Visit: https://www.nic.lv/whois/contact/twe.lv to contact.
+
+[Nservers]
+Nserver: r0.ma0.org
+Nserver: r1.ma0.org
+Nserver: r2.ma0.org
+Nserver: r3.ma0.org
+Nserver: r4.ma0.org
+
+[Whois]
+Updated: 2018-12-01T12:12:21.602345+00:00
+
+[Disclaimer]
+% The WHOIS service is provided solely for informational purposes.
+%
+% It is permitted to use the WHOIS service only for technical or administrative
+% needs associated with the operation of the Internet or in order to contact
+% the domain name holder over legal problems.
+%
+% Requestor will not use information obtained using WHOIS:
+% * To allow, enable or in any other way to support sending of unsolicited mails (spam)
+% * for any kind of advertising
+% * to disrupt Internet stability and security
+%
+% It is not permitted to obtain (including copying) or re-use in any form or
+% by any means all or quantitatively or qualitatively significant part
+% of the WHOIS without NIC's express permission.</rawText>
+    <parseCode>3312</parseCode>
+    <header/>
+    <strippedText>[Domain]
+Domain: twe.lv
+Status: active
+[Holder]
+Type: Natural person
+Visit: https://www.nic.lv/whois/contact/twe.lv to contact.
+[Tech]
+Type: Natural person
+Visit: https://www.nic.lv/whois/contact/twe.lv to contact.
+[Nservers]
+Nserver: r0.ma0.org
+Nserver: r1.ma0.org
+Nserver: r2.ma0.org
+Nserver: r3.ma0.org
+Nserver: r4.ma0.org
+[Whois]
+Updated: 2018-12-01T12:12:21.602345+00:00
+[Disclaimer]
+% The WHOIS service is provided solely for informational purposes.
+%
+% It is permitted to use the WHOIS service only for technical or administrative
+% needs associated with the operation of the Internet or in order to contact
+% the domain name holder over legal problems.
+%
+% Requestor will not use information obtained using WHOIS:
+% * To allow, enable or in any other way to support sending of unsolicited mails (spam)
+% * for any kind of advertising
+% * to disrupt Internet stability and security
+%
+% It is not permitted to obtain (including copying) or re-use in any form or
+% by any means all or quantitatively or qualitatively significant part
+% of the WHOIS without NIC's express permission.
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 13:47:47.000 UTC</createdDate>
+      <updatedDate>2018-12-01 13:47:47.000 UTC</updatedDate>
+    </audit>
+    <updatedDateNormalized>2018-12-01 12:12:21 UTC</updatedDateNormalized>
+    <whoisServer>whois.nic.lv</whoisServer>
+  </registryData>
+  <domainNameExt>.lv</domainNameExt>
+</WhoisRecord>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>sdgc.gr</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-06-21 18:22:53.000 UTC</createdDate>
+    <updatedDate>2018-06-21 18:22:53.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Ε.Ε.Χ.Ι.
+Registrar Referral URL:http://www.eexi.gr</registrarName>
+  <registryData>
+    <createdDate>20-07-2007</createdDate>
+    <updatedDate>28-07-2017</updatedDate>
+    <expiresDate>19-07-2019</expiresDate>
+    <domainName>sdgc.gr</domainName>
+    <nameServers>
+      <rawText>ns1.netnow.gr
+ns2.netnow.gr
+</rawText>
+      <hostNames>
+        <Address>ns1.netnow.gr</Address>
+        <Address>ns2.netnow.gr</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain Name:sdgc.gr
+Domain Handle:d637a5614dcb6471ab389e07cada7a7df-gr
+Protocol Number:1206009
+Creation Date:20-07-2007
+Expiration Date:19-07-2019
+Updated Date:28-07-2017
+Registrar:Ε.Ε.Χ.Ι.
+Registrar Referral URL:http://www.eexi.gr
+Registrar Email:onomata@eexi.gr
+Registrar Telephone:+30.2110125094
+Whois Server:
+Bundle Name:sdgc.gr
+Name Server:ns1.netnow.gr
+Name Server:ns2.netnow.gr</rawText>
+    <parseCode>235</parseCode>
+    <header/>
+    <strippedText>Domain Name:sdgc.gr
+Domain Handle:d637a5614dcb6471ab389e07cada7a7df-gr
+Protocol Number:1206009
+Creation Date:20-07-2007
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-06-21 18:22:53.000 UTC</createdDate>
+      <updatedDate>2018-06-21 18:22:53.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>onomata@eexi.gr</customField1Value>
+    <registrarName>Ε.Ε.Χ.Ι.
+Registrar Referral URL:http://www.eexi.gr</registrarName>
+    <createdDateNormalized>2007-07-20 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-07-28 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-07-19 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>https://www.pointer.gr</whoisServer>
+  </registryData>
+  <contactEmail>onomata@eexi.gr</contactEmail>
+  <domainNameExt>.gr</domainNameExt>
+  <estimatedDomainAge>4152</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>pgeo.ca</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:28:41.404 UTC</createdDate>
+    <updatedDate>2018-12-01 14:28:41.404 UTC</updatedDate>
+  </audit>
+  <registrarName>PublicDomainRegistry.com Inc</registrarName>
+  <registrarIANAID>303</registrarIANAID>
+  <registryData>
+    <createdDate>2006/03/29</createdDate>
+    <updatedDate>2018/04/11</updatedDate>
+    <expiresDate>2019/03/29</expiresDate>
+    <domainName>pgeo.ca</domainName>
+    <nameServers>
+      <rawText>ns3.ezy-dns.com
+ns4.ezy-dns.com
+</rawText>
+      <hostNames>
+        <Address>ns3.ezy-dns.com</Address>
+        <Address>ns4.ezy-dns.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>registered</status>
+    <rawText>Domain name:           pgeo.ca
+Domain status:         registered
+Creation date:         2006/03/29
+Expiry date:           2019/03/29
+Updated date:          2018/04/11
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              PublicDomainRegistry.com Inc
+    Number:            3059041
+
+Name servers:
+    ns3.ezy-dns.com
+    ns4.ezy-dns.com
+
+% WHOIS look-up made at 2018-12-01 14:28:41 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain name:           pgeo.ca
+Domain status:         registered
+Creation date:         2006/03/29
+Expiry date:           2019/03/29
+Updated date:          2018/04/11
+DNSSEC:                Unsigned
+Registrar:
+Name:              PublicDomainRegistry.com Inc
+Number:            3059041
+Name servers:
+ns3.ezy-dns.com
+ns4.ezy-dns.com
+% WHOIS look-up made at 2018-12-01 14:28:41 (GMT)
+</strippedText>
+    <footer>%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</footer>
+    <audit>
+      <createdDate>2018-12-01 14:28:41.404 UTC</createdDate>
+      <updatedDate>2018-12-01 14:28:41.404 UTC</updatedDate>
+    </audit>
+    <registrarName>PublicDomainRegistry.com Inc</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2006-03-29 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-04-11 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-29 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.cira.ca</whoisServer>
+  </registryData>
+  <domainNameExt>.ca</domainNameExt>
+  <estimatedDomainAge>4630</estimatedDomainAge>
+</WhoisRecord>

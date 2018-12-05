@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2018-05-07</createdDate>
+  <updatedDate>2018-05-07</updatedDate>
+  <registrant>
+    <organization>Choopa, LLC</organization>
+    <street1>14 Cliffwood Ave Suite 300</street1>
+    <city>Matawan</city>
+    <state>NJ</state>
+    <postalCode>07747</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <rawText>OrgName:        Choopa, LLC
+OrgId:          CHOOP-1
+Address:        14 Cliffwood Ave Suite 300
+City:           Matawan
+StateProv:      NJ
+PostalCode:     07747
+Country:        US
+</rawText>
+  </registrant>
+  <administrativeContact>
+    <organization>Abuse Department</organization>
+    <email>abuse@choopa.com</email>
+    <telephone>19738490500</telephone>
+  </administrativeContact>
+  <technicalContact>
+    <organization>Network Operations</organization>
+    <email>network@choopa.com</email>
+    <telephone>19738490500</telephone>
+  </technicalContact>
+  <zoneContact>
+    <organization>Network Operations</organization>
+    <email>network@choopa.com</email>
+    <telephone>19738490500</telephone>
+  </zoneContact>
+  <domainName>66.42.95.230</domainName>
+  <rawText>#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+
+
+
+# start
+
+NetRange:       66.42.64.0 - 66.42.127.255
+CIDR:           66.42.64.0/18
+NetName:        CHOOP-1
+NetHandle:      NET-66-42-64-0-2
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Choopa, LLC (CHOOP-1)
+RegDate:        2018-05-07
+Updated:        2018-05-07
+Ref:            https://rdap.arin.net/registry/ip/66.42.64.0
+
+
+
+OrgName:        Choopa, LLC
+OrgId:          CHOOP-1
+Address:        14 Cliffwood Ave Suite 300
+City:           Matawan
+StateProv:      NJ
+PostalCode:     07747
+Country:        US
+RegDate:        2006-10-03
+Updated:        2016-01-11
+Comment:        http://www.choopa.net/
+Ref:            https://rdap.arin.net/registry/entity/CHOOP-1
+
+
+OrgAbuseHandle: ABUSE1143-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-973-849-0500 
+OrgAbuseEmail:  abuse@choopa.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE1143-ARIN
+
+OrgNOCHandle: NETWO1159-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-973-849-0500 
+OrgNOCEmail:  network@choopa.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/NETWO1159-ARIN
+
+OrgTechHandle: NETWO1159-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-973-849-0500 
+OrgTechEmail:  network@choopa.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/NETWO1159-ARIN
+
+# end
+
+
+# start
+
+NetRange:       66.42.94.0 - 66.42.95.255
+CIDR:           66.42.94.0/23
+NetName:        NET-66-42-94-0-23
+NetHandle:      NET-66-42-94-0-1
+Parent:         CHOOP-1 (NET-66-42-64-0-2)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Vultr Holdings, LLC (VHL-112)
+RegDate:        2018-11-14
+Updated:        2018-11-14
+Ref:            https://rdap.arin.net/registry/ip/66.42.94.0
+
+
+OrgName:        Vultr Holdings, LLC
+OrgId:          VHL-112
+Address:        1033 Jefferson St NW
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30318
+Country:        US
+RegDate:        2017-04-10
+Updated:        2017-04-14
+Ref:            https://rdap.arin.net/registry/entity/VHL-112
+
+
+OrgAbuseHandle: VULTR-ARIN
+OrgAbuseName:   Vultr Abuse
+OrgAbusePhone:  +1-973-849-0500 
+OrgAbuseEmail:  abuse@vultr.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/VULTR-ARIN
+
+OrgTechHandle: VULTR-ARIN
+OrgTechName:   Vultr Abuse
+OrgTechPhone:  +1-973-849-0500 
+OrgTechEmail:  abuse@vultr.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/VULTR-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#</rawText>
+  <parseCode>1065</parseCode>
+  <header/>
+  <strippedText>NetRange:       66.42.64.0 - 66.42.127.255
+CIDR:           66.42.64.0/18
+NetName:        CHOOP-1
+NetHandle:      NET-66-42-64-0-2
+Parent:         NET66 (NET-66-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:
+Organization:   Choopa, LLC (CHOOP-1)
+RegDate:        2018-05-07
+Updated:        2018-05-07
+Ref:            https://rdap.arin.net/registry/ip/66.42.64.0
+OrgName:        Choopa, LLC
+OrgId:          CHOOP-1
+Address:        14 Cliffwood Ave Suite 300
+City:           Matawan
+StateProv:      NJ
+PostalCode:     07747
+Country:        US
+RegDate:        2006-10-03
+Updated:        2016-01-11
+Comment:        http://www.choopa.net/
+Ref:            https://rdap.arin.net/registry/entity/CHOOP-1
+OrgAbuseHandle: ABUSE1143-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-973-849-0500
+OrgAbuseEmail:  abuse@choopa.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE1143-ARIN
+OrgNOCHandle: NETWO1159-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-973-849-0500
+OrgNOCEmail:  network@choopa.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/NETWO1159-ARIN
+OrgTechHandle: NETWO1159-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-973-849-0500
+OrgTechEmail:  network@choopa.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/NETWO1159-ARIN
+</strippedText>
+  <audit>
+    <createdDate>2018-12-01 14:37:42.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:37:42.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>netRange</customField1Name>
+  <customField1Value>66.42.64.0 - 66.42.127.255</customField1Value>
+  <registrarName>ARIN</registrarName>
+  <registrarIANAID>778</registrarIANAID>
+  <createdDateNormalized>2018-05-07 00:00:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-05-07 00:00:00 UTC</updatedDateNormalized>
+  <customField2Name>netName</customField2Name>
+  <customField2Value>CHOOP-1</customField2Value>
+  <registryData>
+    <updatedDate>2000-07</updatedDate>
+    <domainName>66.42.95.230</domainName>
+    <status>ALLOCATED</status>
+    <rawText>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      66.0.0.0 - 66.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2000-07
+source:       IANA</rawText>
+    <parseCode>120</parseCode>
+    <header>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object</header>
+    <strippedText>
+refer:        whois.arin.net
+
+inetnum:      66.0.0.0 - 66.255.255.255
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2000-07
+source:       IANA</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:37:41.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:37:41.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>netRange</customField1Name>
+    <customField1Value>66.0.0.0 - 66.255.255.255</customField1Value>
+    <registrarName>ARIN</registrarName>
+    <registrarIANAID>778</registrarIANAID>
+    <whoisServer>whois.arin.net</whoisServer>
+  </registryData>
+  <contactEmail>abuse@choopa.com</contactEmail>
+  <subRecords>
+    <WhoisRecord>
+      <createdDate>2018-11-14</createdDate>
+      <updatedDate>2018-11-14</updatedDate>
+      <registrant>
+        <organization>Vultr Holdings, LLC</organization>
+        <street1>1033 Jefferson St NW</street1>
+        <city>Atlanta</city>
+        <state>GA</state>
+        <postalCode>30318</postalCode>
+        <country>US</country>
+        <rawText>OrgName:        Vultr Holdings, LLC
+OrgId:          VHL-112
+Address:        1033 Jefferson St NW
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30318
+Country:        US
+</rawText>
+      </registrant>
+      <administrativeContact>
+        <organization>Vultr Abuse</organization>
+        <email>abuse@vultr.com</email>
+        <telephone>1-973-849-0500</telephone>
+      </administrativeContact>
+      <technicalContact>
+        <organization>Vultr Abuse</organization>
+        <email>abuse@vultr.com</email>
+        <telephone>1-973-849-0500</telephone>
+      </technicalContact>
+      <domainName>66.42.94.0</domainName>
+      <nameServers/>
+      <rawText>
+
+NetRange:       66.42.94.0 - 66.42.95.255
+CIDR:           66.42.94.0/23
+NetName:        NET-66-42-94-0-23
+NetHandle:      NET-66-42-94-0-1
+Parent:         CHOOP-1 (NET-66-42-64-0-2)
+NetType:        Reassigned
+OriginAS:       
+Organization:   Vultr Holdings, LLC (VHL-112)
+RegDate:        2018-11-14
+Updated:        2018-11-14
+Ref:            https://rdap.arin.net/registry/ip/66.42.94.0
+
+
+OrgName:        Vultr Holdings, LLC
+OrgId:          VHL-112
+Address:        1033 Jefferson St NW
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30318
+Country:        US
+RegDate:        2017-04-10
+Updated:        2017-04-14
+Ref:            https://rdap.arin.net/registry/entity/VHL-112
+
+
+OrgAbuseHandle: VULTR-ARIN
+OrgAbuseName:   Vultr Abuse
+OrgAbusePhone:  +1-973-849-0500 
+OrgAbuseEmail:  abuse@vultr.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/VULTR-ARIN
+
+OrgTechHandle: VULTR-ARIN
+OrgTechName:   Vultr Abuse
+OrgTechPhone:  +1-973-849-0500 
+OrgTechEmail:  abuse@vultr.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/VULTR-ARIN
+
+</rawText>
+      <parseCode>1</parseCode>
+      <header/>
+      <strippedText>NetRange:       66.42.94.0 - 66.42.95.255
+CIDR:           66.42.94.0/23
+NetName:        NET-66-42-94-0-23
+NetHandle:      NET-66-42-94-0-1
+Parent:         CHOOP-1 (NET-66-42-64-0-2)
+NetType:        Reassigned
+OriginAS:
+Organization:   Vultr Holdings, LLC (VHL-112)
+RegDate:        2018-11-14
+Updated:        2018-11-14
+Ref:            https://rdap.arin.net/registry/ip/66.42.94.0
+OrgName:        Vultr Holdings, LLC
+OrgId:          VHL-112
+Address:        1033 Jefferson St NW
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30318
+Country:        US
+RegDate:        2017-04-10
+Updated:        2017-04-14
+Ref:            https://rdap.arin.net/registry/entity/VHL-112
+OrgAbuseHandle: VULTR-ARIN
+OrgAbuseName:   Vultr Abuse
+OrgAbusePhone:  +1-973-849-0500
+OrgAbuseEmail:  abuse@vultr.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/VULTR-ARIN
+OrgTechHandle: VULTR-ARIN
+OrgTechName:   Vultr Abuse
+OrgTechPhone:  +1-973-849-0500
+OrgTechEmail:  abuse@vultr.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/VULTR-ARIN
+</strippedText>
+      <customField1Name>netRange</customField1Name>
+      <customField1Value>66.42.94.0 - 66.42.95.255</customField1Value>
+      <customField2Name>netName</customField2Name>
+      <customField2Value>NET-66-42-94-0-23</customField2Value>
+    </WhoisRecord>
+  </subRecords>
+</WhoisRecord>

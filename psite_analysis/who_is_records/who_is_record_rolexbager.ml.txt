@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>rolexbager.ml</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:15:06.643 UTC</createdDate>
+    <updatedDate>2018-12-01 14:15:06.643 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <registrant>
+      <name>Mali Dili B.V.
+Point ML administrator</name>
+      <street1>P.O. Box 11774</street1>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com</email>
+      <telephone>31 20 5315725</telephone>
+      <fax>31 20 5315721</fax>
+      <rawText>Mali Dili B.V.
+Point ML administrator
+P.O. Box 11774
+1001 GT  Amsterdam
+Country: Netherlands
+Phone: +31 20 5315725
+Fax: +31 20 5315721
+E-mail: abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com</rawText>
+    </registrant>
+    <domainName>rolexbager.ml</domainName>
+    <nameServers>
+      <rawText>NS02.FREENOM.COM
+NS01.FREENOM.COM
+NS03.FREENOM.COM
+NS04.FREENOM.COM
+</rawText>
+      <hostNames>
+        <Address>NS02.FREENOM.COM</Address>
+        <Address>NS01.FREENOM.COM</Address>
+        <Address>NS03.FREENOM.COM</Address>
+        <Address>NS04.FREENOM.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain name:
+      ROLEXBAGER.ML
+
+   registrant: :
+      Mali Dili B.V.
+      Point ML administrator
+      P.O. Box 11774
+      1001 GT  Amsterdam
+      Country: Netherlands
+      Phone: +31 20 5315725
+      Fax: +31 20 5315721
+      E-mail: abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com
+
+   Domain Nameservers:
+      NS02.FREENOM.COM
+      NS01.FREENOM.COM
+      NS03.FREENOM.COM
+      NS04.FREENOM.COM
+
+
+   Your selected domain name is a Free Domain. That means that,
+   according to the terms and conditions of Free Domain domain names
+   the registrant is Mali Dili B.V.
+
+   Due to restrictions in Point ML 's Privacy Statement personal information
+   about the user of the domain name cannot be released.
+
+   ABUSE OF A DOMAIN NAME
+   If you want to report abuse of this domain name, please send a
+   detailed email with your complaint to abuse@freenom.com.
+   In most cases Point ML responds to abuse complaints within one business day.
+
+   COPYRIGHT INFRINGEMENT
+   If you want to report a case of copyright infringement, please send
+   an email to copyright@freenom.com, and include the full name and address of
+   your organization. Within 5 business days copyright infringement notices
+   will be investigated.
+
+   Record maintained by: Point ML Domain Registry</rawText>
+    <parseCode>1216</parseCode>
+    <header/>
+    <strippedText>Domain name:
+ROLEXBAGER.ML
+registrant: :
+Mali Dili B.V.
+Point ML administrator
+P.O. Box 11774
+1001 GT  Amsterdam
+Country: Netherlands
+Phone: +31 20 5315725
+Fax: +31 20 5315721
+E-mail: abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com
+Domain Nameservers:
+NS02.FREENOM.COM
+NS01.FREENOM.COM
+NS03.FREENOM.COM
+NS04.FREENOM.COM
+</strippedText>
+    <footer>Your selected domain name is a Free Domain. That means that,
+according to the terms and conditions of Free Domain domain names
+the registrant is Mali Dili B.V.
+Due to restrictions in Point ML 's Privacy Statement personal information
+about the user of the domain name cannot be released.
+ABUSE OF A DOMAIN NAME
+If you want to report abuse of this domain name, please send a
+detailed email with your complaint to abuse@freenom.com.
+In most cases Point ML responds to abuse complaints within one business day.
+COPYRIGHT INFRINGEMENT
+If you want to report a case of copyright infringement, please send
+an email to copyright@freenom.com, and include the full name and address of
+your organization. Within 5 business days copyright infringement notices
+will be investigated.</footer>
+    <audit>
+      <createdDate>2018-12-01 14:15:06.643 UTC</createdDate>
+      <updatedDate>2018-12-01 14:15:06.643 UTC</updatedDate>
+    </audit>
+    <whoisServer>whois.dot.ml</whoisServer>
+  </registryData>
+  <contactEmail>abuse@freenom.com</contactEmail>
+  <domainNameExt>.ml</domainNameExt>
+</WhoisRecord>

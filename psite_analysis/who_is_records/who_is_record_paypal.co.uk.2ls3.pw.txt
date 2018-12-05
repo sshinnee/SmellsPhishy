@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>2ls3.pw</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:11:43.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:11:43.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Namecheap</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-27T11:54:21.0Z</createdDate>
+    <updatedDate>2018-11-29T13:31:07.0Z</updatedDate>
+    <expiresDate>2019-11-27T23:59:59.0Z</expiresDate>
+    <registrant>
+      <city>admin</city>
+      <state>Tech</state>
+      <postalCode>Email</postalCode>
+      <rawText>Admin Email: https://whois.nic.pw/contact/2ls3.pw/admin
+Tech Email: https://whois.nic.pw/contact/2ls3.pw/tech</rawText>
+      <unparsable>Admin Email: https://whois.nic.pw/contact/2ls3.pw/: https://whois.nic.pw/contact/2ls3.pw/tech</unparsable>
+    </registrant>
+    <administrativeContact>
+      <rawText>Admin Email: https://whois.nic.pw/contact/2ls3.pw/admin</rawText>
+    </administrativeContact>
+    <billingContact>
+      <rawText>Billing Email: https://whois.nic.pw/contact/2ls3.pw/billing</rawText>
+    </billingContact>
+    <technicalContact>
+      <rawText>Tech Email: https://whois.nic.pw/contact/2ls3.pw/tech</rawText>
+    </technicalContact>
+    <domainName>2ls3.pw</domainName>
+    <nameServers>
+      <rawText>DNS1.REGISTRAR-SERVERS.COM
+DNS2.REGISTRAR-SERVERS.COM
+</rawText>
+      <hostNames>
+        <Address>DNS1.REGISTRAR-SERVERS.COM</Address>
+        <Address>DNS2.REGISTRAR-SERVERS.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverHold serverTransferProhibited clientTransferProhibited addPeriod</status>
+    <rawText>Domain Name: 2LS3.PW
+Registry Domain ID: D84896772-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://namecheap.com
+Updated Date: 2018-11-29T13:31:07.0Z
+Creation Date: 2018-11-27T11:54:21.0Z
+Registry Expiry Date: 2019-11-27T23:59:59.0Z
+Registrar: Namecheap
+Registrar IANA ID: 1068
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Email: https://whois.nic.pw/contact/2ls3.pw/registrant
+Admin Email: https://whois.nic.pw/contact/2ls3.pw/admin
+Tech Email: https://whois.nic.pw/contact/2ls3.pw/tech
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.pw/contact/2ls3.pw/billing
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone:
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:11:42.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: 2LS3.PW
+Registry Domain ID: D84896772-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://namecheap.com
+Updated Date: 2018-11-29T13:31:07.0Z
+Creation Date: 2018-11-27T11:54:21.0Z
+Registry Expiry Date: 2019-11-27T23:59:59.0Z
+Registrar: Namecheap
+Registrar IANA ID: 1068
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Email: https://whois.nic.pw/contact/2ls3.pw/registrant
+Admin Email: https://whois.nic.pw/contact/2ls3.pw/admin
+Tech Email: https://whois.nic.pw/contact/2ls3.pw/tech
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+Billing Email: https://whois.nic.pw/contact/2ls3.pw/billing
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone:
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:11:42.0Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:11:43.000 UTC</createdDate>
+      <updatedDate>2018-12-01 13:11:43.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>Namecheap</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-11-27 11:54:21 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 13:31:07 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-27 23:59:59 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>https://namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@namecheap.com</contactEmail>
+  <domainNameExt>.pw</domainNameExt>
+  <estimatedDomainAge>4</estimatedDomainAge>
+</WhoisRecord>

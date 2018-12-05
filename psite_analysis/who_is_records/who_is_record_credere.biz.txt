@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>credere.biz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:32:46.749 UTC</createdDate>
+    <updatedDate>2018-12-01 13:32:46.749 UTC</updatedDate>
+  </audit>
+  <registrarName>eNom, LLC</registrarName>
+  <registrarIANAID>48</registrarIANAID>
+  <registryData>
+    <createdDate>2010-07-02T21:00:20Z</createdDate>
+    <updatedDate>2018-06-04T11:30:06Z</updatedDate>
+    <expiresDate>2019-07-01T23:59:59Z</expiresDate>
+    <registrant>
+      <organization>Credere</organization>
+      <state>Arnhem</state>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <rawText>Registrant Organization: Credere
+Registrant State/Province: Arnhem
+Registrant Country: NL
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>credere.biz</domainName>
+    <nameServers>
+      <rawText>ns1.vz59.nl
+ns2.vz1.nl
+</rawText>
+      <hostNames>
+        <Address>ns1.vz59.nl</Address>
+        <Address>ns2.vz1.nl</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: credere.biz
+Registry Domain ID: D40273337-BIZ
+Registrar WHOIS Server: whois.enom.com
+Registrar URL: whois.enom.com
+Updated Date: 2018-06-04T11:30:06Z
+Creation Date: 2010-07-02T21:00:20Z
+Registry Expiry Date: 2019-07-01T23:59:59Z
+Registrar: eNom, LLC
+Registrar IANA ID: 48
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Credere
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: Arnhem
+Registrant Postal Code:
+Registrant Country: NL
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.vz59.nl
+Name Server: ns2.vz1.nl
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:32:46Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.biz.
+
+NeuStar, Inc., the Registry Operator for .BIZ, has collected this information for the WHOIS database through an ICANN-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: credere.biz
+Registrar WHOIS Server: whois.enom.com
+Registrar URL: whois.enom.com
+Updated Date: 2018-06-04T11:30:06Z
+Creation Date: 2010-07-02T21:00:20Z
+Registry Expiry Date: 2019-07-01T23:59:59Z
+Registrar: eNom, LLC
+Registrar IANA ID: 48
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Credere
+Registrant State/Province: Arnhem
+Registrant Country: NL
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.vz59.nl
+Name Server: ns2.vz1.nl
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:32:46.749 UTC</createdDate>
+      <updatedDate>2018-12-01 13:32:46.749 UTC</updatedDate>
+    </audit>
+    <registrarName>eNom, LLC</registrarName>
+    <registrarIANAID>48</registrarIANAID>
+    <createdDateNormalized>2010-07-02 21:00:20 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-06-04 11:30:06 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-07-01 23:59:59 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>whois.enom.com</customField3Value>
+    <whoisServer>whois.enom.com</whoisServer>
+  </registryData>
+  <domainNameExt>.biz</domainNameExt>
+  <estimatedDomainAge>3073</estimatedDomainAge>
+</WhoisRecord>

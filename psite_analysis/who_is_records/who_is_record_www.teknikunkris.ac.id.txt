@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>teknikunkris.ac.id</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:16:32.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:16:32.000 UTC</updatedDate>
+  </audit>
+  <registrarName>PT Registrasi Nama Domain</registrarName>
+  <registryData>
+    <createdDate>22-Feb-2017 08:14:01 UTC</createdDate>
+    <updatedDate>26-Feb-2018 04:57:12 UTC</updatedDate>
+    <expiresDate>22-Feb-2019 23:59:59 UTC</expiresDate>
+    <domainName>teknikunkris.ac.id</domainName>
+    <nameServers>
+      <rawText>DNS1.TEKNIKUNKRIS.AC.ID
+DNS2.TEKNIKUNKRIS.AC.ID
+</rawText>
+      <hostNames>
+        <Address>DNS1.TEKNIKUNKRIS.AC.ID</Address>
+        <Address>DNS2.TEKNIKUNKRIS.AC.ID</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain ID:PANDI-DO3146601
+Domain Name:TEKNIKUNKRIS.AC.ID
+Created On:22-Feb-2017 08:14:01 UTC
+Last Updated On:26-Feb-2018 04:57:12 UTC
+Expiration Date:22-Feb-2019 23:59:59 UTC
+Status:ok
+=======================================================
+Sponsoring Registrar Organization:PT Registrasi Nama Domain
+Sponsoring Registrar Street1:Jl. Kuningan Barat No.8 Gedung Elektrindo (Cyber1 ), Lantai 10
+Sponsoring Registrar City: Jakarta Selatan
+Sponsoring Registrar State/Province:Jakarta
+Sponsoring Registrar Postal Code:12710
+Sponsoring Registrar Country:ID
+Sponsoring Registrar Phone:0215269311
+Sponsoring Registrar Website:https://daftarnama.id
+Sponsoring Registrar Contact Email:info@daftarnama.id
+Name Server:DNS1.TEKNIKUNKRIS.AC.ID
+Name Server:DNS2.TEKNIKUNKRIS.AC.ID
+DNSSEC:Unsigned</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain ID:PANDI-DO3146601
+Domain Name:TEKNIKUNKRIS.AC.ID
+Created On:22-Feb-2017 08:14:01 UTC
+Last Updated On:26-Feb-2018 04:57:12 UTC
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:16:32.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:16:32.000 UTC</updatedDate>
+    </audit>
+    <registrarName>PT Registrasi Nama Domain</registrarName>
+    <createdDateNormalized>2017-02-22 08:14:01 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-02-26 04:57:12 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-02-22 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField2Value>0215269311</customField2Value>
+    <whoisServer>whois.pandi.or.id</whoisServer>
+  </registryData>
+  <contactEmail>info@daftarnama.id</contactEmail>
+  <domainNameExt>.ac.id</domainNameExt>
+  <estimatedDomainAge>647</estimatedDomainAge>
+</WhoisRecord>

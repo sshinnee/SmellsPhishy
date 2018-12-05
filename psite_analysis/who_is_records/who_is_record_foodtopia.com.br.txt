@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>foodtopia.com.br</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-11-30 23:25:41.000 UTC</createdDate>
+    <updatedDate>2018-11-30 23:25:41.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>20160313 #15358198</createdDate>
+    <updatedDate>20180313</updatedDate>
+    <expiresDate>20190313</expiresDate>
+    <registrant>
+      <name>James Daniel McManis Junior</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>owner:       James Daniel McManis Junior</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>James Daniel McManis</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>nic-hdl-br:  JDM28
+person:      James Daniel McManis
+created:     20000407
+changed:     20140307
+nic-hdl-br:  JDM28
+person:      James Daniel McManis
+created:     20000407
+changed:     20140307</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>James Daniel McManis</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>nic-hdl-br:  JDM28
+person:      James Daniel McManis
+created:     20000407
+changed:     20140307
+nic-hdl-br:  JDM28
+person:      James Daniel McManis
+created:     20000407
+changed:     20140307</rawText>
+    </technicalContact>
+    <domainName>foodtopia.com.br</domainName>
+    <nameServers>
+      <rawText>ns1.mcmanis.com.br
+ns2.mcmanis.com.br
+</rawText>
+      <hostNames>
+        <Address>ns1.mcmanis.com.br</Address>
+        <Address>ns2.mcmanis.com.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>published</status>
+    <rawText>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-11-30T21:25:41-02:00
+
+domain:      foodtopia.com.br
+owner:       James Daniel McManis Junior
+owner-c:     JDM28
+admin-c:     JDM28
+tech-c:      JDM28
+billing-c:   JDM28
+nserver:     ns1.mcmanis.com.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+nserver:     ns2.mcmanis.com.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+saci:        yes
+created:     20160313 #15358198
+changed:     20180313
+expires:     20190313
+status:      published
+
+nic-hdl-br:  JDM28
+person:      James Daniel McManis
+created:     20000407
+changed:     20140307
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</rawText>
+    <parseCode>3571</parseCode>
+    <header>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-11-30T21:25:41-02:00
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-11-30T21:25:41-02:00</header>
+    <strippedText>
+domain:      foodtopia.com.br
+owner:       James Daniel McManis Junior
+owner-c:     JDM28
+admin-c:     JDM28
+tech-c:      JDM28
+billing-c:   JDM28
+nserver:     ns1.mcmanis.com.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+nserver:     ns2.mcmanis.com.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+saci:        yes
+created:     20160313 #15358198
+changed:     20180313
+expires:     20190313
+status:      published
+
+nic-hdl-br:  JDM28
+person:      James Daniel McManis
+created:     20000407
+changed:     20140307
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+
+domain:      foodtopia.com.br
+owner:       James Daniel McManis Junior
+owner-c:     JDM28
+admin-c:     JDM28
+tech-c:      JDM28
+billing-c:   JDM28
+nserver:     ns1.mcmanis.com.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+nserver:     ns2.mcmanis.com.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+saci:        yes
+created:     20160313 #15358198
+changed:     20180313
+expires:     20190313
+status:      published
+
+nic-hdl-br:  JDM28
+person:      James Daniel McManis
+created:     20000407
+changed:     20140307
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</strippedText>
+    <audit>
+      <createdDate>2018-11-30 23:25:41.000 UTC</createdDate>
+      <updatedDate>2018-11-30 23:25:41.000 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2016-03-13 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-03-13 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-13 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.registro.br</whoisServer>
+  </registryData>
+  <contactEmail>cert@cert.br</contactEmail>
+  <domainNameExt>.com.br</domainNameExt>
+  <estimatedDomainAge>993</estimatedDomainAge>
+</WhoisRecord>

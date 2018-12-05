@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2017-09-29</createdDate>
+  <updatedDate>2018-01-24</updatedDate>
+  <registrant>
+    <organization>Google LLC</organization>
+    <street1>1600 Amphitheatre Parkway</street1>
+    <city>Mountain View</city>
+    <state>CA</state>
+    <postalCode>94043</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <rawText>OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+</rawText>
+  </registrant>
+  <administrativeContact>
+    <organization>GC Abuse</organization>
+    <email>google-cloud-compliance@google.com</email>
+    <telephone>16502530000</telephone>
+  </administrativeContact>
+  <technicalContact>
+    <organization>Google LLC</organization>
+    <email>arin-contact@google.com</email>
+    <telephone>16502530000</telephone>
+  </technicalContact>
+  <zoneContact>
+    <organization>GC Abuse</organization>
+    <email>google-cloud-compliance@google.com</email>
+    <telephone>16502530000</telephone>
+  </zoneContact>
+  <domainName>35.225.137.156</domainName>
+  <rawText>#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       35.208.0.0 - 35.247.255.255
+CIDR:           35.224.0.0/12, 35.208.0.0/12, 35.240.0.0/13
+NetName:        GOOGLE-CLOUD
+NetHandle:      NET-35-208-0-0-1
+Parent:         NET35 (NET-35-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       
+Organization:   Google LLC (GOOGL-2)
+RegDate:        2017-09-29
+Updated:        2018-01-24
+Comment:        *** The IP addresses under this Org-ID are in use by Google Cloud customers *** 
+Comment:        
+Comment:        Direct all copyright and legal complaints to 
+Comment:        https://support.google.com/legal/go/report
+Comment:        
+Comment:        Direct all spam and abuse complaints to 
+Comment:        https://support.google.com/code/go/gce_abuse_report
+Comment:        
+Comment:        For fastest response, use the relevant forms above.
+Comment:        
+Comment:        Complaints can also be sent to the GC Abuse desk 
+Comment:        (google-cloud-compliance@google.com) 
+Comment:        but may have longer turnaround times.
+Ref:            https://rdap.arin.net/registry/ip/35.208.0.0
+
+
+
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2006-09-29
+Updated:        2017-12-21
+Comment:        *** The IP addresses under this Org-ID are in use by Google Cloud customers *** 
+Comment:        
+Comment:        Direct all copyright and legal complaints to 
+Comment:        https://support.google.com/legal/go/report
+Comment:        
+Comment:        Direct all spam and abuse complaints to 
+Comment:        https://support.google.com/code/go/gce_abuse_report
+Comment:        
+Comment:        For fastest response, use the relevant forms above.
+Comment:        
+Comment:        Complaints can also be sent to the GC Abuse desk 
+Comment:        (google-cloud-compliance@google.com) 
+Comment:        but may have longer turnaround times.
+Comment:        
+Comment:        Complaints sent to any other POC will be ignored.
+Ref:            https://rdap.arin.net/registry/entity/GOOGL-2
+
+
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000 
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+
+OrgNOCHandle: GCABU-ARIN
+OrgNOCName:   GC Abuse
+OrgNOCPhone:  +1-650-253-0000 
+OrgNOCEmail:  google-cloud-compliance@google.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+
+OrgAbuseHandle: GCABU-ARIN
+OrgAbuseName:   GC Abuse
+OrgAbusePhone:  +1-650-253-0000 
+OrgAbuseEmail:  google-cloud-compliance@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#</rawText>
+  <parseCode>1065</parseCode>
+  <header>#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+</header>
+  <strippedText>NetRange:       35.208.0.0 - 35.247.255.255
+CIDR:           35.224.0.0/12, 35.208.0.0/12, 35.240.0.0/13
+NetName:        GOOGLE-CLOUD
+NetHandle:      NET-35-208-0-0-1
+Parent:         NET35 (NET-35-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:
+Organization:   Google LLC (GOOGL-2)
+RegDate:        2017-09-29
+Updated:        2018-01-24
+Comment:        *** The IP addresses under this Org-ID are in use by Google Cloud customers ***
+Comment:
+Comment:        Direct all copyright and legal complaints to
+Comment:        https://support.google.com/legal/go/report
+Comment:
+Comment:        Direct all spam and abuse complaints to
+Comment:        https://support.google.com/code/go/gce_abuse_report
+Comment:
+Comment:        For fastest response, use the relevant forms above.
+Comment:
+Comment:        Complaints can also be sent to the GC Abuse desk
+Comment:        (google-cloud-compliance@google.com)
+Comment:        but may have longer turnaround times.
+Ref:            https://rdap.arin.net/registry/ip/35.208.0.0
+OrgName:        Google LLC
+OrgId:          GOOGL-2
+Address:        1600 Amphitheatre Parkway
+City:           Mountain View
+StateProv:      CA
+PostalCode:     94043
+Country:        US
+RegDate:        2006-09-29
+Updated:        2017-12-21
+Comment:        *** The IP addresses under this Org-ID are in use by Google Cloud customers ***
+Comment:
+Comment:        Direct all copyright and legal complaints to
+Comment:        https://support.google.com/legal/go/report
+Comment:
+Comment:        Direct all spam and abuse complaints to
+Comment:        https://support.google.com/code/go/gce_abuse_report
+Comment:
+Comment:        For fastest response, use the relevant forms above.
+Comment:
+Comment:        Complaints can also be sent to the GC Abuse desk
+Comment:        (google-cloud-compliance@google.com)
+Comment:        but may have longer turnaround times.
+Comment:
+Comment:        Complaints sent to any other POC will be ignored.
+Ref:            https://rdap.arin.net/registry/entity/GOOGL-2
+OrgTechHandle: ZG39-ARIN
+OrgTechName:   Google LLC
+OrgTechPhone:  +1-650-253-0000
+OrgTechEmail:  arin-contact@google.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZG39-ARIN
+OrgNOCHandle: GCABU-ARIN
+OrgNOCName:   GC Abuse
+OrgNOCPhone:  +1-650-253-0000
+OrgNOCEmail:  google-cloud-compliance@google.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+OrgAbuseHandle: GCABU-ARIN
+OrgAbuseName:   GC Abuse
+OrgAbusePhone:  +1-650-253-0000
+OrgAbuseEmail:  google-cloud-compliance@google.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/GCABU-ARIN
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+</strippedText>
+  <audit>
+    <createdDate>2018-12-01 14:25:06.692 UTC</createdDate>
+    <updatedDate>2018-12-01 14:25:06.692 UTC</updatedDate>
+  </audit>
+  <customField1Name>netRange</customField1Name>
+  <customField1Value>35.208.0.0 - 35.247.255.255</customField1Value>
+  <registrarName>Administered by ARIN</registrarName>
+  <createdDateNormalized>2017-09-29 00:00:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-01-24 00:00:00 UTC</updatedDateNormalized>
+  <customField2Name>netName</customField2Name>
+  <customField2Value>GOOGLE-CLOUD</customField2Value>
+  <registryData>
+    <updatedDate>1994-04</updatedDate>
+    <domainName>35.225.137.156</domainName>
+    <status>LEGACY</status>
+    <rawText>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      35.0.0.0 - 35.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1994-04
+source:       IANA</rawText>
+    <parseCode>120</parseCode>
+    <header>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object</header>
+    <strippedText>
+refer:        whois.arin.net
+
+inetnum:      35.0.0.0 - 35.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1994-04
+source:       IANA</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:25:05.952 UTC</createdDate>
+      <updatedDate>2018-12-01 14:25:05.952 UTC</updatedDate>
+    </audit>
+    <customField1Name>netRange</customField1Name>
+    <customField1Value>35.0.0.0 - 35.255.255.255</customField1Value>
+    <registrarName>Administered by ARIN</registrarName>
+    <whoisServer>whois.arin.net</whoisServer>
+  </registryData>
+  <contactEmail>google-cloud-compliance@google.com</contactEmail>
+</WhoisRecord>

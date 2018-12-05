@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>service-mobile.ca</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:38:26.867 UTC</createdDate>
+    <updatedDate>2018-12-01 14:38:26.867 UTC</updatedDate>
+  </audit>
+  <registrarName>Web Hosting Canada (7081936 Canada Inc.)</registrarName>
+  <registrarIANAID>631</registrarIANAID>
+  <registryData>
+    <createdDate>2018/11/29</createdDate>
+    <updatedDate>2018/11/29</updatedDate>
+    <expiresDate>2019/11/29</expiresDate>
+    <domainName>service-mobile.ca</domainName>
+    <nameServers>
+      <rawText>ns2.kamyam.ca
+ns1.kamyam.ca
+</rawText>
+      <hostNames>
+        <Address>ns2.kamyam.ca</Address>
+        <Address>ns1.kamyam.ca</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>registered</status>
+    <rawText>Domain name:           service-mobile.ca
+Domain status:         registered
+Creation date:         2018/11/29
+Expiry date:           2019/11/29
+Updated date:          2018/11/29
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              Web Hosting Canada (7081936 Canada Inc.)
+    Number:            5000080
+
+Name servers:
+    ns2.kamyam.ca      198.50.158.208
+    ns1.kamyam.ca      198.27.70.48
+
+% WHOIS look-up made at 2018-12-01 14:38:26 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain name:           service-mobile.ca
+Domain status:         registered
+Creation date:         2018/11/29
+Expiry date:           2019/11/29
+Updated date:          2018/11/29
+DNSSEC:                Unsigned
+Registrar:
+Name:              Web Hosting Canada (7081936 Canada Inc.)
+Number:            5000080
+Name servers:
+ns2.kamyam.ca      198.50.158.208
+ns1.kamyam.ca      198.27.70.48
+% WHOIS look-up made at 2018-12-01 14:38:26 (GMT)
+</strippedText>
+    <footer>%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</footer>
+    <audit>
+      <createdDate>2018-12-01 14:38:26.867 UTC</createdDate>
+      <updatedDate>2018-12-01 14:38:26.867 UTC</updatedDate>
+    </audit>
+    <registrarName>Web Hosting Canada (7081936 Canada Inc.)</registrarName>
+    <registrarIANAID>631</registrarIANAID>
+    <createdDateNormalized>2018-11-29 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.cira.ca</whoisServer>
+  </registryData>
+  <domainNameExt>.ca</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>avada.com.br</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-11-30 19:47:36.000 UTC</createdDate>
+    <updatedDate>2018-11-30 19:47:36.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>20171119 #17732509</createdDate>
+    <updatedDate>20180429</updatedDate>
+    <expiresDate>20181119</expiresDate>
+    <registrant>
+      <name>Tiago F Vilas Boas</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>owner:       Tiago F Vilas Boas</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Tiago F Vilas Boas</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>ti_fap@hotmail.com</email>
+      <rawText>nic-hdl-br:  TFVBO
+person:      Tiago F Vilas Boas
+e-mail:      ti_fap@hotmail.com
+country:     BR
+created:     20080904
+changed:     20141112
+nic-hdl-br:  TFVBO
+person:      Tiago F Vilas Boas
+e-mail:      ti_fap@hotmail.com
+country:     BR
+created:     20080904
+changed:     20141112</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Tiago F Vilas Boas</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>ti_fap@hotmail.com</email>
+      <rawText>nic-hdl-br:  TFVBO
+person:      Tiago F Vilas Boas
+e-mail:      ti_fap@hotmail.com
+country:     BR
+created:     20080904
+changed:     20141112
+nic-hdl-br:  TFVBO
+person:      Tiago F Vilas Boas
+e-mail:      ti_fap@hotmail.com
+country:     BR
+created:     20080904
+changed:     20141112</rawText>
+    </technicalContact>
+    <domainName>avada.com.br</domainName>
+    <nameServers>
+      <rawText>ns1.produtoramarketing.com.br
+ns2.produtoramarketing.com.br
+</rawText>
+      <hostNames>
+        <Address>ns1.produtoramarketing.com.br</Address>
+        <Address>ns2.produtoramarketing.com.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>published</status>
+    <rawText>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-11-30T17:47:35-02:00
+
+domain:      avada.com.br
+owner:       Tiago F Vilas Boas
+ownerid:     356.377.058-10
+country:     BR
+owner-c:     TFVBO
+admin-c:     TFVBO
+tech-c:      TFVBO
+billing-c:   TFVBO
+nserver:     ns1.produtoramarketing.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+nserver:     ns2.produtoramarketing.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+saci:        yes
+created:     20171119 #17732509
+changed:     20180429
+expires:     20181119
+status:      published
+
+nic-hdl-br:  TFVBO
+person:      Tiago F Vilas Boas
+e-mail:      ti_fap@hotmail.com
+country:     BR
+created:     20080904
+changed:     20141112
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</rawText>
+    <parseCode>3571</parseCode>
+    <header>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-11-30T17:47:35-02:00
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-11-30T17:47:35-02:00</header>
+    <strippedText>
+domain:      avada.com.br
+owner:       Tiago F Vilas Boas
+ownerid:     356.377.058-10
+country:     BR
+owner-c:     TFVBO
+admin-c:     TFVBO
+tech-c:      TFVBO
+billing-c:   TFVBO
+nserver:     ns1.produtoramarketing.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+nserver:     ns2.produtoramarketing.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+saci:        yes
+created:     20171119 #17732509
+changed:     20180429
+expires:     20181119
+status:      published
+
+nic-hdl-br:  TFVBO
+person:      Tiago F Vilas Boas
+e-mail:      ti_fap@hotmail.com
+country:     BR
+created:     20080904
+changed:     20141112
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+
+domain:      avada.com.br
+owner:       Tiago F Vilas Boas
+ownerid:     356.377.058-10
+country:     BR
+owner-c:     TFVBO
+admin-c:     TFVBO
+tech-c:      TFVBO
+billing-c:   TFVBO
+nserver:     ns1.produtoramarketing.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+nserver:     ns2.produtoramarketing.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+saci:        yes
+created:     20171119 #17732509
+changed:     20180429
+expires:     20181119
+status:      published
+
+nic-hdl-br:  TFVBO
+person:      Tiago F Vilas Boas
+e-mail:      ti_fap@hotmail.com
+country:     BR
+created:     20080904
+changed:     20141112
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</strippedText>
+    <audit>
+      <createdDate>2018-11-30 19:47:36.000 UTC</createdDate>
+      <updatedDate>2018-11-30 19:47:36.000 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2017-11-19 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-04-29 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-11-19 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.registro.br</whoisServer>
+  </registryData>
+  <contactEmail>ti_fap@hotmail.com</contactEmail>
+  <domainNameExt>.com.br</domainNameExt>
+  <estimatedDomainAge>377</estimatedDomainAge>
+</WhoisRecord>

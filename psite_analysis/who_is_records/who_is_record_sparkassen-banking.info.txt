@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>sparkassen-banking.info</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:32:55.491 UTC</createdDate>
+    <updatedDate>2018-12-01 13:32:55.491 UTC</updatedDate>
+  </audit>
+  <registrarName>Limited Liability Company "Registrar of domain names REG.RU"</registrarName>
+  <registryData>
+    <createdDate>2018-11-21T19:54:43Z</createdDate>
+    <updatedDate>2018-11-21T20:25:03Z</updatedDate>
+    <expiresDate>2019-11-21T19:54:43Z</expiresDate>
+    <registrant>
+      <organization>Private Person</organization>
+      <state>Moscow</state>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <rawText>Registrant Country: RU</rawText>
+    </registrant>
+    <domainName>sparkassen-banking.info</domainName>
+    <nameServers>
+      <rawText>A.DNSPOD.COM
+B.DNSPOD.COM
+</rawText>
+      <hostNames>
+        <Address>A.DNSPOD.COM</Address>
+        <Address>B.DNSPOD.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited serverTransferProhibited</status>
+    <rawText>Domain Name: SPARKASSEN-BANKING.INFO
+Registry Domain ID: D503300000316711870-LRMS
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: http://www.reg.com
+Updated Date: 2018-11-21T20:25:03Z
+Creation Date: 2018-11-21T19:54:43Z
+Registry Expiry Date: 2019-11-21T19:54:43Z
+Registrar Registration Expiration Date:
+Registrar: Limited Liability Company "Registrar of domain names REG.RU"
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registrant Organization: Private Person
+Registrant State/Province: Moscow
+Registrant Country: RU
+Name Server: A.DNSPOD.COM
+Name Server: B.DNSPOD.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:31:55Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: SPARKASSEN-BANKING.INFO
+Registry Domain ID: D503300000316711870-LRMS
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: http://www.reg.com
+Updated Date: 2018-11-21T20:25:03Z
+Creation Date: 2018-11-21T19:54:43Z
+Registry Expiry Date: 2019-11-21T19:54:43Z
+Registrar Registration Expiration Date:
+Registrar: Limited Liability Company "Registrar of domain names REG.RU"
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registrant Organization: Private Person
+Registrant State/Province: Moscow
+Registrant Country: RU
+Name Server: A.DNSPOD.COM
+Name Server: B.DNSPOD.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:31:55Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:32:55.491 UTC</createdDate>
+      <updatedDate>2018-12-01 13:32:55.491 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@reg.ru</customField1Value>
+    <registrarName>Limited Liability Company "Registrar of domain names REG.RU"</registrarName>
+    <registrarIANAID>1606</registrarIANAID>
+    <createdDateNormalized>2018-11-21 19:54:43 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-21 20:25:03 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-21 19:54:43 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+7.4955801111</customField2Value>
+    <customField3Value>http://www.reg.com</customField3Value>
+    <whoisServer>whois.reg.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@reg.ru</contactEmail>
+  <domainNameExt>.info</domainNameExt>
+  <estimatedDomainAge>9</estimatedDomainAge>
+</WhoisRecord>

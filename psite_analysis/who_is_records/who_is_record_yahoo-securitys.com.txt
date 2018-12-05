@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2018-11-29T13:55:20.0Z</createdDate>
+  <updatedDate>2018-11-29T13:55:20.0Z</updatedDate>
+  <expiresDate>2019-11-29T13:55:20.0Z</expiresDate>
+  <registrant>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>Chengdu</city>
+    <state>Sichuan</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>CHINA</country>
+    <countryCode>CN</countryCode>
+    <telephone/>
+    <fax/>
+    <rawText>Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: Chengdu
+Registrant State/Province: Sichuan
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>Chengdu</city>
+    <state>Sichuan</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>CHINA</country>
+    <countryCode>CN</countryCode>
+    <telephone/>
+    <fax/>
+    <rawText>Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: Chengdu
+Admin State/Province: Sichuan
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: CN
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>Chengdu</city>
+    <state>Sichuan</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>CHINA</country>
+    <countryCode>CN</countryCode>
+    <telephone/>
+    <fax/>
+    <rawText>Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: Chengdu
+Tech State/Province: Sichuan
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: CN
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com</rawText>
+  </technicalContact>
+  <domainName>yahoo-securitys.com</domainName>
+  <nameServers>
+    <rawText>ns3.myhostadmin.net
+ns4.myhostadmin.net
+</rawText>
+    <hostNames>
+      <Address>ns3.myhostadmin.net</Address>
+      <Address>ns4.myhostadmin.net</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>ok</status>
+  <rawText>Domain Name: yahoo-securitys.com                
+Registry Domain ID: whois protect
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: www.west.cn
+updated Date: 2018-11-29T13:55:20.0Z
+Creation Date: 2018-11-29T13:55:20.0Z
+Expiration Date: 2019-11-29T13:55:20.0Z
+Registrar Registration Expiration Date: 2019-11-29T13:55:20.0Z
+Registrar: Chengdu west dimension digital technology Co., LTD
+Registrar IANA ID: 1556
+Reseller:
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: Chengdu
+Registrant State/Province: Sichuan
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com
+Registry Admin ID: Not Available From Registry
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: Chengdu
+Admin State/Province: Sichuan
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: CN
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com
+Registry Tech ID: Not Available From Registry
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: Chengdu
+Tech State/Province: Sichuan
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: CN
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com
+Name Server: ns3.myhostadmin.net
+Name Server: ns4.myhostadmin.net
+DNSSEC: signedDelegation
+Registrar Abuse Contact Email: westabuse@gmail.com 
+Registrar Abuse Contact Phone: +86.28.62778877 ext 8359
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-29T13:55:20.0Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: yahoo-securitys.com
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: www.west.cn
+updated Date: 2018-11-29T13:55:20.0Z
+Creation Date: 2018-11-29T13:55:20.0Z
+Expiration Date: 2019-11-29T13:55:20.0Z
+Registrar: Chengdu west dimension digital technology Co., LTD
+Registrar IANA ID: 1556
+Domain Status: ok http://www.icann.org/epp#ok
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: Chengdu
+Registrant State/Province: Sichuan
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: Chengdu
+Admin State/Province: Sichuan
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: CN
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: Chengdu
+Tech State/Province: Sichuan
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: CN
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: link at https://www.west.cn/web/whoisform?domain=yahoo-securitys.com
+Name Server: ns3.myhostadmin.net
+Name Server: ns4.myhostadmin.net
+Registrar Abuse Contact Email: westabuse@gmail.com
+Registrar Abuse Contact Phone: +86.28.62778877 ext 8359
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 14:14:56.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:14:56.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>westabuse@gmail.com</customField1Value>
+  <registrarName>Chengdu west dimension digital technology Co., LTD</registrarName>
+  <registrarIANAID>1556</registrarIANAID>
+  <whoisServer>whois.west.cn</whoisServer>
+  <createdDateNormalized>2018-11-29 13:55:20 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-11-29 13:55:20 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-11-29 13:55:20 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+86.28.62778877 ext 8359</customField2Value>
+  <customField3Value>www.west.cn</customField3Value>
+  <registryData>
+    <createdDate>2018-11-29T13:55:21Z</createdDate>
+    <updatedDate>2018-11-29T15:03:10Z</updatedDate>
+    <expiresDate>2019-11-29T13:55:21Z</expiresDate>
+    <domainName>yahoo-securitys.com</domainName>
+    <nameServers>
+      <rawText>NS3.MYHOSTADMIN.NET
+NS4.MYHOSTADMIN.NET
+</rawText>
+      <hostNames>
+        <Address>NS3.MYHOSTADMIN.NET</Address>
+        <Address>NS4.MYHOSTADMIN.NET</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: YAHOO-SECURITYS.COM
+   Registry Domain ID: 2338056817_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.west263.com
+   Registrar URL: http://www.west.cn
+   Updated Date: 2018-11-29T15:03:10Z
+   Creation Date: 2018-11-29T13:55:21Z
+   Registry Expiry Date: 2019-11-29T13:55:21Z
+   Registrar: Chengdu West Dimension Digital Technology Co., Ltd.
+   Registrar IANA ID: 1556
+   Registrar Abuse Contact Email: abuse@west.cn
+   Registrar Abuse Contact Phone: 86 28 627788770
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS3.MYHOSTADMIN.NET
+   Name Server: NS4.MYHOSTADMIN.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:14:45Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: YAHOO-SECURITYS.COM
+Registry Domain ID: 2338056817_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.west263.com
+Registrar URL: http://www.west.cn
+Updated Date: 2018-11-29T15:03:10Z
+Creation Date: 2018-11-29T13:55:21Z
+Registry Expiry Date: 2019-11-29T13:55:21Z
+Registrar: Chengdu West Dimension Digital Technology Co., Ltd.
+Registrar IANA ID: 1556
+Registrar Abuse Contact Email: abuse@west.cn
+Registrar Abuse Contact Phone: 86 28 627788770
+Domain Status: ok https://icann.org/epp#ok
+Name Server: NS3.MYHOSTADMIN.NET
+Name Server: NS4.MYHOSTADMIN.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:14:45Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:14:54.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:14:54.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@west.cn</customField1Value>
+    <registrarName>Chengdu West Dimension Digital Technology Co., Ltd.</registrarName>
+    <registrarIANAID>1556</registrarIANAID>
+    <createdDateNormalized>2018-11-29 13:55:21 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 15:03:10 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 13:55:21 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>86 28 627788770</customField2Value>
+    <customField3Value>http://www.west.cn</customField3Value>
+    <whoisServer>whois.west263.com</whoisServer>
+  </registryData>
+  <contactEmail>westabuse@gmail.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

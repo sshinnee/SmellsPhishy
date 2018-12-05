@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>knoxville-foreclosure.com</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:00:25.738 UTC</createdDate>
+    <updatedDate>2018-12-01 14:00:25.738 UTC</updatedDate>
+  </audit>
+  <dataError>INCOMPLETE_DATA</dataError>
+  <registryData>
+    <domainName>knoxville-foreclosure.com</domainName>
+    <parseCode>64</parseCode>
+    <audit>
+      <createdDate>2018-12-01 14:00:25.738 UTC</createdDate>
+      <updatedDate>2018-12-01 14:00:25.738 UTC</updatedDate>
+    </audit>
+    <dataError>INCOMPLETE_DATA</dataError>
+    <whoisServer>whois.internic.net</whoisServer>
+  </registryData>
+  <domainNameExt>.com</domainNameExt>
+</WhoisRecord>

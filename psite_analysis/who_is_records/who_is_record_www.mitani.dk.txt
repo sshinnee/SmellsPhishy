@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>mitani.dk</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:25:31.373 UTC</createdDate>
+    <updatedDate>2018-12-01 14:25:31.373 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>2001-06-28</createdDate>
+    <expiresDate>2019-06-30</expiresDate>
+    <registrant>
+      <name>Judoklubben Mitani</name>
+      <street1>Strandlodsvej 38-40</street1>
+      <city>København S</city>
+      <postalCode>2300</postalCode>
+      <country>DENMARK</country>
+      <countryCode>DK</countryCode>
+      <rawText>Handle:               JM9496-DK
+Name:                 Judoklubben Mitani
+Address:              Strandlodsvej 38-40
+Postalcode:           2300
+City:                 København S
+Country:              DK</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Klaus Ambrass</name>
+      <street1>Tingbakken 22 Tybjerglille Bakker</street1>
+      <city>Herlufmagle</city>
+      <postalCode>4160</postalCode>
+      <country>DENMARK</country>
+      <countryCode>DK</countryCode>
+      <rawText>Handle:               KA4733-DK
+Name:                 Klaus Ambrass
+Address:              Tingbakken 22
+Address:              Tybjerglille Bakker
+Postalcode:           4160
+City:                 Herlufmagle
+Country:              DK</rawText>
+    </administrativeContact>
+    <domainName>mitani.dk</domainName>
+    <nameServers>
+      <rawText>ns1.servage.net
+ns2.servage.net
+</rawText>
+      <hostNames>
+        <Address>ns1.servage.net</Address>
+        <Address>ns2.servage.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>Active</status>
+    <rawText># Hello 192.200.197.151. Your session has been logged.
+#
+# Copyright (c) 2002 - 2018 by DK Hostmaster A/S
+#
+# Version: 2.0.2
+#
+# The data in the DK Whois database is provided by DK Hostmaster A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+# 
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. DK Hostmaster A/S
+# requests to be notified of any such activities or suspicions thereof.
+
+Domain:               mitani.dk
+DNS:                  mitani.dk
+Registered:           2001-06-28
+Expires:              2019-06-30
+Registration period:  1 year
+VID:                  no
+Dnssec:               Unsigned delegation
+Status:               Active
+
+Registrant
+Handle:               JM9496-DK
+Name:                 Judoklubben Mitani
+Address:              Strandlodsvej 38-40
+Postalcode:           2300
+City:                 København S
+Country:              DK
+
+Administrator
+Handle:               KA4733-DK
+Name:                 Klaus Ambrass
+Address:              Tingbakken 22
+Address:              Tybjerglille Bakker
+Postalcode:           4160
+City:                 Herlufmagle
+Country:              DK
+
+Nameservers
+Hostname:             ns1.servage.net
+Handle:               SA7066-DK
+Hostname:             ns2.servage.net
+Handle:               SA7066-DK</rawText>
+    <parseCode>1491</parseCode>
+    <header># Hello 192.200.197.151. Your session has been logged.
+#
+# Copyright (c) 2002 - 2018 by DK Hostmaster A/S
+#
+# Version: 2.0.2
+#
+# The data in the DK Whois database is provided by DK Hostmaster A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+#
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. DK Hostmaster A/S
+# requests to be notified of any such activities or suspicions thereof.</header>
+    <strippedText>Domain:               mitani.dk
+DNS:                  mitani.dk
+Registered:           2001-06-28
+Expires:              2019-06-30
+Registration period:  1 year
+VID:                  no
+Dnssec:               Unsigned delegation
+Status:               Active
+Registrant
+Handle:               JM9496-DK
+Name:                 Judoklubben Mitani
+Address:              Strandlodsvej 38-40
+Postalcode:           2300
+City:                 København S
+Country:              DK
+Administrator
+Handle:               KA4733-DK
+Name:                 Klaus Ambrass
+Address:              Tingbakken 22
+Address:              Tybjerglille Bakker
+Postalcode:           4160
+City:                 Herlufmagle
+Country:              DK
+Nameservers
+Hostname:             ns1.servage.net
+Handle:               SA7066-DK
+Hostname:             ns2.servage.net
+Handle:               SA7066-DK
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:25:31.373 UTC</createdDate>
+      <updatedDate>2018-12-01 14:25:31.373 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2001-06-28 00:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-06-30 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.dk-hostmaster.dk</whoisServer>
+  </registryData>
+  <domainNameExt>.dk</domainNameExt>
+  <estimatedDomainAge>6365</estimatedDomainAge>
+</WhoisRecord>

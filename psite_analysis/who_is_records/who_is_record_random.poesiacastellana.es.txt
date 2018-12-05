@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>poesiacastellana.es</domainName>
+  <nameServers>
+    <rawText>ns199196.phdns.es
+dns199196.phdns.es
+ns7448.phdns13.es
+dns7448.phdns13.es
+</rawText>
+    <hostNames>
+      <Address>ns199196.phdns.es</Address>
+      <Address>dns199196.phdns.es</Address>
+      <Address>ns7448.phdns13.es</Address>
+      <Address>dns7448.phdns13.es</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <parseCode>128</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:39:06.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:39:06.000 UTC</updatedDate>
+  </audit>
+  <domainNameExt>.es</domainNameExt>
+</WhoisRecord>

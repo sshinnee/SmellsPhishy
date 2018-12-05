@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>edeka-urbich.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:48.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:48.000 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-28T14:18:03Z</createdDate>
+    <updatedDate>2018-11-30T13:43:28Z</updatedDate>
+    <expiresDate>2019-11-28T14:18:03Z</expiresDate>
+    <registrant>
+      <name>george first</name>
+      <street1>no 96</street1>
+      <city>Paris</city>
+      <state>Paris</state>
+      <postalCode>58654</postalCode>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <email>bgfhtrhfh@protonmail.com</email>
+      <telephone>15554544456674</telephone>
+      <rawText>Registrant Name: george first
+Registrant Street: no 96
+Registrant City: Paris
+Registrant State/Province: Paris
+Registrant Postal Code: 58654
+Registrant Country: FR
+Registrant Phone: +1.5554544456674
+Registrant Email: bgfhtrhfh@protonmail.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>george first</name>
+      <street1>no 96</street1>
+      <city>Paris</city>
+      <state>Paris</state>
+      <postalCode>58654</postalCode>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <email>bgfhtrhfh@protonmail.com</email>
+      <telephone>15554544456674</telephone>
+      <rawText>Admin Name: george first
+Admin Street: no 96
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 58654
+Admin Country: FR
+Admin Phone: +1.5554544456674
+Admin Email: bgfhtrhfh@protonmail.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>george first</name>
+      <street1>no 96</street1>
+      <city>Paris</city>
+      <state>Paris</state>
+      <postalCode>58654</postalCode>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <email>bgfhtrhfh@protonmail.com</email>
+      <telephone>15554544456674</telephone>
+      <rawText>Tech Name: george first
+Tech Street: no 96
+Tech City: Paris
+Tech State/Province: Paris
+Tech Postal Code: 58654
+Tech Country: FR
+Tech Phone: +1.5554544456674
+Tech Email: bgfhtrhfh@protonmail.com</rawText>
+    </technicalContact>
+    <domainName>edeka-urbich.us</domainName>
+    <nameServers>
+      <rawText>ns2.freddiejohn.us
+ns8.ownershits.com
+ns1.freddiejohn.us
+ns7.ownershits.com
+</rawText>
+      <hostNames>
+        <Address>ns2.freddiejohn.us</Address>
+        <Address>ns8.ownershits.com</Address>
+        <Address>ns1.freddiejohn.us</Address>
+        <Address>ns7.ownershits.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientHold clientTransferProhibited addPeriod</status>
+    <rawText>Domain Name: edeka-urbich.us
+Registry Domain ID: D2D2FE33FD97143E28DD73B45CF18B621-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-30T13:43:28Z
+Creation Date: 2018-11-28T14:18:03Z
+Registry Expiry Date: 2019-11-28T14:18:03Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: C2DCF64E47CC94C639CFB4B91FF4490AF-NSR
+Registrant Name: george first
+Registrant Organization:
+Registrant Street: no 96
+Registrant Street:
+Registrant Street:
+Registrant City: Paris
+Registrant State/Province: Paris
+Registrant Postal Code: 58654
+Registrant Country: FR
+Registrant Phone: +1.5554544456674
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: bgfhtrhfh@protonmail.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: CBE4AFED2B2D14470917DCC47053BDF33-NSR
+Admin Name: george first
+Admin Organization:
+Admin Street: no 96
+Admin Street:
+Admin Street:
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 58654
+Admin Country: FR
+Admin Phone: +1.5554544456674
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: bgfhtrhfh@protonmail.com
+Registry Tech ID: C0067610A82CC462BB2E323DA5926E556-NSR
+Tech Name: george first
+Tech Organization:
+Tech Street: no 96
+Tech Street:
+Tech Street:
+Tech City: Paris
+Tech State/Province: Paris
+Tech Postal Code: 58654
+Tech Country: FR
+Tech Phone: +1.5554544456674
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: bgfhtrhfh@protonmail.com
+Name Server: ns2.freddiejohn.us
+Name Server: ns8.ownershits.com
+Name Server: ns1.freddiejohn.us
+Name Server: ns7.ownershits.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:14:46Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: edeka-urbich.us
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-30T13:43:28Z
+Creation Date: 2018-11-28T14:18:03Z
+Registry Expiry Date: 2019-11-28T14:18:03Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Name: george first
+Registrant Street: no 96
+Registrant City: Paris
+Registrant State/Province: Paris
+Registrant Postal Code: 58654
+Registrant Country: FR
+Registrant Phone: +1.5554544456674
+Registrant Email: bgfhtrhfh@protonmail.com
+Admin Name: george first
+Admin Street: no 96
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 58654
+Admin Country: FR
+Admin Phone: +1.5554544456674
+Admin Email: bgfhtrhfh@protonmail.com
+Tech Name: george first
+Tech Street: no 96
+Tech City: Paris
+Tech State/Province: Paris
+Tech Postal Code: 58654
+Tech Country: FR
+Tech Phone: +1.5554544456674
+Tech Email: bgfhtrhfh@protonmail.com
+Name Server: ns2.freddiejohn.us
+Name Server: ns8.ownershits.com
+Name Server: ns1.freddiejohn.us
+Name Server: ns7.ownershits.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:14:48.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:48.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-11-28 14:18:03 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-30 13:43:28 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-28 14:18:03 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>http://www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>bgfhtrhfh@protonmail.com</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>3</estimatedDomainAge>
+</WhoisRecord>

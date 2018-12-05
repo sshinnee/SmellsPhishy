@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>tny.im</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:00:32.167 UTC</createdDate>
+    <updatedDate>2018-12-01 14:00:32.167 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <expiresDate>20/06/2019 00:59:53</expiresDate>
+    <registrant>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted
+Domain Details</rawText>
+    </technicalContact>
+    <domainName>tny.im</domainName>
+    <nameServers>
+      <rawText>alex.ns.cloudflare.com
+kara.ns.cloudflare.com
+</rawText>
+      <hostNames>
+        <Address>alex.ns.cloudflare.com</Address>
+        <Address>kara.ns.cloudflare.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+              
+Domain Name:	tny.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 20/06/2019 00:59:53
+Name Server:alex.ns.cloudflare.com.
+Name Server:kara.ns.cloudflare.com.</rawText>
+    <parseCode>4034</parseCode>
+    <header>This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+</header>
+    <strippedText>Domain Name:	tny.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 20/06/2019 00:59:53
+Name Server:alex.ns.cloudflare.com.
+Name Server:kara.ns.cloudflare.com.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:00:32.167 UTC</createdDate>
+      <updatedDate>2018-12-01 14:00:32.167 UTC</updatedDate>
+    </audit>
+    <expiresDateNormalized>2020-08-06 00:59:53 UTC</expiresDateNormalized>
+    <whoisServer>whois.nic.im</whoisServer>
+  </registryData>
+  <contactEmail>info@nic.im</contactEmail>
+  <domainNameExt>.im</domainNameExt>
+</WhoisRecord>

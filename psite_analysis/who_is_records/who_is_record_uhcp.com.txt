@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>1996-09-19T04:00:00Z</createdDate>
+  <updatedDate>2018-03-02T20:09:26Z</updatedDate>
+  <expiresDate>2020-09-18T04:00:00Z</expiresDate>
+  <registrant>
+    <name>Unico Health Care Products Ltd.</name>
+    <organization>Unico Health Care Products Ltd.</organization>
+    <street1>2-8,WATSON ROAD</street1>
+    <city>HK</city>
+    <postalCode>HK</postalCode>
+    <country>HONG KONG</country>
+    <countryCode>HK</countryCode>
+    <email>tony@uhcp.com</email>
+    <telephone>85285225107377</telephone>
+    <fax>8529999999999</fax>
+    <rawText>Registrant Name: Unico Health Care Products Ltd.
+Registrant Organization: Unico Health Care Products Ltd.
+Registrant Street: 2-8,WATSON ROAD
+Registrant City: HK
+Registrant Postal Code: HK
+Registrant Country: HK
+Registrant Phone: +852.85225107377
+Registrant Fax: +852.9999999999
+Registrant Email: tony@uhcp.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Wong, Tony</name>
+    <organization>Unico Health Care Products ltd.</organization>
+    <street1>Rm 1007, Tower B, Seaview Est,2-8 Watson</street1>
+    <country>HONG KONG</country>
+    <countryCode>HK</countryCode>
+    <email>tony@UNICOHK.COM</email>
+    <telephone>852 2510 7377</telephone>
+    <fax>852 2510 7898</fax>
+    <rawText>Admin Name: Wong, Tony
+Admin Organization: Unico Health Care Products ltd.
+Admin Street: Rm 1007, Tower B, Seaview Est,2-8 Watson
+Admin Country: HK
+Admin Phone: +852 2510 7377
+Admin Fax: +852 2510 7898
+Admin Email: tony@UNICOHK.COM</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>DNS, Admin</name>
+    <organization>Diyixian.com Ltd</organization>
+    <street1>22/F, Crocodile Centre, 79 Hoi Yuen Road</street1>
+    <city>Hong Kong</city>
+    <country>HONG KONG</country>
+    <countryCode>HK</countryCode>
+    <email>dnsadmin@DIYIXIAN.COM</email>
+    <telephone>8521877600</telephone>
+    <fax>8521877677</fax>
+    <rawText>Tech Name: DNS, Admin
+Tech Organization: Diyixian.com Ltd
+Tech Street: 22/F, Crocodile Centre, 79 Hoi Yuen Road
+Tech City: Hong Kong
+Tech Country: HK
+Tech Phone: +852.1877600
+Tech Fax: +852.1877677
+Tech Email: dnsadmin@DIYIXIAN.COM</rawText>
+  </technicalContact>
+  <domainName>uhcp.com</domainName>
+  <nameServers>
+    <rawText>NS35.WORLDNIC.COM
+NS36.WORLDNIC.COM
+</rawText>
+    <hostNames>
+      <Address>NS35.WORLDNIC.COM</Address>
+      <Address>NS36.WORLDNIC.COM</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited</status>
+  <rawText>Domain Name: UHCP.COM
+Registry Domain ID: 2577833_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2018-03-02T20:09:26Z
+Creation Date: 1996-09-19T04:00:00Z
+Registrar Registration Expiration Date: 2020-09-18T04:00:00Z
+Registrar: NETWORK SOLUTIONS, LLC.
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Unico Health Care Products Ltd.
+Registrant Organization: Unico Health Care Products Ltd.
+Registrant Street: 2-8,WATSON ROAD
+Registrant City: HK
+Registrant State/Province: 
+Registrant Postal Code: HK
+Registrant Country: HK
+Registrant Phone: +852.85225107377
+Registrant Phone Ext: 
+Registrant Fax: +852.9999999999
+Registrant Fax Ext: 
+Registrant Email: tony@uhcp.com
+Registry Admin ID: 
+Admin Name: Wong, Tony
+Admin Organization: Unico Health Care Products ltd.
+Admin Street: Rm 1007, Tower B, Seaview Est,2-8 Watson
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: HK
+Admin Phone: +852 2510 7377
+Admin Phone Ext: 
+Admin Fax: +852 2510 7898
+Admin Fax Ext: 
+Admin Email: tony@UNICOHK.COM
+Registry Tech ID: 
+Tech Name: DNS, Admin
+Tech Organization: Diyixian.com Ltd
+Tech Street: 22/F, Crocodile Centre, 79 Hoi Yuen Road
+Tech City: Hong Kong
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: HK
+Tech Phone: +852.1877600
+Tech Phone Ext: 
+Tech Fax: +852.1877677
+Tech Fax Ext: 
+Tech Email: dnsadmin@DIYIXIAN.COM
+Name Server: NS35.WORLDNIC.COM
+Name Server: NS36.WORLDNIC.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:41:52Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https: //www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+
+The data in Networksolutions.com's WHOIS database is provided to you by
+Networksolutions.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record. Networksolutions.com makes this information available "as is," and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Networksolutions.com  (or its systems). The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Networksolutions.com.
+Networksolutions.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+For more information on Whois status codes, please visit
+https: //www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: UHCP.COM
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2018-03-02T20:09:26Z
+Creation Date: 1996-09-19T04:00:00Z
+Registrar Registration Expiration Date: 2020-09-18T04:00:00Z
+Registrar: NETWORK SOLUTIONS, LLC.
+Registrar IANA ID: 2
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Unico Health Care Products Ltd.
+Registrant Organization: Unico Health Care Products Ltd.
+Registrant Street: 2-8,WATSON ROAD
+Registrant City: HK
+Registrant Postal Code: HK
+Registrant Country: HK
+Registrant Phone: +852.85225107377
+Registrant Fax: +852.9999999999
+Registrant Email: tony@uhcp.com
+Admin Name: Wong, Tony
+Admin Organization: Unico Health Care Products ltd.
+Admin Street: Rm 1007, Tower B, Seaview Est,2-8 Watson
+Admin Country: HK
+Admin Phone: +852 2510 7377
+Admin Fax: +852 2510 7898
+Admin Email: tony@UNICOHK.COM
+Tech Name: DNS, Admin
+Tech Organization: Diyixian.com Ltd
+Tech Street: 22/F, Crocodile Centre, 79 Hoi Yuen Road
+Tech City: Hong Kong
+Tech Country: HK
+Tech Phone: +852.1877600
+Tech Fax: +852.1877677
+Tech Email: dnsadmin@DIYIXIAN.COM
+Name Server: NS35.WORLDNIC.COM
+Name Server: NS36.WORLDNIC.COM
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 13:41:53.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:41:53.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@web.com</customField1Value>
+  <registrarName>NETWORK SOLUTIONS, LLC.</registrarName>
+  <registrarIANAID>2</registrarIANAID>
+  <whoisServer>whois.networksolutions.com</whoisServer>
+  <createdDateNormalized>1996-09-19 04:00:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-03-02 20:09:26 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2020-09-18 04:00:00 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.8003337680</customField2Value>
+  <customField3Value>http://networksolutions.com</customField3Value>
+  <registryData>
+    <createdDate>1996-09-19T04:00:00Z</createdDate>
+    <updatedDate>2017-02-14T13:38:32Z</updatedDate>
+    <expiresDate>2020-09-18T04:00:00Z</expiresDate>
+    <domainName>uhcp.com</domainName>
+    <nameServers>
+      <rawText>NS35.WORLDNIC.COM
+NS36.WORLDNIC.COM
+</rawText>
+      <hostNames>
+        <Address>NS35.WORLDNIC.COM</Address>
+        <Address>NS36.WORLDNIC.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: UHCP.COM
+   Registry Domain ID: 2577833_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2017-02-14T13:38:32Z
+   Creation Date: 1996-09-19T04:00:00Z
+   Registry Expiry Date: 2020-09-18T04:00:00Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: abuse@web.com
+   Registrar Abuse Contact Phone: +1.8003337680
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS35.WORLDNIC.COM
+   Name Server: NS36.WORLDNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T13:41:35Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: UHCP.COM
+Registry Domain ID: 2577833_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2017-02-14T13:38:32Z
+Creation Date: 1996-09-19T04:00:00Z
+Registry Expiry Date: 2020-09-18T04:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS35.WORLDNIC.COM
+Name Server: NS36.WORLDNIC.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T13:41:35Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:41:52.000 UTC</createdDate>
+      <updatedDate>2018-12-01 13:41:52.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@web.com</customField1Value>
+    <registrarName>Network Solutions, LLC</registrarName>
+    <registrarIANAID>2</registrarIANAID>
+    <createdDateNormalized>1996-09-19 04:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-02-14 13:38:32 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2020-09-18 04:00:00 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.8003337680</customField2Value>
+    <customField3Value>http://networksolutions.com</customField3Value>
+    <whoisServer>whois.networksolutions.com</whoisServer>
+  </registryData>
+  <contactEmail>tony@uhcp.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>8108</estimatedDomainAge>
+</WhoisRecord>

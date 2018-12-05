@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>fureda.tk</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:15:58.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:15:58.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <registrant>
+      <name>BV Dot TK
+Dot TK administrator</name>
+      <street1>P.O. Box 11774</street1>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>copyright@freenom.com</email>
+      <telephone>31 20 5315725</telephone>
+      <fax>31 20 5315721</fax>
+      <rawText>BV Dot TK
+Dot TK administrator
+P.O. Box 11774
+1001 GT  Amsterdam
+Netherlands
+Phone: +31 20 5315725
+Fax: +31 20 5315721
+E-mail: abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com</rawText>
+    </registrant>
+    <domainName>fureda.tk</domainName>
+    <nameServers>
+      <rawText>NS1.VANLEAUWENGULF.COM
+NS2.VANLEAUWENGULF.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.VANLEAUWENGULF.COM</Address>
+        <Address>NS2.VANLEAUWENGULF.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain name:
+      FUREDA.TK
+
+   Registrant:
+      BV Dot TK
+      Dot TK administrator
+      P.O. Box 11774
+      1001 GT  Amsterdam
+      Netherlands
+      Phone: +31 20 5315725
+      Fax: +31 20 5315721
+      E-mail: abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com
+
+   Domain Nameservers:
+      NS1.VANLEAUWENGULF.COM
+      NS2.VANLEAUWENGULF.COM
+
+
+   Your selected domain name is a Free Domain. That means that,
+   according to the terms and conditions of Free Domain domain names
+   the registrant is BV Dot TK
+
+   Due to restrictions in Dot TK 's Privacy Statement personal information
+   about the user of the domain name cannot be released.
+
+   ABUSE OF A DOMAIN NAME
+   If you want to report abuse of this domain name, please send a
+   detailed email with your complaint to abuse@freenom.com.
+   In most cases Dot TK responds to abuse complaints within one business day.
+
+   COPYRIGHT INFRINGEMENT
+   If you want to report a case of copyright infringement, please send
+   an email to copyright@freenom.com, and include the full name and address of
+   your organization. Within 5 business days copyright infringement notices
+   will be investigated.
+
+   Record maintained by: Dot TK Domain Registry</rawText>
+    <parseCode>1216</parseCode>
+    <header/>
+    <strippedText>Domain name:
+FUREDA.TK
+Registrant:
+BV Dot TK
+Dot TK administrator
+P.O. Box 11774
+1001 GT  Amsterdam
+Netherlands
+Phone: +31 20 5315725
+Fax: +31 20 5315721
+E-mail: abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com
+Domain Nameservers:
+NS1.VANLEAUWENGULF.COM
+NS2.VANLEAUWENGULF.COM
+</strippedText>
+    <footer>Your selected domain name is a Free Domain. That means that,
+according to the terms and conditions of Free Domain domain names
+the registrant is BV Dot TK
+Due to restrictions in Dot TK 's Privacy Statement personal information
+about the user of the domain name cannot be released.
+ABUSE OF A DOMAIN NAME
+If you want to report abuse of this domain name, please send a
+detailed email with your complaint to abuse@freenom.com.
+In most cases Dot TK responds to abuse complaints within one business day.
+COPYRIGHT INFRINGEMENT
+If you want to report a case of copyright infringement, please send
+an email to copyright@freenom.com, and include the full name and address of
+your organization. Within 5 business days copyright infringement notices
+will be investigated.</footer>
+    <audit>
+      <createdDate>2018-12-01 14:15:58.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:15:58.000 UTC</updatedDate>
+    </audit>
+    <whoisServer>whois.dot.tk</whoisServer>
+  </registryData>
+  <contactEmail>copyright@freenom.com</contactEmail>
+  <domainNameExt>.tk</domainNameExt>
+</WhoisRecord>

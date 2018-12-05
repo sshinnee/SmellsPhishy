@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>br-empresas2018.online</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:31:20.325 UTC</createdDate>
+    <updatedDate>2018-12-01 14:31:20.325 UTC</updatedDate>
+  </audit>
+  <registrarName>Hostinger, UAB</registrarName>
+  <registrarIANAID>1636</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-29T16:35:58.0Z</createdDate>
+    <updatedDate>2018-11-29T16:35:59.0Z</updatedDate>
+    <expiresDate>2019-11-29T23:59:59.0Z</expiresDate>
+    <registrant>
+      <organization>celio  domingos</organization>
+      <state>SP</state>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>Registrant Organization: celio  domingos
+Registrant State/Province: SP
+Registrant Country: BR
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <billingContact>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </billingContact>
+    <technicalContact>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>br-empresas2018.online</domainName>
+    <nameServers>
+      <rawText>NS4.HOSTINGER.COM.BR
+NS3.HOSTINGER.COM.BR
+NS2.HOSTINGER.COM.BR
+NS1.HOSTINGER.COM.BR
+</rawText>
+      <hostNames>
+        <Address>NS4.HOSTINGER.COM.BR</Address>
+        <Address>NS3.HOSTINGER.COM.BR</Address>
+        <Address>NS2.HOSTINGER.COM.BR</Address>
+        <Address>NS1.HOSTINGER.COM.BR</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited clientTransferProhibited addPeriod</status>
+    <rawText>Domain Name: BR-EMPRESAS2018.ONLINE
+Registry Domain ID: D85478327-CNIC
+Registrar WHOIS Server: whois.hostinger.com
+Registrar URL:
+Updated Date: 2018-11-29T16:35:59.0Z
+Creation Date: 2018-11-29T16:35:58.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Hostinger, UAB
+Registrar IANA ID: 1636
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: celio  domingos
+Registrant State/Province: SP
+Registrant Country: BR
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS4.HOSTINGER.COM.BR
+Name Server: NS3.HOSTINGER.COM.BR
+Name Server: NS2.HOSTINGER.COM.BR
+Name Server: NS1.HOSTINGER.COM.BR
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domains@hostinger.com
+Registrar Abuse Contact Phone: +370.68424669
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:31:20.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: BR-EMPRESAS2018.ONLINE
+Registrar WHOIS Server: whois.hostinger.com
+Updated Date: 2018-11-29T16:35:59.0Z
+Creation Date: 2018-11-29T16:35:58.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Hostinger, UAB
+Registrar IANA ID: 1636
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: celio  domingos
+Registrant State/Province: SP
+Registrant Country: BR
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS4.HOSTINGER.COM.BR
+Name Server: NS3.HOSTINGER.COM.BR
+Name Server: NS2.HOSTINGER.COM.BR
+Name Server: NS1.HOSTINGER.COM.BR
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domains@hostinger.com
+Registrar Abuse Contact Phone: +370.68424669
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:31:20.325 UTC</createdDate>
+      <updatedDate>2018-12-01 14:31:20.325 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>domains@hostinger.com</customField1Value>
+    <registrarName>Hostinger, UAB</registrarName>
+    <registrarIANAID>1636</registrarIANAID>
+    <createdDateNormalized>2018-11-29 16:35:58 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 16:35:59 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField2Value>+370.68424669</customField2Value>
+    <whoisServer>whois.hostinger.com</whoisServer>
+  </registryData>
+  <contactEmail>domains@hostinger.com</contactEmail>
+  <domainNameExt>.online</domainNameExt>
+  <estimatedDomainAge>1</estimatedDomainAge>
+</WhoisRecord>

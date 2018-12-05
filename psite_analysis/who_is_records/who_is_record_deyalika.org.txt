@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>deyalika.org</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:02:43.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:02:43.000 UTC</updatedDate>
+  </audit>
+  <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+  <registrarIANAID>303</registrarIANAID>
+  <registryData>
+    <createdDate>2018-09-24T08:35:02Z</createdDate>
+    <updatedDate>2018-11-24T03:48:41Z</updatedDate>
+    <expiresDate>2019-09-24T08:35:02Z</expiresDate>
+    <registrant>
+      <organization>Computer Heaven</organization>
+      <state>Dhaka</state>
+      <country>BANGLADESH</country>
+      <countryCode>BD</countryCode>
+      <rawText>Registrant Country: BD</rawText>
+    </registrant>
+    <domainName>deyalika.org</domainName>
+    <nameServers>
+      <rawText>NS83A.TURNKEYWEBSPACE.NET
+NS83B.TURNKEYWEBSPACE.NET
+</rawText>
+      <hostNames>
+        <Address>NS83A.TURNKEYWEBSPACE.NET</Address>
+        <Address>NS83B.TURNKEYWEBSPACE.NET</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: DEYALIKA.ORG
+Registry Domain ID: D402200000007740789-LROR
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://www.publicdomainregistry.com
+Updated Date: 2018-11-24T03:48:41Z
+Creation Date: 2018-09-24T08:35:02Z
+Registry Expiry Date: 2019-09-24T08:35:02Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Computer Heaven
+Registrant State/Province: Dhaka
+Registrant Country: BD
+Name Server: NS83A.TURNKEYWEBSPACE.NET
+Name Server: NS83B.TURNKEYWEBSPACE.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:01:42Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: DEYALIKA.ORG
+Registry Domain ID: D402200000007740789-LROR
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://www.publicdomainregistry.com
+Updated Date: 2018-11-24T03:48:41Z
+Creation Date: 2018-09-24T08:35:02Z
+Registry Expiry Date: 2019-09-24T08:35:02Z
+Registrar Registration Expiration Date:
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Computer Heaven
+Registrant State/Province: Dhaka
+Registrant Country: BD
+Name Server: NS83A.TURNKEYWEBSPACE.NET
+Name Server: NS83B.TURNKEYWEBSPACE.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:01:42Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:02:43.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:02:43.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse-contact@publicdomainregistry.com</customField1Value>
+    <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2018-09-24 08:35:02 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-24 03:48:41 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-09-24 08:35:02 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.2013775952</customField2Value>
+    <customField3Value>http://www.publicdomainregistry.com</customField3Value>
+    <whoisServer>whois.publicdomainregistry.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse-contact@publicdomainregistry.com</contactEmail>
+  <domainNameExt>.org</domainNameExt>
+  <estimatedDomainAge>68</estimatedDomainAge>
+</WhoisRecord>

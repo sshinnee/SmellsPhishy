@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>kmacraeandson.co.uk</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:07:33.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:07:33.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Register.com Inc t/a British Telecom [Tag = BTNAMES]</registrarName>
+  <registrarIANAID>1467</registrarIANAID>
+  <registryData>
+    <createdDate>01-Jan-2011</createdDate>
+    <updatedDate>16-Apr-2018</updatedDate>
+    <expiresDate>01-Jan-2020</expiresDate>
+    <domainName>kmacraeandson.co.uk</domainName>
+    <nameServers>
+      <rawText>dns1.register.com
+dns2.register.com
+</rawText>
+      <hostNames>
+        <Address>dns1.register.com</Address>
+        <Address>dns2.register.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain name:
+        kmacraeandson.co.uk
+
+    Data validation:
+        Nominet was able to match the registrant's name and address against a 3rd party data source on 16-Apr-2018
+
+    Registrar:
+        Register.com Inc t/a British Telecom [Tag = BTNAMES]
+        URL: https://btbusiness.custhelp.com/app/categories/contact/c/5300
+
+    Relevant dates:
+        Registered on: 01-Jan-2011
+        Expiry date:  01-Jan-2020
+        Last updated:  16-Apr-2018
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        dns1.register.com
+        dns2.register.com
+
+    WHOIS lookup made at 14:07:33 01-Dec-2018
+
+-- 
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+
+    Copyright Nominet UK 1996 - 2018.
+
+You may not access the .uk WHOIS or use any data from it except as permitted
+by the terms of use available in full at https://www.nominet.uk/whoisterms,
+which includes restrictions on: (A) use of the data for advertising, or its
+repackaging, recompilation, redistribution or reuse (B) obscuring, removing
+or hiding any or all of this notice and (C) exceeding query rate or volume
+limits. The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time.</rawText>
+    <parseCode>235</parseCode>
+    <header/>
+    <strippedText>Domain name:
+kmacraeandson.co.uk
+Data validation:
+Nominet was able to match the registrant's name and address against a 3rd party data source on 16-Apr-2018
+Registrar:
+Register.com Inc t/a British Telecom [Tag = BTNAMES]
+URL: https://btbusiness.custhelp.com/app/categories/contact/c/5300
+Relevant dates:
+Registered on: 01-Jan-2011
+Expiry date:  01-Jan-2020
+Last updated:  16-Apr-2018
+Registration status:
+Registered until expiry date.
+Name servers:
+dns1.register.com
+dns2.register.com
+WHOIS lookup made at 14:07:33 01-Dec-2018
+--
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+Copyright Nominet UK 1996 - 2018.
+You may not access the .uk WHOIS or use any data from it except as permitted
+by the terms of use available in full at https://www.nominet.uk/whoisterms,
+which includes restrictions on: (A) use of the data for advertising, or its
+repackaging, recompilation, redistribution or reuse (B) obscuring, removing
+or hiding any or all of this notice and (C) exceeding query rate or volume
+limits. The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time.
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:07:33.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:07:33.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Register.com Inc t/a British Telecom [Tag = BTNAMES]</registrarName>
+    <registrarIANAID>1467</registrarIANAID>
+    <createdDateNormalized>2011-01-01 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-04-16 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2020-01-01 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.nic.uk</whoisServer>
+  </registryData>
+  <domainNameExt>.co.uk</domainNameExt>
+  <estimatedDomainAge>2891</estimatedDomainAge>
+</WhoisRecord>

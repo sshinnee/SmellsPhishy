@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2007-03-25T14:10:23Z</createdDate>
+  <updatedDate>2018-02-19T15:16:59Z</updatedDate>
+  <expiresDate>2019-03-25T14:10:23Z</expiresDate>
+  <registrant>
+    <name>Naoki Kobayashi</name>
+    <street1>267 Makieyacho Karasumadori</street1>
+    <city>Kyoto</city>
+    <state>Kyoto</state>
+    <postalCode>6040857</postalCode>
+    <country>JAPAN</country>
+    <countryCode>JP</countryCode>
+    <email>info@bet.co.jp</email>
+    <telephone>81752121326</telephone>
+    <rawText>Registrant Name: Naoki Kobayashi
+Registrant Street: 267 Makieyacho Karasumadori
+Registrant City: Kyoto
+Registrant State/Province: Kyoto
+Registrant Postal Code: 6040857
+Registrant Country: JP
+Registrant Phone: +81.752121326
+Registrant Email: info@bet.co.jp</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Naoki Kobayashi</name>
+    <street1>267 Makieyacho Karasumadori</street1>
+    <city>Kyoto</city>
+    <state>Kyoto</state>
+    <postalCode>6040857</postalCode>
+    <country>JAPAN</country>
+    <countryCode>JP</countryCode>
+    <email>info@bet.co.jp</email>
+    <telephone>81752121326</telephone>
+    <rawText>Admin Name: Naoki Kobayashi
+Admin Street: 267 Makieyacho Karasumadori
+Admin City: Kyoto
+Admin State/Province: Kyoto
+Admin Postal Code: 6040857
+Admin Country: JP
+Admin Phone: +81.752121326
+Admin Email: info@bet.co.jp</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Xserver XSERVER Inc.</name>
+    <organization>XSERVER Inc.</organization>
+    <street1>GRAND FRONT OSAKA TOWER A 13F
+4-20 Ofukacho, Kita-ku</street1>
+    <city>Osaka</city>
+    <state>Osaka</state>
+    <postalCode>5300011</postalCode>
+    <country>JAPAN</country>
+    <countryCode>JP</countryCode>
+    <email>info@xserver.co.jp</email>
+    <telephone>81662928811</telephone>
+    <rawText>Tech Name: Xserver XSERVER Inc.
+Tech Organization: XSERVER Inc.
+Tech Street: GRAND FRONT OSAKA TOWER A 13F
+Tech Street: 4-20 Ofukacho, Kita-ku
+Tech City: Osaka
+Tech State/Province: Osaka
+Tech Postal Code: 5300011
+Tech Country: JP
+Tech Phone: +81.662928811
+Tech Email: info@xserver.co.jp</rawText>
+  </technicalContact>
+  <domainName>js-freedom.com</domainName>
+  <nameServers>
+    <rawText>NS1.XSERVER.JP
+NS5.XSERVER.JP
+NS4.XSERVER.JP
+NS2.XSERVER.JP
+NS3.XSERVER.JP
+</rawText>
+    <hostNames>
+      <Address>NS1.XSERVER.JP</Address>
+      <Address>NS5.XSERVER.JP</Address>
+      <Address>NS4.XSERVER.JP</Address>
+      <Address>NS2.XSERVER.JP</Address>
+      <Address>NS3.XSERVER.JP</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited -</status>
+  <rawText>Domain Name: js-freedom.com
+Registry Domain ID: 893657301_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.star-domain.jp
+Registrar URL: www.star-domain.jp
+Updated Date: 2018-02-19T15:16:59Z
+Creation Date: 2007-03-25T14:10:23Z
+Registrar Registration Expiration Date: 2019-03-25T14:10:23Z
+Registrar: Netowl, Inc.
+Registrar IANA ID: 1557
+Registrar Abuse Contact Email: registrar-abuse@netowl.jp
+Registrar Abuse Contact Phone: +81.662928811
+Domain Status: clientTransferProhibited - https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Naoki Kobayashi
+Registrant Organization: 
+Registrant Street: 267 Makieyacho Karasumadori
+Registrant Street: 
+Registrant City: Kyoto
+Registrant State/Province: Kyoto
+Registrant Postal Code: 6040857
+Registrant Country: JP
+Registrant Phone: +81.752121326
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: info@bet.co.jp
+Registry Admin ID: 
+Admin Name: Naoki Kobayashi
+Admin Organization: 
+Admin Street: 267 Makieyacho Karasumadori
+Admin Street: 
+Admin City: Kyoto
+Admin State/Province: Kyoto
+Admin Postal Code: 6040857
+Admin Country: JP
+Admin Phone: +81.752121326
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: info@bet.co.jp
+Registry Tech ID: 
+Tech Name: Xserver XSERVER Inc.
+Tech Organization: XSERVER Inc.
+Tech Street: GRAND FRONT OSAKA TOWER A 13F
+Tech Street: 4-20 Ofukacho, Kita-ku
+Tech City: Osaka
+Tech State/Province: Osaka
+Tech Postal Code: 5300011
+Tech Country: JP
+Tech Phone: +81.662928811
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: info@xserver.co.jp
+Name Server: NS1.XSERVER.JP
+Name Server: NS5.XSERVER.JP
+Name Server: NS4.XSERVER.JP
+Name Server: NS2.XSERVER.JP
+Name Server: NS3.XSERVER.JP
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-02-19T15:16:59Z &lt;&lt;&lt;
+
+The WHOIS service (the "Service") offered by Netowl, Inc. ("Netowl") and the
+access to the records provided via the Service are for informational purposes
+only. Netowl makes this information available to you "as is" and does not
+guarantee its accuracy. By submitting a WHOIS query, you agree that you will use
+this data only for lawful purposes and that, under no circumstances will you use
+this data: (1) to allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone; (2) in contravention of any applicable data and privacy
+protection acts; or (3) to enable high volume, automated, electronic processes
+that apply to Netowl (or its systems). Compilation, repackaging, dissemination,
+or other use of the WHOIS database in its entirety, or of a substantial portion
+thereof, is strictly prohibited.
+
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: js-freedom.com
+Registrar WHOIS Server: whois.star-domain.jp
+Registrar URL: www.star-domain.jp
+Updated Date: 2018-02-19T15:16:59Z
+Creation Date: 2007-03-25T14:10:23Z
+Registrar Registration Expiration Date: 2019-03-25T14:10:23Z
+Registrar: Netowl, Inc.
+Registrar IANA ID: 1557
+Registrar Abuse Contact Email: registrar-abuse@netowl.jp
+Registrar Abuse Contact Phone: +81.662928811
+Domain Status: clientTransferProhibited - https://www.icann.org/epp#clientTransferProhibited
+Registrant Name: Naoki Kobayashi
+Registrant Street: 267 Makieyacho Karasumadori
+Registrant City: Kyoto
+Registrant State/Province: Kyoto
+Registrant Postal Code: 6040857
+Registrant Country: JP
+Registrant Phone: +81.752121326
+Registrant Email: info@bet.co.jp
+Admin Name: Naoki Kobayashi
+Admin Street: 267 Makieyacho Karasumadori
+Admin City: Kyoto
+Admin State/Province: Kyoto
+Admin Postal Code: 6040857
+Admin Country: JP
+Admin Phone: +81.752121326
+Admin Email: info@bet.co.jp
+Tech Name: Xserver XSERVER Inc.
+Tech Organization: XSERVER Inc.
+Tech Street: GRAND FRONT OSAKA TOWER A 13F
+Tech Street: 4-20 Ofukacho, Kita-ku
+Tech City: Osaka
+Tech State/Province: Osaka
+Tech Postal Code: 5300011
+Tech Country: JP
+Tech Phone: +81.662928811
+Tech Email: info@xserver.co.jp
+Name Server: NS1.XSERVER.JP
+Name Server: NS5.XSERVER.JP
+Name Server: NS4.XSERVER.JP
+Name Server: NS2.XSERVER.JP
+Name Server: NS3.XSERVER.JP
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-07-23 07:35:58.000 UTC</createdDate>
+    <updatedDate>2018-07-23 07:35:58.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>registrar-abuse@netowl.jp</customField1Value>
+  <registrarName>Netowl, Inc.</registrarName>
+  <registrarIANAID>1557</registrarIANAID>
+  <whoisServer>whois.star-domain.jp</whoisServer>
+  <createdDateNormalized>2007-03-25 14:10:23 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-02-19 15:16:59 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-03-25 14:10:23 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+81.662928811</customField2Value>
+  <customField3Value>www.star-domain.jp</customField3Value>
+  <registryData>
+    <createdDate>2007-03-25T14:10:23Z</createdDate>
+    <updatedDate>2018-02-19T15:16:58Z</updatedDate>
+    <expiresDate>2019-03-25T14:10:23Z</expiresDate>
+    <domainName>js-freedom.com</domainName>
+    <nameServers>
+      <rawText>NS1.XSERVER.JP
+NS2.XSERVER.JP
+NS3.XSERVER.JP
+NS4.XSERVER.JP
+NS5.XSERVER.JP
+</rawText>
+      <hostNames>
+        <Address>NS1.XSERVER.JP</Address>
+        <Address>NS2.XSERVER.JP</Address>
+        <Address>NS3.XSERVER.JP</Address>
+        <Address>NS4.XSERVER.JP</Address>
+        <Address>NS5.XSERVER.JP</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: JS-FREEDOM.COM
+   Registry Domain ID: 893657301_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.star-domain.jp
+   Registrar URL: http://www.netowl.jp
+   Updated Date: 2018-02-19T15:16:58Z
+   Creation Date: 2007-03-25T14:10:23Z
+   Registry Expiry Date: 2019-03-25T14:10:23Z
+   Registrar: Netowl, Inc.
+   Registrar IANA ID: 1557
+   Registrar Abuse Contact Email: registrar-abuse@netowl.jp
+   Registrar Abuse Contact Phone: +81.662928811
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.XSERVER.JP
+   Name Server: NS2.XSERVER.JP
+   Name Server: NS3.XSERVER.JP
+   Name Server: NS4.XSERVER.JP
+   Name Server: NS5.XSERVER.JP
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-07-23T07:35:41Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: JS-FREEDOM.COM
+Registry Domain ID: 893657301_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.star-domain.jp
+Registrar URL: http://www.netowl.jp
+Updated Date: 2018-02-19T15:16:58Z
+Creation Date: 2007-03-25T14:10:23Z
+Registry Expiry Date: 2019-03-25T14:10:23Z
+Registrar: Netowl, Inc.
+Registrar IANA ID: 1557
+Registrar Abuse Contact Email: registrar-abuse@netowl.jp
+Registrar Abuse Contact Phone: +81.662928811
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.XSERVER.JP
+Name Server: NS2.XSERVER.JP
+Name Server: NS3.XSERVER.JP
+Name Server: NS4.XSERVER.JP
+Name Server: NS5.XSERVER.JP
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-07-23T07:35:41Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-07-23 07:35:55.000 UTC</createdDate>
+      <updatedDate>2018-07-23 07:35:55.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>registrar-abuse@netowl.jp</customField1Value>
+    <registrarName>Netowl, Inc.</registrarName>
+    <registrarIANAID>1557</registrarIANAID>
+    <createdDateNormalized>2007-03-25 14:10:23 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-02-19 15:16:58 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-25 14:10:23 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+81.662928811</customField2Value>
+    <customField3Value>http://www.netowl.jp</customField3Value>
+    <whoisServer>whois.star-domain.jp</whoisServer>
+  </registryData>
+  <contactEmail>info@bet.co.jp</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>4269</estimatedDomainAge>
+</WhoisRecord>

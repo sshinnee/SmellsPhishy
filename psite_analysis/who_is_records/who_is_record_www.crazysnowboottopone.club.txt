@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>crazysnowboottopone.club</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:38:06.567 UTC</createdDate>
+    <updatedDate>2018-12-01 13:38:06.567 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-27T02:38:04Z</createdDate>
+    <updatedDate>2018-11-27T02:39:42Z</updatedDate>
+    <expiresDate>2019-11-27T02:38:04Z</expiresDate>
+    <registrant>
+      <name>Registrant State/Province: Panama</name>
+      <state>Panama</state>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Registrant State/Province: Panama
+Registrant Country: PA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>crazysnowboottopone.club</domainName>
+    <nameServers>
+      <rawText>f1g1ns2.dnspod.net
+f1g1ns1.dnspod.net
+</rawText>
+      <hostNames>
+        <Address>f1g1ns2.dnspod.net</Address>
+        <Address>f1g1ns1.dnspod.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited addPeriod</status>
+    <rawText>Domain Name: crazysnowboottopone.club
+Registry Domain ID: DB3DEB8B90EF14A9184D2C5EF267F7A0B-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-27T02:39:42Z
+Creation Date: 2018-11-27T02:38:04Z
+Registry Expiry Date: 2019-11-27T02:38:04Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization:
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: Panama
+Registrant Postal Code:
+Registrant Country: PA
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: f1g1ns2.dnspod.net
+Name Server: f1g1ns1.dnspod.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:38:06Z &lt;&lt;&lt;
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.club.
+For more information on Whois status codes, please visit https://icann.org/epp
+
+.Club Domains, LLC, the Registry Operator for .club, has collected this information for the WHOIS database through
+an ICANN-Accredited Registrar. This information is provided to you for informational purposes only and is designed
+to assist persons in determining contents of a domain name registration record in the .Club Domains registry
+database. .Club Domains makes this information available to you "as is" and does not guarantee its accuracy. By
+submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any
+applicable data and privacy protection acts; or (3) to enable high volume, automated, electronic processes that apply
+to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its
+entirety, or of a substantial portion thereof, is not allowed without .Club Domains' prior written permission. .Club
+Domains reserves the right to modify or change these conditions at any time without prior or subsequent notification
+of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. You agree that
+violation of these terms would cause .Club Domains irreparable injury.
+
+In using the WHOIS system, you agree to consent to the jurisdiction of courts of the State of Florida over your person
+in matters related to your WHOIS query.  You agree to consent to Florida jurisdiction regardless of your geographic
+location at the time of your query or your nation of citizenship.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE
+AVAILABILITY OF A DOMAIN NAME.
+
+Contact information: Disclosure of contact data is restricted because of UK and EU Data Protection
+legislation. The contact details for this contact ID may be available by looking up a domain object in the
+WHOIS system. The information can also be obtained through the .Club Domains Special Access Service.
+Visit http://www.nic.club for more details.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: crazysnowboottopone.club
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-27T02:39:42Z
+Creation Date: 2018-11-27T02:38:04Z
+Registry Expiry Date: 2019-11-27T02:38:04Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant State/Province: Panama
+Registrant Country: PA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: f1g1ns2.dnspod.net
+Name Server: f1g1ns1.dnspod.net
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:38:06.567 UTC</createdDate>
+      <updatedDate>2018-12-01 13:38:06.567 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-11-27 02:38:04 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-27 02:39:42 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-27 02:38:04 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>http://www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@namecheap.com</contactEmail>
+  <domainNameExt>.club</domainNameExt>
+  <estimatedDomainAge>4</estimatedDomainAge>
+</WhoisRecord>

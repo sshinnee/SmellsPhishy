@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>pryholland.xyz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:28:14.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:28:14.000 UTC</updatedDate>
+  </audit>
+  <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+  <registrarIANAID>303</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-27T16:03:03.0Z</createdDate>
+    <updatedDate>2018-11-27T16:03:04.0Z</updatedDate>
+    <expiresDate>2019-11-27T23:59:59.0Z</expiresDate>
+    <registrant>
+      <organization>N/A</organization>
+      <state>Anambra</state>
+      <country>NIGERIA</country>
+      <countryCode>NG</countryCode>
+      <rawText>Registrant Organization: N/A
+Registrant State/Province: Anambra
+Registrant Country: NG
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>NIGERIA</country>
+      <countryCode>NG</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <billingContact>
+      <country>NIGERIA</country>
+      <countryCode>NG</countryCode>
+      <rawText>Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </billingContact>
+    <technicalContact>
+      <country>NIGERIA</country>
+      <countryCode>NG</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>pryholland.xyz</domainName>
+    <nameServers>
+      <rawText>NSB.WHOGOHOST.COM
+NSA.WHOGOHOST.COM
+</rawText>
+      <hostNames>
+        <Address>NSB.WHOGOHOST.COM</Address>
+        <Address>NSA.WHOGOHOST.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited clientTransferProhibited addPeriod</status>
+    <rawText>Domain Name: PRYHOLLAND.XYZ
+Registry Domain ID: D84943717-CNIC
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2018-11-27T16:03:04.0Z
+Creation Date: 2018-11-27T16:03:03.0Z
+Registry Expiry Date: 2019-11-27T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: N/A
+Registrant State/Province: Anambra
+Registrant Country: NG
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NSB.WHOGOHOST.COM
+Name Server: NSA.WHOGOHOST.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:28:13.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: PRYHOLLAND.XYZ
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2018-11-27T16:03:04.0Z
+Creation Date: 2018-11-27T16:03:03.0Z
+Registry Expiry Date: 2019-11-27T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: N/A
+Registrant State/Province: Anambra
+Registrant Country: NG
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NSB.WHOGOHOST.COM
+Name Server: NSA.WHOGOHOST.COM
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:28:14.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:28:14.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@publicdomainregistry.com</customField1Value>
+    <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2018-11-27 16:03:03 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-27 16:03:04 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-27 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.2013775952</customField2Value>
+    <customField3Value>https://publicdomainregistry.com</customField3Value>
+    <whoisServer>whois.PublicDomainRegistry.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@publicdomainregistry.com</contactEmail>
+  <domainNameExt>.xyz</domainNameExt>
+  <estimatedDomainAge>3</estimatedDomainAge>
+</WhoisRecord>

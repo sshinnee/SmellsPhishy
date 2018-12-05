@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>comi-ae.top</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:08:34.067 UTC</createdDate>
+    <updatedDate>2018-12-01 14:08:34.067 UTC</updatedDate>
+  </audit>
+  <registrarName>Porkbun LLC</registrarName>
+  <registrarIANAID>1861</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-27T22:37:47Z</createdDate>
+    <updatedDate>2018-11-30T17:35:10Z</updatedDate>
+    <expiresDate>2019-11-27T22:37:47Z</expiresDate>
+    <registrant>
+      <name>Whois Privacy</name>
+      <organization>Private by Design, LLC</organization>
+      <street1>500 Westover Dr #9816</street1>
+      <city>Sanford</city>
+      <state>NC</state>
+      <postalCode>27330</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>whoisprivacy@porkbun.com</email>
+      <telephone>19712666028</telephone>
+      <rawText>Registrant Name: Whois Privacy
+Registrant Organization: Private by Design, LLC
+Registrant Street:  500 Westover Dr #9816
+Registrant City: Sanford
+Registrant State/Province: NC
+Registrant Postal Code: 27330
+Registrant Country: US
+Registrant Phone: +1.9712666028
+Registrant Email: whoisprivacy@porkbun.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Whois Privacy</name>
+      <organization>Private by Design, LLC</organization>
+      <street1>500 Westover Dr #9816</street1>
+      <city>Sanford</city>
+      <state>NC</state>
+      <postalCode>27330</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>whoisprivacy@porkbun.com</email>
+      <telephone>19712666028</telephone>
+      <rawText>Admin Name: Whois Privacy
+Admin Organization: Private by Design, LLC
+Admin Street:  500 Westover Dr #9816
+Admin City: Sanford
+Admin State/Province: NC
+Admin Postal Code: 27330
+Admin Country: US
+Admin Phone: +1.9712666028
+Admin Email: whoisprivacy@porkbun.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Whois Privacy</name>
+      <organization>Private by Design, LLC</organization>
+      <street1>500 Westover Dr #9816</street1>
+      <city>Sanford</city>
+      <state>NC</state>
+      <postalCode>27330</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>whoisprivacy@porkbun.com</email>
+      <telephone>19712666028</telephone>
+      <rawText>Tech Name: Whois Privacy
+Tech Organization: Private by Design, LLC
+Tech Street:  500 Westover Dr #9816
+Tech City: Sanford
+Tech State/Province: NC
+Tech Postal Code: 27330
+Tech Country: US
+Tech Phone: +1.9712666028
+Tech Email: whoisprivacy@porkbun.com</rawText>
+    </technicalContact>
+    <domainName>comi-ae.top</domainName>
+    <nameServers>
+      <rawText>maceio.porkbun.com
+salvador.porkbun.com
+fortaleza.porkbun.com
+curitiba.porkbun.com
+</rawText>
+      <hostNames>
+        <Address>maceio.porkbun.com</Address>
+        <Address>salvador.porkbun.com</Address>
+        <Address>fortaleza.porkbun.com</Address>
+        <Address>curitiba.porkbun.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited clientDeleteProhibited clientHold clientUpdateProhibited addPeriod</status>
+    <rawText>Domain Name: comi-ae.top
+Registry Domain ID: D20181128G10001G_86343194-top
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: http://www.porkbun.com
+Updated Date: 2018-11-30T17:35:10Z
+Creation Date: 2018-11-27T22:37:47Z
+Registry Expiry Date: 2019-11-27T22:37:47Z
+Registrar: Porkbun LLC
+Registrar IANA ID: 1861
+Registrar Abuse Contact Email: owen@porkbun.com
+Registrar Abuse Contact Phone: +1.18557675286
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: C20181128C_35848762-top
+Registrant Name: Whois Privacy
+Registrant Organization: Private by Design, LLC
+Registrant Street:  500 Westover Dr #9816
+Registrant City: Sanford
+Registrant State/Province: NC
+Registrant Postal Code: 27330
+Registrant Country: US
+Registrant Phone: +1.9712666028
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: whoisprivacy@porkbun.com
+Registry Admin ID: C20181128C_35848763-top
+Admin Name: Whois Privacy
+Admin Organization: Private by Design, LLC
+Admin Street:  500 Westover Dr #9816
+Admin City: Sanford
+Admin State/Province: NC
+Admin Postal Code: 27330
+Admin Country: US
+Admin Phone: +1.9712666028
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: whoisprivacy@porkbun.com
+Registry Tech ID: C20181128C_35848764-top
+Tech Name: Whois Privacy
+Tech Organization: Private by Design, LLC
+Tech Street:  500 Westover Dr #9816
+Tech City: Sanford
+Tech State/Province: NC
+Tech Postal Code: 27330
+Tech Country: US
+Tech Phone: +1.9712666028
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: whoisprivacy@porkbun.com
+Name Server: maceio.porkbun.com
+Name Server: salvador.porkbun.com
+Name Server: fortaleza.porkbun.com
+Name Server: curitiba.porkbun.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:06:17Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: The information in the Whois database is collected through ICANN-accredited registrars. Jiangsu bangning science &amp; technology Co., Ltd(“BANGNING”) make this information available to you and do not guarantee its accuracy or completeness. By submitting a whois query, you agree to abide by the following terms of use: you agree that you may use this data only for lawful purposes and that under no circumstances will you use this data to:  (1) to allow， enable， or otherwise support the transmission of mass unsolicited， commercial advertising or solicitations via direct mail， electronic mail， or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume， automated， electronic processes that apply to BANGNING (or its computer systems). Compilation， repackaging， dissemination， or other use of the WHOIS database in its entirety， or of a substantial portion thereof， is not allowed without BANGNING prior written permission. You agree not to use electronic processes that are automated and high-volume to access or query the whois database except as reasonably necessary to register domain names or modify existing registrations. BANGNING reserves the right to restrict your access to the whois database in its sole discretion to ensure operational stability.  BANGNING may restrict or terminate your access to the whois database for failure to abide by these terms of use. BANGNING reserves the right to modify these terms at any time without prior or subsequent notification of any kind.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: comi-ae.top
+Registrar WHOIS Server: whois.porkbun.com
+Registrar URL: http://www.porkbun.com
+Updated Date: 2018-11-30T17:35:10Z
+Creation Date: 2018-11-27T22:37:47Z
+Registry Expiry Date: 2019-11-27T22:37:47Z
+Registrar: Porkbun LLC
+Registrar IANA ID: 1861
+Registrar Abuse Contact Email: owen@porkbun.com
+Registrar Abuse Contact Phone: +1.18557675286
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Name: Whois Privacy
+Registrant Organization: Private by Design, LLC
+Registrant Street:  500 Westover Dr #9816
+Registrant City: Sanford
+Registrant State/Province: NC
+Registrant Postal Code: 27330
+Registrant Country: US
+Registrant Phone: +1.9712666028
+Registrant Email: whoisprivacy@porkbun.com
+Admin Name: Whois Privacy
+Admin Organization: Private by Design, LLC
+Admin Street:  500 Westover Dr #9816
+Admin City: Sanford
+Admin State/Province: NC
+Admin Postal Code: 27330
+Admin Country: US
+Admin Phone: +1.9712666028
+Admin Email: whoisprivacy@porkbun.com
+Tech Name: Whois Privacy
+Tech Organization: Private by Design, LLC
+Tech Street:  500 Westover Dr #9816
+Tech City: Sanford
+Tech State/Province: NC
+Tech Postal Code: 27330
+Tech Country: US
+Tech Phone: +1.9712666028
+Tech Email: whoisprivacy@porkbun.com
+Name Server: maceio.porkbun.com
+Name Server: salvador.porkbun.com
+Name Server: fortaleza.porkbun.com
+Name Server: curitiba.porkbun.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:08:34.067 UTC</createdDate>
+      <updatedDate>2018-12-01 14:08:34.067 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>owen@porkbun.com</customField1Value>
+    <registrarName>Porkbun LLC</registrarName>
+    <registrarIANAID>1861</registrarIANAID>
+    <createdDateNormalized>2018-11-27 22:37:47 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-30 17:35:10 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-27 22:37:47 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.18557675286</customField2Value>
+    <customField3Value>http://www.porkbun.com</customField3Value>
+    <whoisServer>whois.porkbun.com</whoisServer>
+  </registryData>
+  <contactEmail>whoisprivacy@porkbun.com</contactEmail>
+  <domainNameExt>.top</domainNameExt>
+  <estimatedDomainAge>3</estimatedDomainAge>
+</WhoisRecord>

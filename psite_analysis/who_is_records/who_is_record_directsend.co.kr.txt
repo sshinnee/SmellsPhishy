@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>directsend.co.kr</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:29:38.669 UTC</createdDate>
+    <updatedDate>2018-12-01 14:29:38.669 UTC</updatedDate>
+  </audit>
+  <registrarName>Inames Co., Ltd.(http://www.inames.co.kr)</registrarName>
+  <registrarIANAID>444</registrarIANAID>
+  <registryData>
+    <createdDate>2010. 08. 12.</createdDate>
+    <updatedDate>2017. 07. 21.</updatedDate>
+    <expiresDate>2022. 08. 12.</expiresDate>
+    <registrant>
+      <name>Samjung Data Service CO.,Ltd</name>
+      <street1>110, Digital-ro</street1>
+      <street2>26-gil,</street2>
+      <street3>Guro-gu,</street3>
+      <city>Seoul</city>
+      <postalCode>08393</postalCode>
+      <country>Guro</country>
+      <unparsable>-gu</unparsable>
+    </registrant>
+    <administrativeContact>
+      <name>Samjung Data Service CO.,Ltd</name>
+      <email>kang@sds.co.kr</email>
+      <telephone>0215441992</telephone>
+    </administrativeContact>
+    <domainName>directsend.co.kr</domainName>
+    <nameServers>
+      <rawText>ns1.sdsns.com
+ns2.sdsns.com
+</rawText>
+      <hostNames>
+        <Address>ns1.sdsns.com</Address>
+        <Address>ns2.sdsns.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>query : directsend.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : directsend.co.kr
+등록인                      : 삼정데이타서비스(주)
+등록인 주소                 : 서울특별시 구로구 디지털로26길 110 3층 6303호 (구로동)
+등록인 우편번호             : 08393
+책임자                      : 삼정데이타서비스(주)
+책임자 전자우편             : kang@sds.co.kr
+책임자 전화번호             : 0215441992
+등록일                      : 2010. 08. 12.
+최근 정보 변경일            : 2017. 07. 21.
+사용 종료일                 : 2022. 08. 12.
+정보공개여부                : Y
+등록대행자                  : (주)아이네임즈(http://www.inames.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns1.sdsns.com
+
+2차 네임서버 정보
+   호스트이름               : ns2.sdsns.com
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : directsend.co.kr
+Registrant                  : Samjung Data Service CO.,Ltd
+Registrant Address          : 110, Digital-ro 26-gil, Guro-gu, Seoul, Guro-gu
+Registrant Zip Code         : 08393
+Administrative Contact(AC)  : Samjung Data Service CO.,Ltd
+AC E-Mail                   : kang@sds.co.kr
+AC Phone Number             : 0215441992
+Registered Date             : 2010. 08. 12.
+Last Updated Date           : 2017. 07. 21.
+Expiration Date             : 2022. 08. 12.
+Publishes                   : Y
+Authorized Agency           : Inames Co., Ltd.(http://www.inames.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns1.sdsns.com
+
+Secondary Name Server
+   Host Name                : ns2.sdsns.com
+
+
+
+- KISA/KRNIC WHOIS Service -</rawText>
+    <parseCode>235</parseCode>
+    <header>query : directsend.co.kr
+# KOREAN(UTF8)
+도메인이름                  : directsend.co.kr
+등록인                      : 삼정데이타서비스(주)
+등록인 주소                 : 서울특별시 구로구 디지털로26길 110 3층 6303호 (구로동)
+등록인 우편번호             : 08393
+책임자                      : 삼정데이타서비스(주)
+책임자 전자우편             : kang@sds.co.kr
+책임자 전화번호             : 0215441992
+등록일                      : 2010. 08. 12.
+최근 정보 변경일            : 2017. 07. 21.
+사용 종료일                 : 2022. 08. 12.
+정보공개여부                : Y
+등록대행자                  : (주)아이네임즈(http://www.inames.co.kr)
+DNSSEC                      : 미서명
+1차 네임서버 정보
+호스트이름               : ns1.sdsns.com
+2차 네임서버 정보
+호스트이름               : ns2.sdsns.com
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+</header>
+    <strippedText># ENGLISH
+Domain Name                 : directsend.co.kr
+Registrant                  : Samjung Data Service CO.,Ltd
+Registrant Address          : 110, Digital-ro 26-gil, Guro-gu, Seoul, Guro-gu
+Registrant Zip Code         : 08393
+Administrative Contact(AC)  : Samjung Data Service CO.,Ltd
+AC E-Mail                   : kang@sds.co.kr
+AC Phone Number             : 0215441992
+Registered Date             : 2010. 08. 12.
+Last Updated Date           : 2017. 07. 21.
+Expiration Date             : 2022. 08. 12.
+Publishes                   : Y
+Authorized Agency           : Inames Co., Ltd.(http://www.inames.co.kr)
+DNSSEC                      : unsigned
+Primary Name Server
+Host Name                : ns1.sdsns.com
+Secondary Name Server
+Host Name                : ns2.sdsns.com
+- KISA/KRNIC WHOIS Service -
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:29:38.669 UTC</createdDate>
+      <updatedDate>2018-12-01 14:29:38.669 UTC</updatedDate>
+    </audit>
+    <registrarName>Inames Co., Ltd.(http://www.inames.co.kr)</registrarName>
+    <registrarIANAID>444</registrarIANAID>
+    <createdDateNormalized>2010-08-12 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-07-21 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2022-08-12 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.krnic.net</whoisServer>
+  </registryData>
+  <contactEmail>kang@sds.co.kr</contactEmail>
+  <domainNameExt>.co.kr</domainNameExt>
+  <estimatedDomainAge>3033</estimatedDomainAge>
+</WhoisRecord>

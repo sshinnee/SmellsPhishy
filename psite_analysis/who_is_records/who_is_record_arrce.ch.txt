@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>arrce.ch</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2016-05-30 10:31:01.000 UTC</createdDate>
+    <updatedDate>2016-05-30 10:31:01.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>2005-06-01</createdDate>
+    <registrant>
+      <name>arrece
+Jean-Marie Senn</name>
+      <street1>av</street1>
+      <country>SWITZERLAND</country>
+      <countryCode>CH</countryCode>
+      <rawText>arrece
+Jean-Marie Senn
+av Petit-Lancy 31 bis
+CH-1213 Petit-Lancy
+Switzerland</rawText>
+    </registrant>
+    <technicalContact>
+      <name>arrece
+Jean-Marie Senn</name>
+      <street1>av</street1>
+      <country>SWITZERLAND</country>
+      <countryCode>CH</countryCode>
+      <rawText>arrece
+Jean-Marie Senn
+av Petit-Lancy 31 bis
+CH-1213 Petit-Lancy
+Switzerland</rawText>
+    </technicalContact>
+    <domainName>arrce.ch</domainName>
+    <nameServers>
+      <rawText>ns1.infomaniak.ch
+ns2.infomaniak.ch
+</rawText>
+      <hostNames>
+        <Address>ns1.infomaniak.ch</Address>
+        <Address>ns2.infomaniak.ch</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>whois: This information is subject to an Acceptable Use Policy.
+See http://www.nic.ch/terms/aup.html
+
+
+Domain name:
+arrce.ch
+
+Holder of domain name:
+arrece
+Jean-Marie Senn
+av Petit-Lancy 31 bis
+CH-1213 Petit-Lancy
+Switzerland
+Contractual Language: French
+
+Technical contact:
+arrece
+Jean-Marie Senn
+av Petit-Lancy 31 bis
+CH-1213 Petit-Lancy
+Switzerland
+
+Registrar:
+Infomaniak Network SA
+
+First registration date:
+2005-06-01
+
+DNSSEC:N
+
+Name servers:
+ns1.infomaniak.ch	[2001:1600:0:aaaa::a]
+ns1.infomaniak.ch	[84.16.66.66]
+ns2.infomaniak.ch	[2001:1600:0:aaaa::b]
+ns2.infomaniak.ch	[84.16.67.66]</rawText>
+    <parseCode>3273</parseCode>
+    <header/>
+    <strippedText>whois: This information is subject to an Acceptable Use Policy.
+See http://www.nic.ch/terms/aup.html
+Domain name:
+arrce.ch
+Holder of domain name:
+arrece
+Jean-Marie Senn
+av Petit-Lancy 31 bis
+CH-1213 Petit-Lancy
+Switzerland
+Contractual Language: French
+Technical contact:
+arrece
+Jean-Marie Senn
+av Petit-Lancy 31 bis
+CH-1213 Petit-Lancy
+Switzerland
+Registrar:
+Infomaniak Network SA
+First registration date:
+2005-06-01
+DNSSEC:N
+Name servers:
+ns1.infomaniak.ch	[2001:1600:0:aaaa::a]
+ns1.infomaniak.ch	[84.16.66.66]
+ns2.infomaniak.ch	[2001:1600:0:aaaa::b]
+ns2.infomaniak.ch	[84.16.67.66]
+</strippedText>
+    <audit>
+      <createdDate>2016-05-30 10:31:01.000 UTC</createdDate>
+      <updatedDate>2016-05-30 10:31:01.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>Contractual Language</customField1Name>
+    <customField1Value>French</customField1Value>
+    <registrarName>Infomaniak Network SA</registrarName>
+    <registrarIANAID>3240</registrarIANAID>
+    <createdDateNormalized>2005-06-01 00:00:00 UTC</createdDateNormalized>
+    <whoisServer>whois.nic.ch</whoisServer>
+  </registryData>
+  <domainNameExt>.ch</domainNameExt>
+  <estimatedDomainAge>4931</estimatedDomainAge>
+</WhoisRecord>

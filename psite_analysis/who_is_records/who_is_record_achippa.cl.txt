@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>achippa.cl</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:23:36.057 UTC</createdDate>
+    <updatedDate>2018-12-01 14:23:36.057 UTC</updatedDate>
+  </audit>
+  <registrarName>NIC Chile</registrarName>
+  <registrarIANAID>1689</registrarIANAID>
+  <registryData>
+    <createdDate>2001-06-02 22:53:18 CLST</createdDate>
+    <expiresDate>2019-06-29 18:53:18 CLST</expiresDate>
+    <registrant>
+      <name>AsociaciÃ³n Chilena de Profesionales del Paisaje (ASOC CHILENA DE PROFESIONALES DEL PAISAJE A G)</name>
+      <country>GERMANY</country>
+      <countryCode>DE</countryCode>
+      <rawText>Registrant name: AsociaciÃ³n Chilena de Profesionales del Paisaje (ASOC CHILENA DE PROFESIONALES DEL PAISAJE A G)</rawText>
+    </registrant>
+    <domainName>achippa.cl</domainName>
+    <nameServers>
+      <rawText>dns1.softfirst.net
+dns2.softfirst.net
+</rawText>
+      <hostNames>
+        <Address>dns1.softfirst.net</Address>
+        <Address>dns2.softfirst.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%
+
+Domain name: achippa.cl
+Registrant name: AsociaciÃ³n Chilena de Profesionales del Paisaje (ASOC CHILENA DE PROFESIONALES DEL PAISAJE A G)
+Registrant organisation: 
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2001-06-02 22:53:18 CLST
+Expiration date: 2019-06-29 18:53:18 CLST
+Name server: dns1.softfirst.net
+Name server: dns2.softfirst.net
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=achippa.cl
+%%</rawText>
+    <parseCode>1227</parseCode>
+    <header>%%
+%% This is the NIC Chile Whois server (whois.nic.cl).
+%%
+%% Rights restricted by copyright.
+%% See https://www.nic.cl/normativa/politica-publicacion-de-datos-cl.pdf
+%%</header>
+    <strippedText>Domain name: achippa.cl
+Registrant name: AsociaciÃ³n Chilena de Profesionales del Paisaje (ASOC CHILENA DE PROFESIONALES DEL PAISAJE A G)
+Registrant organisation:
+Registrar name: NIC Chile
+Registrar URL: https://www.nic.cl
+Creation date: 2001-06-02 22:53:18 CLST
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:23:36.057 UTC</createdDate>
+      <updatedDate>2018-12-01 14:23:36.057 UTC</updatedDate>
+    </audit>
+    <registrarName>NIC Chile</registrarName>
+    <registrarIANAID>1689</registrarIANAID>
+    <createdDateNormalized>2001-06-03 02:53:18 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-06-29 22:53:18 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>https://www.nic.cl</customField3Value>
+    <whoisServer>whois.nic.cl</whoisServer>
+  </registryData>
+  <domainNameExt>.cl</domainNameExt>
+  <estimatedDomainAge>6390</estimatedDomainAge>
+</WhoisRecord>

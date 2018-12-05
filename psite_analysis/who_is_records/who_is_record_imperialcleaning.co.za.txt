@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>imperialcleaning.co.za</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:46:49.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:46:49.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Hetzner (Pty) Ltd</registrarName>
+  <registrarIANAID>828</registrarIANAID>
+  <registryData>
+    <createdDate>2013-10-07T14:45:30Z</createdDate>
+    <updatedDate>2018-10-07T15:00:04Z</updatedDate>
+    <expiresDate>2019-10-07T14:45:30Z</expiresDate>
+    <registrant>
+      <name>REDACTED</name>
+      <organization>Pahasha Marketing Solutions</organization>
+      <street1>REDACTED</street1>
+      <city>REDACTED</city>
+      <postalCode>REDACTED</postalCode>
+      <country>SOUTH AFRICA</country>
+      <countryCode>ZA</countryCode>
+      <telephone/>
+      <fax/>
+      <rawText>Registrant Name: REDACTED
+Registrant Organization: Pahasha Marketing Solutions
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant Postal Code: REDACTED
+Registrant Country: ZA
+Registrant Phone: REDACTED
+Registrant Fax: REDACTED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>REDACTED</name>
+      <organization>REDACTED</organization>
+      <street1>REDACTED</street1>
+      <city>REDACTED</city>
+      <state>REDACTED</state>
+      <postalCode>REDACTED</postalCode>
+      <country>REDACTED</country>
+      <telephone/>
+      <fax/>
+      <rawText>Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Fax: REDACTED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>REDACTED</name>
+      <organization>REDACTED</organization>
+      <street1>REDACTED</street1>
+      <city>REDACTED</city>
+      <state>REDACTED</state>
+      <postalCode>REDACTED</postalCode>
+      <country>REDACTED</country>
+      <telephone/>
+      <fax/>
+      <rawText>Billing Name: REDACTED
+Billing Organization: REDACTED
+Billing Street: REDACTED
+Billing City: REDACTED
+Billing State/Province: REDACTED
+Billing Postal Code: REDACTED
+Billing Country: REDACTED
+Billing Phone: REDACTED
+Billing Fax: REDACTED
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>REDACTED</name>
+      <organization>REDACTED</organization>
+      <street1>REDACTED</street1>
+      <city>REDACTED</city>
+      <state>REDACTED</state>
+      <postalCode>REDACTED</postalCode>
+      <country>REDACTED</country>
+      <telephone/>
+      <fax/>
+      <rawText>Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Fax: REDACTED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.</rawText>
+    </technicalContact>
+    <domainName>imperialcleaning.co.za</domainName>
+    <nameServers>
+      <rawText>ns8112.hostgator.com
+ns8111.hostgator.com
+</rawText>
+      <hostNames>
+        <Address>ns8112.hostgator.com</Address>
+        <Address>ns8111.hostgator.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: imperialcleaning.co.za
+Registry Domain ID: DOM_2IKD1-CO.ZA
+Registrar WHOIS Server:
+Registrar URL: https://hetzner.co.za/
+Updated Date: 2018-10-07T15:00:04Z
+Creation Date: 2013-10-07T14:45:30Z
+Registry Expiry Date: 2019-10-07T14:45:30Z
+Registrar Registration Expiration Date: 2019-10-07T14:45:30Z
+Registrar: Hetzner (Pty) Ltd
+Registrar Abuse Contact Email: zacr@hetzner.co.za
+Registrar Abuse Contact Phone: +27.219702045
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Pahasha Marketing Solutions
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province:
+Registrant Postal Code: REDACTED
+Registrant Country: ZA
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Registry Billing ID: REDACTED
+Billing Name: REDACTED
+Billing Organization: REDACTED
+Billing Street: REDACTED
+Billing City: REDACTED
+Billing State/Province: REDACTED
+Billing Postal Code: REDACTED
+Billing Country: REDACTED
+Billing Phone: REDACTED
+Billing Phone Ext: REDACTED
+Billing Fax: REDACTED
+Billing Fax Ext: REDACTED
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Name Server: ns8112.hostgator.com
+Name Server: ns8111.hostgator.com
+DNSSEC: unsigned
+ZACR Complaint/s Procedure and Form: https://registry.net.za/content.php?gen=1&amp;contentid=226
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:45:38Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+#
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://registry.net.za/whois_terms
+# Copyright (c) ZACR 1995-2018</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: imperialcleaning.co.za
+Registrar URL: https://hetzner.co.za/
+Updated Date: 2018-10-07T15:00:04Z
+Creation Date: 2013-10-07T14:45:30Z
+Registry Expiry Date: 2019-10-07T14:45:30Z
+Registrar: Hetzner (Pty) Ltd
+Registrar Abuse Contact Email: zacr@hetzner.co.za
+Registrar Abuse Contact Phone: +27.219702045
+Domain Status: ok https://icann.org/epp#ok
+Registrant Name: REDACTED
+Registrant Organization: Pahasha Marketing Solutions
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant Postal Code: REDACTED
+Registrant Country: ZA
+Registrant Phone: REDACTED
+Registrant Fax: REDACTED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Fax: REDACTED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Fax: REDACTED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Billing Name: REDACTED
+Billing Organization: REDACTED
+Billing Street: REDACTED
+Billing City: REDACTED
+Billing State/Province: REDACTED
+Billing Postal Code: REDACTED
+Billing Country: REDACTED
+Billing Phone: REDACTED
+Billing Fax: REDACTED
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Name Server: ns8112.hostgator.com
+Name Server: ns8111.hostgator.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:46:49.000 UTC</createdDate>
+      <updatedDate>2018-12-01 13:46:49.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>zacr@hetzner.co.za</customField1Value>
+    <registrarName>Hetzner (Pty) Ltd</registrarName>
+    <registrarIANAID>828</registrarIANAID>
+    <createdDateNormalized>2013-10-07 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-10-07 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-10-07 00:00:00 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+27.219702045</customField2Value>
+    <customField3Value>https://hetzner.co.za/</customField3Value>
+    <whoisServer>whois.registry.net.za</whoisServer>
+  </registryData>
+  <contactEmail>zacr@hetzner.co.za</contactEmail>
+  <domainNameExt>.co.za</domainNameExt>
+  <estimatedDomainAge>1881</estimatedDomainAge>
+</WhoisRecord>

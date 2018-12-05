@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>ocn.ad.jp</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:41:27.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:41:27.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>1996/12/24</createdDate>
+    <updatedDate>2018/01/01 01:05:01 (JST)</updatedDate>
+    <expiresDate>2018/12/31</expiresDate>
+    <registrant>
+      <organization>NTT Communications Corporation</organization>
+    </registrant>
+    <domainName>OCN.AD.JP</domainName>
+    <nameServers>
+      <rawText>ns1.ocn.ad.jp
+ns2.ocn.ad.jp
+</rawText>
+      <hostNames>
+        <Address>ns1.ocn.ad.jp</Address>
+        <Address>ns2.ocn.ad.jp</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                OCN.AD.JP
+g. [Organization]               NTT Communications Corporation
+l. [Organization Type]          JPNIC Member's Network
+m. [Administrative Contact]     MO081JP
+n. [Technical Contact]          KK551JP
+n. [Technical Contact]          MO081JP
+p. [Name Server]                ns1.ocn.ad.jp
+p. [Name Server]                ns2.ocn.ad.jp
+s. [Signing Key]                
+[State]                         Connected (2018/12/31)
+[Registered Date]               1996/12/24
+[Connected Date]                1996/12/26
+[Last Update]                   2018/01/01 01:05:01 (JST)</rawText>
+    <parseCode>227</parseCode>
+    <header>[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+</header>
+    <strippedText>Domain Information:
+a. [Domain Name]                OCN.AD.JP
+g. [Organization]               NTT Communications Corporation
+l. [Organization Type]          JPNIC Member's Network
+m. [Administrative Contact]     MO081JP
+n. [Technical Contact]          KK551JP
+n. [Technical Contact]          MO081JP
+p. [Name Server]                ns1.ocn.ad.jp
+p. [Name Server]                ns2.ocn.ad.jp
+s. [Signing Key]
+[State]                         Connected (2018/12/31)
+[Registered Date]               1996/12/24
+[Connected Date]                1996/12/26
+[Last Update]                   2018/01/01 01:05:01 (JST)
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 13:41:27.000 UTC</createdDate>
+      <updatedDate>2018-12-01 13:41:27.000 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>1996-12-24 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-12-31 16:05:01 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-12-31 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.jprs.jp</whoisServer>
+  </registryData>
+  <domainNameExt>.ad.jp</domainNameExt>
+  <estimatedDomainAge>8012</estimatedDomainAge>
+</WhoisRecord>

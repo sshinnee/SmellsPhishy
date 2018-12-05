@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>spijkenieuws.nl</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:33:54.947 UTC</createdDate>
+    <updatedDate>2018-12-01 14:33:54.947 UTC</updatedDate>
+  </audit>
+  <registrarName>Registrar.eu</registrarName>
+  <registrarIANAID>2475</registrarIANAID>
+  <registryData>
+    <domainName>spijkenieuws.nl</domainName>
+    <nameServers>
+      <rawText>ns1.pansa.net
+ns2.pansa.net
+ns3.pansa.net
+</rawText>
+      <hostNames>
+        <Address>ns1.pansa.net</Address>
+        <Address>ns2.pansa.net</Address>
+        <Address>ns3.pansa.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>active</status>
+    <rawText>Domain name: spijkenieuws.nl
+Status:      active
+
+Registrar:    Registrar.eu
+
+RegistrarInfo: 
+   Kipstraat 3c5c
+   3011RR ROTTERDAM
+   Netherlands
+
+Abuse Contact:
+   +31.104482297
+   abuse@registrar.eu
+
+DNSSEC:      no
+
+Domain nameservers:
+   ns1.pansa.net
+   ns2.pansa.net
+   ns3.pansa.net
+
+Record maintained by: NL Domain Registry
+
+Copyright notice
+No part of this publication may be reproduced, published, stored in a
+retrieval system, or transmitted, in any form or by any means,
+electronic, mechanical, recording, or otherwise, without prior
+permission of the Foundation for Internet Domain Registration in the
+Netherlands (SIDN).
+These restrictions apply equally to registrars, except in that
+reproductions and publications are permitted insofar as they are
+reasonable, necessary and solely in the context of the registration
+activities referred to in the General Terms and Conditions for .nl
+Registrars.
+Any use of this material for advertising, targeting commercial offers or
+similar activities is explicitly forbidden and liable to result in legal
+action. Anyone who is aware or suspects that such activities are taking
+place is asked to inform the Foundation for Internet Domain Registration
+in the Netherlands.
+(c) The Foundation for Internet Domain Registration in the Netherlands
+(SIDN) Dutch Copyright Act, protection of authors' rights (Section 10,
+subsection 1, clause 1).</rawText>
+    <parseCode>216</parseCode>
+    <header/>
+    <strippedText>Domain name: spijkenieuws.nl
+Status:      active
+Registrar:    Registrar.eu
+RegistrarInfo:
+Kipstraat 3c5c
+3011RR ROTTERDAM
+Netherlands
+Abuse Contact:
++31.104482297
+abuse@registrar.eu
+DNSSEC:      no
+Domain nameservers:
+ns1.pansa.net
+ns2.pansa.net
+ns3.pansa.net
+Record maintained by: NL Domain Registry
+</strippedText>
+    <footer>Copyright notice
+No part of this publication may be reproduced, published, stored in a
+retrieval system, or transmitted, in any form or by any means,
+electronic, mechanical, recording, or otherwise, without prior
+permission of the Foundation for Internet Domain Registration in the
+Netherlands (SIDN).
+These restrictions apply equally to registrars, except in that
+reproductions and publications are permitted insofar as they are
+reasonable, necessary and solely in the context of the registration
+activities referred to in the General Terms and Conditions for .nl
+Registrars.
+Any use of this material for advertising, targeting commercial offers or
+similar activities is explicitly forbidden and liable to result in legal
+action. Anyone who is aware or suspects that such activities are taking
+place is asked to inform the Foundation for Internet Domain Registration
+in the Netherlands.
+(c) The Foundation for Internet Domain Registration in the Netherlands
+(SIDN) Dutch Copyright Act, protection of authors' rights (Section 10,
+subsection 1, clause 1).</footer>
+    <audit>
+      <createdDate>2018-12-01 14:33:54.947 UTC</createdDate>
+      <updatedDate>2018-12-01 14:33:54.947 UTC</updatedDate>
+    </audit>
+    <registrarName>Registrar.eu</registrarName>
+    <registrarIANAID>2475</registrarIANAID>
+    <whoisServer>whois.domain-registry.nl</whoisServer>
+  </registryData>
+  <contactEmail>abuse@registrar.eu</contactEmail>
+  <domainNameExt>.nl</domainNameExt>
+</WhoisRecord>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>beget.tech</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 17:30:15.000 UTC</createdDate>
+    <updatedDate>2018-11-30 17:30:15.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Registrar of Domain Names REG.RU, LLC</registrarName>
+  <registrarIANAID>1606</registrarIANAID>
+  <registryData>
+    <createdDate>2016-08-29T09:01:43.0Z</createdDate>
+    <updatedDate>2018-08-13T21:21:20.0Z</updatedDate>
+    <expiresDate>2021-08-29T23:59:59.0Z</expiresDate>
+    <registrant>
+      <organization>BeGet Ltd</organization>
+      <state>SAINT-PETERSBURG</state>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>head@beget.com</email>
+      <telephone>78123854136</telephone>
+      <rawText>Registrant Organization: BeGet Ltd
+Registrant State/Province: SAINT-PETERSBURG
+Registrant Country: RU
+Registrant Phone: +7.8123854136
+Registrant Email: head@beget.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Admin Phone: +7.8123854136</name>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>head@beget.com</email>
+      <telephone>78123854136</telephone>
+      <rawText>Admin Phone: +7.8123854136
+Admin Email: head@beget.com</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Billing Phone: +7.8123854136</name>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>head@beget.com</email>
+      <telephone>78123854136</telephone>
+      <rawText>Billing Phone: +7.8123854136
+Billing Email: head@beget.com</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Tech Phone: +7.8123854136</name>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <email>head@beget.com</email>
+      <telephone>78123854136</telephone>
+      <rawText>Tech Phone: +7.8123854136
+Tech Email: head@beget.com</rawText>
+    </technicalContact>
+    <domainName>beget.tech</domainName>
+    <nameServers>
+      <rawText>NS1.BEGET.COM
+NS2.BEGET.COM
+NS1.BEGET.PRO
+NS2.BEGET.PRO
+</rawText>
+      <hostNames>
+        <Address>NS1.BEGET.COM</Address>
+        <Address>NS2.BEGET.COM</Address>
+        <Address>NS1.BEGET.PRO</Address>
+        <Address>NS2.BEGET.PRO</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: BEGET.TECH
+Registry Domain ID: D35898553-CNIC
+Registrar WHOIS Server: whois.reg.ru
+Registrar URL: https://www.reg.ru/
+Updated Date: 2018-08-13T21:21:20.0Z
+Creation Date: 2016-08-29T09:01:43.0Z
+Registry Expiry Date: 2021-08-29T23:59:59.0Z
+Registrar: Registrar of Domain Names REG.RU, LLC
+Registrar IANA ID: 1606
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: BeGet Ltd
+Registrant State/Province: SAINT-PETERSBURG
+Registrant Country: RU
+Registrant Phone: +7.8123854136
+Registrant Email: head@beget.com
+Admin Phone: +7.8123854136
+Admin Email: head@beget.com
+Tech Phone: +7.8123854136
+Tech Email: head@beget.com
+Name Server: NS1.BEGET.COM
+Name Server: NS2.BEGET.COM
+Name Server: NS1.BEGET.PRO
+Name Server: NS2.BEGET.PRO
+DNSSEC: unsigned
+Billing Phone: +7.8123854136
+Billing Email: head@beget.com
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-30T17:30:14.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: BEGET.TECH
+Registrar WHOIS Server: whois.reg.ru
+Registrar URL: https://www.reg.ru/
+Updated Date: 2018-08-13T21:21:20.0Z
+Creation Date: 2016-08-29T09:01:43.0Z
+Registry Expiry Date: 2021-08-29T23:59:59.0Z
+Registrar: Registrar of Domain Names REG.RU, LLC
+Registrar IANA ID: 1606
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: BeGet Ltd
+Registrant State/Province: SAINT-PETERSBURG
+Registrant Country: RU
+Registrant Phone: +7.8123854136
+Registrant Email: head@beget.com
+Admin Phone: +7.8123854136
+Admin Email: head@beget.com
+Tech Phone: +7.8123854136
+Tech Email: head@beget.com
+Name Server: NS1.BEGET.COM
+Name Server: NS2.BEGET.COM
+Name Server: NS1.BEGET.PRO
+Name Server: NS2.BEGET.PRO
+Billing Phone: +7.8123854136
+Billing Email: head@beget.com
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-30 17:30:15.000 UTC</createdDate>
+      <updatedDate>2018-11-30 17:30:15.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@reg.ru</customField1Value>
+    <registrarName>Registrar of Domain Names REG.RU, LLC</registrarName>
+    <registrarIANAID>1606</registrarIANAID>
+    <createdDateNormalized>2016-08-29 09:01:43 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-08-13 21:21:20 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2021-08-29 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+7.4955801111</customField2Value>
+    <customField3Value>https://www.reg.ru/</customField3Value>
+    <whoisServer>whois.reg.ru</whoisServer>
+  </registryData>
+  <contactEmail>head@beget.com</contactEmail>
+  <domainNameExt>.tech</domainNameExt>
+  <estimatedDomainAge>824</estimatedDomainAge>
+</WhoisRecord>

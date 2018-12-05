@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>altervista.org</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 05:45:10.000 UTC</createdDate>
+    <updatedDate>2018-12-01 05:45:10.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Tucows Inc.</registrarName>
+  <registryData>
+    <createdDate>2000-12-22T18:05:39Z</createdDate>
+    <updatedDate>2017-07-19T15:40:27Z</updatedDate>
+    <expiresDate>2020-12-22T18:05:39Z</expiresDate>
+    <registrant>
+      <organization>AME S.p.a.</organization>
+      <state>MI</state>
+      <country>ITALY</country>
+      <countryCode>IT</countryCode>
+      <rawText>Registrant Country: IT</rawText>
+    </registrant>
+    <domainName>altervista.org</domainName>
+    <nameServers>
+      <rawText>NS1.ALTERVISTA.ORG
+NS2.ALTERVISTA.ORG
+NS3.ALTERVISTA.ORG
+</rawText>
+      <hostNames>
+        <Address>NS1.ALTERVISTA.ORG</Address>
+        <Address>NS2.ALTERVISTA.ORG</Address>
+        <Address>NS3.ALTERVISTA.ORG</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited clientUpdateProhibited</status>
+    <rawText>Domain Name: ALTERVISTA.ORG
+Registry Domain ID: D49746541-LROR
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://www.tucows.com
+Updated Date: 2017-07-19T15:40:27Z
+Creation Date: 2000-12-22T18:05:39Z
+Registry Expiry Date: 2020-12-22T18:05:39Z
+Registrar Registration Expiration Date:
+Registrar: Tucows Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization: AME S.p.a.
+Registrant State/Province: MI
+Registrant Country: IT
+Name Server: NS1.ALTERVISTA.ORG
+Name Server: NS2.ALTERVISTA.ORG
+Name Server: NS3.ALTERVISTA.ORG
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T05:44:09Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: ALTERVISTA.ORG
+Registry Domain ID: D49746541-LROR
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://www.tucows.com
+Updated Date: 2017-07-19T15:40:27Z
+Creation Date: 2000-12-22T18:05:39Z
+Registry Expiry Date: 2020-12-22T18:05:39Z
+Registrar Registration Expiration Date:
+Registrar: Tucows Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization: AME S.p.a.
+Registrant State/Province: MI
+Registrant Country: IT
+Name Server: NS1.ALTERVISTA.ORG
+Name Server: NS2.ALTERVISTA.ORG
+Name Server: NS3.ALTERVISTA.ORG
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T05:44:09Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 05:45:10.000 UTC</createdDate>
+      <updatedDate>2018-12-01 05:45:10.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>domainabuse@tucows.com</customField1Value>
+    <registrarName>Tucows Inc.</registrarName>
+    <registrarIANAID>69</registrarIANAID>
+    <createdDateNormalized>2000-12-22 18:05:39 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-07-19 15:40:27 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2020-12-22 18:05:39 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4165350123</customField2Value>
+    <customField3Value>http://www.tucows.com</customField3Value>
+    <whoisServer>whois.tucows.com</whoisServer>
+  </registryData>
+  <contactEmail>domainabuse@tucows.com</contactEmail>
+  <domainNameExt>.org</domainNameExt>
+  <estimatedDomainAge>6552</estimatedDomainAge>
+</WhoisRecord>

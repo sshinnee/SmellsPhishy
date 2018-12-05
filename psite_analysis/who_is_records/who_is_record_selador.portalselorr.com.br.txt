@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>selador.portalselorr.com.br</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:08:15.938 UTC</createdDate>
+    <updatedDate>2018-12-01 14:08:15.938 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>20171117 #17726762</createdDate>
+    <updatedDate>20181117</updatedDate>
+    <expiresDate>20191117</expiresDate>
+    <registrant>
+      <name>ALYSSON ANTONIO MATOS RODRIGUES</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>owner:       ALYSSON ANTONIO MATOS RODRIGUES</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Alysson Antonio Matos Rodrigues</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>alysson_rodrigues@hotmail.com</email>
+      <rawText>nic-hdl-br:  AAMRO2
+person:      Alysson Antonio Matos Rodrigues
+e-mail:      alysson_rodrigues@hotmail.com
+country:     BR
+created:     20091006
+changed:     20181022</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Alysson Antonio Matos Rodrigues</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>alysson_rodrigues@hotmail.com</email>
+      <rawText>nic-hdl-br:  AAMRO2
+person:      Alysson Antonio Matos Rodrigues
+e-mail:      alysson_rodrigues@hotmail.com
+country:     BR
+created:     20091006
+changed:     20181022</rawText>
+    </technicalContact>
+    <domainName>selador.portalselorr.com.br</domainName>
+    <nameServers>
+      <rawText>a.sec.dns.br
+c.sec.dns.br
+</rawText>
+      <hostNames>
+        <Address>a.sec.dns.br</Address>
+        <Address>c.sec.dns.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>published</status>
+    <rawText>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:08:15-02:00
+
+domain:      portalselorr.com.br
+owner:       ALYSSON ANTONIO MATOS RODRIGUES
+ownerid:     881.660.666-53
+country:     BR
+owner-c:     AAMRO2
+admin-c:     AAMRO2
+tech-c:      AAMRO2
+billing-c:   AAMRO2
+nserver:     a.sec.dns.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+nserver:     c.sec.dns.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+dsrecord:    43309 RSASHA1 EA6C48691472263BEB84710EEAE9FCBBBF3B52B4
+dsstatus:    20181130 DSOK
+dslastok:    20181130
+saci:        yes
+created:     20171117 #17726762
+changed:     20181117
+expires:     20191117
+status:      published
+
+nic-hdl-br:  AAMRO2
+person:      Alysson Antonio Matos Rodrigues
+e-mail:      alysson_rodrigues@hotmail.com
+country:     BR
+created:     20091006
+changed:     20181022
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</rawText>
+    <parseCode>3571</parseCode>
+    <header>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:08:15-02:00</header>
+    <strippedText>
+domain:      portalselorr.com.br
+owner:       ALYSSON ANTONIO MATOS RODRIGUES
+ownerid:     881.660.666-53
+country:     BR
+owner-c:     AAMRO2
+admin-c:     AAMRO2
+tech-c:      AAMRO2
+billing-c:   AAMRO2
+nserver:     a.sec.dns.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+nserver:     c.sec.dns.br
+nsstat:      20181130 AA
+nslastaa:    20181130
+dsrecord:    43309 RSASHA1 EA6C48691472263BEB84710EEAE9FCBBBF3B52B4
+dsstatus:    20181130 DSOK
+dslastok:    20181130
+saci:        yes
+created:     20171117 #17726762
+changed:     20181117
+expires:     20191117
+status:      published
+
+nic-hdl-br:  AAMRO2
+person:      Alysson Antonio Matos Rodrigues
+e-mail:      alysson_rodrigues@hotmail.com
+country:     BR
+created:     20091006
+changed:     20181022
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:08:15.938 UTC</createdDate>
+      <updatedDate>2018-12-01 14:08:15.938 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2017-11-17 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-17 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-17 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.registro.br</whoisServer>
+  </registryData>
+  <contactEmail>alysson_rodrigues@hotmail.com</contactEmail>
+  <domainNameExt>.com.br</domainNameExt>
+  <estimatedDomainAge>379</estimatedDomainAge>
+</WhoisRecord>

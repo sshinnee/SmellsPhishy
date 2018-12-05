@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>t.co</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 12:20:22.000 UTC</createdDate>
+    <updatedDate>2018-12-01 12:20:22.000 UTC</updatedDate>
+  </audit>
+  <registrarName>CSC Corporate Domains, Inc.</registrarName>
+  <registrarIANAID>299</registrarIANAID>
+  <registryData>
+    <createdDate>2010-04-26T07:50:40Z</createdDate>
+    <updatedDate>2018-04-27T05:43:56Z</updatedDate>
+    <expiresDate>2019-04-25T23:59:59Z</expiresDate>
+    <registrant>
+      <organization>Twitter, Inc.</organization>
+      <state>CA</state>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <rawText>Registrant Organization: Twitter, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>t.co</domainName>
+    <nameServers>
+      <rawText>d01-01.ns.twtrdns.net
+d01-02.ns.twtrdns.net
+r01-02.ns.twtrdns.net
+ns4.p34.dynect.net
+ns3.p34.dynect.net
+r01-01.ns.twtrdns.net
+</rawText>
+      <hostNames>
+        <Address>d01-01.ns.twtrdns.net</Address>
+        <Address>d01-02.ns.twtrdns.net</Address>
+        <Address>r01-02.ns.twtrdns.net</Address>
+        <Address>ns4.p34.dynect.net</Address>
+        <Address>ns3.p34.dynect.net</Address>
+        <Address>r01-01.ns.twtrdns.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited serverUpdateProhibited serverDeleteProhibited clientTransferProhibited</status>
+    <rawText>Domain Name: t.co
+Registry Domain ID: D740225-CO
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: whois.corporatedomains.com
+Updated Date: 2018-04-27T05:43:56Z
+Creation Date: 2010-04-26T07:50:40Z
+Registry Expiry Date: 2019-04-25T23:59:59Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: Twitter, Inc.
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: CA
+Registrant Postal Code:
+Registrant Country: US
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: d01-01.ns.twtrdns.net
+Name Server: d01-02.ns.twtrdns.net
+Name Server: r01-02.ns.twtrdns.net
+Name Server: ns4.p34.dynect.net
+Name Server: ns3.p34.dynect.net
+Name Server: r01-01.ns.twtrdns.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T12:20:22Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.co.
+
+.CO Internet, S.A.S., the Administrator for .CO, has collected this information for the WHOIS database through Accredited Registrars. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the .CO Internet registry database. .CO Internet makes this information available to you "as is" and does not guarantee its accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data:  (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated,  electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without .CO Internet's prior written permission. .CO Internet reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms.  In some limited cases, domains that might appear as available in whois might not actually be available as they could be already registered and the whois not yet updated and/or they could be part of the Restricted list. In this cases, performing a check through your Registrar's (EPP check) will give you the actual status of the domain. Additionally, domains currently or previously used as extensions in 3rd level domains will not be available for registration in the 2nd level. For example, org.co,mil.co,edu.co,com.co,net.co,nom.co,arts.co, firm.co,info.co,int.co,web.co,rec.co,co.co.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.cointernet.co &lt;http://www.cointernet.co&gt;.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: t.co
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: whois.corporatedomains.com
+Updated Date: 2018-04-27T05:43:56Z
+Creation Date: 2010-04-26T07:50:40Z
+Registry Expiry Date: 2019-04-25T23:59:59Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Twitter, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: d01-01.ns.twtrdns.net
+Name Server: d01-02.ns.twtrdns.net
+Name Server: r01-02.ns.twtrdns.net
+Name Server: ns4.p34.dynect.net
+Name Server: ns3.p34.dynect.net
+Name Server: r01-01.ns.twtrdns.net
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 12:20:22.000 UTC</createdDate>
+      <updatedDate>2018-12-01 12:20:22.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>domainabuse@cscglobal.com</customField1Value>
+    <registrarName>CSC Corporate Domains, Inc.</registrarName>
+    <registrarIANAID>299</registrarIANAID>
+    <createdDateNormalized>2010-04-26 07:50:40 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-04-27 05:43:56 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-04-25 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.8887802723</customField2Value>
+    <customField3Value>whois.corporatedomains.com</customField3Value>
+    <whoisServer>whois.corporatedomains.com</whoisServer>
+  </registryData>
+  <contactEmail>domainabuse@cscglobal.com</contactEmail>
+  <domainNameExt>.co</domainNameExt>
+  <estimatedDomainAge>3141</estimatedDomainAge>
+</WhoisRecord>

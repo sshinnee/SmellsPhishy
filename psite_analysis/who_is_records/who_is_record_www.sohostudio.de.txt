@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>sohostudio.de</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:59:32.092 UTC</createdDate>
+    <updatedDate>2018-12-01 13:59:32.092 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <updatedDate>2017-09-24T23:54:53+02:00</updatedDate>
+    <domainName>sohostudio.de</domainName>
+    <nameServers>
+      <rawText>ns01.one.com
+ns02.one.com
+ns03.one.com
+</rawText>
+      <hostNames>
+        <Address>ns01.one.com</Address>
+        <Address>ns02.one.com</Address>
+        <Address>ns03.one.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>connect</status>
+    <rawText>% Restricted rights.
+% 
+% Terms and Conditions of Use
+% 
+% The above data may only be used within the scope of technical or
+% administrative necessities of Internet operation or to remedy legal
+% problems.
+% The use for other purposes, in particular for advertising, is not permitted.
+% 
+% The DENIC whois service on port 43 doesn't disclose any information concerning
+% the domain holder, general request and abuse contact.
+% This information can be obtained through use of our web-based whois service
+% available at the DENIC website:
+% http://www.denic.de/en/domains/whois-service/web-whois.html
+% 
+% 
+
+Domain: sohostudio.de
+Nserver: ns01.one.com
+Nserver: ns02.one.com
+Nserver: ns03.one.com
+Status: connect
+Changed: 2017-09-24T23:54:53+02:00</rawText>
+    <parseCode>240</parseCode>
+    <header>% Restricted rights.
+%
+% Terms and Conditions of Use
+%
+% The above data may only be used within the scope of technical or
+% administrative necessities of Internet operation or to remedy legal
+% problems.
+% The use for other purposes, in particular for advertising, is not permitted.
+%
+% The DENIC whois service on port 43 doesn't disclose any information concerning
+% the domain holder, general request and abuse contact.
+% This information can be obtained through use of our web-based whois service
+% available at the DENIC website:
+% http://www.denic.de/en/domains/whois-service/web-whois.html
+%
+%</header>
+    <strippedText>Domain: sohostudio.de
+Nserver: ns01.one.com
+Nserver: ns02.one.com
+Nserver: ns03.one.com
+Status: connect
+Changed: 2017-09-24T23:54:53+02:00
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:59:32.092 UTC</createdDate>
+      <updatedDate>2018-12-01 13:59:32.092 UTC</updatedDate>
+    </audit>
+    <updatedDateNormalized>2017-09-24 21:54:53 UTC</updatedDateNormalized>
+    <whoisServer>whois.denic.de</whoisServer>
+  </registryData>
+  <domainNameExt>.de</domainNameExt>
+</WhoisRecord>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>saladvo.ru</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:29:23.513 UTC</createdDate>
+    <updatedDate>2018-12-01 14:29:23.513 UTC</updatedDate>
+  </audit>
+  <registrarName>REGRU-RU</registrarName>
+  <registryData>
+    <createdDate>2016-08-31T04:16:15Z</createdDate>
+    <expiresDate>2019-08-31T04:16:15Z</expiresDate>
+    <domainName>saladvo.ru</domainName>
+    <nameServers>
+      <rawText>ns1.beget.com
+ns1.beget.pro
+ns2.beget.com
+ns2.beget.pro
+</rawText>
+      <hostNames>
+        <Address>ns1.beget.com</Address>
+        <Address>ns1.beget.pro</Address>
+        <Address>ns2.beget.com</Address>
+        <Address>ns2.beget.pro</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>REGISTERED, DELEGATED, VERIFIED</status>
+    <rawText>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        SALADVO.RU
+nserver:       ns1.beget.com.
+nserver:       ns1.beget.pro.
+nserver:       ns2.beget.com.
+nserver:       ns2.beget.pro.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2016-08-31T04:16:15Z
+paid-till:     2019-08-31T04:16:15Z
+free-date:     2019-10-01
+source:        TCI
+
+Last updated on 2018-12-01T14:26:34Z</rawText>
+    <parseCode>219</parseCode>
+    <header>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).</header>
+    <strippedText>
+domain:        SALADVO.RU
+nserver:       ns1.beget.com.
+nserver:       ns1.beget.pro.
+nserver:       ns2.beget.com.
+nserver:       ns2.beget.pro.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2016-08-31T04:16:15Z
+paid-till:     2019-08-31T04:16:15Z
+free-date:     2019-10-01
+source:        TCI
+
+Last updated on 2018-12-01T14:26:34Z</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:29:23.513 UTC</createdDate>
+      <updatedDate>2018-12-01 14:29:23.513 UTC</updatedDate>
+    </audit>
+    <registrarName>REGRU-RU</registrarName>
+    <createdDateNormalized>2016-08-31 04:16:15 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-08-31 04:16:15 UTC</expiresDateNormalized>
+    <whoisServer>whois.ripn.net</whoisServer>
+  </registryData>
+  <domainNameExt>.ru</domainNameExt>
+  <estimatedDomainAge>822</estimatedDomainAge>
+</WhoisRecord>

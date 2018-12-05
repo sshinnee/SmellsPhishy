@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>skipro.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 00:15:26.000 UTC</createdDate>
+    <updatedDate>2018-11-30 00:15:26.000 UTC</updatedDate>
+  </audit>
+  <registrarName>GoDaddy.com, Inc.</registrarName>
+  <registrarIANAID>146</registrarIANAID>
+  <registryData>
+    <createdDate>2003-05-09T22:21:59Z</createdDate>
+    <updatedDate>2018-05-14T22:48:56Z</updatedDate>
+    <expiresDate>2019-05-08T23:59:59Z</expiresDate>
+    <registrant>
+      <name>Thomas Gardtman</name>
+      <street1>P.O. Box 7618</street1>
+      <city>Tahoe City</city>
+      <state>California</state>
+      <postalCode>96145</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>thomasgardtman@hotskiing.com</email>
+      <telephone>15305836358</telephone>
+      <rawText>Registrant Name: Thomas Gardtman
+Registrant Street: P.O. Box 7618
+Registrant City: Tahoe City
+Registrant State/Province: California
+Registrant Postal Code: 96145
+Registrant Country: US
+Registrant Phone: +1.5305836358
+Registrant Email: thomasgardtman@hotskiing.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Thomas Gardtman</name>
+      <street1>P.O. Box 7618</street1>
+      <city>Tahoe City</city>
+      <state>California</state>
+      <postalCode>96145</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>thomasgardtman@hotskiing.com</email>
+      <telephone>15305836358</telephone>
+      <rawText>Admin Name: Thomas Gardtman
+Admin Street: P.O. Box 7618
+Admin City: Tahoe City
+Admin State/Province: California
+Admin Postal Code: 96145
+Admin Country: US
+Admin Phone: +1.5305836358
+Admin Email: thomasgardtman@hotskiing.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Thomas Gardtman</name>
+      <street1>P.O. Box 7618</street1>
+      <city>Tahoe City</city>
+      <state>California</state>
+      <postalCode>96145</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>thomasgardtman@hotskiing.com</email>
+      <telephone>15305836358</telephone>
+      <rawText>Tech Name: Thomas Gardtman
+Tech Street: P.O. Box 7618
+Tech City: Tahoe City
+Tech State/Province: California
+Tech Postal Code: 96145
+Tech Country: US
+Tech Phone: +1.5305836358
+Tech Email: thomasgardtman@hotskiing.com</rawText>
+    </technicalContact>
+    <domainName>skipro.us</domainName>
+    <nameServers>
+      <rawText>ns42.domaincontrol.com
+ns41.domaincontrol.com
+</rawText>
+      <hostNames>
+        <Address>ns42.domaincontrol.com</Address>
+        <Address>ns41.domaincontrol.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientUpdateProhibited clientRenewProhibited clientDeleteProhibited clientTransferProhibited</status>
+    <rawText>Domain Name: skipro.us
+Registry Domain ID: D4210326-US
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2018-05-14T22:48:56Z
+Creation Date: 2003-05-09T22:21:59Z
+Registry Expiry Date: 2019-05-08T23:59:59Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C22577930-US
+Registrant Name: Thomas Gardtman
+Registrant Organization:
+Registrant Street: P.O. Box 7618
+Registrant Street:
+Registrant Street:
+Registrant City: Tahoe City
+Registrant State/Province: California
+Registrant Postal Code: 96145
+Registrant Country: US
+Registrant Phone: +1.5305836358
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: thomasgardtman@hotskiing.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C12
+Registry Admin ID: C22577933-US
+Admin Name: Thomas Gardtman
+Admin Organization:
+Admin Street: P.O. Box 7618
+Admin Street:
+Admin Street:
+Admin City: Tahoe City
+Admin State/Province: California
+Admin Postal Code: 96145
+Admin Country: US
+Admin Phone: +1.5305836358
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: thomasgardtman@hotskiing.com
+Admin Application Purpose: P1
+Admin Nexus Category: C12
+Registry Tech ID: C22577931-US
+Tech Name: Thomas Gardtman
+Tech Organization:
+Tech Street: P.O. Box 7618
+Tech Street:
+Tech Street:
+Tech City: Tahoe City
+Tech State/Province: California
+Tech Postal Code: 96145
+Tech Country: US
+Tech Phone: +1.5305836358
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: thomasgardtman@hotskiing.com
+Tech Application Purpose: P1
+Tech Nexus Category: C12
+Name Server: ns42.domaincontrol.com
+Name Server: ns41.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-30T00:15:25Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: skipro.us
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2018-05-14T22:48:56Z
+Creation Date: 2003-05-09T22:21:59Z
+Registry Expiry Date: 2019-05-08T23:59:59Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Thomas Gardtman
+Registrant Street: P.O. Box 7618
+Registrant City: Tahoe City
+Registrant State/Province: California
+Registrant Postal Code: 96145
+Registrant Country: US
+Registrant Phone: +1.5305836358
+Registrant Email: thomasgardtman@hotskiing.com
+Admin Name: Thomas Gardtman
+Admin Street: P.O. Box 7618
+Admin City: Tahoe City
+Admin State/Province: California
+Admin Postal Code: 96145
+Admin Country: US
+Admin Phone: +1.5305836358
+Admin Email: thomasgardtman@hotskiing.com
+Tech Name: Thomas Gardtman
+Tech Street: P.O. Box 7618
+Tech City: Tahoe City
+Tech State/Province: California
+Tech Postal Code: 96145
+Tech Country: US
+Tech Phone: +1.5305836358
+Tech Email: thomasgardtman@hotskiing.com
+Name Server: ns42.domaincontrol.com
+Name Server: ns41.domaincontrol.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-30 00:15:26.000 UTC</createdDate>
+      <updatedDate>2018-11-30 00:15:26.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@godaddy.com</customField1Value>
+    <registrarName>GoDaddy.com, Inc.</registrarName>
+    <registrarIANAID>146</registrarIANAID>
+    <createdDateNormalized>2003-05-09 22:21:59 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-05-14 22:48:56 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-08 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4806242505</customField2Value>
+    <customField3Value>whois.godaddy.com</customField3Value>
+    <whoisServer>whois.godaddy.com</whoisServer>
+  </registryData>
+  <contactEmail>thomasgardtman@hotskiing.com</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>5684</estimatedDomainAge>
+</WhoisRecord>

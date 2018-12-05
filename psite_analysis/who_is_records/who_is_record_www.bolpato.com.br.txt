@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>bolpato.com.br</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:31:00.681 UTC</createdDate>
+    <updatedDate>2018-12-01 14:31:00.681 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>20110523 #8318001</createdDate>
+    <updatedDate>20180420</updatedDate>
+    <expiresDate>20190523</expiresDate>
+    <registrant>
+      <name>Thiago Francisco Bolpato dos Santos</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>owner:       Thiago Francisco Bolpato dos Santos</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Thiago Franciso Bolpato dos Santos</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>bolpato2000@gmail.com</email>
+      <rawText>nic-hdl-br:  TFBDS2
+person:      Thiago Franciso Bolpato dos Santos
+e-mail:      bolpato2000@gmail.com
+country:     BR
+created:     20110523
+changed:     20140123</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Thiago Franciso Bolpato dos Santos</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>bolpato2000@gmail.com</email>
+      <rawText>nic-hdl-br:  TFBDS2
+person:      Thiago Franciso Bolpato dos Santos
+e-mail:      bolpato2000@gmail.com
+country:     BR
+created:     20110523
+changed:     20140123</rawText>
+    </technicalContact>
+    <domainName>bolpato.com.br</domainName>
+    <nameServers>
+      <rawText>ns460.hostgator.com.br
+ns461.hostgator.com.br
+</rawText>
+      <hostNames>
+        <Address>ns460.hostgator.com.br</Address>
+        <Address>ns461.hostgator.com.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>published</status>
+    <rawText>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:31:00-02:00
+
+domain:      bolpato.com.br
+owner:       Thiago Francisco Bolpato dos Santos
+ownerid:     062.386.996-98
+country:     BR
+owner-c:     TFBDS2
+admin-c:     TFBDS2
+tech-c:      TFBDS2
+billing-c:   TFBDS2
+nserver:     ns460.hostgator.com.br
+nsstat:      20181125 AA
+nslastaa:    20181125
+nserver:     ns461.hostgator.com.br
+nsstat:      20181125 AA
+nslastaa:    20181125
+saci:        yes
+created:     20110523 #8318001
+changed:     20180420
+expires:     20190523
+status:      published
+provider:    ENDURANCE-BRASIL (43)
+
+nic-hdl-br:  TFBDS2
+person:      Thiago Franciso Bolpato dos Santos
+e-mail:      bolpato2000@gmail.com
+country:     BR
+created:     20110523
+changed:     20140123
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</rawText>
+    <parseCode>3571</parseCode>
+    <header>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:31:00-02:00</header>
+    <strippedText>
+domain:      bolpato.com.br
+owner:       Thiago Francisco Bolpato dos Santos
+ownerid:     062.386.996-98
+country:     BR
+owner-c:     TFBDS2
+admin-c:     TFBDS2
+tech-c:      TFBDS2
+billing-c:   TFBDS2
+nserver:     ns460.hostgator.com.br
+nsstat:      20181125 AA
+nslastaa:    20181125
+nserver:     ns461.hostgator.com.br
+nsstat:      20181125 AA
+nslastaa:    20181125
+saci:        yes
+created:     20110523 #8318001
+changed:     20180420
+expires:     20190523
+status:      published
+provider:    ENDURANCE-BRASIL (43)
+
+nic-hdl-br:  TFBDS2
+person:      Thiago Franciso Bolpato dos Santos
+e-mail:      bolpato2000@gmail.com
+country:     BR
+created:     20110523
+changed:     20140123
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:31:00.681 UTC</createdDate>
+      <updatedDate>2018-12-01 14:31:00.681 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2011-05-23 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-04-20 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-23 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.registro.br</whoisServer>
+  </registryData>
+  <contactEmail>bolpato2000@gmail.com</contactEmail>
+  <domainNameExt>.com.br</domainNameExt>
+  <estimatedDomainAge>2749</estimatedDomainAge>
+</WhoisRecord>

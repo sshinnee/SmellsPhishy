@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>sofalinbrick.ir</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-11-30 17:05:43.000 UTC</createdDate>
+    <updatedDate>2018-11-30 17:05:43.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <updatedDate>2018-10-06</updatedDate>
+    <expiresDate>2019-02-04</expiresDate>
+    <registrant>
+      <name>amir mobaser</name>
+      <street1>tehran</street1>
+      <city>khiyabane</city>
+      <state>bosaid</state>
+      <country>pelak</country>
+      <email>kasra.amir31@yahoo.com</email>
+      <telephone>02155380793</telephone>
+      <rawText>nic-hdl:	am14605-irnic
+person:		amir mobaser
+e-mail:		kasra.amir31@yahoo.com
+address:	tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+phone:		02155380793
+source:		IRNIC # Filtered
+nic-hdl:	am14605-irnic
+person:		amir mobaser
+e-mail:		kasra.amir31@yahoo.com
+address:	tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+phone:		02155380793
+source:		IRNIC # Filtered</rawText>
+      <unparsable>208,</unparsable>
+    </registrant>
+    <administrativeContact>
+      <name>Navid Mardaniyan Ghahfarokhi</name>
+      <organization>XZN Hosting (xzn.ir)</organization>
+      <street1>Shohada</street1>
+      <city>st</city>
+      <state>NetAfrooz</state>
+      <country>COLOMBIA</country>
+      <countryCode>CO</countryCode>
+      <email>info@xzn.ir</email>
+      <telephone>09356471900</telephone>
+      <fax>03832421818</fax>
+      <rawText>nic-hdl:	nm218-irnic
+person:		Navid Mardaniyan Ghahfarokhi
+org:		XZN Hosting (xzn.ir)
+e-mail:		info@xzn.ir
+address:	Shohada st , NetAfrooz Co., Farrokhshahr, Chaharmahal and Bakhiyari, IR
+phone:		09356471900
+fax-no:		03832421818
+source:		IRNIC # Filtered
+nic-hdl:	nm218-irnic
+person:		Navid Mardaniyan Ghahfarokhi
+org:		XZN Hosting (xzn.ir)
+e-mail:		info@xzn.ir
+address:	Shohada st , NetAfrooz Co., Farrokhshahr, Chaharmahal and Bakhiyari, IR
+phone:		09356471900
+fax-no:		03832421818
+source:		IRNIC # Filtered</rawText>
+      <unparsable>., Farrokhshahr, Chaharmahal</unparsable>
+    </administrativeContact>
+    <technicalContact>
+      <name>Navid Mardaniyan Ghahfarokhi</name>
+      <organization>XZN Hosting (xzn.ir)</organization>
+      <street1>Shohada</street1>
+      <city>st</city>
+      <state>NetAfrooz</state>
+      <country>COLOMBIA</country>
+      <countryCode>CO</countryCode>
+      <email>info@xzn.ir</email>
+      <telephone>09356471900</telephone>
+      <fax>03832421818</fax>
+      <rawText>nic-hdl:	nm218-irnic
+person:		Navid Mardaniyan Ghahfarokhi
+org:		XZN Hosting (xzn.ir)
+e-mail:		info@xzn.ir
+address:	Shohada st , NetAfrooz Co., Farrokhshahr, Chaharmahal and Bakhiyari, IR
+phone:		09356471900
+fax-no:		03832421818
+source:		IRNIC # Filtered
+nic-hdl:	nm218-irnic
+person:		Navid Mardaniyan Ghahfarokhi
+org:		XZN Hosting (xzn.ir)
+e-mail:		info@xzn.ir
+address:	Shohada st , NetAfrooz Co., Farrokhshahr, Chaharmahal and Bakhiyari, IR
+phone:		09356471900
+fax-no:		03832421818
+source:		IRNIC # Filtered</rawText>
+      <unparsable>., Farrokhshahr, Chaharmahal</unparsable>
+    </technicalContact>
+    <domainName>sofalinbrick.ir</domainName>
+    <nameServers>
+      <rawText>ns12.netafrooz.com
+ns13.netafrooz.com
+</rawText>
+      <hostNames>
+        <Address>ns12.netafrooz.com</Address>
+        <Address>ns13.netafrooz.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'sofalinbrick.ir'
+
+
+domain:		sofalinbrick.ir
+ascii:		sofalinbrick.ir
+remarks:	(Domain Holder) amir mobaser
+remarks:	(Domain Holder Address) tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+holder-c:	am14605-irnic
+admin-c:	nm218-irnic
+tech-c:		nm218-irnic
+nserver:	ns12.netafrooz.com
+nserver:	ns13.netafrooz.com
+last-updated:	2018-10-06
+expire-date:	2019-02-04
+source:		IRNIC # Filtered
+
+nic-hdl:	am14605-irnic
+person:		amir mobaser
+e-mail:		kasra.amir31@yahoo.com
+address:	tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+phone:		02155380793
+source:		IRNIC # Filtered
+
+nic-hdl:	nm218-irnic
+person:		Navid Mardaniyan Ghahfarokhi
+org:		XZN Hosting (xzn.ir)
+e-mail:		info@xzn.ir
+address:	Shohada st , NetAfrooz Co., Farrokhshahr, Chaharmahal and Bakhiyari, IR
+phone:		09356471900
+fax-no:		03832421818
+source:		IRNIC # Filtered</rawText>
+    <parseCode>3554</parseCode>
+    <header>% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.
+% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+%
+% This server uses UTF-8 as the encoding for requests and responses.</header>
+    <strippedText>
+% NOTE: This output has been filtered.
+
+% Information related to 'sofalinbrick.ir'
+
+
+domain:		sofalinbrick.ir
+ascii:		sofalinbrick.ir
+remarks:	(Domain Holder) amir mobaser
+remarks:	(Domain Holder Address) tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+holder-c:	am14605-irnic
+admin-c:	nm218-irnic
+tech-c:		nm218-irnic
+nserver:	ns12.netafrooz.com
+nserver:	ns13.netafrooz.com
+last-updated:	2018-10-06
+expire-date:	2019-02-04
+source:		IRNIC # Filtered
+
+nic-hdl:	am14605-irnic
+person:		amir mobaser
+e-mail:		kasra.amir31@yahoo.com
+address:	tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+phone:		02155380793
+source:		IRNIC # Filtered
+
+nic-hdl:	nm218-irnic
+person:		Navid Mardaniyan Ghahfarokhi
+org:		XZN Hosting (xzn.ir)
+e-mail:		info@xzn.ir
+address:	Shohada st , NetAfrooz Co., Farrokhshahr, Chaharmahal and Bakhiyari, IR
+phone:		09356471900
+fax-no:		03832421818
+source:		IRNIC # Filtered
+
+% NOTE: This output has been filtered.
+
+% Information related to 'sofalinbrick.ir'
+
+
+domain:		sofalinbrick.ir
+ascii:		sofalinbrick.ir
+remarks:	(Domain Holder) amir mobaser
+remarks:	(Domain Holder Address) tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+holder-c:	am14605-irnic
+admin-c:	nm218-irnic
+tech-c:		nm218-irnic
+nserver:	ns12.netafrooz.com
+nserver:	ns13.netafrooz.com
+last-updated:	2018-10-06
+expire-date:	2019-02-04
+source:		IRNIC # Filtered
+
+nic-hdl:	am14605-irnic
+person:		amir mobaser
+e-mail:		kasra.amir31@yahoo.com
+address:	tehran khiyabane bosaid pelak 208, tehran, tehran, IR
+phone:		02155380793
+source:		IRNIC # Filtered
+
+nic-hdl:	nm218-irnic
+person:		Navid Mardaniyan Ghahfarokhi
+org:		XZN Hosting (xzn.ir)
+e-mail:		info@xzn.ir
+address:	Shohada st , NetAfrooz Co., Farrokhshahr, Chaharmahal and Bakhiyari, IR
+phone:		09356471900
+fax-no:		03832421818
+source:		IRNIC # Filtered</strippedText>
+    <audit>
+      <createdDate>2018-11-30 17:05:43.000 UTC</createdDate>
+      <updatedDate>2018-11-30 17:05:43.000 UTC</updatedDate>
+    </audit>
+    <updatedDateNormalized>2018-10-06 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-02-04 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.nic.ir</whoisServer>
+  </registryData>
+  <contactEmail>kasra.amir31@yahoo.com</contactEmail>
+  <domainNameExt>.ir</domainNameExt>
+</WhoisRecord>

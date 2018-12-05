@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>siamdcm.co.th</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:15:26.866 UTC</createdDate>
+    <updatedDate>2018-12-01 14:15:26.866 UTC</updatedDate>
+  </audit>
+  <registrarName>T.H.NIC Co., Ltd.</registrarName>
+  <registryData>
+    <createdDate>5 Nov 2007</createdDate>
+    <updatedDate>25 Dec 2013</updatedDate>
+    <technicalContact>
+      <organization>Personal Information*</organization>
+      <street1>Personal Information*</street1>
+      <country>THAILAND</country>
+      <countryCode>TH</countryCode>
+      <email>staff@thnic.co.th</email>
+      <rawText>Tech Organization: Personal Information*
+Tech Street: Personal Information*
+Tech Country: TH
+&gt;&gt;&gt; Last update of whois data: Sat, 1 Dec 2018 21:15:26 UTC+7 &lt;&lt;&lt;
+If you have a legitimate interest in viewing the non-public WHOIS details, send your request and the reasons for your request to staff@thnic.co.th and specify the domain name in the subject line. We will review that request and may ask for supporting documentation and explanation.
+For more information please visit: https://www.thnic.co.th/whois</rawText>
+    </technicalContact>
+    <domainName>siamdcm.co.th</domainName>
+    <nameServers>
+      <rawText>MASTER01.CSLOXINFO.COM
+MASTER02.CSLOXINFO.COM
+</rawText>
+      <hostNames>
+        <Address>MASTER01.CSLOXINFO.COM</Address>
+        <Address>MASTER02.CSLOXINFO.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ACTIVE</status>
+    <rawText>Whois Server Version 2.1.5
+
+Domain: SIAMDCM.CO.TH
+Registrar: T.H.NIC Co., Ltd.
+Name Server: MASTER01.CSLOXINFO.COM
+Name Server: MASTER02.CSLOXINFO.COM
+DNSSEC: unsigned
+Status: ACTIVE
+Updated date: 25 Dec 2013
+Created date: 5 Nov 2007
+Exp date: 1 Feb 2023
+Domain Holder Organization: Siam DCM Co., Ltd. (บริษัท สยาม ดีซีเอ็ม จำกัด )
+Domain Holder Street: Personal Information*
+Domain Holder Country: TH
+
+Tech Contact: Personal Information*
+Tech Organization: Personal Information*
+Tech Street: Personal Information*
+Tech Country: TH
+
+
+
+&gt;&gt;&gt; Last update of whois data: Sat, 1 Dec 2018 21:15:26 UTC+7 &lt;&lt;&lt; 
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send your request and the reasons for your request to staff@thnic.co.th and specify the domain name in the subject line. We will review that request and may ask for supporting documentation and explanation. 
+
+
+
+For more information please visit: https://www.thnic.co.th/whois</rawText>
+    <parseCode>2297</parseCode>
+    <header>Whois Server Version 2.1.5</header>
+    <strippedText>Domain: SIAMDCM.CO.TH
+Registrar: T.H.NIC Co., Ltd.
+Name Server: MASTER01.CSLOXINFO.COM
+Name Server: MASTER02.CSLOXINFO.COM
+DNSSEC: unsigned
+Status: ACTIVE
+Updated date: 25 Dec 2013
+Created date: 5 Nov 2007
+Exp date: 1 Feb 2023
+Domain Holder Organization: Siam DCM Co., Ltd. (บริษัท สยาม ดีซีเอ็ม จำกัด )
+Domain Holder Street: Personal Information*
+Domain Holder Country: TH
+Tech Contact: Personal Information*
+Tech Organization: Personal Information*
+Tech Street: Personal Information*
+Tech Country: TH
+&gt;&gt;&gt; Last update of whois data: Sat, 1 Dec 2018 21:15:26 UTC+7 &lt;&lt;&lt;
+If you have a legitimate interest in viewing the non-public WHOIS details, send your request and the reasons for your request to staff@thnic.co.th and specify the domain name in the subject line. We will review that request and may ask for supporting documentation and explanation.
+For more information please visit: https://www.thnic.co.th/whois
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:15:26.866 UTC</createdDate>
+      <updatedDate>2018-12-01 14:15:26.866 UTC</updatedDate>
+    </audit>
+    <registrarName>T.H.NIC Co., Ltd.</registrarName>
+    <createdDateNormalized>2007-11-05 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2013-12-25 00:00:00 UTC</updatedDateNormalized>
+    <whoisServer>whois.thnic.net</whoisServer>
+  </registryData>
+  <contactEmail>staff@thnic.co.th</contactEmail>
+  <domainNameExt>.co.th</domainNameExt>
+  <estimatedDomainAge>4044</estimatedDomainAge>
+</WhoisRecord>

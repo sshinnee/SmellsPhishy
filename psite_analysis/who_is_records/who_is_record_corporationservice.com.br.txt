@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>corporationservice.com.br</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:28:53.507 UTC</createdDate>
+    <updatedDate>2018-12-01 14:28:53.507 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>20140327 #12731245</createdDate>
+    <updatedDate>20180606</updatedDate>
+    <expiresDate>20190327</expiresDate>
+    <registrant>
+      <name>Helder Silva de Lima</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>owner:       Helder Silva de Lima</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Helder Silva de Lima</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>tecnoloja.rj@gmail.com</email>
+      <rawText>nic-hdl-br:  HESLI5
+person:      Helder Silva de Lima
+e-mail:      tecnoloja.rj@gmail.com
+country:     BR
+created:     20080714
+changed:     20140417</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>InterSite Brasil Administradora Web Ltda</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>registro@intersitebrasil.com.br</email>
+      <rawText>nic-hdl-br:  IBAWL
+person:      InterSite Brasil Administradora Web Ltda
+e-mail:      registro@intersitebrasil.com.br
+country:     BR
+created:     20170615
+changed:     20170615</rawText>
+    </technicalContact>
+    <domainName>corporationservice.com.br</domainName>
+    <nameServers>
+      <rawText>ns1.intersitebrasil.com.br
+ns2.intersitebrasil.com.br
+</rawText>
+      <hostNames>
+        <Address>ns1.intersitebrasil.com.br</Address>
+        <Address>ns2.intersitebrasil.com.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>published</status>
+    <rawText>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:28:53-02:00
+
+domain:      corporationservice.com.br
+owner:       Helder Silva de Lima
+ownerid:     942.463.517-68
+country:     BR
+owner-c:     ADDCU
+admin-c:     HESLI5
+tech-c:      IBAWL
+billing-c:   IBAWL
+nserver:     ns1.intersitebrasil.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+nserver:     ns2.intersitebrasil.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+saci:        yes
+created:     20140327 #12731245
+changed:     20180606
+expires:     20190327
+status:      published
+
+nic-hdl-br:  ADDCU
+person:      ADRIANA DIEZ CUBILLOS
+e-mail:      adridiez@yahoo.com.br
+country:     BR
+created:     20120507
+changed:     20120507
+
+nic-hdl-br:  HESLI5
+person:      Helder Silva de Lima
+e-mail:      tecnoloja.rj@gmail.com
+country:     BR
+created:     20080714
+changed:     20140417
+
+nic-hdl-br:  IBAWL
+person:      InterSite Brasil Administradora Web Ltda
+e-mail:      registro@intersitebrasil.com.br
+country:     BR
+created:     20170615
+changed:     20170615
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</rawText>
+    <parseCode>3571</parseCode>
+    <header>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:28:53-02:00</header>
+    <strippedText>
+domain:      corporationservice.com.br
+owner:       Helder Silva de Lima
+ownerid:     942.463.517-68
+country:     BR
+owner-c:     ADDCU
+admin-c:     HESLI5
+tech-c:      IBAWL
+billing-c:   IBAWL
+nserver:     ns1.intersitebrasil.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+nserver:     ns2.intersitebrasil.com.br
+nsstat:      20181127 AA
+nslastaa:    20181127
+saci:        yes
+created:     20140327 #12731245
+changed:     20180606
+expires:     20190327
+status:      published
+
+nic-hdl-br:  ADDCU
+person:      ADRIANA DIEZ CUBILLOS
+e-mail:      adridiez@yahoo.com.br
+country:     BR
+created:     20120507
+changed:     20120507
+
+nic-hdl-br:  HESLI5
+person:      Helder Silva de Lima
+e-mail:      tecnoloja.rj@gmail.com
+country:     BR
+created:     20080714
+changed:     20140417
+
+nic-hdl-br:  IBAWL
+person:      InterSite Brasil Administradora Web Ltda
+e-mail:      registro@intersitebrasil.com.br
+country:     BR
+created:     20170615
+changed:     20170615
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:28:53.507 UTC</createdDate>
+      <updatedDate>2018-12-01 14:28:53.507 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2014-03-27 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-06-06 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-27 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.registro.br</whoisServer>
+  </registryData>
+  <contactEmail>tecnoloja.rj@gmail.com</contactEmail>
+  <domainNameExt>.com.br</domainNameExt>
+  <estimatedDomainAge>1710</estimatedDomainAge>
+</WhoisRecord>

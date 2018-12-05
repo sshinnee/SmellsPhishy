@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2000-12-15T00:00:00Z</createdDate>
+  <updatedDate>2013-12-16T00:00:15Z</updatedDate>
+  <expiresDate>2018-12-15T11:28:38Z</expiresDate>
+  <registrant>
+    <city>DE</city>
+    <state>Admin</state>
+    <postalCode>Email</postalCode>
+    <country>GERMANY</country>
+    <countryCode>DE</countryCode>
+    <email>izy2fkab6iieggdr6aij3uqhulwxq7o7ubn26a5a7i7pe@protectedmx.com</email>
+    <rawText>Registrant Country: DE
+Admin Email: igoj5zyac6h54qtsycpdkpbb7glzbkokhqwe32yie52qk@protectedmx.com
+Tech Email: inmmo2neaurlo5kvgwhq66ktn67sie7yr2cbttiamwzho@protectedmx.com</rawText>
+    <unparsable>Registrant Country:: igoj5zyac6h54qtsycpdkpbb7glzbkokhqwe32yie52qk@protectedmx.com
+Tech Email: inmmo2neaurlo5kvgwhq66ktn67sie7yr2cbttiamwzho@protectedmx.com</unparsable>
+  </registrant>
+  <administrativeContact>
+    <country>GERMANY</country>
+    <countryCode>DE</countryCode>
+    <email>igoj5zyac6h54qtsycpdkpbb7glzbkokhqwe32yie52qk@protectedmx.com</email>
+    <rawText>Admin Email: igoj5zyac6h54qtsycpdkpbb7glzbkokhqwe32yie52qk@protectedmx.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <country>GERMANY</country>
+    <countryCode>DE</countryCode>
+    <email>inmmo2neaurlo5kvgwhq66ktn67sie7yr2cbttiamwzho@protectedmx.com</email>
+    <rawText>Tech Email: inmmo2neaurlo5kvgwhq66ktn67sie7yr2cbttiamwzho@protectedmx.com</rawText>
+  </technicalContact>
+  <domainName>scharnitz.net</domainName>
+  <nameServers>
+    <rawText>ns1.sysver.net
+ns2.sysver.net
+</rawText>
+    <hostNames>
+      <Address>ns1.sysver.net</Address>
+      <Address>ns2.sysver.net</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited</status>
+  <rawText>Domain Name: scharnitz.net
+Registry Domain ID: 48580754_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.http.net
+Registrar URL: https://http.net
+Updated Date: 2013-12-16T00:00:15Z
+Creation Date: 2000-12-15T00:00:00Z
+Registrar Registration Expiration Date: 2018-12-15T11:28:38Z
+Registrar: HTTP.NET INTERNET GMBH
+Registrar IANA ID: 976
+Registrar Abuse Contact Email: abuse @ http.net
+Registrar Abuse Contact Phone: +49.24146314115
+Reseller:
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registrant State/Province: 
+Registrant Country: DE
+Registrant Email: izy2fkab6iieggdr6aij3uqhulwxq7o7ubn26a5a7i7pe@protectedmx.com
+Admin Email: igoj5zyac6h54qtsycpdkpbb7glzbkokhqwe32yie52qk@protectedmx.com
+Tech Email: inmmo2neaurlo5kvgwhq66ktn67sie7yr2cbttiamwzho@protectedmx.com
+Name Server: ns1.sysver.net 
+Name Server: ns2.sysver.net 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:16:30Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+The data in the http.net WHOIS database is provided by
+http.net Internet GmbH for informational purposes only, to assist you in
+obtaining information. About or related to a domain name registration
+record. http.net provides this information "as is", and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will only use this data for lawful purposes. That,
+under no circumstances will you use this data to:
+
+1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
+commercial advertising or solicitations via electronic mail, also known as (SPAM).
+2. enable high volume,
+automated, electronic processes that apply to BulkRegister (or its systems).
+
+The compilation, repackaging, dissemination or any other use of this data
+is expressly prohibited without the prior written agreement of http.net.
+http.net  reserves the right to terminate your access to the http.net WHOIS
+database in its sole discretion. Including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+http.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: scharnitz.net
+Registry Domain ID: 48580754_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.http.net
+Registrar URL: https://http.net
+Updated Date: 2013-12-16T00:00:15Z
+Creation Date: 2000-12-15T00:00:00Z
+Registrar Registration Expiration Date: 2018-12-15T11:28:38Z
+Registrar: HTTP.NET INTERNET GMBH
+Registrar IANA ID: 976
+Registrar Abuse Contact Email: abuse @ http.net
+Registrar Abuse Contact Phone: +49.24146314115
+Reseller:
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registrant State/Province:
+Registrant Country: DE
+Registrant Email: izy2fkab6iieggdr6aij3uqhulwxq7o7ubn26a5a7i7pe@protectedmx.com
+Admin Email: igoj5zyac6h54qtsycpdkpbb7glzbkokhqwe32yie52qk@protectedmx.com
+Tech Email: inmmo2neaurlo5kvgwhq66ktn67sie7yr2cbttiamwzho@protectedmx.com
+Name Server: ns1.sysver.net
+Name Server: ns2.sysver.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:16:30Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://www.icann.org/epp
+The data in the http.net WHOIS database is provided by
+http.net Internet GmbH for informational purposes only, to assist you in
+obtaining information. About or related to a domain name registration
+record. http.net provides this information "as is", and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will only use this data for lawful purposes. That,
+under no circumstances will you use this data to:
+1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
+commercial advertising or solicitations via electronic mail, also known as (SPAM).
+2. enable high volume,
+automated, electronic processes that apply to BulkRegister (or its systems).
+The compilation, repackaging, dissemination or any other use of this data
+is expressly prohibited without the prior written agreement of http.net.
+http.net  reserves the right to terminate your access to the http.net WHOIS
+database in its sole discretion. Including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+http.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 00:16:31.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:16:31.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse @ http.net</customField1Value>
+  <registrarName>HTTP.NET INTERNET GMBH</registrarName>
+  <registrarIANAID>976</registrarIANAID>
+  <whoisServer>whois.http.net</whoisServer>
+  <createdDateNormalized>2000-12-15 00:00:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2013-12-16 00:00:15 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2018-12-15 11:28:38 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+49.24146314115</customField2Value>
+  <customField3Value>https://http.net</customField3Value>
+  <registryData>
+    <createdDate>2000-12-15T11:28:38Z</createdDate>
+    <updatedDate>2017-12-16T08:22:34Z</updatedDate>
+    <expiresDate>2018-12-15T11:28:38Z</expiresDate>
+    <domainName>scharnitz.net</domainName>
+    <nameServers>
+      <rawText>NS1.SYSVER.NET
+NS2.SYSVER.NET
+</rawText>
+      <hostNames>
+        <Address>NS1.SYSVER.NET</Address>
+        <Address>NS2.SYSVER.NET</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: SCHARNITZ.NET
+   Registry Domain ID: 48580754_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.http.net
+   Registrar URL: http://www.http.net
+   Updated Date: 2017-12-16T08:22:34Z
+   Creation Date: 2000-12-15T11:28:38Z
+   Registry Expiry Date: 2018-12-15T11:28:38Z
+   Registrar: HTTP.NET INTERNET GMBH
+   Registrar IANA ID: 976
+   Registrar Abuse Contact Email: abuse@http.net
+   Registrar Abuse Contact Phone: +49.24146314115
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.SYSVER.NET
+   Name Server: NS2.SYSVER.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:16:17Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: SCHARNITZ.NET
+Registry Domain ID: 48580754_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.http.net
+Registrar URL: http://www.http.net
+Updated Date: 2017-12-16T08:22:34Z
+Creation Date: 2000-12-15T11:28:38Z
+Registry Expiry Date: 2018-12-15T11:28:38Z
+Registrar: HTTP.NET INTERNET GMBH
+Registrar IANA ID: 976
+Registrar Abuse Contact Email: abuse@http.net
+Registrar Abuse Contact Phone: +49.24146314115
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.SYSVER.NET
+Name Server: NS2.SYSVER.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:16:17Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:16:30.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:16:30.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@http.net</customField1Value>
+    <registrarName>HTTP.NET INTERNET GMBH</registrarName>
+    <registrarIANAID>976</registrarIANAID>
+    <createdDateNormalized>2000-12-15 11:28:38 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-12-16 08:22:34 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-12-15 11:28:38 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+49.24146314115</customField2Value>
+    <customField3Value>http://www.http.net</customField3Value>
+    <whoisServer>whois.http.net</whoisServer>
+  </registryData>
+  <contactEmail>izy2fkab6iieggdr6aij3uqhulwxq7o7ubn26a5a7i7pe@protectedmx.com</contactEmail>
+  <domainNameExt>.net</domainNameExt>
+  <estimatedDomainAge>6560</estimatedDomainAge>
+</WhoisRecord>

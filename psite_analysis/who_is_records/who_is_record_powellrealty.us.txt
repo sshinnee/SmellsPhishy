@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>powellrealty.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:52.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:52.000 UTC</updatedDate>
+  </audit>
+  <registrarName>GoDaddy.com, Inc.</registrarName>
+  <registrarIANAID>146</registrarIANAID>
+  <registryData>
+    <createdDate>2004-08-25T20:20:14Z</createdDate>
+    <updatedDate>2018-08-30T14:43:17Z</updatedDate>
+    <expiresDate>2019-08-24T23:59:59Z</expiresDate>
+    <registrant>
+      <name>Zeke Powell</name>
+      <organization>Powell Realty</organization>
+      <street1>111 Hillendle</street1>
+      <city>Hattiesburg</city>
+      <state>MS</state>
+      <postalCode>39402</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>trey@powellrealty.us</email>
+      <telephone>6015459080</telephone>
+      <rawText>Registrant Name: Zeke Powell
+Registrant Organization: Powell Realty
+Registrant Street: 111 Hillendle
+Registrant City: Hattiesburg
+Registrant State/Province: MS
+Registrant Postal Code: 39402
+Registrant Country: US
+Registrant Phone: +601.5459080
+Registrant Email: trey@powellrealty.us</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Zeke Powell</name>
+      <organization>Powell Realty</organization>
+      <street1>111 Hillendle</street1>
+      <city>Hattiesburg</city>
+      <state>MS</state>
+      <postalCode>39402</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>trey@powellrealty.us</email>
+      <telephone>6015459080</telephone>
+      <rawText>Admin Name: Zeke Powell
+Admin Organization: Powell Realty
+Admin Street: 111 Hillendle
+Admin City: Hattiesburg
+Admin State/Province: MS
+Admin Postal Code: 39402
+Admin Country: US
+Admin Phone: +601.5459080
+Admin Email: trey@powellrealty.us</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Zeke Powell</name>
+      <organization>Powell Realty</organization>
+      <street1>111 Hillendle</street1>
+      <city>Hattiesburg</city>
+      <state>MS</state>
+      <postalCode>39402</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>trey@powellrealty.us</email>
+      <telephone>6015459080</telephone>
+      <rawText>Tech Name: Zeke Powell
+Tech Organization: Powell Realty
+Tech Street: 111 Hillendle
+Tech City: Hattiesburg
+Tech State/Province: MS
+Tech Postal Code: 39402
+Tech Country: US
+Tech Phone: +601.5459080
+Tech Email: trey@powellrealty.us</rawText>
+    </technicalContact>
+    <domainName>powellrealty.us</domainName>
+    <nameServers>
+      <rawText>ns2.priority1hosting.com
+ns1.priority1hosting.com
+</rawText>
+      <hostNames>
+        <Address>ns2.priority1hosting.com</Address>
+        <Address>ns1.priority1hosting.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientUpdateProhibited clientTransferProhibited clientDeleteProhibited clientRenewProhibited</status>
+    <rawText>Domain Name: powellrealty.us
+Registry Domain ID: D6606185-US
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2018-08-30T14:43:17Z
+Creation Date: 2004-08-25T20:20:14Z
+Registry Expiry Date: 2019-08-24T23:59:59Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Registry Registrant ID: C29974682-US
+Registrant Name: Zeke Powell
+Registrant Organization: Powell Realty
+Registrant Street: 111 Hillendle
+Registrant Street:
+Registrant Street:
+Registrant City: Hattiesburg
+Registrant State/Province: MS
+Registrant Postal Code: 39402
+Registrant Country: US
+Registrant Phone: +601.5459080
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: trey@powellrealty.us
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: C29974684-US
+Admin Name: Zeke Powell
+Admin Organization: Powell Realty
+Admin Street: 111 Hillendle
+Admin Street:
+Admin Street:
+Admin City: Hattiesburg
+Admin State/Province: MS
+Admin Postal Code: 39402
+Admin Country: US
+Admin Phone: +601.5459080
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: trey@powellrealty.us
+Admin Application Purpose: P1
+Admin Nexus Category: C11
+Registry Tech ID: C29974683-US
+Tech Name: Zeke Powell
+Tech Organization: Powell Realty
+Tech Street: 111 Hillendle
+Tech Street:
+Tech Street:
+Tech City: Hattiesburg
+Tech State/Province: MS
+Tech Postal Code: 39402
+Tech Country: US
+Tech Phone: +601.5459080
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: trey@powellrealty.us
+Tech Application Purpose: P1
+Tech Nexus Category: C11
+Name Server: ns2.priority1hosting.com
+Name Server: ns1.priority1hosting.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:14:51Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: powellrealty.us
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2018-08-30T14:43:17Z
+Creation Date: 2004-08-25T20:20:14Z
+Registry Expiry Date: 2019-08-24T23:59:59Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Registrant Name: Zeke Powell
+Registrant Organization: Powell Realty
+Registrant Street: 111 Hillendle
+Registrant City: Hattiesburg
+Registrant State/Province: MS
+Registrant Postal Code: 39402
+Registrant Country: US
+Registrant Phone: +601.5459080
+Registrant Email: trey@powellrealty.us
+Admin Name: Zeke Powell
+Admin Organization: Powell Realty
+Admin Street: 111 Hillendle
+Admin City: Hattiesburg
+Admin State/Province: MS
+Admin Postal Code: 39402
+Admin Country: US
+Admin Phone: +601.5459080
+Admin Email: trey@powellrealty.us
+Tech Name: Zeke Powell
+Tech Organization: Powell Realty
+Tech Street: 111 Hillendle
+Tech City: Hattiesburg
+Tech State/Province: MS
+Tech Postal Code: 39402
+Tech Country: US
+Tech Phone: +601.5459080
+Tech Email: trey@powellrealty.us
+Name Server: ns2.priority1hosting.com
+Name Server: ns1.priority1hosting.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:14:52.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:52.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@godaddy.com</customField1Value>
+    <registrarName>GoDaddy.com, Inc.</registrarName>
+    <registrarIANAID>146</registrarIANAID>
+    <createdDateNormalized>2004-08-25 20:20:14 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-08-30 14:43:17 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-08-24 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4806242505</customField2Value>
+    <customField3Value>whois.godaddy.com</customField3Value>
+    <whoisServer>whois.godaddy.com</whoisServer>
+  </registryData>
+  <contactEmail>trey@powellrealty.us</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>5210</estimatedDomainAge>
+</WhoisRecord>

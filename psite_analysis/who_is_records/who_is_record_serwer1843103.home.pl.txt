@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>serwer1843103.home.pl</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:39:39.659 UTC</createdDate>
+    <updatedDate>2018-12-01 14:39:39.659 UTC</updatedDate>
+  </audit>
+  <dataError>MISSING_WHOIS_DATA</dataError>
+  <registryData>
+    <domainName>serwer1843103.home.pl</domainName>
+    <rawText>No information available about domain name serwer1843103.home.pl in the Registry NASK database. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHOIS database responses and Registrant data available at: https://dns.pl/en/whois 
+
+ 
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system</rawText>
+    <parseCode>64</parseCode>
+    <header>No information available about domain name serwer1843103.home.pl in the Registry NASK database.
+
+
+
+
+WHOIS database responses and Registrant data available at: https://dns.pl/en/whois
+
+</header>
+    <strippedText>WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+</strippedText>
+    <footer>WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system
+</footer>
+    <audit>
+      <createdDate>2018-12-01 14:39:39.659 UTC</createdDate>
+      <updatedDate>2018-12-01 14:39:39.659 UTC</updatedDate>
+    </audit>
+    <dataError>MISSING_WHOIS_DATA</dataError>
+    <whoisServer>whois.dns.pl</whoisServer>
+  </registryData>
+  <domainNameExt>.pl</domainNameExt>
+</WhoisRecord>

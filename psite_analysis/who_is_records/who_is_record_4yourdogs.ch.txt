@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>4yourdogs.ch</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 00:08:46.000 UTC</createdDate>
+    <updatedDate>2018-11-30 00:08:46.000 UTC</updatedDate>
+  </audit>
+  <registrarName>switchplus AG</registrarName>
+  <registrarIANAID>3220</registrarIANAID>
+  <registryData>
+    <createdDate>2014-07-28</createdDate>
+    <registrant>
+      <name>carmen rappold</name>
+      <organization>carmen rappold hundebetreuung</organization>
+      <street1>schüepwisstrasse 3</street1>
+      <city>Fällanden</city>
+      <postalCode>8117</postalCode>
+      <country>SWITZERLAND</country>
+      <countryCode>CH</countryCode>
+      <rawText>carmen rappold hundebetreuung
+carmen rappold
+schüepwisstrasse 3
+CH-8117 Fällanden
+Switzerland</rawText>
+    </registrant>
+    <domainName>4yourdogs.ch</domainName>
+    <nameServers>
+      <rawText>ns1.doublekhosting.ch
+ns2.doublekhosting.ch
+</rawText>
+      <hostNames>
+        <Address>ns1.doublekhosting.ch</Address>
+        <Address>ns2.doublekhosting.ch</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>whois: This information is subject to an Acceptable Use Policy.
+See https://www.nic.ch/terms/aup/
+
+
+Domain name:
+4yourdogs.ch
+
+Holder of domain name:
+carmen rappold hundebetreuung
+carmen rappold
+schüepwisstrasse 3
+CH-8117 Fällanden
+Switzerland
+
+Registrar:
+switchplus AG
+
+First registration date:
+2014-07-28
+
+DNSSEC:N
+
+Name servers:
+ns1.doublekhosting.ch	[213.133.102.109]
+ns2.doublekhosting.ch	[176.9.48.197]</rawText>
+    <parseCode>1225</parseCode>
+    <header/>
+    <strippedText>whois: This information is subject to an Acceptable Use Policy.
+See https://www.nic.ch/terms/aup/
+Domain name:
+4yourdogs.ch
+Holder of domain name:
+carmen rappold hundebetreuung
+carmen rappold
+schüepwisstrasse 3
+CH-8117 Fällanden
+Switzerland
+Registrar:
+switchplus AG
+First registration date:
+2014-07-28
+DNSSEC:N
+Name servers:
+ns1.doublekhosting.ch	[213.133.102.109]
+ns2.doublekhosting.ch	[176.9.48.197]
+</strippedText>
+    <audit>
+      <createdDate>2018-11-30 00:08:46.000 UTC</createdDate>
+      <updatedDate>2018-11-30 00:08:46.000 UTC</updatedDate>
+    </audit>
+    <registrarName>switchplus AG</registrarName>
+    <registrarIANAID>3220</registrarIANAID>
+    <createdDateNormalized>2014-07-28 00:00:00 UTC</createdDateNormalized>
+    <whoisServer>whois.nic.ch</whoisServer>
+  </registryData>
+  <domainNameExt>.ch</domainNameExt>
+  <estimatedDomainAge>1587</estimatedDomainAge>
+</WhoisRecord>

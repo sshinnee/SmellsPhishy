@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>confirm-toussaint.me</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-29 02:45:13.000 UTC</createdDate>
+    <updatedDate>2018-11-29 02:45:13.000 UTC</updatedDate>
+  </audit>
+  <registrarName>1&amp;1 Internet SE</registrarName>
+  <registrarIANAID>83</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-28T20:54:35Z</createdDate>
+    <updatedDate>2018-11-28T20:54:38Z</updatedDate>
+    <expiresDate>2019-11-28T20:54:35Z</expiresDate>
+    <registrant>
+      <organization>Data Privacy Protected</organization>
+      <state>BW</state>
+      <country>GERMANY</country>
+      <countryCode>DE</countryCode>
+      <rawText>Registrant Country: DE</rawText>
+    </registrant>
+    <domainName>confirm-toussaint.me</domainName>
+    <nameServers>
+      <rawText>NS1042.UI-DNS.COM
+NS1019.UI-DNS.DE
+NS1071.UI-DNS.ORG
+NS1118.UI-DNS.BIZ
+</rawText>
+      <hostNames>
+        <Address>NS1042.UI-DNS.COM</Address>
+        <Address>NS1019.UI-DNS.DE</Address>
+        <Address>NS1071.UI-DNS.ORG</Address>
+        <Address>NS1118.UI-DNS.BIZ</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited serverTransferProhibited addPeriod</status>
+    <rawText>Domain Name: CONFIRM-TOUSSAINT.ME
+Registry Domain ID: D425500000075473409-AGRS
+Registrar WHOIS Server: whois.1and1.com
+Registrar URL: http://registrar.1and1.info
+Updated Date: 2018-11-28T20:54:38Z
+Creation Date: 2018-11-28T20:54:35Z
+Registry Expiry Date: 2019-11-28T20:54:35Z
+Registrar Registration Expiration Date:
+Registrar: 1&amp;1 Internet SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@1and1.com
+Registrar Abuse Contact Phone: +1.8774612631
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Data Privacy Protected
+Registrant State/Province: BW
+Registrant Country: DE
+Name Server: NS1042.UI-DNS.COM
+Name Server: NS1019.UI-DNS.DE
+Name Server: NS1071.UI-DNS.ORG
+Name Server: NS1118.UI-DNS.BIZ
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form  https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-29T02:44:12Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: CONFIRM-TOUSSAINT.ME
+Registry Domain ID: D425500000075473409-AGRS
+Registrar WHOIS Server: whois.1and1.com
+Registrar URL: http://registrar.1and1.info
+Updated Date: 2018-11-28T20:54:38Z
+Creation Date: 2018-11-28T20:54:35Z
+Registry Expiry Date: 2019-11-28T20:54:35Z
+Registrar Registration Expiration Date:
+Registrar: 1&amp;1 Internet SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@1and1.com
+Registrar Abuse Contact Phone: +1.8774612631
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Data Privacy Protected
+Registrant State/Province: BW
+Registrant Country: DE
+Name Server: NS1042.UI-DNS.COM
+Name Server: NS1019.UI-DNS.DE
+Name Server: NS1071.UI-DNS.ORG
+Name Server: NS1118.UI-DNS.BIZ
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form  https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-29T02:44:12Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-29 02:45:13.000 UTC</createdDate>
+      <updatedDate>2018-11-29 02:45:13.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@1and1.com</customField1Value>
+    <registrarName>1&amp;1 Internet SE</registrarName>
+    <registrarIANAID>83</registrarIANAID>
+    <createdDateNormalized>2018-11-28 20:54:35 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-28 20:54:38 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-28 20:54:35 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.8774612631</customField2Value>
+    <customField3Value>http://registrar.1and1.info</customField3Value>
+    <whoisServer>whois.1and1.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@1and1.com</contactEmail>
+  <domainNameExt>.me</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

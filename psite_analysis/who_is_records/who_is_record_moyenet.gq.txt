@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>moyenet.gq</domainName>
+  <nameServers>
+    <rawText>ns01.freenom.com
+ns03.freenom.com
+ns02.freenom.com
+ns04.freenom.com
+</rawText>
+    <hostNames>
+      <Address>ns01.freenom.com</Address>
+      <Address>ns03.freenom.com</Address>
+      <Address>ns02.freenom.com</Address>
+      <Address>ns04.freenom.com</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <parseCode>128</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:49.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:49.000 UTC</updatedDate>
+  </audit>
+  <domainNameExt>.gq</domainNameExt>
+</WhoisRecord>

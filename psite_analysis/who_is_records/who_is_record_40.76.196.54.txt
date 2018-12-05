@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2015-02-23</createdDate>
+  <updatedDate>2015-05-27</updatedDate>
+  <registrant>
+    <organization>Microsoft Corporation</organization>
+    <street1>One Microsoft Way</street1>
+    <city>Redmond</city>
+    <state>WA</state>
+    <postalCode>98052</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <rawText>OrgName:        Microsoft Corporation
+OrgId:          MSFT
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+</rawText>
+  </registrant>
+  <administrativeContact>
+    <organization>Microsoft Abuse Contact</organization>
+    <email>abuse@microsoft.com</email>
+    <telephone>14258828080</telephone>
+  </administrativeContact>
+  <technicalContact>
+    <organization>Microsoft Routing, Peering, and DNS</organization>
+    <email>IOC@microsoft.com</email>
+    <telephone>14258828080</telephone>
+  </technicalContact>
+  <domainName>40.76.196.54</domainName>
+  <rawText>#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       40.74.0.0 - 40.125.127.255
+CIDR:           40.96.0.0/12, 40.80.0.0/12, 40.125.0.0/17, 40.74.0.0/15, 40.76.0.0/14, 40.120.0.0/14, 40.112.0.0/13, 40.124.0.0/16
+NetName:        MSFT
+NetHandle:      NET-40-74-0-0-1
+Parent:         NET40 (NET-40-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Microsoft Corporation (MSFT)
+RegDate:        2015-02-23
+Updated:        2015-05-27
+Ref:            https://rdap.arin.net/registry/ip/40.74.0.0
+
+
+
+OrgName:        Microsoft Corporation
+OrgId:          MSFT
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+RegDate:        1998-07-09
+Updated:        2017-01-28
+Comment:        To report suspected security issues specific to traffic emanating from Microsoft online services, including the distribution of malicious content or other illicit or illegal material through a Microsoft online service, please submit reports to:
+Comment:        * https://cert.microsoft.com.  
+Comment:        
+Comment:        For SPAM and other abuse issues, such as Microsoft Accounts, please contact:
+Comment:        * abuse@microsoft.com.  
+Comment:        
+Comment:        To report security vulnerabilities in Microsoft products and services, please contact:
+Comment:        * secure@microsoft.com.  
+Comment:        
+Comment:        For legal and law enforcement-related requests, please contact:
+Comment:        * msndcc@microsoft.com
+Comment:        
+Comment:        For routing, peering or DNS issues, please 
+Comment:        contact:
+Comment:        * IOC@microsoft.com
+Ref:            https://rdap.arin.net/registry/entity/MSFT
+
+
+OrgAbuseHandle: MAC74-ARIN
+OrgAbuseName:   Microsoft Abuse Contact
+OrgAbusePhone:  +1-425-882-8080 
+OrgAbuseEmail:  abuse@microsoft.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/MAC74-ARIN
+
+OrgTechHandle: MRPD-ARIN
+OrgTechName:   Microsoft Routing, Peering, and DNS
+OrgTechPhone:  +1-425-882-8080 
+OrgTechEmail:  IOC@microsoft.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/MRPD-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#</rawText>
+  <parseCode>1065</parseCode>
+  <header>#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+</header>
+  <strippedText>NetRange:       40.74.0.0 - 40.125.127.255
+CIDR:           40.96.0.0/12, 40.80.0.0/12, 40.125.0.0/17, 40.74.0.0/15, 40.76.0.0/14, 40.120.0.0/14, 40.112.0.0/13, 40.124.0.0/16
+NetName:        MSFT
+NetHandle:      NET-40-74-0-0-1
+Parent:         NET40 (NET-40-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:
+Organization:   Microsoft Corporation (MSFT)
+RegDate:        2015-02-23
+Updated:        2015-05-27
+Ref:            https://rdap.arin.net/registry/ip/40.74.0.0
+OrgName:        Microsoft Corporation
+OrgId:          MSFT
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+RegDate:        1998-07-09
+Updated:        2017-01-28
+Comment:        To report suspected security issues specific to traffic emanating from Microsoft online services, including the distribution of malicious content or other illicit or illegal material through a Microsoft online service, please submit reports to:
+Comment:        * https://cert.microsoft.com.
+Comment:
+Comment:        For SPAM and other abuse issues, such as Microsoft Accounts, please contact:
+Comment:        * abuse@microsoft.com.
+Comment:
+Comment:        To report security vulnerabilities in Microsoft products and services, please contact:
+Comment:        * secure@microsoft.com.
+Comment:
+Comment:        For legal and law enforcement-related requests, please contact:
+Comment:        * msndcc@microsoft.com
+Comment:
+Comment:        For routing, peering or DNS issues, please
+Comment:        contact:
+Comment:        * IOC@microsoft.com
+Ref:            https://rdap.arin.net/registry/entity/MSFT
+OrgAbuseHandle: MAC74-ARIN
+OrgAbuseName:   Microsoft Abuse Contact
+OrgAbusePhone:  +1-425-882-8080
+OrgAbuseEmail:  abuse@microsoft.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/MAC74-ARIN
+OrgTechHandle: MRPD-ARIN
+OrgTechName:   Microsoft Routing, Peering, and DNS
+OrgTechPhone:  +1-425-882-8080
+OrgTechEmail:  IOC@microsoft.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/MRPD-ARIN
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/whois_reporting/index.html
+#
+# Copyright 1997-2018, American Registry for Internet Numbers, Ltd.
+#
+</strippedText>
+  <audit>
+    <createdDate>2018-12-01 14:27:26.949 UTC</createdDate>
+    <updatedDate>2018-12-01 14:27:26.949 UTC</updatedDate>
+  </audit>
+  <customField1Name>netRange</customField1Name>
+  <customField1Value>40.74.0.0 - 40.125.127.255</customField1Value>
+  <registrarName>Administered by ARIN</registrarName>
+  <createdDateNormalized>2015-02-23 00:00:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2015-05-27 00:00:00 UTC</updatedDateNormalized>
+  <customField2Name>netName</customField2Name>
+  <customField2Value>MSFT</customField2Value>
+  <registryData>
+    <updatedDate>1994-06</updatedDate>
+    <domainName>40.76.196.54</domainName>
+    <status>LEGACY</status>
+    <rawText>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      40.0.0.0 - 40.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1994-06
+source:       IANA</rawText>
+    <parseCode>120</parseCode>
+    <header>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object</header>
+    <strippedText>
+refer:        whois.arin.net
+
+inetnum:      40.0.0.0 - 40.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1994-06
+source:       IANA</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:27:26.384 UTC</createdDate>
+      <updatedDate>2018-12-01 14:27:26.384 UTC</updatedDate>
+    </audit>
+    <customField1Name>netRange</customField1Name>
+    <customField1Value>40.0.0.0 - 40.255.255.255</customField1Value>
+    <registrarName>Administered by ARIN</registrarName>
+    <whoisServer>whois.arin.net</whoisServer>
+  </registryData>
+  <contactEmail>abuse@microsoft.com</contactEmail>
+</WhoisRecord>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>hugus.com.pt</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-11-29 00:05:11.000 UTC</createdDate>
+    <updatedDate>2018-11-29 00:05:11.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>10/09/2009</createdDate>
+    <registrant>
+      <name>HUGO &amp; NEVES, LDA</name>
+      <city>CRUZ DE</city>
+      <state>PAU</state>
+      <postalCode>2845-004</postalCode>
+      <country>AMORA</country>
+      <email>HUGOLUISNEVES@SAPO.PT</email>
+      <rawText>HUGO &amp; NEVES, LDA
+RUA DOS FOROS DE AMORA, 39 Lj A, CRUZ DE PAU, 2845-004 AMORA, PT
+Email: HUGOLUISNEVES@SAPO.PT</rawText>
+      <unparsable>HUGO &amp; NEVES, LDA
+RUA DOS FOROS DE AMORA, 39 Lj A, PT</unparsable>
+    </registrant>
+    <billingContact>
+      <name>IBERWEB, LDA</name>
+      <city>Rua</city>
+      <state>do</state>
+      <postalCode>Passal</postalCode>
+      <country>PORTUGAL</country>
+      <countryCode>PT</countryCode>
+      <email>domains@iberweb.pt</email>
+      <rawText>IBERWEB, LDA
+Rua do Passal, 13, Braga, 4700-076 Braga, PT
+Email: domains@iberweb.pt</rawText>
+      <unparsable>IBERWEB, LDA13, Braga, 4700-076 Braga, PT</unparsable>
+    </billingContact>
+    <domainName>hugus.com.pt</domainName>
+    <nameServers>
+      <rawText>dns2.ibername.com
+dns1.ibername.com
+</rawText>
+      <hostNames>
+        <Address>dns2.ibername.com</Address>
+        <Address>dns1.ibername.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ACTIVE</status>
+    <rawText>Nome de domínio / Domain Name: hugus.com.pt
+Data de registo / Creation Date (dd/mm/yyyy): 10/09/2009
+Data de expiração / Expiration Date (dd/mm/yyyy): 01/11/2021
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   HUGO &amp; NEVES, LDA
+   RUA DOS FOROS DE AMORA, 39 Lj A, CRUZ DE PAU, 2845-004 AMORA, PT
+   Email: HUGOLUISNEVES@SAPO.PT
+
+Entidade Gestora / Billing Contact
+   IBERWEB, LDA
+   Rua do Passal, 13, Braga, 4700-076 Braga, PT
+   Email: domains@iberweb.pt
+
+
+Nameserver Information
+   Nameserver: hugus.com.pt	NS	dns2.ibername.com.
+   Nameserver: hugus.com.pt	NS	dns1.ibername.com.</rawText>
+    <parseCode>1745</parseCode>
+    <header>Nome de domínio / Domain Name: hugus.com.pt</header>
+    <strippedText>Data de registo / Creation Date (dd/mm/yyyy): 10/09/2009
+Data de expiração / Expiration Date (dd/mm/yyyy): 01/11/2021
+Estado / Status: ACTIVE
+Titular / Registrant
+HUGO &amp; NEVES, LDA
+RUA DOS FOROS DE AMORA, 39 Lj A, CRUZ DE PAU, 2845-004 AMORA, PT
+Email: HUGOLUISNEVES@SAPO.PT
+Entidade Gestora / Billing Contact
+IBERWEB, LDA
+Rua do Passal, 13, Braga, 4700-076 Braga, PT
+Email: domains@iberweb.pt
+Nameserver Information
+Nameserver: hugus.com.pt	NS	dns2.ibername.com.
+Nameserver: hugus.com.pt	NS	dns1.ibername.com.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-29 00:05:11.000 UTC</createdDate>
+      <updatedDate>2018-11-29 00:05:11.000 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2009-09-10 00:00:00 UTC</createdDateNormalized>
+    <whoisServer>whois.dns.pt</whoisServer>
+  </registryData>
+  <contactEmail>HUGOLUISNEVES@SAPO.PT</contactEmail>
+  <domainNameExt>.com.pt</domainNameExt>
+  <estimatedDomainAge>3369</estimatedDomainAge>
+</WhoisRecord>

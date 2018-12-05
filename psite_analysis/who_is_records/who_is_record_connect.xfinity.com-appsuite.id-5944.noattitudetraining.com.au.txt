@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>noattitudetraining.com.au</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:24:59.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:24:59.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Web Address Registration Pty Ltd</registrarName>
+  <registryData>
+    <updatedDate>2018-11-28T18:35:42Z</updatedDate>
+    <registrant>
+      <name>Natalie Marnoch</name>
+      <organization>NO ATTITUDE TRAINING</organization>
+      <rawText>Registrant Contact Name: Natalie Marnoch</rawText>
+    </registrant>
+    <technicalContact>
+      <name>Natalie Marnoch</name>
+      <rawText>Tech Contact Name: Natalie Marnoch</rawText>
+    </technicalContact>
+    <domainName>noattitudetraining.com.au</domainName>
+    <nameServers>
+      <rawText>NS2.WEBCITY.COM.AU
+NS1.WEBCITY.COM.AU
+</rawText>
+      <hostNames>
+        <Address>NS2.WEBCITY.COM.AU</Address>
+        <Address>NS1.WEBCITY.COM.AU</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverRenewProhibited https://afilias.com.au/get-au/whois-status-codes#serverRenewProhibited
+renewPeriod https://afilias.com.au/get-au/whois-status-codes#renewPeriod</status>
+    <rawText>Domain Name: NOATTITUDETRAINING.COM.AU
+Registry Domain ID: D407400000000437483-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL:
+Last Modified: 2018-11-28T18:35:42Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller Name:
+Status: serverRenewProhibited https://afilias.com.au/get-au/whois-status-codes#serverRenewProhibited
+Status: renewPeriod https://afilias.com.au/get-au/whois-status-codes#renewPeriod
+Registrant Contact ID: NM958710
+Registrant Contact Name: Natalie Marnoch
+Tech Contact ID: NM958710
+Tech Contact Name: Natalie Marnoch
+Name Server: NS2.WEBCITY.COM.AU
+Name Server IP: 203.17.36.4
+Name Server: NS1.WEBCITY.COM.AU
+Name Server IP: 203.17.36.33
+DNSSEC: unsigned
+Registrant: NO ATTITUDE TRAINING
+Eligibility Type: Company
+Eligibility Name: NO ATTITUDE TRAINING
+Eligibility ID: NSW BN BN98335067
+
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:24:48Z &lt;&lt;&lt;
+
+
+
+Afilias Australia Pty Ltd (Afilias), for itself and on behalf of .au Domain Administration Limited (auDA), makes the WHOIS registration data directory service (WHOIS Service) available solely for the purposes of:
+
+(a) querying the availability of a domain name licence;
+
+(b) identifying the holder of a domain name licence; and/or
+
+(c) contacting the holder of a domain name licence in relation to that domain name and its use.
+
+The WHOIS Service must not be used for any other purpose (even if that purpose is lawful), including:
+
+(a) aggregating, collecting or compiling information from the WHOIS database, whether for personal or commercial purposes;
+
+(b) enabling the sending of unsolicited electronic communications; and / or
+
+(c) enabling high volume, automated, electronic processes that send queries or data to the systems of Afilias, any registrar, any domain name licence holder, or auDA.
+
+The WHOIS Service is provided for information purposes only. By using the WHOIS Service, you agree to be bound by these terms and conditions. The WHOIS Service is operated in accordance with the auDA WHOIS Policy (available at https://www.auda.org.au/policies/index-of-published-policies/2014/2014-07/ ).</rawText>
+    <parseCode>3320</parseCode>
+    <header/>
+    <strippedText>Domain Name: NOATTITUDETRAINING.COM.AU
+Registry Domain ID: D407400000000437483-AU
+Registrar WHOIS Server: whois.auda.org.au
+Registrar URL:
+Last Modified: 2018-11-28T18:35:42Z
+Registrar Name: Web Address Registration Pty Ltd
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller Name:
+Status: serverRenewProhibited https://afilias.com.au/get-au/whois-status-codes#serverRenewProhibited
+Status: renewPeriod https://afilias.com.au/get-au/whois-status-codes#renewPeriod
+Registrant Contact ID: NM958710
+Registrant Contact Name: Natalie Marnoch
+Tech Contact ID: NM958710
+Tech Contact Name: Natalie Marnoch
+Name Server: NS2.WEBCITY.COM.AU
+Name Server IP: 203.17.36.4
+Name Server: NS1.WEBCITY.COM.AU
+Name Server IP: 203.17.36.33
+DNSSEC: unsigned
+Registrant: NO ATTITUDE TRAINING
+Eligibility Type: Company
+Eligibility Name: NO ATTITUDE TRAINING
+Eligibility ID: NSW BN BN98335067
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:24:48Z &lt;&lt;&lt;
+Afilias Australia Pty Ltd (Afilias), for itself and on behalf of .au Domain Administration Limited (auDA), makes the WHOIS registration data directory service (WHOIS Service) available solely for the purposes of:
+(a) querying the availability of a domain name licence;
+(b) identifying the holder of a domain name licence; and/or
+(c) contacting the holder of a domain name licence in relation to that domain name and its use.
+The WHOIS Service must not be used for any other purpose (even if that purpose is lawful), including:
+(a) aggregating, collecting or compiling information from the WHOIS database, whether for personal or commercial purposes;
+(b) enabling the sending of unsolicited electronic communications; and / or
+(c) enabling high volume, automated, electronic processes that send queries or data to the systems of Afilias, any registrar, any domain name licence holder, or auDA.
+The WHOIS Service is provided for information purposes only. By using the WHOIS Service, you agree to be bound by these terms and conditions. The WHOIS Service is operated in accordance with the auDA WHOIS Policy (available at https://www.auda.org.au/policies/index-of-published-policies/2014/2014-07/ ).
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:24:59.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:24:59.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Web Address Registration Pty Ltd</registrarName>
+    <updatedDateNormalized>2018-11-28 18:35:42 UTC</updatedDateNormalized>
+    <whoisServer>whois.auda.org.au</whoisServer>
+  </registryData>
+  <domainNameExt>.com.au</domainNameExt>
+</WhoisRecord>

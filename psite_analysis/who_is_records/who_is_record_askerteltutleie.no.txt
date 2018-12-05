@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>askerteltutleie.no</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:30:51.264 UTC</createdDate>
+    <updatedDate>2018-12-01 14:30:51.264 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>2017-12-13</createdDate>
+    <updatedDate>2018-11-30</updatedDate>
+    <domainName>askerteltutleie.no</domainName>
+    <rawText>% By looking up information in the domain registration directory
+% service, you confirm that you accept the terms and conditions of the
+% service:
+% https://www.norid.no/en/domeneoppslag/vilkar/
+%
+% UNINETT Norid AS holds the copyright to the lookup service, content,
+% layout and the underlying collections of information used in the
+% service (cf. the Act on Intellectual Property of May 2, 1961, No.
+% 2). Any commercial % use of information from the service, including
+% targeted marketing, is prohibited. Using information from the domain
+% registration directory service in % violation of the terms and
+% conditions may result in legal prosecution.
+%
+% The whois service at port 43 is intended to contribute to resolving
+% technical problems where individual domains threaten the
+% functionality, security and stability of other domains or the
+% internet as an infrastructure. It does not give any information
+% about who the holder of a domain is. To find information about a
+% domain holder, please visit our website:
+% https://www.norid.no/en/domeneoppslag/
+
+Domain Information
+
+NORID Handle...............: ASK2550D-NORID
+Domain Name................: askerteltutleie.no
+Registrar Handle...........: REG42-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+DNSSEC.....................: Signed
+DS Key Tag     1...........: 250
+Algorithm      1...........: 13
+Digest Type    1...........: 2
+Digest         1...........: ce14e8f3d2f5506543b48291c5311383d7e018e203629e1b6307633f7edee51e
+
+Additional information:
+Created:         2017-12-13
+Last updated:    2018-11-30</rawText>
+    <parseCode>97</parseCode>
+    <header>% By looking up information in the domain registration directory
+% service, you confirm that you accept the terms and conditions of the
+% service:
+% https://www.norid.no/en/domeneoppslag/vilkar/
+%
+% UNINETT Norid AS holds the copyright to the lookup service, content,
+% layout and the underlying collections of information used in the
+% service (cf. the Act on Intellectual Property of May 2, 1961, No.
+% 2). Any commercial % use of information from the service, including
+% targeted marketing, is prohibited. Using information from the domain
+% registration directory service in % violation of the terms and
+% conditions may result in legal prosecution.
+%
+% The whois service at port 43 is intended to contribute to resolving
+% technical problems where individual domains threaten the
+% functionality, security and stability of other domains or the
+% internet as an infrastructure. It does not give any information
+% about who the holder of a domain is. To find information about a
+% domain holder, please visit our website:
+% https://www.norid.no/en/domeneoppslag/</header>
+    <strippedText>
+Domain Information
+
+NORID Handle...............: ASK2550D-NORID
+Domain Name................: askerteltutleie.no
+Registrar Handle...........: REG42-NORID
+Tech-c Handle..............: DH38R-NORID
+Name Server Handle.........: NSHY11H-NORID
+Name Server Handle.........: NSHY46H-NORID
+Name Server Handle.........: NSHY81H-NORID
+DNSSEC.....................: Signed
+DS Key Tag     1...........: 250
+Algorithm      1...........: 13
+Digest Type    1...........: 2
+Digest         1...........: ce14e8f3d2f5506543b48291c5311383d7e018e203629e1b6307633f7edee51e
+
+Additional information:
+Created:         2017-12-13
+Last updated:    2018-11-30</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:30:51.264 UTC</createdDate>
+      <updatedDate>2018-12-01 14:30:51.264 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2017-12-13 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-30 00:00:00 UTC</updatedDateNormalized>
+    <whoisServer>whois.norid.no</whoisServer>
+  </registryData>
+  <domainNameExt>.no</domainNameExt>
+  <estimatedDomainAge>353</estimatedDomainAge>
+</WhoisRecord>

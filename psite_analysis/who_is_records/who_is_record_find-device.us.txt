@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>find-device.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:40:51.035 UTC</createdDate>
+    <updatedDate>2018-12-01 13:40:51.035 UTC</updatedDate>
+  </audit>
+  <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+  <registrarIANAID>303</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-22T04:13:47Z</createdDate>
+    <updatedDate>2018-11-27T04:13:47Z</updatedDate>
+    <expiresDate>2019-11-22T04:13:47Z</expiresDate>
+    <registrant>
+      <name>Needs Mark</name>
+      <organization>NeedsApple</organization>
+      <street1>Bree And small street</street1>
+      <city>Johanisburg</city>
+      <state>Gauteng</state>
+      <postalCode>2001</postalCode>
+      <country>SOUTH AFRICA</country>
+      <countryCode>ZA</countryCode>
+      <email>needsapple@gamil.com</email>
+      <telephone>27611595257</telephone>
+      <rawText>Registrant Name: Needs Mark
+Registrant Organization: NeedsApple
+Registrant Street: Bree And small street
+Registrant City: Johanisburg
+Registrant State/Province: Gauteng
+Registrant Postal Code: 2001
+Registrant Country: ZA
+Registrant Phone: +27.611595257
+Registrant Email: needsapple@gamil.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Needs Mark</name>
+      <organization>NeedsApple</organization>
+      <street1>Bree And small street</street1>
+      <city>Johanisburg</city>
+      <state>Gauteng</state>
+      <postalCode>2001</postalCode>
+      <country>SOUTH AFRICA</country>
+      <countryCode>ZA</countryCode>
+      <email>needsapple@gamil.com</email>
+      <telephone>27611595257</telephone>
+      <rawText>Admin Name: Needs Mark
+Admin Organization: NeedsApple
+Admin Street: Bree And small street
+Admin City: Johanisburg
+Admin State/Province: Gauteng
+Admin Postal Code: 2001
+Admin Country: ZA
+Admin Phone: +27.611595257
+Admin Email: needsapple@gamil.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Needs Mark</name>
+      <organization>NeedsApple</organization>
+      <street1>Bree And small street</street1>
+      <city>Johanisburg</city>
+      <state>Gauteng</state>
+      <postalCode>2001</postalCode>
+      <country>SOUTH AFRICA</country>
+      <countryCode>ZA</countryCode>
+      <email>needsapple@gamil.com</email>
+      <telephone>27611595257</telephone>
+      <rawText>Tech Name: Needs Mark
+Tech Organization: NeedsApple
+Tech Street: Bree And small street
+Tech City: Johanisburg
+Tech State/Province: Gauteng
+Tech Postal Code: 2001
+Tech Country: ZA
+Tech Phone: +27.611595257
+Tech Email: needsapple@gamil.com</rawText>
+    </technicalContact>
+    <domainName>find-device.us</domainName>
+    <nameServers>
+      <rawText>ns2.iteamserver.com
+ns1.iteamserver.com
+</rawText>
+      <hostNames>
+        <Address>ns2.iteamserver.com</Address>
+        <Address>ns1.iteamserver.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: find-device.us
+Registry Domain ID: DBEA9C62EFAFB41D18340C61C8A7054C0-NSR
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: publicdomainregistry.com
+Updated Date: 2018-11-27T04:13:47Z
+Creation Date: 2018-11-22T04:13:47Z
+Registry Expiry Date: 2019-11-22T04:13:47Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C0C0EDA5ABB8D4F51A2ADAED55E9E930E-NSR
+Registrant Name: Needs Mark
+Registrant Organization: NeedsApple
+Registrant Street: Bree And small street
+Registrant Street:
+Registrant Street:
+Registrant City: Johanisburg
+Registrant State/Province: Gauteng
+Registrant Postal Code: 2001
+Registrant Country: ZA
+Registrant Phone: +27.611595257
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: needsapple@gamil.com
+Registrant Application Purpose: P3
+Registrant Nexus Category: C11
+Registry Admin ID: C0C0EDA5ABB8D4F51A2ADAED55E9E930E-NSR
+Admin Name: Needs Mark
+Admin Organization: NeedsApple
+Admin Street: Bree And small street
+Admin Street:
+Admin Street:
+Admin City: Johanisburg
+Admin State/Province: Gauteng
+Admin Postal Code: 2001
+Admin Country: ZA
+Admin Phone: +27.611595257
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: needsapple@gamil.com
+Admin Application Purpose: P3
+Admin Nexus Category: C11
+Registry Tech ID: C0C0EDA5ABB8D4F51A2ADAED55E9E930E-NSR
+Tech Name: Needs Mark
+Tech Organization: NeedsApple
+Tech Street: Bree And small street
+Tech Street:
+Tech Street:
+Tech City: Johanisburg
+Tech State/Province: Gauteng
+Tech Postal Code: 2001
+Tech Country: ZA
+Tech Phone: +27.611595257
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: needsapple@gamil.com
+Tech Application Purpose: P3
+Tech Nexus Category: C11
+Name Server: ns2.iteamserver.com
+Name Server: ns1.iteamserver.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:40:50Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: find-device.us
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: publicdomainregistry.com
+Updated Date: 2018-11-27T04:13:47Z
+Creation Date: 2018-11-22T04:13:47Z
+Registry Expiry Date: 2019-11-22T04:13:47Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Needs Mark
+Registrant Organization: NeedsApple
+Registrant Street: Bree And small street
+Registrant City: Johanisburg
+Registrant State/Province: Gauteng
+Registrant Postal Code: 2001
+Registrant Country: ZA
+Registrant Phone: +27.611595257
+Registrant Email: needsapple@gamil.com
+Admin Name: Needs Mark
+Admin Organization: NeedsApple
+Admin Street: Bree And small street
+Admin City: Johanisburg
+Admin State/Province: Gauteng
+Admin Postal Code: 2001
+Admin Country: ZA
+Admin Phone: +27.611595257
+Admin Email: needsapple@gamil.com
+Tech Name: Needs Mark
+Tech Organization: NeedsApple
+Tech Street: Bree And small street
+Tech City: Johanisburg
+Tech State/Province: Gauteng
+Tech Postal Code: 2001
+Tech Country: ZA
+Tech Phone: +27.611595257
+Tech Email: needsapple@gamil.com
+Name Server: ns2.iteamserver.com
+Name Server: ns1.iteamserver.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:40:51.035 UTC</createdDate>
+      <updatedDate>2018-12-01 13:40:51.035 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse-contact@publicdomainregistry.com</customField1Value>
+    <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2018-11-22 04:13:47 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-27 04:13:47 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-22 04:13:47 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.2013775952</customField2Value>
+    <customField3Value>publicdomainregistry.com</customField3Value>
+    <whoisServer>whois.publicdomainregistry.com</whoisServer>
+  </registryData>
+  <contactEmail>needsapple@gamil.com</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>9</estimatedDomainAge>
+</WhoisRecord>

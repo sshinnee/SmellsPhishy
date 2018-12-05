@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>technomould.gr</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-09-13 01:15:27.000 UTC</createdDate>
+    <updatedDate>2018-09-13 01:15:27.000 UTC</updatedDate>
+  </audit>
+  <registrarName>VODAFONE-PANAFON
+Registrar Referral URL:http://www.vodafone.gr</registrarName>
+  <registryData>
+    <createdDate>10-11-2008</createdDate>
+    <updatedDate>01-11-2016</updatedDate>
+    <expiresDate>09-11-2018</expiresDate>
+    <domainName>technomould.gr</domainName>
+    <nameServers>
+      <rawText>ns0.hol.gr
+ns1.hol.gr
+ns2.hol.gr
+</rawText>
+      <hostNames>
+        <Address>ns0.hol.gr</Address>
+        <Address>ns1.hol.gr</Address>
+        <Address>ns2.hol.gr</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain Name:technomould.gr
+Domain Handle:d77aa1627dcb6471ab389e07cada7a7df-gr
+Protocol Number:1333091
+Creation Date:10-11-2008
+Expiration Date:09-11-2018
+Updated Date:01-11-2016
+Registrar:VODAFONE-PANAFON
+Registrar Referral URL:http://www.vodafone.gr
+Registrar Email:domains@hol.net
+Registrar Telephone:13845
+Whois Server:
+Bundle Name:technomould.gr
+Name Server:ns0.hol.gr
+Name Server:ns1.hol.gr
+Name Server:ns2.hol.gr</rawText>
+    <parseCode>235</parseCode>
+    <header/>
+    <strippedText>Domain Name:technomould.gr
+Domain Handle:d77aa1627dcb6471ab389e07cada7a7df-gr
+Protocol Number:1333091
+Creation Date:10-11-2008
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-09-13 01:15:27.000 UTC</createdDate>
+      <updatedDate>2018-09-13 01:15:27.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>domains@hol.net</customField1Value>
+    <registrarName>VODAFONE-PANAFON
+Registrar Referral URL:http://www.vodafone.gr</registrarName>
+    <createdDateNormalized>2008-11-10 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2016-11-01 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-11-09 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>https://www.pointer.gr</whoisServer>
+  </registryData>
+  <contactEmail>domains@hol.net</contactEmail>
+  <domainNameExt>.gr</domainNameExt>
+  <estimatedDomainAge>3673</estimatedDomainAge>
+</WhoisRecord>

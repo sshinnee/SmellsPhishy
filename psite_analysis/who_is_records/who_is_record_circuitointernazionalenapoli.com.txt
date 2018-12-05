@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2004-05-06T18:10:27</createdDate>
+  <updatedDate>2018-04-19T11:06:44</updatedDate>
+  <expiresDate>2019-05-06T18:10:27</expiresDate>
+  <registrant>
+    <name>Contact Privacy Inc. Customer 018428503</name>
+    <organization>Contact Privacy Inc. Customer 018428503</organization>
+    <street1>96 Mowat Ave</street1>
+    <city>Toronto</city>
+    <state>ON</state>
+    <postalCode>M6K 3M1</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>circuitointernazionalenapoli.com@contactprivacy.com</email>
+    <telephone>14165385457</telephone>
+    <rawText>Registrant Name: Contact Privacy Inc. Customer 018428503
+Registrant Organization: Contact Privacy Inc. Customer 018428503
+Registrant Street: 96 Mowat Ave
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.4165385457
+Registrant Email: circuitointernazionalenapoli.com@contactprivacy.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Contact Privacy Inc. Customer 018428503</name>
+    <organization>Contact Privacy Inc. Customer 018428503</organization>
+    <street1>96 Mowat Ave</street1>
+    <city>Toronto</city>
+    <state>ON</state>
+    <postalCode>M6K 3M1</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>circuitointernazionalenapoli.com@contactprivacy.com</email>
+    <telephone>14165385457</telephone>
+    <rawText>Admin Name: Contact Privacy Inc. Customer 018428503
+Admin Organization: Contact Privacy Inc. Customer 018428503
+Admin Street: 96 Mowat Ave
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.4165385457
+Admin Email: circuitointernazionalenapoli.com@contactprivacy.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Contact Privacy Inc. Customer 018428503</name>
+    <organization>Contact Privacy Inc. Customer 018428503</organization>
+    <street1>96 Mowat Ave</street1>
+    <city>Toronto</city>
+    <state>ON</state>
+    <postalCode>M6K 3M1</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>circuitointernazionalenapoli.com@contactprivacy.com</email>
+    <telephone>14165385457</telephone>
+    <rawText>Tech Name: Contact Privacy Inc. Customer 018428503
+Tech Organization: Contact Privacy Inc. Customer 018428503
+Tech Street: 96 Mowat Ave
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.4165385457
+Tech Email: circuitointernazionalenapoli.com@contactprivacy.com</rawText>
+  </technicalContact>
+  <domainName>circuitointernazionalenapoli.com</domainName>
+  <nameServers>
+    <rawText>dns2.technorail.com
+dns.technorail.com
+dns4.arubadns.cz
+dns3.arubadns.net
+</rawText>
+    <hostNames>
+      <Address>dns2.technorail.com</Address>
+      <Address>dns.technorail.com</Address>
+      <Address>dns4.arubadns.cz</Address>
+      <Address>dns3.arubadns.net</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientDeleteProhibited clientTransferProhibited clientUpdateProhibited</status>
+  <rawText>Domain Name: CIRCUITOINTERNAZIONALENAPOLI.COM
+Registry Domain ID: 119314323_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://tucowsdomains.com
+Updated Date: 2018-04-19T11:06:44
+Creation Date: 2004-05-06T18:10:27
+Registrar Registration Expiration Date: 2019-05-06T18:10:27
+Registrar: TUCOWS, INC.
+Registrar IANA ID: 69
+Reseller: Aruba S.p.A. - Servizio Aruba.it
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Contact Privacy Inc. Customer 018428503
+Registrant Organization: Contact Privacy Inc. Customer 018428503
+Registrant Street: 96 Mowat Ave 
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.4165385457
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: circuitointernazionalenapoli.com@contactprivacy.com
+Registry Admin ID: 
+Admin Name: Contact Privacy Inc. Customer 018428503
+Admin Organization: Contact Privacy Inc. Customer 018428503
+Admin Street: 96 Mowat Ave 
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.4165385457
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: circuitointernazionalenapoli.com@contactprivacy.com
+Registry Tech ID: 
+Tech Name: Contact Privacy Inc. Customer 018428503
+Tech Organization: Contact Privacy Inc. Customer 018428503
+Tech Street: 96 Mowat Ave 
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.4165385457
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: circuitointernazionalenapoli.com@contactprivacy.com
+Name Server: dns2.technorail.com
+Name Server: dns.technorail.com
+Name Server: dns4.arubadns.cz
+Name Server: dns3.arubadns.net
+
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-04-19T11:06:44 &lt;&lt;&lt;
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+    Aruba S.p.A. - Servizio Aruba.it, assistenza@staff.aruba.it
+    +39.05750505
+    +39.0575862000 (fax)
+    http://www.aruba.it
+    Supporto tecnico - Technical support - Asistencia tecnica : 
+    
+    http://assistenza.aruba.it
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Tucows makes this information available "as is," and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: CIRCUITOINTERNAZIONALENAPOLI.COM
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://tucowsdomains.com
+Updated Date: 2018-04-19T11:06:44
+Creation Date: 2004-05-06T18:10:27
+Registrar Registration Expiration Date: 2019-05-06T18:10:27
+Registrar: TUCOWS, INC.
+Registrar IANA ID: 69
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Name: Contact Privacy Inc. Customer 018428503
+Registrant Organization: Contact Privacy Inc. Customer 018428503
+Registrant Street: 96 Mowat Ave
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.4165385457
+Registrant Email: circuitointernazionalenapoli.com@contactprivacy.com
+Admin Name: Contact Privacy Inc. Customer 018428503
+Admin Organization: Contact Privacy Inc. Customer 018428503
+Admin Street: 96 Mowat Ave
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.4165385457
+Admin Email: circuitointernazionalenapoli.com@contactprivacy.com
+Tech Name: Contact Privacy Inc. Customer 018428503
+Tech Organization: Contact Privacy Inc. Customer 018428503
+Tech Street: 96 Mowat Ave
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.4165385457
+Tech Email: circuitointernazionalenapoli.com@contactprivacy.com
+Name Server: dns2.technorail.com
+Name Server: dns.technorail.com
+Name Server: dns4.arubadns.cz
+Name Server: dns3.arubadns.net
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 14:25:33.357 UTC</createdDate>
+    <updatedDate>2018-12-01 14:25:33.357 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>domainabuse@tucows.com</customField1Value>
+  <registrarName>TUCOWS, INC.</registrarName>
+  <registrarIANAID>69</registrarIANAID>
+  <whoisServer>whois.tucows.com</whoisServer>
+  <createdDateNormalized>2004-05-06 18:10:27 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-04-19 11:06:44 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-05-06 18:10:27 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.4165350123</customField2Value>
+  <customField3Value>http://tucowsdomains.com</customField3Value>
+  <registryData>
+    <createdDate>2004-05-06T18:10:27Z</createdDate>
+    <updatedDate>2018-04-19T11:06:44Z</updatedDate>
+    <expiresDate>2019-05-06T18:10:27Z</expiresDate>
+    <domainName>circuitointernazionalenapoli.com</domainName>
+    <nameServers>
+      <rawText>DNS.TECHNORAIL.COM
+DNS2.TECHNORAIL.COM
+DNS3.ARUBADNS.NET
+DNS4.ARUBADNS.CZ
+</rawText>
+      <hostNames>
+        <Address>DNS.TECHNORAIL.COM</Address>
+        <Address>DNS2.TECHNORAIL.COM</Address>
+        <Address>DNS3.ARUBADNS.NET</Address>
+        <Address>DNS4.ARUBADNS.CZ</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientDeleteProhibited clientTransferProhibited clientUpdateProhibited</status>
+    <rawText>Domain Name: CIRCUITOINTERNAZIONALENAPOLI.COM
+   Registry Domain ID: 119314323_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucowsdomains.com
+   Updated Date: 2018-04-19T11:06:44Z
+   Creation Date: 2004-05-06T18:10:27Z
+   Registry Expiry Date: 2019-05-06T18:10:27Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS.TECHNORAIL.COM
+   Name Server: DNS2.TECHNORAIL.COM
+   Name Server: DNS3.ARUBADNS.NET
+   Name Server: DNS4.ARUBADNS.CZ
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:25:19Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: CIRCUITOINTERNAZIONALENAPOLI.COM
+Registry Domain ID: 119314323_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://www.tucowsdomains.com
+Updated Date: 2018-04-19T11:06:44Z
+Creation Date: 2004-05-06T18:10:27Z
+Registry Expiry Date: 2019-05-06T18:10:27Z
+Registrar: Tucows Domains Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: DNS.TECHNORAIL.COM
+Name Server: DNS2.TECHNORAIL.COM
+Name Server: DNS3.ARUBADNS.NET
+Name Server: DNS4.ARUBADNS.CZ
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:25:19Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:25:32.528 UTC</createdDate>
+      <updatedDate>2018-12-01 14:25:32.528 UTC</updatedDate>
+    </audit>
+    <registrarName>Tucows Domains Inc.</registrarName>
+    <registrarIANAID>69</registrarIANAID>
+    <createdDateNormalized>2004-05-06 18:10:27 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-04-19 11:06:44 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-06 18:10:27 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.tucowsdomains.com</customField3Value>
+    <whoisServer>whois.tucows.com</whoisServer>
+  </registryData>
+  <contactEmail>circuitointernazionalenapoli.com@contactprivacy.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>5321</estimatedDomainAge>
+</WhoisRecord>

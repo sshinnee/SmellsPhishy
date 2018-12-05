@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>snipurl.im</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 01:23:23.000 UTC</createdDate>
+    <updatedDate>2018-12-01 01:23:23.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <expiresDate>16/09/2020 00:59:55</expiresDate>
+    <registrant>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Redacted</name>
+      <rawText>Name: Redacted
+Address
+Redacted
+Domain Details</rawText>
+    </technicalContact>
+    <domainName>snipurl.im</domainName>
+    <nameServers>
+      <rawText>dns1.namecheaphosting.com
+dns2.namecheaphosting.com
+</rawText>
+      <hostNames>
+        <Address>dns1.namecheaphosting.com</Address>
+        <Address>dns2.namecheaphosting.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+              
+Domain Name:	snipurl.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 16/09/2020 00:59:55
+Name Server:dns1.namecheaphosting.com.
+Name Server:dns2.namecheaphosting.com.</rawText>
+    <parseCode>4034</parseCode>
+    <header>This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+</header>
+    <strippedText>Domain Name:	snipurl.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 16/09/2020 00:59:55
+Name Server:dns1.namecheaphosting.com.
+Name Server:dns2.namecheaphosting.com.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 01:23:23.000 UTC</createdDate>
+      <updatedDate>2018-12-01 01:23:23.000 UTC</updatedDate>
+    </audit>
+    <expiresDateNormalized>2021-04-09 00:59:55 UTC</expiresDateNormalized>
+    <whoisServer>whois.nic.im</whoisServer>
+  </registryData>
+  <contactEmail>info@nic.im</contactEmail>
+  <domainNameExt>.im</domainNameExt>
+</WhoisRecord>

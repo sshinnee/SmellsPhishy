@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>swimupstream.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:20:44.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:20:44.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Tucows Domains Inc.</registrarName>
+  <registrarIANAID>69</registrarIANAID>
+  <registryData>
+    <createdDate>2007-08-08T17:28:24Z</createdDate>
+    <updatedDate>2017-07-25T08:01:26Z</updatedDate>
+    <expiresDate>2019-08-07T23:59:59Z</expiresDate>
+    <registrant>
+      <name>Bradley Bass</name>
+      <organization>Bradley Bass</organization>
+      <street1>6015 Tahoe Place</street1>
+      <city>Camarillo</city>
+      <state>CA</state>
+      <postalCode>93012</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>brbass_1999@yahoo.com</email>
+      <telephone>18053841309</telephone>
+      <rawText>Registrant Name: Bradley Bass
+Registrant Organization: Bradley Bass
+Registrant Street: 6015 Tahoe Place
+Registrant City: Camarillo
+Registrant State/Province: CA
+Registrant Postal Code: 93012
+Registrant Country: US
+Registrant Phone: +1.8053841309
+Registrant Email: brbass_1999@yahoo.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Bradley Bass</name>
+      <organization>Bradley Bass</organization>
+      <street1>6015 Tahoe Place</street1>
+      <city>Camarillo</city>
+      <state>CA</state>
+      <postalCode>93012</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>brbass_1999@yahoo.com</email>
+      <telephone>18053841309</telephone>
+      <rawText>Admin Name: Bradley Bass
+Admin Organization: Bradley Bass
+Admin Street: 6015 Tahoe Place
+Admin City: Camarillo
+Admin State/Province: CA
+Admin Postal Code: 93012
+Admin Country: US
+Admin Phone: +1.8053841309
+Admin Email: brbass_1999@yahoo.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>System Administrator</name>
+      <organization>Lunarpages</organization>
+      <street1>100 E. La Habra</street1>
+      <city>La Habra</city>
+      <state>California</state>
+      <postalCode>90631</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>hostmaster@lunarpages.com</email>
+      <telephone>17145218150</telephone>
+      <rawText>Tech Name: System Administrator
+Tech Organization: Lunarpages
+Tech Street: 100 E. La Habra
+Tech City: La Habra
+Tech State/Province: California
+Tech Postal Code: 90631
+Tech Country: US
+Tech Phone: +1.7145218150
+Tech Email: hostmaster@lunarpages.com</rawText>
+    </technicalContact>
+    <domainName>swimupstream.us</domainName>
+    <nameServers>
+      <rawText>ns1.lunarservers.com
+ns2.lunarservers.com
+</rawText>
+      <hostNames>
+        <Address>ns1.lunarservers.com</Address>
+        <Address>ns2.lunarservers.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientUpdateProhibited clientTransferProhibited</status>
+    <rawText>Domain Name: swimupstream.us
+Registry Domain ID: D13680351-US
+Registrar WHOIS Server: whois.opensrs.net
+Registrar URL: www.opensrs.com
+Updated Date: 2017-07-25T08:01:26Z
+Creation Date: 2007-08-08T17:28:24Z
+Registry Expiry Date: 2019-08-07T23:59:59Z
+Registrar: Tucows Domains Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C13680349-US
+Registrant Name: Bradley Bass
+Registrant Organization: Bradley Bass
+Registrant Street: 6015 Tahoe Place
+Registrant Street:
+Registrant Street:
+Registrant City: Camarillo
+Registrant State/Province: CA
+Registrant Postal Code: 93012
+Registrant Country: US
+Registrant Phone: +1.8053841309
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: brbass_1999@yahoo.com
+Registrant Application Purpose: P3
+Registrant Nexus Category: C11
+Registry Admin ID: C13680349-US
+Admin Name: Bradley Bass
+Admin Organization: Bradley Bass
+Admin Street: 6015 Tahoe Place
+Admin Street:
+Admin Street:
+Admin City: Camarillo
+Admin State/Province: CA
+Admin Postal Code: 93012
+Admin Country: US
+Admin Phone: +1.8053841309
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: brbass_1999@yahoo.com
+Admin Application Purpose: P3
+Admin Nexus Category: C11
+Registry Tech ID: C13680350-US
+Tech Name: System Administrator
+Tech Organization: Lunarpages
+Tech Street: 100 E. La Habra
+Tech Street:
+Tech Street:
+Tech City: La Habra
+Tech State/Province: California
+Tech Postal Code: 90631
+Tech Country: US
+Tech Phone: +1.7145218150
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: hostmaster@lunarpages.com
+Tech Application Purpose: P3
+Tech Nexus Category: C11
+Name Server: ns1.lunarservers.com
+Name Server: ns2.lunarservers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:20:43Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: swimupstream.us
+Registrar WHOIS Server: whois.opensrs.net
+Registrar URL: www.opensrs.com
+Updated Date: 2017-07-25T08:01:26Z
+Creation Date: 2007-08-08T17:28:24Z
+Registry Expiry Date: 2019-08-07T23:59:59Z
+Registrar: Tucows Domains Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Bradley Bass
+Registrant Organization: Bradley Bass
+Registrant Street: 6015 Tahoe Place
+Registrant City: Camarillo
+Registrant State/Province: CA
+Registrant Postal Code: 93012
+Registrant Country: US
+Registrant Phone: +1.8053841309
+Registrant Email: brbass_1999@yahoo.com
+Admin Name: Bradley Bass
+Admin Organization: Bradley Bass
+Admin Street: 6015 Tahoe Place
+Admin City: Camarillo
+Admin State/Province: CA
+Admin Postal Code: 93012
+Admin Country: US
+Admin Phone: +1.8053841309
+Admin Email: brbass_1999@yahoo.com
+Tech Name: System Administrator
+Tech Organization: Lunarpages
+Tech Street: 100 E. La Habra
+Tech City: La Habra
+Tech State/Province: California
+Tech Postal Code: 90631
+Tech Country: US
+Tech Phone: +1.7145218150
+Tech Email: hostmaster@lunarpages.com
+Name Server: ns1.lunarservers.com
+Name Server: ns2.lunarservers.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:20:44.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:20:44.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>domainabuse@tucows.com</customField1Value>
+    <registrarName>Tucows Domains Inc.</registrarName>
+    <registrarIANAID>69</registrarIANAID>
+    <createdDateNormalized>2007-08-08 17:28:24 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-07-25 08:01:26 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-08-07 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4165350123</customField2Value>
+    <customField3Value>www.opensrs.com</customField3Value>
+    <whoisServer>whois.opensrs.net</whoisServer>
+  </registryData>
+  <contactEmail>brbass_1999@yahoo.com</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>4132</estimatedDomainAge>
+</WhoisRecord>

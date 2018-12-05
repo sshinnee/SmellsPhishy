@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2013-11-07T10:33:51Z</createdDate>
+  <expiresDate>2017-11-07T10:33:51Z</expiresDate>
+  <registrant>
+    <name>Eden Reuven</name>
+    <street1>35 Kiryat Shemona St</street1>
+    <city>Hulon</city>
+    <state>Israel</state>
+    <postalCode>58483</postalCode>
+    <country>ISRAEL</country>
+    <countryCode>IL</countryCode>
+    <email>reueden@gmail.com</email>
+    <telephone>7025837717</telephone>
+    <rawText>Registrant Name: Eden Reuven
+Registrant Street: 35 Kiryat Shemona St
+Registrant City: Hulon
+Registrant State/Province: Israel
+Registrant Postal Code: 58483
+Registrant Country: IL
+Registrant Phone: 7025837717
+Registrant Email: reueden@gmail.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Eden Reuven</name>
+    <street1>35 Kiryat Shemona St</street1>
+    <city>Hulon</city>
+    <state>Israel</state>
+    <postalCode>58483</postalCode>
+    <country>ISRAEL</country>
+    <countryCode>IL</countryCode>
+    <email>reueden@gmail.com</email>
+    <telephone>7025837717</telephone>
+    <rawText>Admin Name: Eden Reuven
+Admin Street: 35 Kiryat Shemona St
+Admin City: Hulon
+Admin State/Province: Israel
+Admin Postal Code: 58483
+Admin Country: IL
+Admin Phone: 7025837717
+Admin Email: reueden@gmail.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Eden Reuven</name>
+    <street1>35 Kiryat Shemona St</street1>
+    <city>Hulon</city>
+    <state>Israel</state>
+    <postalCode>58483</postalCode>
+    <country>ISRAEL</country>
+    <countryCode>IL</countryCode>
+    <email>reueden@gmail.com</email>
+    <telephone>7025837717</telephone>
+    <rawText>Tech Name: Eden Reuven
+Tech Street: 35 Kiryat Shemona St
+Tech City: Hulon
+Tech State/Province: Israel
+Tech Postal Code: 58483
+Tech Country: IL
+Tech Phone: 7025837717
+Tech Email: reueden@gmail.com</rawText>
+  </technicalContact>
+  <domainName>asaplocksmithhenderson.com</domainName>
+  <nameServers>
+    <rawText>NS11.HOSTSEO.ORG
+NS12.HOSTSEO.ORG
+</rawText>
+    <hostNames>
+      <Address>NS11.HOSTSEO.ORG</Address>
+      <Address>NS12.HOSTSEO.ORG</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited clientUpdateProhibited clientRenewProhibited clientDeleteProhibited</status>
+  <rawText>Domain Name: ASAPLOCKSMITHHENDERSON.COM
+Registry Domain ID: 1834530935_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2015-11-04T08:28:02Z
+Creation Date: 2013-11-07T10:33:51Z
+Registrar Registration Expiration Date: 2017-11-07T10:33:51Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Eden Reuven
+Registrant Organization: 
+Registrant Street: 35 Kiryat Shemona St
+Registrant City: Hulon
+Registrant State/Province: Israel
+Registrant Postal Code: 58483
+Registrant Country: IL
+Registrant Phone: 7025837717
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: reueden@gmail.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Eden Reuven
+Admin Organization: 
+Admin Street: 35 Kiryat Shemona St
+Admin City: Hulon
+Admin State/Province: Israel
+Admin Postal Code: 58483
+Admin Country: IL
+Admin Phone: 7025837717
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: reueden@gmail.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Eden Reuven
+Tech Organization: 
+Tech Street: 35 Kiryat Shemona St
+Tech City: Hulon
+Tech State/Province: Israel
+Tech Postal Code: 58483
+Tech Country: IL
+Tech Phone: 7025837717
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: reueden@gmail.com
+Name Server: NS11.HOSTSEO.ORG
+Name Server: NS12.HOSTSEO.ORG
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2016-10-15T18:00:00Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data contained in GoDaddy.com, LLC's WhoIs database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section.  In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.</rawText>
+  <parseCode>3547</parseCode>
+  <header/>
+  <strippedText>Domain Name: ASAPLOCKSMITHHENDERSON.COM
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Creation Date: 2013-11-07T10:33:51Z
+Registrar Registration Expiration Date: 2017-11-07T10:33:51Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registrant Name: Eden Reuven
+Registrant Street: 35 Kiryat Shemona St
+Registrant City: Hulon
+Registrant State/Province: Israel
+Registrant Postal Code: 58483
+Registrant Country: IL
+Registrant Phone: 7025837717
+Registrant Email: reueden@gmail.com
+Admin Name: Eden Reuven
+Admin Street: 35 Kiryat Shemona St
+Admin City: Hulon
+Admin State/Province: Israel
+Admin Postal Code: 58483
+Admin Country: IL
+Admin Phone: 7025837717
+Admin Email: reueden@gmail.com
+Tech Name: Eden Reuven
+Tech Street: 35 Kiryat Shemona St
+Tech City: Hulon
+Tech State/Province: Israel
+Tech Postal Code: 58483
+Tech Country: IL
+Tech Phone: 7025837717
+Tech Email: reueden@gmail.com
+Name Server: NS11.HOSTSEO.ORG
+Name Server: NS12.HOSTSEO.ORG
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2016-10-15 18:47:04.000 UTC</createdDate>
+    <updatedDate>2016-10-15 18:47:04.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@godaddy.com</customField1Value>
+  <registrarName>GoDaddy.com, LLC</registrarName>
+  <registrarIANAID>146</registrarIANAID>
+  <whoisServer>whois.godaddy.com</whoisServer>
+  <createdDateNormalized>2013-11-07 10:33:51 UTC</createdDateNormalized>
+  <expiresDateNormalized>2017-11-07 10:33:51 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.4806242505</customField2Value>
+  <customField3Value>http://www.godaddy.com</customField3Value>
+  <registryData>
+    <createdDate>07-nov-2013</createdDate>
+    <updatedDate>15-feb-2016</updatedDate>
+    <expiresDate>07-nov-2017</expiresDate>
+    <domainName>asaplocksmithhenderson.com</domainName>
+    <nameServers>
+      <rawText>NS11.HOSTSEO.ORG
+NS12.HOSTSEO.ORG
+</rawText>
+      <hostNames>
+        <Address>NS11.HOSTSEO.ORG</Address>
+        <Address>NS12.HOSTSEO.ORG</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientDeleteProhibited clientRenewProhibited clientTransferProhibited clientUpdateProhibited</status>
+    <rawText>Whois Server Version 2.0
+
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.
+
+   Domain Name: ASAPLOCKSMITHHENDERSON.COM
+   Registrar: GODADDY.COM, LLC
+   Sponsoring Registrar IANA ID: 146
+   Whois Server: whois.godaddy.com
+   Referral URL: http://www.godaddy.com
+   Name Server: NS11.HOSTSEO.ORG
+   Name Server: NS12.HOSTSEO.ORG
+   Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Updated Date: 15-feb-2016
+   Creation Date: 07-nov-2013
+   Expiration Date: 07-nov-2017
+
+&gt;&gt;&gt; Last update of whois database: Sat, 15 Oct 2016 18:46:40 GMT &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>255</parseCode>
+    <header>Whois Server Version 2.0
+Domain names in the .com and .net domains can now be registered
+with many different competing registrars. Go to http://www.internic.net
+for detailed information.</header>
+    <strippedText>Domain Name: ASAPLOCKSMITHHENDERSON.COM
+Registrar: GODADDY.COM, LLC
+Sponsoring Registrar IANA ID: 146
+Whois Server: whois.godaddy.com
+Referral URL: http://www.godaddy.com
+Name Server: NS11.HOSTSEO.ORG
+Name Server: NS12.HOSTSEO.ORG
+Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Updated Date: 15-feb-2016
+Creation Date: 07-nov-2013
+Expiration Date: 07-nov-2017
+</strippedText>
+    <footer>&gt;&gt;&gt; Last update of whois database: Sat, 15 Oct 2016 18:46:40 GMT &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</footer>
+    <audit>
+      <createdDate>2016-10-15 18:47:03.000 UTC</createdDate>
+      <updatedDate>2016-10-15 18:47:03.000 UTC</updatedDate>
+    </audit>
+    <registrarName>GODADDY.COM, LLC</registrarName>
+    <registrarIANAID>146</registrarIANAID>
+    <createdDateNormalized>2013-11-07 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2016-02-15 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2017-11-07 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.godaddy.com</whoisServer>
+    <referralURL>http://www.godaddy.com</referralURL>
+  </registryData>
+  <contactEmail>reueden@gmail.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>1850</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>sportennis.co.il</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:35:17.138 UTC</createdDate>
+    <updatedDate>2018-12-01 13:35:17.138 UTC</updatedDate>
+  </audit>
+  <registrarName>Domain The Net Technologies Ltd</registrarName>
+  <registrarIANAID>10007</registrarIANAID>
+  <registryData>
+    <createdDate>23-03-2005</createdDate>
+    <updatedDate>28-02-2007</updatedDate>
+    <expiresDate>23-03-2019</expiresDate>
+    <registrant>
+      <name>Sportennis 2000 Ltd.</name>
+      <street1>2 Shitrit St.</street1>
+      <city>Tel Aviv</city>
+      <postalCode>69482</postalCode>
+      <country>ISRAEL</country>
+      <countryCode>IL</countryCode>
+      <email>sporteni@netvision.net.il</email>
+      <telephone>972 3 6494466</telephone>
+      <fax>972 3 6498882</fax>
+      <rawText>descr:        Sportennis 2000 Ltd.
+descr:        2 Shitrit St.
+descr:        Tel Aviv
+descr:        69482
+descr:        Israel
+phone:        +972 3 6494466
+fax-no:       +972 3 6498882
+e-mail:       sporteni@netvision.net.il
+</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Doron Dagan</name>
+      <country>ISRAEL</country>
+      <countryCode>IL</countryCode>
+      <email>sporteni@netvision.net.il</email>
+      <telephone>972 3 6494466</telephone>
+      <rawText>person:       Doron Dagan
+address      Sportennis 2000 Ltd.
+address      2 Shitrit St.
+address      Tel Aviv
+address      69482
+address      Israel
+phone:        +972 3 6494466
+e-mail:       sporteni@netvision.net.il
+nic-hdl:      DT-DD3360-IL
+changed:      Managing Registrar 20070227</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Doron Dagan</name>
+      <country>ISRAEL</country>
+      <countryCode>IL</countryCode>
+      <email>sporteni@netvision.net.il</email>
+      <telephone>972 3 6494466</telephone>
+      <rawText>person:       Doron Dagan
+address      Sportennis 2000 Ltd.
+address      2 Shitrit St.
+address      Tel Aviv
+address      69482
+address      Israel
+phone:        +972 3 6494466
+e-mail:       sporteni@netvision.net.il
+nic-hdl:      DT-DD4552-IL
+changed:      Managing Registrar 20120708</rawText>
+    </technicalContact>
+    <domainName>sportennis.co.il</domainName>
+    <nameServers>
+      <rawText>ns1.teranet2.co.il
+ns2.teranet2.co.il
+</rawText>
+      <hostNames>
+        <Address>ns1.teranet2.co.il</Address>
+        <Address>ns2.teranet2.co.il</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>Transfer Locked</status>
+    <rawText>% The data in the WHOIS database of the .il registry is provided
+% by ISOC-IL for information purposes, and to assist persons in 
+% obtaining information about or related to a domain name 
+% registration record. ISOC-IL does not guarantee its accuracy.
+% By submitting a WHOIS query, you agree that you will use this
+% Data only for lawful purposes and that, under no circumstances
+% will you use this Data to: (1) allow, enable, or otherwise 
+% support the transmission of mass unsolicited, commercial 
+% advertising or solicitations via e-mail (spam); 
+% or  (2) enable high volume, automated, electronic processes that 
+% apply to ISOC-IL (or its systems).
+% ISOC-IL reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.
+ 
+query:        sportennis.co.il
+
+reg-name:     sportennis
+domain:       sportennis.co.il
+
+descr:        Sportennis 2000 Ltd.
+descr:        2 Shitrit St.
+descr:        Tel Aviv
+descr:        69482
+descr:        Israel
+phone:        +972 3 6494466
+fax-no:       +972 3 6498882
+e-mail:       sporteni@netvision.net.il
+admin-c:      DT-DD3360-IL
+tech-c:       DT-DD4552-IL
+zone-c:       DT-DD4552-IL
+nserver:      ns1.teranet2.co.il 
+nserver:      ns2.teranet2.co.il 
+validity:     23-03-2019
+DNSSEC:       unsigned
+status:       Transfer Locked
+changed:      domain-registrar@isoc.org.il 20050323 (Assigned)
+changed:      domain-registrar@isoc.org.il 20070228 (Transferred)
+changed:      domain-registrar@isoc.org.il 20070417 (Changed)
+changed:      domain-registrar@isoc.org.il 20100822 (Changed)
+changed:      domain-registrar@isoc.org.il 20120708 (Changed)
+changed:      domain-registrar@isoc.org.il 20130930 (Changed)
+changed:      domain-registrar@isoc.org.il 20130930 (Changed)
+changed:      domain-registrar@isoc.org.il 20140811 (Changed)
+changed:      domain-registrar@isoc.org.il 20140811 (Changed)
+changed:      domain-registrar@isoc.org.il 20140813 (Changed)
+changed:      domain-registrar@isoc.org.il 20140813 (Changed)
+
+person:       Doron Dagan
+address      Sportennis 2000 Ltd.
+address      2 Shitrit St.
+address      Tel Aviv
+address      69482
+address      Israel
+phone:        +972 3 6494466
+e-mail:       sporteni@netvision.net.il
+nic-hdl:      DT-DD3360-IL
+changed:      Managing Registrar 20070227
+
+person:       Doron Dagan
+address      Sportennis 2000 Ltd.
+address      2 Shitrit St.
+address      Tel Aviv
+address      69482
+address      Israel
+phone:        +972 3 6494466
+e-mail:       sporteni@netvision.net.il
+nic-hdl:      DT-DD4552-IL
+changed:      Managing Registrar 20120708
+
+registrar name: Domain The Net Technologies Ltd
+registrar info: https://www.domainthenet.com
+
+% Rights to the data above are restricted by copyright.</rawText>
+    <parseCode>3579</parseCode>
+    <header>% The data in the WHOIS database of the .il registry is provided
+% by ISOC-IL for information purposes, and to assist persons in
+% obtaining information about or related to a domain name
+% registration record. ISOC-IL does not guarantee its accuracy.
+% By submitting a WHOIS query, you agree that you will use this
+% Data only for lawful purposes and that, under no circumstances
+% will you use this Data to: (1) allow, enable, or otherwise
+% support the transmission of mass unsolicited, commercial
+% advertising or solicitations via e-mail (spam);
+% or  (2) enable high volume, automated, electronic processes that
+% apply to ISOC-IL (or its systems).
+% ISOC-IL reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.</header>
+    <strippedText>
+query:        sportennis.co.il
+
+reg-name:     sportennis
+domain:       sportennis.co.il
+
+descr:        Sportennis 2000 Ltd.
+descr:        2 Shitrit St.
+descr:        Tel Aviv
+descr:        69482
+descr:        Israel
+phone:        +972 3 6494466
+fax-no:       +972 3 6498882
+e-mail:       sporteni@netvision.net.il
+admin-c:      DT-DD3360-IL
+tech-c:       DT-DD4552-IL
+zone-c:       DT-DD4552-IL
+nserver:      ns1.teranet2.co.il
+nserver:      ns2.teranet2.co.il
+validity:     23-03-2019
+DNSSEC:       unsigned
+status:       Transfer Locked
+changed:      domain-registrar@isoc.org.il 20050323 (Assigned)
+changed:      domain-registrar@isoc.org.il 20070228 (Transferred)
+changed:      domain-registrar@isoc.org.il 20070417 (Changed)
+changed:      domain-registrar@isoc.org.il 20100822 (Changed)
+changed:      domain-registrar@isoc.org.il 20120708 (Changed)
+changed:      domain-registrar@isoc.org.il 20130930 (Changed)
+changed:      domain-registrar@isoc.org.il 20130930 (Changed)
+changed:      domain-registrar@isoc.org.il 20140811 (Changed)
+changed:      domain-registrar@isoc.org.il 20140811 (Changed)
+changed:      domain-registrar@isoc.org.il 20140813 (Changed)
+changed:      domain-registrar@isoc.org.il 20140813 (Changed)
+
+person:       Doron Dagan
+address      Sportennis 2000 Ltd.
+address      2 Shitrit St.
+address      Tel Aviv
+address      69482
+address      Israel
+phone:        +972 3 6494466
+e-mail:       sporteni@netvision.net.il
+nic-hdl:      DT-DD3360-IL
+changed:      Managing Registrar 20070227
+
+person:       Doron Dagan
+address      Sportennis 2000 Ltd.
+address      2 Shitrit St.
+address      Tel Aviv
+address      69482
+address      Israel
+phone:        +972 3 6494466
+e-mail:       sporteni@netvision.net.il
+nic-hdl:      DT-DD4552-IL
+changed:      Managing Registrar 20120708
+
+registrar name: Domain The Net Technologies Ltd
+registrar info: https://www.domainthenet.com
+
+% Rights to the data above are restricted by copyright.</strippedText>
+    <audit>
+      <createdDate>2018-12-01 13:35:17.138 UTC</createdDate>
+      <updatedDate>2018-12-01 13:35:17.138 UTC</updatedDate>
+    </audit>
+    <registrarName>Domain The Net Technologies Ltd</registrarName>
+    <registrarIANAID>10007</registrarIANAID>
+    <createdDateNormalized>2005-03-23 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2007-02-28 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-23 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.isoc.org.il</whoisServer>
+  </registryData>
+  <contactEmail>sporteni@netvision.net.il</contactEmail>
+  <domainNameExt>.co.il</domainNameExt>
+  <estimatedDomainAge>5001</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>jumana.lt</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:16:16.319 UTC</createdDate>
+    <updatedDate>2018-12-01 14:16:16.319 UTC</updatedDate>
+  </audit>
+  <registrarName>UAB "Interneto vizija"</registrarName>
+  <registryData>
+    <createdDate>2005-09-27</createdDate>
+    <expiresDate>2019-09-27</expiresDate>
+    <domainName>jumana.lt</domainName>
+    <nameServers>
+      <rawText>ns1.serveriai.lt
+ns2.serveriai.lt
+ns3.serveriai.lt
+ns4.serveriai.lt
+</rawText>
+      <hostNames>
+        <Address>ns1.serveriai.lt</Address>
+        <Address>ns2.serveriai.lt</Address>
+        <Address>ns3.serveriai.lt</Address>
+        <Address>ns4.serveriai.lt</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>registered</status>
+    <rawText>% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%
+Domain:			jumana.lt
+Status:			registered
+Registered:		2005-09-27
+Expires:		2019-09-27
+%
+Registrar:		UAB "Interneto vizija"
+Registrar website:	http://www.iv.lt/
+Registrar email:	hostmaster@iv.lt
+%
+Contact organization:	UAB "Interneto vizija"
+Contact email:		hostmaster@iv.lt
+%
+Nameserver:		ns1.serveriai.lt	
+Nameserver:		ns2.serveriai.lt	
+Nameserver:		ns3.serveriai.lt	
+Nameserver:		ns4.serveriai.lt</rawText>
+    <parseCode>219</parseCode>
+    <header>% Hello, this is the DOMREG whois service.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Version 0.3
+%
+% For more information please visit http://whois.domreg.lt
+%</header>
+    <strippedText>Domain:			jumana.lt
+Status:			registered
+Registered:		2005-09-27
+Expires:		2019-09-27
+%
+Registrar:		UAB "Interneto vizija"
+Registrar website:	http://www.iv.lt/
+Registrar email:	hostmaster@iv.lt
+%
+Contact organization:	UAB "Interneto vizija"
+Contact email:		hostmaster@iv.lt
+%
+Nameserver:		ns1.serveriai.lt
+Nameserver:		ns2.serveriai.lt
+Nameserver:		ns3.serveriai.lt
+Nameserver:		ns4.serveriai.lt
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:16:16.319 UTC</createdDate>
+      <updatedDate>2018-12-01 14:16:16.319 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>hostmaster@iv.lt</customField1Value>
+    <registrarName>UAB "Interneto vizija"</registrarName>
+    <createdDateNormalized>2005-09-27 00:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-09-27 00:00:00 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.iv.lt/</customField3Value>
+    <whoisServer>whois.domreg.lt</whoisServer>
+  </registryData>
+  <contactEmail>hostmaster@iv.lt</contactEmail>
+  <domainNameExt>.lt</domainNameExt>
+  <estimatedDomainAge>4813</estimatedDomainAge>
+</WhoisRecord>

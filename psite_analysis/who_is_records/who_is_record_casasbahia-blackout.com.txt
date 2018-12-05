@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2018-11-29T14:21:58Z</createdDate>
+  <updatedDate>2018-11-29T14:21:57Z</updatedDate>
+  <expiresDate>2019-11-29T14:21:58Z</expiresDate>
+  <registrant>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>REDACTED FOR PRIVACY</city>
+    <state>NL-NH</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>NETHERLANDS</country>
+    <countryCode>NL</countryCode>
+    <telephone/>
+    <rawText>Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NL-NH
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: NL
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/registrant</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>REDACTED FOR PRIVACY</city>
+    <state>REDACTED FOR PRIVACY</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>REDACTED FOR PRIVACY</country>
+    <telephone/>
+    <fax>31205315721</fax>
+    <rawText>Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: +31.20.5315721
+Admin Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/admin</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>REDACTED FOR PRIVACY</city>
+    <state>REDACTED FOR PRIVACY</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>REDACTED FOR PRIVACY</country>
+    <telephone/>
+    <rawText>Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/tech</rawText>
+  </technicalContact>
+  <domainName>casasbahia-blackout.com</domainName>
+  <nameServers>
+    <rawText>ns01.freenom.com
+ns02.freenom.com
+ns03.freenom.com
+ns04.freenom.com
+</rawText>
+    <hostNames>
+      <Address>ns01.freenom.com</Address>
+      <Address>ns02.freenom.com</Address>
+      <Address>ns03.freenom.com</Address>
+      <Address>ns04.freenom.com</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited -</status>
+  <rawText>Domain Name: CASASBAHIA-BLACKOUT.COM
+Registry Domain ID: 2338058985_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.freenom.com
+Registrar URL: www.freenom.com
+Updated Date: 2018-11-29T14:21:57Z
+Creation Date: 2018-11-29T14:21:58Z
+Registrar Registration Expiration Date: 2019-11-29T14:21:58Z
+Registrar: OpentTLD B.V.
+Registrar IANA ID: 1666
+Registrar Abuse Contact Email: abuse@freenom.com
+Registrar Abuse Contact Phone: +31.205315726
+Domain Status: clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NL-NH
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: NL
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/registrant
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: 
+Admin Fax: +31.20.5315721
+Admin Fax Ext: 
+Admin Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/admin
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/tech
+Name Server: ns01.freenom.com 54.171.131.39
+Name Server: ns02.freenom.com 52.19.156.76
+Name Server: ns03.freenom.com 104.155.27.112
+Name Server: ns04.freenom.com 104.155.29.241
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:27:06Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+; This data is provided for information purposes, and to assist persons
+; obtaining information about or related to domain name registration
+; records. We do not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: CASASBAHIA-BLACKOUT.COM
+Registrar WHOIS Server: whois.freenom.com
+Registrar URL: www.freenom.com
+Updated Date: 2018-11-29T14:21:57Z
+Creation Date: 2018-11-29T14:21:58Z
+Registrar Registration Expiration Date: 2019-11-29T14:21:58Z
+Registrar: OpentTLD B.V.
+Registrar IANA ID: 1666
+Registrar Abuse Contact Email: abuse@freenom.com
+Registrar Abuse Contact Phone: +31.205315726
+Domain Status: clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: NL-NH
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: NL
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/registrant
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: +31.20.5315721
+Admin Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/admin
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: contact via https://send-message.ispapi.net/casasbahia-blackout.com/tech
+Name Server: ns01.freenom.com 54.171.131.39
+Name Server: ns02.freenom.com 52.19.156.76
+Name Server: ns03.freenom.com 104.155.27.112
+Name Server: ns04.freenom.com 104.155.29.241
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 14:27:06.814 UTC</createdDate>
+    <updatedDate>2018-12-01 14:27:06.814 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@freenom.com</customField1Value>
+  <registrarName>OpentTLD B.V.</registrarName>
+  <registrarIANAID>1666</registrarIANAID>
+  <whoisServer>whois.freenom.com</whoisServer>
+  <createdDateNormalized>2018-11-29 14:21:58 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-11-29 14:21:57 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-11-29 14:21:58 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+31.205315726</customField2Value>
+  <customField3Value>www.freenom.com</customField3Value>
+  <registryData>
+    <createdDate>2018-11-29T14:21:58Z</createdDate>
+    <updatedDate>2018-11-29T14:21:59Z</updatedDate>
+    <expiresDate>2019-11-29T14:21:58Z</expiresDate>
+    <domainName>casasbahia-blackout.com</domainName>
+    <nameServers>
+      <rawText>NS01.FREENOM.COM
+NS02.FREENOM.COM
+NS03.FREENOM.COM
+NS04.FREENOM.COM
+</rawText>
+      <hostNames>
+        <Address>NS01.FREENOM.COM</Address>
+        <Address>NS02.FREENOM.COM</Address>
+        <Address>NS03.FREENOM.COM</Address>
+        <Address>NS04.FREENOM.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: CASASBAHIA-BLACKOUT.COM
+   Registry Domain ID: 2338058985_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.freenom.com
+   Registrar URL: http://www.opentld.com
+   Updated Date: 2018-11-29T14:21:59Z
+   Creation Date: 2018-11-29T14:21:58Z
+   Registry Expiry Date: 2019-11-29T14:21:58Z
+   Registrar: OpenTLD B.V.
+   Registrar IANA ID: 1666
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS01.FREENOM.COM
+   Name Server: NS02.FREENOM.COM
+   Name Server: NS03.FREENOM.COM
+   Name Server: NS04.FREENOM.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:26:51Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: CASASBAHIA-BLACKOUT.COM
+Registry Domain ID: 2338058985_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.freenom.com
+Registrar URL: http://www.opentld.com
+Updated Date: 2018-11-29T14:21:59Z
+Creation Date: 2018-11-29T14:21:58Z
+Registry Expiry Date: 2019-11-29T14:21:58Z
+Registrar: OpenTLD B.V.
+Registrar IANA ID: 1666
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS01.FREENOM.COM
+Name Server: NS02.FREENOM.COM
+Name Server: NS03.FREENOM.COM
+Name Server: NS04.FREENOM.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:26:51Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:27:05.440 UTC</createdDate>
+      <updatedDate>2018-12-01 14:27:05.440 UTC</updatedDate>
+    </audit>
+    <registrarName>OpenTLD B.V.</registrarName>
+    <registrarIANAID>1666</registrarIANAID>
+    <createdDateNormalized>2018-11-29 14:21:58 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 14:21:59 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 14:21:58 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.opentld.com</customField3Value>
+    <whoisServer>whois.freenom.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@freenom.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

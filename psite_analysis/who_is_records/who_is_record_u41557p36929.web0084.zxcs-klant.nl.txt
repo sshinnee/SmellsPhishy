@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>zxcs-klant.nl</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 15:40:49.000 UTC</createdDate>
+    <updatedDate>2018-11-30 15:40:49.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Stichting Digi NL</registrarName>
+  <registryData>
+    <domainName>zxcs-klant.nl</domainName>
+    <nameServers>
+      <rawText>ns1.zxcs.nl
+ns2.zxcs.nl
+ns3.zxcs.nl
+</rawText>
+      <hostNames>
+        <Address>ns1.zxcs.nl</Address>
+        <Address>ns2.zxcs.nl</Address>
+        <Address>ns3.zxcs.nl</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>active</status>
+    <rawText>Domain name: zxcs-klant.nl
+Status:      active
+
+Registrar:     Stichting Digi NL
+
+RegistrarInfo: 
+
+RegistrarInfo: 
+   Hoogoorddreef 9
+   1101BA Amsterdam
+   Netherlands
+
+Abuse Contact:
+
+DNSSEC:      no
+
+Domain nameservers:
+   ns1.zxcs.nl
+   ns2.zxcs.nl
+   ns3.zxcs.nl
+
+Record maintained by: NL Domain Registry
+
+Copyright notice
+No part of this publication may be reproduced, published, stored in a
+retrieval system, or transmitted, in any form or by any means,
+electronic, mechanical, recording, or otherwise, without prior
+permission of the Foundation for Internet Domain Registration in the
+Netherlands (SIDN).
+These restrictions apply equally to registrars, except in that
+reproductions and publications are permitted insofar as they are
+reasonable, necessary and solely in the context of the registration
+activities referred to in the General Terms and Conditions for .nl
+Registrars.
+Any use of this material for advertising, targeting commercial offers or
+similar activities is explicitly forbidden and liable to result in legal
+action. Anyone who is aware or suspects that such activities are taking
+place is asked to inform the Foundation for Internet Domain Registration
+in the Netherlands.
+(c) The Foundation for Internet Domain Registration in the Netherlands
+(SIDN) Dutch Copyright Act, protection of authors' rights (Section 10,
+subsection 1, clause 1).</rawText>
+    <parseCode>216</parseCode>
+    <header/>
+    <strippedText>Domain name: zxcs-klant.nl
+Status:      active
+Registrar:     Stichting Digi NL
+RegistrarInfo:
+RegistrarInfo:
+Hoogoorddreef 9
+1101BA Amsterdam
+Netherlands
+Abuse Contact:
+DNSSEC:      no
+Domain nameservers:
+ns1.zxcs.nl
+ns2.zxcs.nl
+ns3.zxcs.nl
+Record maintained by: NL Domain Registry
+</strippedText>
+    <footer>Copyright notice
+No part of this publication may be reproduced, published, stored in a
+retrieval system, or transmitted, in any form or by any means,
+electronic, mechanical, recording, or otherwise, without prior
+permission of the Foundation for Internet Domain Registration in the
+Netherlands (SIDN).
+These restrictions apply equally to registrars, except in that
+reproductions and publications are permitted insofar as they are
+reasonable, necessary and solely in the context of the registration
+activities referred to in the General Terms and Conditions for .nl
+Registrars.
+Any use of this material for advertising, targeting commercial offers or
+similar activities is explicitly forbidden and liable to result in legal
+action. Anyone who is aware or suspects that such activities are taking
+place is asked to inform the Foundation for Internet Domain Registration
+in the Netherlands.
+(c) The Foundation for Internet Domain Registration in the Netherlands
+(SIDN) Dutch Copyright Act, protection of authors' rights (Section 10,
+subsection 1, clause 1).</footer>
+    <audit>
+      <createdDate>2018-11-30 15:40:49.000 UTC</createdDate>
+      <updatedDate>2018-11-30 15:40:49.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Stichting Digi NL</registrarName>
+    <whoisServer>whois.domain-registry.nl</whoisServer>
+  </registryData>
+  <domainNameExt>.nl</domainNameExt>
+</WhoisRecord>

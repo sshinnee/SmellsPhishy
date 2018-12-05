@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>pizza-plus.eu</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:04:22.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:04:22.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Name: 1&amp;1 IONOS SE
+Website: https://registrar.ionos.info</registrarName>
+  <registrarIANAID>83</registrarIANAID>
+  <registryData>
+    <registrant>
+      <name>NOT DISCLOSED!</name>
+      <rawText>NOT DISCLOSED!
+Visit www.eurid.eu for webbased whois.</rawText>
+    </registrant>
+    <technicalContact>
+      <organization>1&amp;1 Internet SE</organization>
+      <country>SWEDEN</country>
+      <countryCode>SE</countryCode>
+      <email>hostmaster@1und1.de</email>
+      <rawText>Organisation: 1&amp;1 Internet SE
+Language: en
+Email: hostmaster@1und1.de</rawText>
+    </technicalContact>
+    <domainName>pizza-plus.eu</domainName>
+    <nameServers>
+      <rawText>ns1101.ui-dns.de
+ns1031.ui-dns.org
+ns1085.ui-dns.biz
+ns1036.ui-dns.com
+</rawText>
+      <hostNames>
+        <Address>ns1101.ui-dns.de</Address>
+        <Address>ns1031.ui-dns.org</Address>
+        <Address>ns1085.ui-dns.biz</Address>
+        <Address>ns1036.ui-dns.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>% The WHOIS service offered by EURid and the access to the records
+% in the EURid WHOIS database are provided for information purposes
+% only. It allows persons to check whether a specific domain name
+% is still available or not and to obtain information related to
+% the registration records of existing domain names.
+%
+% EURid cannot, under any circumstances, be held liable in case the
+% stored information would prove to be wrong, incomplete or not
+% accurate in any sense.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+%
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+%
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Without prejudice to the above, it is explicitly forbidden to extract,
+% copy and/or use or re-utilise in any form and by any means
+% (electronically or not) the whole or a quantitatively or qualitatively
+% substantial part of the contents of the WHOIS database without prior
+% and explicit permission by EURid, nor in any attempt hereof, to apply
+% automated, electronic processes to EURid (or its systems).
+%
+% You agree that any reproduction and/or transmission of data for
+% commercial purposes will always be considered as the extraction of a
+% substantial part of the content of the WHOIS database.
+%
+% By submitting the query you agree to abide by this policy and accept
+% that EURid can take measures to limit the use of its WHOIS services
+% in order to protect the privacy of its registrants or the integrity
+% of the database.
+%
+% The EURid WHOIS service on port 43 (textual whois) never
+% discloses any information concerning the registrant.
+% Registrant and onsite contact information can be obtained through use of the
+% webbased whois service available from the EURid website www.eurid.eu
+%
+% WHOIS pizza-plus.eu
+Domain: pizza-plus.eu
+
+Registrant:
+        NOT DISCLOSED!
+        Visit www.eurid.eu for webbased whois.
+
+Technical:
+        Organisation: 1&amp;1 Internet SE
+        Language: en
+        Email: hostmaster@1und1.de
+
+Registrar:
+        Name: 1&amp;1 IONOS SE
+        Website: https://registrar.ionos.info
+
+Name servers:
+        ns1101.ui-dns.de
+        ns1031.ui-dns.org
+        ns1085.ui-dns.biz
+        ns1036.ui-dns.com</rawText>
+    <parseCode>3272</parseCode>
+    <header>% The WHOIS service offered by EURid and the access to the records
+% in the EURid WHOIS database are provided for information purposes
+% only. It allows persons to check whether a specific domain name
+% is still available or not and to obtain information related to
+% the registration records of existing domain names.
+%
+% EURid cannot, under any circumstances, be held liable in case the
+% stored information would prove to be wrong, incomplete or not
+% accurate in any sense.
+%
+% By submitting a query you agree not to use the information made
+% available to:
+%
+% - allow, enable or otherwise support the transmission of unsolicited,
+%   commercial advertising or other solicitations whether via email or
+%   otherwise;
+% - target advertising in any possible way;
+%
+% - to cause nuisance in any possible way to the registrants by sending
+%   (whether by automated, electronic processes capable of enabling
+%   high volumes or other possible means) messages to them.
+%
+% Without prejudice to the above, it is explicitly forbidden to extract,
+% copy and/or use or re-utilise in any form and by any means
+% (electronically or not) the whole or a quantitatively or qualitatively
+% substantial part of the contents of the WHOIS database without prior
+% and explicit permission by EURid, nor in any attempt hereof, to apply
+% automated, electronic processes to EURid (or its systems).
+%
+% You agree that any reproduction and/or transmission of data for
+% commercial purposes will always be considered as the extraction of a
+% substantial part of the content of the WHOIS database.
+%
+% By submitting the query you agree to abide by this policy and accept
+% that EURid can take measures to limit the use of its WHOIS services
+% in order to protect the privacy of its registrants or the integrity
+% of the database.
+%
+% The EURid WHOIS service on port 43 (textual whois) never
+% discloses any information concerning the registrant.
+% Registrant and onsite contact information can be obtained through use of the
+% webbased whois service available from the EURid website www.eurid.eu
+%
+% WHOIS pizza-plus.eu</header>
+    <strippedText>Domain: pizza-plus.eu
+Registrant:
+NOT DISCLOSED!
+Visit www.eurid.eu for webbased whois.
+Technical:
+Organisation: 1&amp;1 Internet SE
+Language: en
+Email: hostmaster@1und1.de
+Registrar:
+Name: 1&amp;1 IONOS SE
+Website: https://registrar.ionos.info
+Name servers:
+ns1101.ui-dns.de
+ns1031.ui-dns.org
+ns1085.ui-dns.biz
+ns1036.ui-dns.com
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:04:22.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:04:22.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Name: 1&amp;1 IONOS SE
+Website: https://registrar.ionos.info</registrarName>
+    <registrarIANAID>83</registrarIANAID>
+    <whoisServer>whois.eu</whoisServer>
+  </registryData>
+  <contactEmail>hostmaster@1und1.de</contactEmail>
+  <domainNameExt>.eu</domainNameExt>
+</WhoisRecord>

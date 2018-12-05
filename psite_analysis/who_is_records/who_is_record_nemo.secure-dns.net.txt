@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2001-10-24T09:05:39</createdDate>
+  <updatedDate>2014-09-10T06:54:54</updatedDate>
+  <expiresDate>2023-10-24T09:05:39</expiresDate>
+  <registrant>
+    <name>Contact Privacy Inc. Customer 013752117</name>
+    <organization>Contact Privacy Inc. Customer 013752117</organization>
+    <street1>96 Mowat Ave</street1>
+    <city>Toronto</city>
+    <state>ON</state>
+    <postalCode>M6K 3M1</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>secure-dns.net@contactprivacy.com</email>
+    <telephone>14165385457</telephone>
+    <rawText>Registrant Name: Contact Privacy Inc. Customer 013752117
+Registrant Organization: Contact Privacy Inc. Customer 013752117
+Registrant Street: 96 Mowat Ave
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.4165385457
+Registrant Email: secure-dns.net@contactprivacy.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Contact Privacy Inc. Customer 013752117</name>
+    <organization>Contact Privacy Inc. Customer 013752117</organization>
+    <street1>96 Mowat Ave</street1>
+    <city>Toronto</city>
+    <state>ON</state>
+    <postalCode>M6K 3M1</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>secure-dns.net@contactprivacy.com</email>
+    <telephone>14165385457</telephone>
+    <rawText>Admin Name: Contact Privacy Inc. Customer 013752117
+Admin Organization: Contact Privacy Inc. Customer 013752117
+Admin Street: 96 Mowat Ave
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.4165385457
+Admin Email: secure-dns.net@contactprivacy.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Contact Privacy Inc. Customer 013752117</name>
+    <organization>Contact Privacy Inc. Customer 013752117</organization>
+    <street1>96 Mowat Ave</street1>
+    <city>Toronto</city>
+    <state>ON</state>
+    <postalCode>M6K 3M1</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>secure-dns.net@contactprivacy.com</email>
+    <telephone>14165385457</telephone>
+    <rawText>Tech Name: Contact Privacy Inc. Customer 013752117
+Tech Organization: Contact Privacy Inc. Customer 013752117
+Tech Street: 96 Mowat Ave
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.4165385457
+Tech Email: secure-dns.net@contactprivacy.com</rawText>
+  </technicalContact>
+  <domainName>secure-dns.net</domainName>
+  <nameServers>
+    <rawText>ns1.secure-dns.net
+ns2.secure-dns.net
+</rawText>
+    <hostNames>
+      <Address>ns1.secure-dns.net</Address>
+      <Address>ns2.secure-dns.net</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>ok</status>
+  <rawText>Domain Name: SECURE-DNS.NET
+Registry Domain ID: 78923256_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://tucowsdomains.com
+Updated Date: 2014-09-10T06:54:54
+Creation Date: 2001-10-24T09:05:39
+Registrar Registration Expiration Date: 2023-10-24T09:05:39
+Registrar: TUCOWS, INC.
+Registrar IANA ID: 69
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: Contact Privacy Inc. Customer 013752117
+Registrant Organization: Contact Privacy Inc. Customer 013752117
+Registrant Street: 96 Mowat Ave 
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.4165385457
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: secure-dns.net@contactprivacy.com
+Registry Admin ID: 
+Admin Name: Contact Privacy Inc. Customer 013752117
+Admin Organization: Contact Privacy Inc. Customer 013752117
+Admin Street: 96 Mowat Ave 
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.4165385457
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: secure-dns.net@contactprivacy.com
+Registry Tech ID: 
+Tech Name: Contact Privacy Inc. Customer 013752117
+Tech Organization: Contact Privacy Inc. Customer 013752117
+Tech Street: 96 Mowat Ave 
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.4165385457
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: secure-dns.net@contactprivacy.com
+Name Server: ns1.secure-dns.net
+Name Server: ns2.secure-dns.net
+
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2014-09-10T06:54:54 &lt;&lt;&lt;
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+The Data in the Tucows Registrar WHOIS database is provided to you by Tucows
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+Tucows makes this information available "as is," and does not guarantee its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of Tucows.
+
+Tucows reserves the right to terminate your access to the Tucows WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+Tucows reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: SECURE-DNS.NET
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://tucowsdomains.com
+Updated Date: 2014-09-10T06:54:54
+Creation Date: 2001-10-24T09:05:39
+Registrar Registration Expiration Date: 2023-10-24T09:05:39
+Registrar: TUCOWS, INC.
+Registrar IANA ID: 69
+Domain Status: ok https://icann.org/epp#ok
+Registrant Name: Contact Privacy Inc. Customer 013752117
+Registrant Organization: Contact Privacy Inc. Customer 013752117
+Registrant Street: 96 Mowat Ave
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.4165385457
+Registrant Email: secure-dns.net@contactprivacy.com
+Admin Name: Contact Privacy Inc. Customer 013752117
+Admin Organization: Contact Privacy Inc. Customer 013752117
+Admin Street: 96 Mowat Ave
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.4165385457
+Admin Email: secure-dns.net@contactprivacy.com
+Tech Name: Contact Privacy Inc. Customer 013752117
+Tech Organization: Contact Privacy Inc. Customer 013752117
+Tech Street: 96 Mowat Ave
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.4165385457
+Tech Email: secure-dns.net@contactprivacy.com
+Name Server: ns1.secure-dns.net
+Name Server: ns2.secure-dns.net
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 14:30:12.134 UTC</createdDate>
+    <updatedDate>2018-12-01 14:30:12.134 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>domainabuse@tucows.com</customField1Value>
+  <registrarName>TUCOWS, INC.</registrarName>
+  <registrarIANAID>69</registrarIANAID>
+  <whoisServer>whois.tucows.com</whoisServer>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.4165350123</customField2Value>
+  <customField3Value>http://tucowsdomains.com</customField3Value>
+  <registryData>
+    <createdDate>2001-10-24T09:05:39Z</createdDate>
+    <updatedDate>2015-08-08T12:54:33Z</updatedDate>
+    <expiresDate>2023-10-24T09:05:39Z</expiresDate>
+    <domainName>secure-dns.net</domainName>
+    <nameServers>
+      <rawText>NS1.SECURE-DNS.NET
+NS2.SECURE-DNS.NET
+</rawText>
+      <hostNames>
+        <Address>NS1.SECURE-DNS.NET</Address>
+        <Address>NS2.SECURE-DNS.NET</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: SECURE-DNS.NET
+   Registry Domain ID: 78923256_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.tucows.com
+   Registrar URL: http://www.tucowsdomains.com
+   Updated Date: 2015-08-08T12:54:33Z
+   Creation Date: 2001-10-24T09:05:39Z
+   Registry Expiry Date: 2023-10-24T09:05:39Z
+   Registrar: Tucows Domains Inc.
+   Registrar IANA ID: 69
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.SECURE-DNS.NET
+   Name Server: NS2.SECURE-DNS.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:30:07Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: SECURE-DNS.NET
+Registry Domain ID: 78923256_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://www.tucowsdomains.com
+Updated Date: 2015-08-08T12:54:33Z
+Creation Date: 2001-10-24T09:05:39Z
+Registry Expiry Date: 2023-10-24T09:05:39Z
+Registrar: Tucows Domains Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: ok https://icann.org/epp#ok
+Name Server: NS1.SECURE-DNS.NET
+Name Server: NS2.SECURE-DNS.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:30:07Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:30:11.172 UTC</createdDate>
+      <updatedDate>2018-12-01 14:30:11.172 UTC</updatedDate>
+    </audit>
+    <registrarName>Tucows Domains Inc.</registrarName>
+    <registrarIANAID>69</registrarIANAID>
+    <createdDateNormalized>2001-10-24 09:05:39 UTC</createdDateNormalized>
+    <updatedDateNormalized>2015-08-08 12:54:33 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2023-10-24 09:05:39 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.tucowsdomains.com</customField3Value>
+    <whoisServer>whois.tucows.com</whoisServer>
+  </registryData>
+  <contactEmail>secure-dns.net@contactprivacy.com</contactEmail>
+  <domainNameExt>.net</domainNameExt>
+  <estimatedDomainAge>6247</estimatedDomainAge>
+</WhoisRecord>

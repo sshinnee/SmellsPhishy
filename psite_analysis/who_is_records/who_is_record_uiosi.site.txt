@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>uiosi.site</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:24:11.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:24:11.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Tucows.com Co.</registrarName>
+  <registrarIANAID>69</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-30T00:58:20.0Z</createdDate>
+    <updatedDate>2018-11-30T14:13:04.0Z</updatedDate>
+    <expiresDate>2019-11-30T23:59:59.0Z</expiresDate>
+    <registrant>
+      <organization>Data Protected</organization>
+      <state>ON</state>
+      <country>CANADA</country>
+      <countryCode>CA</countryCode>
+      <rawText>Registrant Organization: Data Protected
+Registrant State/Province: ON
+Registrant Country: CA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>CANADA</country>
+      <countryCode>CA</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <billingContact>
+      <country>CANADA</country>
+      <countryCode>CA</countryCode>
+      <rawText>Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </billingContact>
+    <technicalContact>
+      <country>CANADA</country>
+      <countryCode>CA</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>uiosi.site</domainName>
+    <nameServers>
+      <rawText>NS1.SITE5.COM
+NS2.SITE5.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.SITE5.COM</Address>
+        <Address>NS2.SITE5.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverHold serverTransferProhibited clientTransferProhibited clientUpdateProhibited addPeriod</status>
+    <rawText>Domain Name: UIOSI.SITE
+Registry Domain ID: D85513422-CNIC
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://www.tucows.com/
+Updated Date: 2018-11-30T14:13:04.0Z
+Creation Date: 2018-11-30T00:58:20.0Z
+Registry Expiry Date: 2019-11-30T23:59:59.0Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: 69
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Data Protected
+Registrant State/Province: ON
+Registrant Country: CA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.SITE5.COM
+Name Server: NS2.SITE5.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:24:11.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: UIOSI.SITE
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://www.tucows.com/
+Updated Date: 2018-11-30T14:13:04.0Z
+Creation Date: 2018-11-30T00:58:20.0Z
+Registry Expiry Date: 2019-11-30T23:59:59.0Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: 69
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Data Protected
+Registrant State/Province: ON
+Registrant Country: CA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS1.SITE5.COM
+Name Server: NS2.SITE5.COM
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:24:11.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:24:11.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>domainabuse@tucows.com</customField1Value>
+    <registrarName>Tucows.com Co.</registrarName>
+    <registrarIANAID>69</registrarIANAID>
+    <createdDateNormalized>2018-11-30 00:58:20 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-30 14:13:04 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-30 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4165350123</customField2Value>
+    <customField3Value>http://www.tucows.com/</customField3Value>
+    <whoisServer>whois.tucows.com</whoisServer>
+  </registryData>
+  <contactEmail>domainabuse@tucows.com</contactEmail>
+  <domainNameExt>.site</domainNameExt>
+  <estimatedDomainAge>1</estimatedDomainAge>
+</WhoisRecord>

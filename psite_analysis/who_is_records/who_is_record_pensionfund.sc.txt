@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>pensionfund.sc</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:26:10.049 UTC</createdDate>
+    <updatedDate>2018-12-01 14:26:10.049 UTC</updatedDate>
+  </audit>
+  <registrarName>VCS Pty Ltd</registrarName>
+  <registryData>
+    <createdDate>2005-07-19T05:44:47Z</createdDate>
+    <updatedDate>2018-07-19T22:20:59Z</updatedDate>
+    <expiresDate>2019-07-19T05:44:47Z</expiresDate>
+    <registrant>
+      <country>SEYCHELLES</country>
+      <countryCode>SC</countryCode>
+      <rawText>Registrant Country: SC</rawText>
+    </registrant>
+    <domainName>pensionfund.sc</domainName>
+    <nameServers>
+      <rawText>NS0.DNSMADEEASY.COM
+NS1.DNSMADEEASY.COM
+NS2.DNSMADEEASY.COM
+NS3.DNSMADEEASY.COM
+NS4.DNSMADEEASY.COM
+</rawText>
+      <hostNames>
+        <Address>NS0.DNSMADEEASY.COM</Address>
+        <Address>NS1.DNSMADEEASY.COM</Address>
+        <Address>NS2.DNSMADEEASY.COM</Address>
+        <Address>NS3.DNSMADEEASY.COM</Address>
+        <Address>NS4.DNSMADEEASY.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: PENSIONFUND.SC
+Registry Domain ID: D105800000000141044-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2018-07-19T22:20:59Z
+Creation Date: 2005-07-19T05:44:47Z
+Registry Expiry Date: 2019-07-19T05:44:47Z
+Registrar Registration Expiration Date:
+Registrar: VCS Pty Ltd
+Registrar IANA ID: 800171
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization:
+Registrant State/Province:
+Registrant Country: SC
+Name Server: NS0.DNSMADEEASY.COM
+Name Server: NS1.DNSMADEEASY.COM
+Name Server: NS2.DNSMADEEASY.COM
+Name Server: NS3.DNSMADEEASY.COM
+Name Server: NS4.DNSMADEEASY.COM
+DNSSEC: unsigned
+
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:25:09Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: PENSIONFUND.SC
+Registry Domain ID: D105800000000141044-AGRS
+Registrar WHOIS Server:
+Registrar URL:
+Updated Date: 2018-07-19T22:20:59Z
+Creation Date: 2005-07-19T05:44:47Z
+Registry Expiry Date: 2019-07-19T05:44:47Z
+Registrar Registration Expiration Date:
+Registrar: VCS Pty Ltd
+Registrar IANA ID: 800171
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization:
+Registrant State/Province:
+Registrant Country: SC
+Name Server: NS0.DNSMADEEASY.COM
+Name Server: NS1.DNSMADEEASY.COM
+Name Server: NS2.DNSMADEEASY.COM
+Name Server: NS3.DNSMADEEASY.COM
+Name Server: NS4.DNSMADEEASY.COM
+DNSSEC: unsigned
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:25:09Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:26:10.049 UTC</createdDate>
+      <updatedDate>2018-12-01 14:26:10.049 UTC</updatedDate>
+    </audit>
+    <registrarName>VCS Pty Ltd</registrarName>
+    <registrarIANAID>800171</registrarIANAID>
+    <createdDateNormalized>2005-07-19 05:44:47 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-07-19 22:20:59 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-07-19 05:44:47 UTC</expiresDateNormalized>
+    <whoisServer>whois2.afilias-grs.net</whoisServer>
+  </registryData>
+  <domainNameExt>.sc</domainNameExt>
+  <estimatedDomainAge>4883</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>steamerslifes.biz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:01:09.852 UTC</createdDate>
+    <updatedDate>2018-12-01 14:01:09.852 UTC</updatedDate>
+  </audit>
+  <registrarName>GoDaddy.com, Inc.</registrarName>
+  <registrarIANAID>146</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-26T06:58:23Z</createdDate>
+    <updatedDate>2018-12-01T06:58:24Z</updatedDate>
+    <expiresDate>2019-11-26T06:58:23Z</expiresDate>
+    <registrant>
+      <name>Registrant State/Province: Gujarat</name>
+      <state>Gujarat</state>
+      <country>INDIA</country>
+      <countryCode>IN</countryCode>
+      <rawText>Registrant State/Province: Gujarat
+Registrant Country: IN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>INDIA</country>
+      <countryCode>IN</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <country>INDIA</country>
+      <countryCode>IN</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>steamerslifes.biz</domainName>
+    <nameServers>
+      <rawText>ns46.domaincontrol.com
+ns45.domaincontrol.com
+</rawText>
+      <hostNames>
+        <Address>ns46.domaincontrol.com</Address>
+        <Address>ns45.domaincontrol.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientUpdateProhibited clientRenewProhibited clientDeleteProhibited clientTransferProhibited</status>
+    <rawText>Domain Name: steamerslifes.biz
+Registry Domain ID: DF906D94C0A3042DBB0FCB710D1DDE064-NSR
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2018-12-01T06:58:24Z
+Creation Date: 2018-11-26T06:58:23Z
+Registry Expiry Date: 2019-11-26T06:58:23Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization:
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: Gujarat
+Registrant Postal Code:
+Registrant Country: IN
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns46.domaincontrol.com
+Name Server: ns45.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:01:09Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.biz.
+
+NeuStar, Inc., the Registry Operator for .BIZ, has collected this information for the WHOIS database through an ICANN-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: steamerslifes.biz
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: whois.godaddy.com
+Updated Date: 2018-12-01T06:58:24Z
+Creation Date: 2018-11-26T06:58:23Z
+Registry Expiry Date: 2019-11-26T06:58:23Z
+Registrar: GoDaddy.com, Inc.
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant State/Province: Gujarat
+Registrant Country: IN
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns46.domaincontrol.com
+Name Server: ns45.domaincontrol.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:01:09.852 UTC</createdDate>
+      <updatedDate>2018-12-01 14:01:09.852 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@godaddy.com</customField1Value>
+    <registrarName>GoDaddy.com, Inc.</registrarName>
+    <registrarIANAID>146</registrarIANAID>
+    <createdDateNormalized>2018-11-26 06:58:23 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-12-01 06:58:24 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-26 06:58:23 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4806242505</customField2Value>
+    <customField3Value>whois.godaddy.com</customField3Value>
+    <whoisServer>whois.godaddy.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@godaddy.com</contactEmail>
+  <domainNameExt>.biz</domainNameExt>
+  <estimatedDomainAge>5</estimatedDomainAge>
+</WhoisRecord>

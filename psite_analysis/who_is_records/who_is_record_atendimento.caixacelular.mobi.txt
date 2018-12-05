@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>caixacelular.mobi</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:47:08.060 UTC</createdDate>
+    <updatedDate>2018-12-01 13:47:08.060 UTC</updatedDate>
+  </audit>
+  <registrarName>Internet Domain Service BS Corp</registrarName>
+  <registrarIANAID>2487</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-28T19:33:37Z</createdDate>
+    <updatedDate>2018-12-01T07:57:02Z</updatedDate>
+    <expiresDate>2019-11-28T19:33:37Z</expiresDate>
+    <registrant>
+      <organization>Whois Privacy Corp.</organization>
+      <state>New Providence</state>
+      <country>BAHAMAS</country>
+      <countryCode>BS</countryCode>
+      <rawText>Registrant Country: BS</rawText>
+    </registrant>
+    <domainName>caixacelular.mobi</domainName>
+    <status>clientHold clientTransferProhibited clientUpdateProhibited inactive serverTransferProhibited addPeriod</status>
+    <rawText>Domain Name: CAIXACELULAR.MOBI
+Registry Domain ID: D503300000334749147-LRMS
+Registrar WHOIS Server:
+Registrar URL: www.internet.bs
+Updated Date: 2018-12-01T07:57:02Z
+Creation Date: 2018-11-28T19:33:37Z
+Registry Expiry Date: 2019-11-28T19:33:37Z
+Registrar Registration Expiration Date:
+Registrar: Internet Domain Service BS Corp
+Registrar IANA ID: 2487
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Whois Privacy Corp.
+Registrant State/Province: New Providence
+Registrant Country: BS
+Name Server:
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:46:07Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1147</parseCode>
+    <header/>
+    <strippedText>Domain Name: CAIXACELULAR.MOBI
+Registry Domain ID: D503300000334749147-LRMS
+Registrar WHOIS Server:
+Registrar URL: www.internet.bs
+Updated Date: 2018-12-01T07:57:02Z
+Creation Date: 2018-11-28T19:33:37Z
+Registry Expiry Date: 2019-11-28T19:33:37Z
+Registrar Registration Expiration Date:
+Registrar: Internet Domain Service BS Corp
+Registrar IANA ID: 2487
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Reseller:
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization: Whois Privacy Corp.
+Registrant State/Province: New Providence
+Registrant Country: BS
+Name Server:
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:46:07Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:47:08.060 UTC</createdDate>
+      <updatedDate>2018-12-01 13:47:08.060 UTC</updatedDate>
+    </audit>
+    <registrarName>Internet Domain Service BS Corp</registrarName>
+    <registrarIANAID>2487</registrarIANAID>
+    <createdDateNormalized>2018-11-28 19:33:37 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-12-01 07:57:02 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-28 19:33:37 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>www.internet.bs</customField3Value>
+    <whoisServer>whois.dotmobiregistry.net</whoisServer>
+  </registryData>
+  <domainNameExt>.mobi</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

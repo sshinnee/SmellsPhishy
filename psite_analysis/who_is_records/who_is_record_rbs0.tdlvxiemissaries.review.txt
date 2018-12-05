@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>tdlvxiemissaries.review</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:03:14.668 UTC</createdDate>
+    <updatedDate>2018-12-01 14:03:14.668 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-02-22T13:22:20Z</createdDate>
+    <updatedDate>2018-02-27T13:22:20Z</updatedDate>
+    <expiresDate>2019-02-22T13:22:20Z</expiresDate>
+    <registrant>
+      <organization>WhoisGuard, Inc.</organization>
+      <state>Panama</state>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>tdlvxiemissaries.review</domainName>
+    <nameServers>
+      <rawText>dns1.registrar-servers.com
+dns2.registrar-servers.com
+</rawText>
+      <hostNames>
+        <Address>dns1.registrar-servers.com</Address>
+        <Address>dns2.registrar-servers.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: tdlvxiemissaries.review
+Registry Domain ID: DDDBDBF1A133248169E2F31932BC1361F-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-02-27T13:22:20Z
+Creation Date: 2018-02-22T13:22:20Z
+Registry Expiry Date: 2019-02-22T13:22:20Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: WhoisGuard, Inc.
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: Panama
+Registrant Postal Code:
+Registrant Country: PA
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:03:14Z &lt;&lt;&lt;
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.review.
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The WHOIS service offered by the Registry Operator, and the access to the records in the Registry Operator WHOIS database, are provided for information purposes only and is designed (i) to assist persons in determining whether a specific domain name registration record is available or not in the Registry Operator database and (ii) to obtain information related to the registration records of existing domain names.  The Registry Operator cannot, under any circumstances, be held liable in such instances where the stored information would prove to be wrong, incomplete, or not accurate in any sense. 
+By submitting a WHOIS query, you, the user, agree that you will not use this data: 
+(i)	to allow, enable or otherwise support in any way the transmission of unsolicited, commercial advertising or other solicitations whether via direct mail, email, telephone or otherwise; 
+(ii)	to enable high volume, automated, electronic processes that apply to the registry (or its systems); 
+(iii)	for target advertising in any possible way; 
+(iv)	to cause nuisance in any possible way to the registrants by sending (whether by automated, electronic processes capable of enabling high volumes or other possible means) messages to them; 
+(v)	to violate any law, rule, regulation or statute; and/or 
+(vi)	in contravention of any applicable data and privacy protection acts. 
+
+Without prejudice to the above, it is explicitly forbidden to extract, copy and/or use or re-utilize in any form and by any means (electronically or not) the whole or a quantitatively or qualitatively substantial part of the contents of the WHOIS database without prior and explicit permission by Registry Operator, nor in any attempt hereof, or to apply automated, electronic processes to Registry Operator (or its systems or their designated third party Registry Service Provider's systems). 
+
+You agree that any reproduction and/or transmission of data for commercial purposes will always be considered as the extraction of a substantial part of the content of the WHOIS database. By utilizing this website and/or submitting a query you agree to abide by this policy and accept that Registry Operator can take measures to limit the use of its WHOIS services in order to protect the privacy of its registrants or the integrity of the database. 
+
+We reserve the right to make changes to these Terms and Conditions at any time without prior notice to you. It is your responsibility to review these Terms and Conditions each time you access or use the WHOIS service and to familiarise yourself with any changes. If you do not agree to the changes implemented by Registry Operator, your sole and exclusive remedy is to terminate your use of the WHOIS service. 
+
+By executing a query, in any manner whatsoever, you agree to abide by these Terms and Conditions. 
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: tdlvxiemissaries.review
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-02-27T13:22:20Z
+Creation Date: 2018-02-22T13:22:20Z
+Registry Expiry Date: 2019-02-22T13:22:20Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:03:14.668 UTC</createdDate>
+      <updatedDate>2018-12-01 14:03:14.668 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-02-22 13:22:20 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-02-27 13:22:20 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-02-22 13:22:20 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>http://www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@namecheap.com</contactEmail>
+  <domainNameExt>.review</domainNameExt>
+  <estimatedDomainAge>282</estimatedDomainAge>
+</WhoisRecord>

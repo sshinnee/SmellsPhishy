@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>ltsi.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:06:52.619 UTC</createdDate>
+    <updatedDate>2018-12-01 14:06:52.619 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-09-30T14:26:47Z</createdDate>
+    <updatedDate>2018-11-27T13:03:30Z</updatedDate>
+    <expiresDate>2019-09-30T14:26:47Z</expiresDate>
+    <registrant>
+      <name>ilvis davis</name>
+      <street1>12 rue andres marquez</street1>
+      <city>paris</city>
+      <state>paris</state>
+      <postalCode>75000</postalCode>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <email>kamal.adnane45@yahoo.com</email>
+      <telephone>1667884281</telephone>
+      <rawText>Registrant Name: ilvis davis
+Registrant Street: 12 rue andres marquez
+Registrant City: paris
+Registrant State/Province: paris
+Registrant Postal Code: 75000
+Registrant Country: FR
+Registrant Phone: +1.667884281
+Registrant Email: kamal.adnane45@yahoo.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>ilvis davis</name>
+      <street1>12 rue andres marquez</street1>
+      <city>paris</city>
+      <state>paris</state>
+      <postalCode>75000</postalCode>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <email>kamal.adnane45@yahoo.com</email>
+      <telephone>1667884281</telephone>
+      <rawText>Admin Name: ilvis davis
+Admin Street: 12 rue andres marquez
+Admin City: paris
+Admin State/Province: paris
+Admin Postal Code: 75000
+Admin Country: FR
+Admin Phone: +1.667884281
+Admin Email: kamal.adnane45@yahoo.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>ilvis davis</name>
+      <street1>12 rue andres marquez</street1>
+      <city>paris</city>
+      <state>paris</state>
+      <postalCode>75000</postalCode>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <email>kamal.adnane45@yahoo.com</email>
+      <telephone>1667884281</telephone>
+      <rawText>Tech Name: ilvis davis
+Tech Street: 12 rue andres marquez
+Tech City: paris
+Tech State/Province: paris
+Tech Postal Code: 75000
+Tech Country: FR
+Tech Phone: +1.667884281
+Tech Email: kamal.adnane45@yahoo.com</rawText>
+    </technicalContact>
+    <domainName>ltsi.us</domainName>
+    <nameServers>
+      <rawText>dns1.registrar-servers.com
+dns2.registrar-servers.com
+</rawText>
+      <hostNames>
+        <Address>dns1.registrar-servers.com</Address>
+        <Address>dns2.registrar-servers.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited clientHold</status>
+    <rawText>Domain Name: ltsi.us
+Registry Domain ID: D19D26E9FEBFB4A02A946FDEAAB8DECB0-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-27T13:03:30Z
+Creation Date: 2018-09-30T14:26:47Z
+Registry Expiry Date: 2019-09-30T14:26:47Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Registry Registrant ID: C7C9E7C1969644286B7D7B56CEAAD0CAB-NSR
+Registrant Name: ilvis davis
+Registrant Organization:
+Registrant Street: 12 rue andres marquez
+Registrant Street:
+Registrant Street:
+Registrant City: paris
+Registrant State/Province: paris
+Registrant Postal Code: 75000
+Registrant Country: FR
+Registrant Phone: +1.667884281
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: kamal.adnane45@yahoo.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: C88094426E1F04D349533691C93423B7C-NSR
+Admin Name: ilvis davis
+Admin Organization:
+Admin Street: 12 rue andres marquez
+Admin Street:
+Admin Street:
+Admin City: paris
+Admin State/Province: paris
+Admin Postal Code: 75000
+Admin Country: FR
+Admin Phone: +1.667884281
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: kamal.adnane45@yahoo.com
+Registry Tech ID: C4F1B0E2AFCD3457BB96BEC62D9634B32-NSR
+Tech Name: ilvis davis
+Tech Organization:
+Tech Street: 12 rue andres marquez
+Tech Street:
+Tech Street:
+Tech City: paris
+Tech State/Province: paris
+Tech Postal Code: 75000
+Tech Country: FR
+Tech Phone: +1.667884281
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: kamal.adnane45@yahoo.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:06:52Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: ltsi.us
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-11-27T13:03:30Z
+Creation Date: 2018-09-30T14:26:47Z
+Registry Expiry Date: 2019-09-30T14:26:47Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientHold https://icann.org/epp#clientHold
+Registrant Name: ilvis davis
+Registrant Street: 12 rue andres marquez
+Registrant City: paris
+Registrant State/Province: paris
+Registrant Postal Code: 75000
+Registrant Country: FR
+Registrant Phone: +1.667884281
+Registrant Email: kamal.adnane45@yahoo.com
+Admin Name: ilvis davis
+Admin Street: 12 rue andres marquez
+Admin City: paris
+Admin State/Province: paris
+Admin Postal Code: 75000
+Admin Country: FR
+Admin Phone: +1.667884281
+Admin Email: kamal.adnane45@yahoo.com
+Tech Name: ilvis davis
+Tech Street: 12 rue andres marquez
+Tech City: paris
+Tech State/Province: paris
+Tech Postal Code: 75000
+Tech Country: FR
+Tech Phone: +1.667884281
+Tech Email: kamal.adnane45@yahoo.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:06:52.619 UTC</createdDate>
+      <updatedDate>2018-12-01 14:06:52.619 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-09-30 14:26:47 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-27 13:03:30 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-09-30 14:26:47 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>http://www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>kamal.adnane45@yahoo.com</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>61</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>jjzaidman.me</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 23:26:45.000 UTC</createdDate>
+    <updatedDate>2018-11-30 23:26:45.000 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-22T17:09:36Z</createdDate>
+    <updatedDate>2018-11-26T11:16:59Z</updatedDate>
+    <expiresDate>2019-11-22T17:09:36Z</expiresDate>
+    <registrant>
+      <state>Panama</state>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Registrant Country: PA</rawText>
+    </registrant>
+    <domainName>jjzaidman.me</domainName>
+    <nameServers>
+      <rawText>CODY.NS.CLOUDFLARE.COM
+LILA.NS.CLOUDFLARE.COM
+</rawText>
+      <hostNames>
+        <Address>CODY.NS.CLOUDFLARE.COM</Address>
+        <Address>LILA.NS.CLOUDFLARE.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited serverTransferProhibited</status>
+    <rawText>Domain Name: JJZAIDMAN.ME
+Registry Domain ID: D425500000074456735-AGRS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: www.namecheap.com
+Updated Date: 2018-11-26T11:16:59Z
+Creation Date: 2018-11-22T17:09:36Z
+Registry Expiry Date: 2019-11-22T17:09:36Z
+Registrar Registration Expiration Date:
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registrant Organization:
+Registrant State/Province: Panama
+Registrant Country: PA
+Name Server: CODY.NS.CLOUDFLARE.COM
+Name Server: LILA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form  https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-30T23:25:45Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: JJZAIDMAN.ME
+Registry Domain ID: D425500000074456735-AGRS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: www.namecheap.com
+Updated Date: 2018-11-26T11:16:59Z
+Creation Date: 2018-11-22T17:09:36Z
+Registry Expiry Date: 2019-11-22T17:09:36Z
+Registrar Registration Expiration Date:
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registrant Organization:
+Registrant State/Province: Panama
+Registrant Country: PA
+Name Server: CODY.NS.CLOUDFLARE.COM
+Name Server: LILA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form  https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-30T23:25:45Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-30 23:26:45.000 UTC</createdDate>
+      <updatedDate>2018-11-30 23:26:45.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-11-22 17:09:36 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-26 11:16:59 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-22 17:09:36 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@namecheap.com</contactEmail>
+  <domainNameExt>.me</domainNameExt>
+  <estimatedDomainAge>8</estimatedDomainAge>
+</WhoisRecord>

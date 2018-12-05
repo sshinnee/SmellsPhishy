@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>abcekn.ru</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:08:28.326 UTC</createdDate>
+    <updatedDate>2018-12-01 14:08:28.326 UTC</updatedDate>
+  </audit>
+  <dataError>MISSING_WHOIS_DATA</dataError>
+  <registryData>
+    <domainName>abcekn.ru</domainName>
+    <rawText>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+No entries found for the selected source(s).
+
+Last updated on 2018-12-01T14:06:32Z</rawText>
+    <parseCode>64</parseCode>
+    <header>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).</header>
+    <strippedText>
+No entries found for the selected source(s).
+
+Last updated on 2018-12-01T14:06:32Z</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:08:28.326 UTC</createdDate>
+      <updatedDate>2018-12-01 14:08:28.326 UTC</updatedDate>
+    </audit>
+    <dataError>MISSING_WHOIS_DATA</dataError>
+    <whoisServer>whois.ripn.net</whoisServer>
+  </registryData>
+  <domainNameExt>.ru</domainNameExt>
+</WhoisRecord>

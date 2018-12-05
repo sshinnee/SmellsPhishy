@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>green-shower.com.tw</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:59:45.140 UTC</createdDate>
+    <updatedDate>2018-12-01 13:59:45.140 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>2013-10-11 (YYYY-MM-DD)</createdDate>
+    <expiresDate>2019-10-15 (YYYY-MM-DD)</expiresDate>
+    <domainName>green-shower.com.tw</domainName>
+    <nameServers>
+      <rawText>ns110.apol-linuxp5server.com.tw
+</rawText>
+      <hostNames>
+        <Address>ns110.apol-linuxp5server.com.tw</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain Name: green-shower.com.tw
+
+互信企業社
+HUI SHIN CO.
+2F., No.11, Ln. 45, Sec. 2, Zhongshan N. Rd., Zhongshan Dist
+
+   Contact:
+      Jennifer Kung   k60.jennifer@gmail.com
+      TEL:  02-25711280
+      FAX:  02-25711281
+
+   Record expires on 2019-10-15 (YYYY-MM-DD)
+   Record created on 2013-10-11 (YYYY-MM-DD)
+
+   Domain servers in listed order:
+      ns110.apol-linuxp5server.com.tw.       210.200.180.110 
+      ns110.apol-linuxp5server.com.tw.       210.200.180.110 
+
+Registration Service Provider: APT</rawText>
+    <parseCode>195</parseCode>
+    <header/>
+    <strippedText>Domain Name: green-shower.com.tw
+互信企業社
+HUI SHIN CO.
+2F., No.11, Ln. 45, Sec. 2, Zhongshan N. Rd., Zhongshan Dist
+Contact:
+Jennifer Kung   k60.jennifer@gmail.com
+TEL:  02-25711280
+FAX:  02-25711281
+Record expires on 2019-10-15 (YYYY-MM-DD)
+Record created on 2013-10-11 (YYYY-MM-DD)
+Domain servers in listed order:
+ns110.apol-linuxp5server.com.tw.       210.200.180.110
+ns110.apol-linuxp5server.com.tw.       210.200.180.110
+Registration Service Provider: APT
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:59:45.140 UTC</createdDate>
+      <updatedDate>2018-12-01 13:59:45.140 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2013-10-11 00:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-10-15 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.twnic.net</whoisServer>
+  </registryData>
+  <contactEmail>k60.jennifer@gmail.com</contactEmail>
+  <domainNameExt>.com.tw</domainNameExt>
+  <estimatedDomainAge>1877</estimatedDomainAge>
+</WhoisRecord>

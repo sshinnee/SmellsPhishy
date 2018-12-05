@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>cximportante.cf</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:33:01.519 UTC</createdDate>
+    <updatedDate>2018-12-01 14:33:01.519 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <domainName>cximportante.cf</domainName>
+    <nameServers>
+      <rawText>NS01.FREENOM.COM
+NS02.FREENOM.COM
+NS03.FREENOM.COM
+NS04.FREENOM.COM
+</rawText>
+      <hostNames>
+        <Address>NS01.FREENOM.COM</Address>
+        <Address>NS02.FREENOM.COM</Address>
+        <Address>NS03.FREENOM.COM</Address>
+        <Address>NS04.FREENOM.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain name:
+CXIMPORTANTE.CF
+
+Organisation:
+Freedom Registry, Inc.
+2225 East Bayshore Road #290
+Palo Alto CA 94303
+United States
+Phone: +1 650-681-4172
+Fax: +1 650-681-4173
+
+Domain Nameservers:
+NS01.FREENOM.COM
+NS02.FREENOM.COM
+NS03.FREENOM.COM
+NS04.FREENOM.COM
+
+Your selected domain name is a domain name that has been
+cancelled, suspended, refused or reserved at the Dot CF Registry
+
+It may be available for re-registration at http://www.dot.cf
+
+In the interim, the rights for this domain have been automatically
+transferred to Freedom Registry, Inc.
+
+Please be advised that the Dot CF Registry, Freenom and
+Freedom Registry, Inc. cannot be held responsible for any content
+that was previously available at this domain name.
+
+Due to restrictions in Dot CF 's Privacy Statement personal information
+about the previous registrants of the domain name cannot be released
+to the general public.
+
+Dot CF is proud to work with numerous governmental law enforcement
+agencies to stop spam, fraud, phishing attempts, child pornography and
+other illicit content on Dot CF websites. These agencies may contact the
+Dot CF Registry directly with any enquiries they may have regarding the
+usage of this domain by previous registrants.
+
+Record maintained by: Dot CF Domain Registry</rawText>
+    <parseCode>192</parseCode>
+    <header/>
+    <strippedText>Domain name:
+CXIMPORTANTE.CF
+Organisation:
+Freedom Registry, Inc.
+2225 East Bayshore Road #290
+Palo Alto CA 94303
+United States
+Phone: +1 650-681-4172
+Fax: +1 650-681-4173
+Domain Nameservers:
+NS01.FREENOM.COM
+NS02.FREENOM.COM
+NS03.FREENOM.COM
+NS04.FREENOM.COM
+</strippedText>
+    <footer>Your selected domain name is a domain name that has been
+cancelled, suspended, refused or reserved at the Dot CF Registry
+It may be available for re-registration at http://www.dot.cf
+In the interim, the rights for this domain have been automatically
+transferred to Freedom Registry, Inc.
+Please be advised that the Dot CF Registry, Freenom and
+Freedom Registry, Inc. cannot be held responsible for any content
+that was previously available at this domain name.
+Due to restrictions in Dot CF 's Privacy Statement personal information
+about the previous registrants of the domain name cannot be released
+to the general public.
+Dot CF is proud to work with numerous governmental law enforcement
+agencies to stop spam, fraud, phishing attempts, child pornography and
+other illicit content on Dot CF websites. These agencies may contact the
+Dot CF Registry directly with any enquiries they may have regarding the
+usage of this domain by previous registrants.</footer>
+    <audit>
+      <createdDate>2018-12-01 14:33:01.519 UTC</createdDate>
+      <updatedDate>2018-12-01 14:33:01.519 UTC</updatedDate>
+    </audit>
+    <whoisServer>whois.dot.cf</whoisServer>
+  </registryData>
+  <domainNameExt>.cf</domainNameExt>
+</WhoisRecord>

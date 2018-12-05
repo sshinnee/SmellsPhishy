@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>wbs.co.il</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:47:33.113 UTC</createdDate>
+    <updatedDate>2018-12-01 13:47:33.113 UTC</updatedDate>
+  </audit>
+  <registrarName>Gorni Interactive Ltd</registrarName>
+  <registrarIANAID>936</registrarIANAID>
+  <registryData>
+    <createdDate>10-05-2015</createdDate>
+    <updatedDate>24-06-2015</updatedDate>
+    <expiresDate>10-05-2019</expiresDate>
+    <registrant>
+      <name>Nuriel Hatav</name>
+      <street1>yafa nof 37 to 28</street1>
+      <city>Ashkelon</city>
+      <postalCode>78100</postalCode>
+      <country>ISRAEL</country>
+      <countryCode>IL</countryCode>
+      <email>NURIELHATAV@GMAIL.COM</email>
+      <telephone>972 52 5305305</telephone>
+      <rawText>descr:        Nuriel Hatav
+descr:        yafa nof 37 to 28
+descr:        Ashkelon
+descr:        78100
+descr:        Israel
+phone:        +972 52 5305305
+e-mail:       NURIELHATAV@GMAIL.COM
+</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Nuriel Hatav</name>
+      <country>ISRAEL</country>
+      <countryCode>IL</countryCode>
+      <email>NURIELHATAV@GMAIL.COM</email>
+      <telephone>972 52 5305305</telephone>
+      <rawText>person:       Nuriel Hatav
+address      yafa nof 37 to 28
+address      Ashkelon
+address      78100
+address      Israel
+phone:        +972 52 5305305
+e-mail:       NURIELHATAV@GMAIL.COM
+nic-hdl:      GI-NH4035-IL
+changed:      domain-registrar@isoc.org.il 20150510</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Nuriel Hatav</name>
+      <country>ISRAEL</country>
+      <countryCode>IL</countryCode>
+      <email>NURIELHATAV@GMAIL.COM</email>
+      <telephone>972 52 5305305</telephone>
+      <rawText>person:       Nuriel Hatav
+address      yafa nof 37 to 28
+address      Ashkelon
+address      78100
+address      Israel
+phone:        +972 52 5305305
+e-mail:       NURIELHATAV@GMAIL.COM
+nic-hdl:      GI-NH4035-IL
+changed:      domain-registrar@isoc.org.il 20150510</rawText>
+    </technicalContact>
+    <domainName>wbs.co.il</domainName>
+    <nameServers>
+      <rawText>ns1.box.co.il
+ns2.box.co.il
+</rawText>
+      <hostNames>
+        <Address>ns1.box.co.il</Address>
+        <Address>ns2.box.co.il</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>Transfer Locked</status>
+    <rawText>% The data in the WHOIS database of the .il registry is provided
+% by ISOC-IL for information purposes, and to assist persons in 
+% obtaining information about or related to a domain name 
+% registration record. ISOC-IL does not guarantee its accuracy.
+% By submitting a WHOIS query, you agree that you will use this
+% Data only for lawful purposes and that, under no circumstances
+% will you use this Data to: (1) allow, enable, or otherwise 
+% support the transmission of mass unsolicited, commercial 
+% advertising or solicitations via e-mail (spam); 
+% or  (2) enable high volume, automated, electronic processes that 
+% apply to ISOC-IL (or its systems).
+% ISOC-IL reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.
+ 
+query:        wbs.co.il
+
+reg-name:     wbs
+domain:       wbs.co.il
+
+descr:        Nuriel Hatav
+descr:        yafa nof 37 to 28
+descr:        Ashkelon
+descr:        78100
+descr:        Israel
+phone:        +972 52 5305305
+e-mail:       NURIELHATAV@GMAIL.COM
+admin-c:      GI-NH4035-IL
+tech-c:       GI-NH4035-IL
+zone-c:       GI-NH4035-IL
+nserver:      ns1.box.co.il 
+nserver:      ns2.box.co.il 
+validity:     10-05-2019
+DNSSEC:       unsigned
+status:       Transfer Locked
+changed:      domain-registrar@isoc.org.il 20150510 (Assigned)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+
+person:       Nuriel Hatav
+address      yafa nof 37 to 28
+address      Ashkelon
+address      78100
+address      Israel
+phone:        +972 52 5305305
+e-mail:       NURIELHATAV@GMAIL.COM
+nic-hdl:      GI-NH4035-IL
+changed:      domain-registrar@isoc.org.il 20150510
+
+registrar name: Gorni Interactive Ltd
+registrar info: http://www.box.co.il/
+
+% Rights to the data above are restricted by copyright.</rawText>
+    <parseCode>3579</parseCode>
+    <header>% The data in the WHOIS database of the .il registry is provided
+% by ISOC-IL for information purposes, and to assist persons in
+% obtaining information about or related to a domain name
+% registration record. ISOC-IL does not guarantee its accuracy.
+% By submitting a WHOIS query, you agree that you will use this
+% Data only for lawful purposes and that, under no circumstances
+% will you use this Data to: (1) allow, enable, or otherwise
+% support the transmission of mass unsolicited, commercial
+% advertising or solicitations via e-mail (spam);
+% or  (2) enable high volume, automated, electronic processes that
+% apply to ISOC-IL (or its systems).
+% ISOC-IL reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.</header>
+    <strippedText>
+query:        wbs.co.il
+
+reg-name:     wbs
+domain:       wbs.co.il
+
+descr:        Nuriel Hatav
+descr:        yafa nof 37 to 28
+descr:        Ashkelon
+descr:        78100
+descr:        Israel
+phone:        +972 52 5305305
+e-mail:       NURIELHATAV@GMAIL.COM
+admin-c:      GI-NH4035-IL
+tech-c:       GI-NH4035-IL
+zone-c:       GI-NH4035-IL
+nserver:      ns1.box.co.il
+nserver:      ns2.box.co.il
+validity:     10-05-2019
+DNSSEC:       unsigned
+status:       Transfer Locked
+changed:      domain-registrar@isoc.org.il 20150510 (Assigned)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+changed:      domain-registrar@isoc.org.il 20150624 (Changed)
+
+person:       Nuriel Hatav
+address      yafa nof 37 to 28
+address      Ashkelon
+address      78100
+address      Israel
+phone:        +972 52 5305305
+e-mail:       NURIELHATAV@GMAIL.COM
+nic-hdl:      GI-NH4035-IL
+changed:      domain-registrar@isoc.org.il 20150510
+
+registrar name: Gorni Interactive Ltd
+registrar info: http://www.box.co.il/
+
+% Rights to the data above are restricted by copyright.</strippedText>
+    <audit>
+      <createdDate>2018-12-01 13:47:33.113 UTC</createdDate>
+      <updatedDate>2018-12-01 13:47:33.113 UTC</updatedDate>
+    </audit>
+    <registrarName>Gorni Interactive Ltd</registrarName>
+    <registrarIANAID>936</registrarIANAID>
+    <createdDateNormalized>2015-05-10 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2015-06-24 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-10 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.isoc.org.il</whoisServer>
+  </registryData>
+  <contactEmail>NURIELHATAV@GMAIL.COM</contactEmail>
+  <domainNameExt>.co.il</domainNameExt>
+  <estimatedDomainAge>1301</estimatedDomainAge>
+</WhoisRecord>

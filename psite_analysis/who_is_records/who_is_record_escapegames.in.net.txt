@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>escapegames.in.net</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:28:38.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:28:38.000 UTC</updatedDate>
+  </audit>
+  <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+  <registrarIANAID>303</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-29T13:22:50.0Z</createdDate>
+    <updatedDate>2018-11-29T18:50:01.0Z</updatedDate>
+    <expiresDate>2019-11-29T23:59:59.0Z</expiresDate>
+    <registrant>
+      <rawText>Admin Email: https://whois.centralnic.com/contact/escapegames.in.net/admin
+Tech Email: https://whois.centralnic.com/contact/escapegames.in.net/tech</rawText>
+    </registrant>
+    <administrativeContact>
+      <rawText>Admin Email: https://whois.centralnic.com/contact/escapegames.in.net/admin</rawText>
+    </administrativeContact>
+    <billingContact>
+      <rawText>Billing Email: https://whois.centralnic.com/contact/escapegames.in.net/billing</rawText>
+    </billingContact>
+    <technicalContact>
+      <rawText>Tech Email: https://whois.centralnic.com/contact/escapegames.in.net/tech</rawText>
+    </technicalContact>
+    <domainName>escapegames.in.net</domainName>
+    <nameServers>
+      <rawText>LEIA.NS.CLOUDFLARE.COM
+CARTER.NS.CLOUDFLARE.COM
+</rawText>
+      <hostNames>
+        <Address>LEIA.NS.CLOUDFLARE.COM</Address>
+        <Address>CARTER.NS.CLOUDFLARE.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited clientTransferProhibited addPeriod</status>
+    <rawText>Domain Name: ESCAPEGAMES.IN.NET
+Registry Domain ID: D85454927-CNIC
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2018-11-29T18:50:01.0Z
+Creation Date: 2018-11-29T13:22:50.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Email: https://whois.centralnic.com/contact/escapegames.in.net/registrant
+Admin Email: https://whois.centralnic.com/contact/escapegames.in.net/admin
+Tech Email: https://whois.centralnic.com/contact/escapegames.in.net/tech
+Name Server: LEIA.NS.CLOUDFLARE.COM
+Name Server: CARTER.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: https://whois.centralnic.com/contact/escapegames.in.net/billing
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:28:37.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: ESCAPEGAMES.IN.NET
+Registry Domain ID: D85454927-CNIC
+Registrar WHOIS Server: whois.PublicDomainRegistry.com
+Registrar URL: https://publicdomainregistry.com
+Updated Date: 2018-11-29T18:50:01.0Z
+Creation Date: 2018-11-29T13:22:50.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Email: https://whois.centralnic.com/contact/escapegames.in.net/registrant
+Admin Email: https://whois.centralnic.com/contact/escapegames.in.net/admin
+Tech Email: https://whois.centralnic.com/contact/escapegames.in.net/tech
+Name Server: LEIA.NS.CLOUDFLARE.COM
+Name Server: CARTER.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: https://whois.centralnic.com/contact/escapegames.in.net/billing
+Registrar Abuse Contact Email: abuse@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:28:37.0Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:28:38.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:28:38.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@publicdomainregistry.com</customField1Value>
+    <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2018-11-29 13:22:50 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 18:50:01 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.2013775952</customField2Value>
+    <customField3Value>https://publicdomainregistry.com</customField3Value>
+    <whoisServer>whois.PublicDomainRegistry.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@publicdomainregistry.com</contactEmail>
+  <domainNameExt>.in.net</domainNameExt>
+  <estimatedDomainAge>2</estimatedDomainAge>
+</WhoisRecord>

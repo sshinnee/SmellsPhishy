@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2015-07-14T01:05:40Z</createdDate>
+  <updatedDate>2018-07-17T06:07:56Z</updatedDate>
+  <expiresDate>2019-07-14T01:05:40Z</expiresDate>
+  <registrant>
+    <name>Namespro.ca PrivateWHOIS</name>
+    <organization>Namespro.ca PrivateWHOIS</organization>
+    <street1>Box 276, 130-8191 Westminster Highway</street1>
+    <city>Richmond</city>
+    <state>BC</state>
+    <postalCode>V6X1A7</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>37b-92d45f1d@namesproprivacy.ca</email>
+    <telephone>16046828059</telephone>
+    <rawText>Registrant Name: Namespro.ca PrivateWHOIS
+Registrant Organization: Namespro.ca PrivateWHOIS
+Registrant Street: Box 276, 130-8191 Westminster Highway
+Registrant City: Richmond
+Registrant State/Province: BC
+Registrant Postal Code: V6X1A7
+Registrant Country: CA
+Registrant Phone: +1.6046828059
+Registrant Email: 37b-92d45f1d@namesproprivacy.ca</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Namespro.ca PrivateWHOIS</name>
+    <organization>Namespro.ca PrivateWHOIS</organization>
+    <street1>Box 276, 130-8191 Westminster Highway</street1>
+    <city>Richmond</city>
+    <state>BC</state>
+    <postalCode>V6X1A7</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>37b-92d45f1d@namesproprivacy.ca</email>
+    <telephone>16046828059</telephone>
+    <rawText>Admin Name: Namespro.ca PrivateWHOIS
+Admin Organization: Namespro.ca PrivateWHOIS
+Admin Street: Box 276, 130-8191 Westminster Highway
+Admin City: Richmond
+Admin State/Province: BC
+Admin Postal Code: V6X1A7
+Admin Country: CA
+Admin Phone: +1.6046828059
+Admin Email: 37b-92d45f1d@namesproprivacy.ca</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Namespro.ca PrivateWHOIS</name>
+    <organization>Namespro.ca PrivateWHOIS</organization>
+    <street1>Box 276, 130-8191 Westminster Highway</street1>
+    <city>Richmond</city>
+    <state>BC</state>
+    <postalCode>V6X1A7</postalCode>
+    <country>CANADA</country>
+    <countryCode>CA</countryCode>
+    <email>37b-92d45f1d@namesproprivacy.ca</email>
+    <telephone>16046828059</telephone>
+    <rawText>Tech Name: Namespro.ca PrivateWHOIS
+Tech Organization: Namespro.ca PrivateWHOIS
+Tech Street: Box 276, 130-8191 Westminster Highway
+Tech City: Richmond
+Tech State/Province: BC
+Tech Postal Code: V6X1A7
+Tech Country: CA
+Tech Phone: +1.6046828059
+Tech Email: 37b-92d45f1d@namesproprivacy.ca</rawText>
+  </technicalContact>
+  <domainName>ascostumes.com</domainName>
+  <nameServers>
+    <rawText>ns7.jiffynet.net
+ns8.jiffynet.net
+</rawText>
+    <hostNames>
+      <Address>ns7.jiffynet.net</Address>
+      <Address>ns8.jiffynet.net</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited</status>
+  <rawText>Domain Name: ASCOSTUMES.COM
+Registry Domain ID: 1946745136_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.namespro.ca
+Registrar URL: 
+Updated Date: 2018-07-17T06:07:56Z
+Creation Date: 2015-07-14T01:05:40Z
+Registrar Registration Expiration Date: 2019-07-14T01:05:40Z
+Registrar: Namespro Solutions INC.
+Registrar IANA ID: 1895
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Namespro.ca PrivateWHOIS
+Registrant Organization: Namespro.ca PrivateWHOIS
+Registrant Street: Box 276, 130-8191 Westminster Highway   
+Registrant City: Richmond
+Registrant State/Province: BC
+Registrant Postal Code: V6X1A7
+Registrant Country: CA
+Registrant Phone: +1.6046828059
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 37b-92d45f1d@namesproprivacy.ca
+Registry Admin ID: Not Available From Registry
+Admin Name: Namespro.ca PrivateWHOIS
+Admin Organization: Namespro.ca PrivateWHOIS
+Admin Street: Box 276, 130-8191 Westminster Highway  
+Admin City: Richmond
+Admin State/Province: BC
+Admin Postal Code: V6X1A7
+Admin Country: CA
+Admin Phone: +1.6046828059
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 37b-92d45f1d@namesproprivacy.ca
+Registry Tech ID: Not Available From Registry
+Tech Name: Namespro.ca PrivateWHOIS
+Tech Organization: Namespro.ca PrivateWHOIS
+Tech Street: Box 276, 130-8191 Westminster Highway  
+Tech City: Richmond
+Tech State/Province: BC
+Tech Postal Code: V6X1A7
+Tech Country: CA
+Tech Phone: +1.6046828059
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 37b-92d45f1d@namesproprivacy.ca
+Name Server: ns7.jiffynet.net
+Name Server: ns8.jiffynet.net
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:24:30Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: NAMESPRO SOLUTIONS INC.
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Namespro Solutions INC.. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: ASCOSTUMES.COM
+Registrar WHOIS Server: whois.namespro.ca
+Updated Date: 2018-07-17T06:07:56Z
+Creation Date: 2015-07-14T01:05:40Z
+Registrar Registration Expiration Date: 2019-07-14T01:05:40Z
+Registrar: Namespro Solutions INC.
+Registrar IANA ID: 1895
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Namespro.ca PrivateWHOIS
+Registrant Organization: Namespro.ca PrivateWHOIS
+Registrant Street: Box 276, 130-8191 Westminster Highway
+Registrant City: Richmond
+Registrant State/Province: BC
+Registrant Postal Code: V6X1A7
+Registrant Country: CA
+Registrant Phone: +1.6046828059
+Registrant Email: 37b-92d45f1d@namesproprivacy.ca
+Admin Name: Namespro.ca PrivateWHOIS
+Admin Organization: Namespro.ca PrivateWHOIS
+Admin Street: Box 276, 130-8191 Westminster Highway
+Admin City: Richmond
+Admin State/Province: BC
+Admin Postal Code: V6X1A7
+Admin Country: CA
+Admin Phone: +1.6046828059
+Admin Email: 37b-92d45f1d@namesproprivacy.ca
+Tech Name: Namespro.ca PrivateWHOIS
+Tech Organization: Namespro.ca PrivateWHOIS
+Tech Street: Box 276, 130-8191 Westminster Highway
+Tech City: Richmond
+Tech State/Province: BC
+Tech Postal Code: V6X1A7
+Tech Country: CA
+Tech Phone: +1.6046828059
+Tech Email: 37b-92d45f1d@namesproprivacy.ca
+Name Server: ns7.jiffynet.net
+Name Server: ns8.jiffynet.net
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 00:24:29.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:24:29.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Namespro Solutions INC.</registrarName>
+  <registrarIANAID>1895</registrarIANAID>
+  <whoisServer>whois.namespro.ca</whoisServer>
+  <createdDateNormalized>2015-07-14 01:05:40 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-07-17 06:07:56 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-07-14 01:05:40 UTC</expiresDateNormalized>
+  <registryData>
+    <createdDate>2015-07-14T01:05:40Z</createdDate>
+    <updatedDate>2018-07-17T06:07:55Z</updatedDate>
+    <expiresDate>2019-07-14T01:05:40Z</expiresDate>
+    <domainName>ascostumes.com</domainName>
+    <nameServers>
+      <rawText>NS7.JIFFYNET.NET
+NS8.JIFFYNET.NET
+</rawText>
+      <hostNames>
+        <Address>NS7.JIFFYNET.NET</Address>
+        <Address>NS8.JIFFYNET.NET</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: ASCOSTUMES.COM
+   Registry Domain ID: 1946745136_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namespro.ca
+   Registrar URL: http://www.namespro.ca
+   Updated Date: 2018-07-17T06:07:55Z
+   Creation Date: 2015-07-14T01:05:40Z
+   Registry Expiry Date: 2019-07-14T01:05:40Z
+   Registrar: Namespro Solutions Inc.
+   Registrar IANA ID: 1895
+   Registrar Abuse Contact Email: abuse@namespro.ca
+   Registrar Abuse Contact Phone: 16046818007
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS7.JIFFYNET.NET
+   Name Server: NS8.JIFFYNET.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:24:18Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: ASCOSTUMES.COM
+Registry Domain ID: 1946745136_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.namespro.ca
+Registrar URL: http://www.namespro.ca
+Updated Date: 2018-07-17T06:07:55Z
+Creation Date: 2015-07-14T01:05:40Z
+Registry Expiry Date: 2019-07-14T01:05:40Z
+Registrar: Namespro Solutions Inc.
+Registrar IANA ID: 1895
+Registrar Abuse Contact Email: abuse@namespro.ca
+Registrar Abuse Contact Phone: 16046818007
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS7.JIFFYNET.NET
+Name Server: NS8.JIFFYNET.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:24:18Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:24:28.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:24:28.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namespro.ca</customField1Value>
+    <registrarName>Namespro Solutions Inc.</registrarName>
+    <registrarIANAID>1895</registrarIANAID>
+    <createdDateNormalized>2015-07-14 01:05:40 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-07-17 06:07:55 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-07-14 01:05:40 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>16046818007</customField2Value>
+    <customField3Value>http://www.namespro.ca</customField3Value>
+    <whoisServer>whois.namespro.ca</whoisServer>
+  </registryData>
+  <contactEmail>37b-92d45f1d@namesproprivacy.ca</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>1236</estimatedDomainAge>
+</WhoisRecord>

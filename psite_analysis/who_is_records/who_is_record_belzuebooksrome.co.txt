@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>belzuebooksrome.co</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:01:27.254 UTC</createdDate>
+    <updatedDate>2018-12-01 14:01:27.254 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2017-05-31T13:51:33Z</createdDate>
+    <updatedDate>2018-05-28T14:10:33Z</updatedDate>
+    <expiresDate>2019-05-30T23:59:59Z</expiresDate>
+    <registrant>
+      <organization>WhoisGuard, Inc.</organization>
+      <state>Panama</state>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>belzuebooksrome.co</domainName>
+    <nameServers>
+      <rawText>andy.ns.cloudflare.com
+melissa.ns.cloudflare.com
+</rawText>
+      <hostNames>
+        <Address>andy.ns.cloudflare.com</Address>
+        <Address>melissa.ns.cloudflare.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: belzuebooksrome.co
+Registry Domain ID: D205367588-CO
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-05-28T14:10:33Z
+Creation Date: 2017-05-31T13:51:33Z
+Registry Expiry Date: 2019-05-30T23:59:59Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name:
+Registrant Organization: WhoisGuard, Inc.
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City:
+Registrant State/Province: Panama
+Registrant Postal Code:
+Registrant Country: PA
+Registrant Phone:
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: andy.ns.cloudflare.com
+Name Server: melissa.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:01:27Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The above WHOIS results have been redacted to remove potential personal data. The full WHOIS output may be available to individuals and organisations with a legitimate interest in accessing this data not outweighed by the fundamental privacy rights of the data subject. To find out more, or to make a request for access, please visit: RDDSrequest.nic.co.
+
+.CO Internet, S.A.S., the Administrator for .CO, has collected this information for the WHOIS database through Accredited Registrars. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the .CO Internet registry database. .CO Internet makes this information available to you "as is" and does not guarantee its accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data:  (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated,  electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without .CO Internet's prior written permission. .CO Internet reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms.  In some limited cases, domains that might appear as available in whois might not actually be available as they could be already registered and the whois not yet updated and/or they could be part of the Restricted list. In this cases, performing a check through your Registrar's (EPP check) will give you the actual status of the domain. Additionally, domains currently or previously used as extensions in 3rd level domains will not be available for registration in the 2nd level. For example, org.co,mil.co,edu.co,com.co,net.co,nom.co,arts.co, firm.co,info.co,int.co,web.co,rec.co,co.co.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.cointernet.co &lt;http://www.cointernet.co&gt;.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: belzuebooksrome.co
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-05-28T14:10:33Z
+Creation Date: 2017-05-31T13:51:33Z
+Registry Expiry Date: 2019-05-30T23:59:59Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: andy.ns.cloudflare.com
+Name Server: melissa.ns.cloudflare.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:01:27.254 UTC</createdDate>
+      <updatedDate>2018-12-01 14:01:27.254 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2017-05-31 13:51:33 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-05-28 14:10:33 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-30 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>http://www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@namecheap.com</contactEmail>
+  <domainNameExt>.co</domainNameExt>
+  <estimatedDomainAge>549</estimatedDomainAge>
+</WhoisRecord>

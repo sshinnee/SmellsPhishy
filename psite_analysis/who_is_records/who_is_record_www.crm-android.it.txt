@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>crm-android.it</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:16:28.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:16:28.000 UTC</updatedDate>
+  </audit>
+  <registrarName>OVH</registrarName>
+  <registrarIANAID>433</registrarIANAID>
+  <registryData>
+    <createdDate>2014-04-10 13:09:17</createdDate>
+    <updatedDate>2018-06-05 18:24:03</updatedDate>
+    <expiresDate>2019-04-10</expiresDate>
+    <registrant>
+      <organization>SIT s.r.l.</organization>
+      <rawText>Organization:     SIT s.r.l.</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>hidden</name>
+      <organization>hidden</organization>
+      <rawText>Name:             hidden
+Organization:     hidden</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>hidden</name>
+      <organization>hidden</organization>
+      <rawText>Name:             hidden
+Organization:     hidden</rawText>
+    </technicalContact>
+    <domainName>crm-android.it</domainName>
+    <nameServers>
+      <rawText>dns108.ovh.net
+ns108.ovh.net
+</rawText>
+      <hostNames>
+        <Address>dns108.ovh.net</Address>
+        <Address>ns108.ovh.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientDeleteProhibited</status>
+    <rawText>*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+* Privacy Information: http://web-whois.nic.it/privacy              *
+*********************************************************************
+
+Domain:             crm-android.it
+Status:             clientDeleteProhibited
+Signed:             no
+Created:            2014-04-10 13:09:17
+Last Update:        2018-06-05 18:24:03
+Expire Date:        2019-04-10
+
+Registrant
+  Organization:     SIT s.r.l.
+
+Admin Contact
+  Name:             hidden
+  Organization:     hidden
+
+Technical Contacts
+  Name:             hidden
+  Organization:     hidden
+
+Registrar
+  Organization:     OVH
+  Name:             OVH-REG
+  Web:              http://www.ovh.com/welcome
+  DNSSEC:           no
+
+
+Nameservers
+  dns108.ovh.net
+  ns108.ovh.net</rawText>
+    <parseCode>3579</parseCode>
+    <header>*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+* Privacy Information: http://web-whois.nic.it/privacy              *
+*********************************************************************
+</header>
+    <strippedText>Domain:             crm-android.it
+Status:             clientDeleteProhibited
+Signed:             no
+Created:            2014-04-10 13:09:17
+Last Update:        2018-06-05 18:24:03
+Expire Date:        2019-04-10
+Registrant
+Organization:     SIT s.r.l.
+Admin Contact
+Name:             hidden
+Organization:     hidden
+Technical Contacts
+Name:             hidden
+Organization:     hidden
+Registrar
+Organization:     OVH
+Name:             OVH-REG
+Web:              http://www.ovh.com/welcome
+DNSSEC:           no
+Nameservers
+dns108.ovh.net
+ns108.ovh.net
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 00:16:28.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:16:28.000 UTC</updatedDate>
+    </audit>
+    <registrarName>OVH</registrarName>
+    <registrarIANAID>433</registrarIANAID>
+    <createdDateNormalized>2014-04-10 13:09:17 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-06-05 18:24:03 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-04-10 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>it.whois-servers.net</whoisServer>
+  </registryData>
+  <domainNameExt>.it</domainNameExt>
+  <estimatedDomainAge>1696</estimatedDomainAge>
+</WhoisRecord>

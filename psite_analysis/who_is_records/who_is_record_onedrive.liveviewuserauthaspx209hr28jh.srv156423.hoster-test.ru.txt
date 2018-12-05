@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>hoster-test.ru</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:48.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:48.000 UTC</updatedDate>
+  </audit>
+  <registrarName>DOMENUS-RU</registrarName>
+  <registryData>
+    <createdDate>2008-12-30T21:00:00Z</createdDate>
+    <expiresDate>2019-12-30T21:00:00Z</expiresDate>
+    <registrant>
+      <organization>Filanco Ltd.</organization>
+    </registrant>
+    <domainName>HOSTER-TEST.RU</domainName>
+    <nameServers>
+      <rawText>ns10.hoster.ru
+ns11.hoster.ru
+</rawText>
+      <hostNames>
+        <Address>ns10.hoster.ru</Address>
+        <Address>ns11.hoster.ru</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>REGISTERED, DELEGATED, VERIFIED</status>
+    <rawText>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        HOSTER-TEST.RU
+nserver:       ns10.hoster.ru.
+nserver:       ns11.hoster.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Filanco Ltd.
+registrar:     DOMENUS-RU
+admin-contact: http://www.domenus.ru/services/admin_contact.html
+created:       2008-12-30T21:00:00Z
+paid-till:     2019-12-30T21:00:00Z
+free-date:     2020-01-31
+source:        TCI
+
+Last updated on 2018-12-01T00:11:36Z</rawText>
+    <parseCode>219</parseCode>
+    <header>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).</header>
+    <strippedText>
+domain:        HOSTER-TEST.RU
+nserver:       ns10.hoster.ru.
+nserver:       ns11.hoster.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Filanco Ltd.
+registrar:     DOMENUS-RU
+admin-contact: http://www.domenus.ru/services/admin_contact.html
+created:       2008-12-30T21:00:00Z
+paid-till:     2019-12-30T21:00:00Z
+free-date:     2020-01-31
+source:        TCI
+
+Last updated on 2018-12-01T00:11:36Z
+
+domain:        HOSTER-TEST.RU
+nserver:       ns10.hoster.ru.
+nserver:       ns11.hoster.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Filanco Ltd.
+registrar:     DOMENUS-RU
+admin-contact: http://www.domenus.ru/services/admin_contact.html
+created:       2008-12-30T21:00:00Z
+paid-till:     2019-12-30T21:00:00Z
+free-date:     2020-01-31
+source:        TCI
+
+Last updated on 2018-12-01T00:11:36Z</strippedText>
+    <audit>
+      <createdDate>2018-12-01 00:14:48.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:48.000 UTC</updatedDate>
+    </audit>
+    <registrarName>DOMENUS-RU</registrarName>
+    <createdDateNormalized>2008-12-30 21:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-12-30 21:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.ripn.net</whoisServer>
+  </registryData>
+  <domainNameExt>.ru</domainNameExt>
+  <estimatedDomainAge>3622</estimatedDomainAge>
+</WhoisRecord>

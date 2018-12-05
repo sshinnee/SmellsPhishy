@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>meets.ga</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:30:24.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:30:24.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>11/14/2016</createdDate>
+    <expiresDate>11/02/2019</expiresDate>
+    <registrant>
+      <name>Stichting OpenTLD WHOIS Proxy</name>
+      <organization>N/A</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>d850d8ab450ee1da.shielded@idshield.tk</email>
+      <telephone>31205315729</telephone>
+      <fax>31205315721</fax>
+      <rawText>Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Stichting OpenTLD WHOIS Proxy</name>
+      <organization>N/A</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>d850d8ab450ee1da.shielded@idshield.tk</email>
+      <telephone>31205315729</telephone>
+      <fax>31205315721</fax>
+      <rawText>Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Stichting OpenTLD WHOIS Proxy</name>
+      <organization>N/A</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>d850d8ab450ee1da.shielded@idshield.tk</email>
+      <telephone>31205315729</telephone>
+      <fax>31205315721</fax>
+      <rawText>Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Stichting OpenTLD WHOIS Proxy</name>
+      <organization>N/A</organization>
+      <street1>Keizersgracht 213</street1>
+      <city>Amsterdam</city>
+      <state>Noord-Holland</state>
+      <postalCode>1016DT</postalCode>
+      <country>NETHERLANDS</country>
+      <countryCode>NL</countryCode>
+      <email>d850d8ab450ee1da.shielded@idshield.tk</email>
+      <telephone>31205315729</telephone>
+      <fax>31205315721</fax>
+      <rawText>Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk</rawText>
+    </technicalContact>
+    <domainName>meets.ga</domainName>
+    <nameServers>
+      <rawText>NS963.WEBSITEWELCOME.COM
+NS964.WEBSITEWELCOME.COM
+</rawText>
+      <hostNames>
+        <Address>NS963.WEBSITEWELCOME.COM</Address>
+        <Address>NS964.WEBSITEWELCOME.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>Active</status>
+    <rawText>Domain name:
+MEETS.GA
+Status: Active
+
+Owner contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+
+Admin contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+
+Billing contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+
+Tech contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+
+Domain Nameservers:
+NS963.WEBSITEWELCOME.COM
+NS964.WEBSITEWELCOME.COM
+
+
+Domain registered: 11/14/2016
+Record will expire on: 11/02/2019
+Record maintained by: My GA Domain Registry</rawText>
+    <parseCode>4051</parseCode>
+    <header/>
+    <strippedText>Domain name:
+MEETS.GA
+Status: Active
+Owner contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+Admin contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+Billing contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+Tech contact:
+Organization: N/A
+Name:         Stichting OpenTLD WHOIS Proxy
+Address:      Keizersgracht 213
+Zipcode:      1016DT
+City:         Amsterdam
+State:        Noord-Holland
+Country:      Netherlands
+Phone:        +31205315729
+Fax:          +31205315721
+E-mail:       d850d8ab450ee1da.shielded@idshield.tk
+Domain Nameservers:
+NS963.WEBSITEWELCOME.COM
+NS964.WEBSITEWELCOME.COM
+Domain registered: 11/14/2016
+Record will expire on: 11/02/2019
+Record maintained by: My GA Domain Registry
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:30:24.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:30:24.000 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2016-11-14 00:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-11-02 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.my.ga</whoisServer>
+  </registryData>
+  <contactEmail>d850d8ab450ee1da.shielded@idshield.tk</contactEmail>
+  <domainNameExt>.ga</domainNameExt>
+  <estimatedDomainAge>747</estimatedDomainAge>
+</WhoisRecord>

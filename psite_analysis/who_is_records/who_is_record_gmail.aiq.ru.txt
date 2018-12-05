@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>aiq.ru</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:11:48.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:11:48.000 UTC</updatedDate>
+  </audit>
+  <registrarName>RU-CENTER-RU</registrarName>
+  <registryData>
+    <createdDate>2000-11-29T21:00:00Z</createdDate>
+    <expiresDate>2019-11-30T21:00:00Z</expiresDate>
+    <domainName>AIQ.RU</domainName>
+    <nameServers>
+      <rawText>ns1.freehosting.centre.ru
+ns2.freehosting.centre.ru
+</rawText>
+      <hostNames>
+        <Address>ns1.freehosting.centre.ru</Address>
+        <Address>ns2.freehosting.centre.ru</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>REGISTERED, DELEGATED, VERIFIED</status>
+    <rawText>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian) 
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+
+domain:        AIQ.RU
+nserver:       ns1.freehosting.centre.ru.
+nserver:       ns2.freehosting.centre.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2000-11-29T21:00:00Z
+paid-till:     2019-11-30T21:00:00Z
+free-date:     2020-01-01
+source:        TCI
+
+Last updated on 2018-12-01T14:11:32Z</rawText>
+    <parseCode>219</parseCode>
+    <header>% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).
+% By submitting a query to RIPN's Whois Service
+% you agree to abide by the following terms of use:
+% http://www.ripn.net/about/servpol.html#3.2 (in Russian)
+% http://www.ripn.net/about/en/servpol.html#3.2 (in English).</header>
+    <strippedText>
+domain:        AIQ.RU
+nserver:       ns1.freehosting.centre.ru.
+nserver:       ns2.freehosting.centre.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2000-11-29T21:00:00Z
+paid-till:     2019-11-30T21:00:00Z
+free-date:     2020-01-01
+source:        TCI
+
+Last updated on 2018-12-01T14:11:32Z
+
+domain:        AIQ.RU
+nserver:       ns1.freehosting.centre.ru.
+nserver:       ns2.freehosting.centre.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+person:        Private Person
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2000-11-29T21:00:00Z
+paid-till:     2019-11-30T21:00:00Z
+free-date:     2020-01-01
+source:        TCI
+
+Last updated on 2018-12-01T14:11:32Z</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:11:48.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:11:48.000 UTC</updatedDate>
+    </audit>
+    <registrarName>RU-CENTER-RU</registrarName>
+    <createdDateNormalized>2000-11-29 21:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2019-11-30 21:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.ripn.net</whoisServer>
+  </registryData>
+  <domainNameExt>.ru</domainNameExt>
+  <estimatedDomainAge>6575</estimatedDomainAge>
+</WhoisRecord>

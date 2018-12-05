@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>grupsahinler.com.tr</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:31:05.504 UTC</createdDate>
+    <updatedDate>2018-12-01 14:31:05.504 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>2009-Dec-24.</createdDate>
+    <expiresDate>2018-Dec-23.</expiresDate>
+    <registrant>
+      <name>GRUP ÞAHÝNLER ÝÞ MAKÝNALARI REVÝZYONU YEDEK PARÇA ÝNS. HARF. SAN VE TÝC.LTD ÞTÝ</name>
+      <street1>CENDERE YOLU ÞEHÝT ORHAN KARADAÐ SOK NO:37</street1>
+      <city>AYAZAÐA/ÞÝÞLÝ</city>
+      <state>Ýstanbul</state>
+      <country>Türkiye</country>
+      <email>sistem@pusula.net.tr</email>
+      <telephone>902122890870</telephone>
+      <fax>902122890869</fax>
+      <rawText>GRUP ÞAHÝNLER ÝÞ MAKÝNALARI REVÝZYONU YEDEK PARÇA ÝNS. HARF. SAN VE TÝC.LTD ÞTÝ
+CENDERE YOLU ÞEHÝT ORHAN KARADAÐ SOK NO:37
+AYAZAÐA/ÞÝÞLÝ
+Ýstanbul,
+Türkiye
+sistem@pusula.net.tr
++ 90-212-2890870-
++ 90-212-2890869-</rawText>
+    </registrant>
+    <administrativeContact>
+      <organization>Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.</organization>
+      <street1>Otello Kamil Sokak Billur Apartmani</street1>
+      <city>5/2 Mecidiyekoy</city>
+      <state>Ýstanbul</state>
+      <postalCode>80300</postalCode>
+      <country>Türkiye</country>
+      <telephone>902122134142</telephone>
+      <fax>902122135958</fax>
+      <rawText>NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+5/2 Mecidiyekoy
+Ýstanbul,80300
+Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-</rawText>
+    </administrativeContact>
+    <billingContact>
+      <organization>Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.</organization>
+      <street1>Otello Kamil Sokak Billur Apartmani</street1>
+      <city>5/2 Mecidiyekoy</city>
+      <state>Ýstanbul</state>
+      <postalCode>80300</postalCode>
+      <country>Türkiye</country>
+      <telephone>902122134142</telephone>
+      <fax>902122135958</fax>
+      <rawText>NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+5/2 Mecidiyekoy
+Ýstanbul,80300
+Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-</rawText>
+    </billingContact>
+    <technicalContact>
+      <organization>Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.</organization>
+      <street1>Otello Kamil Sokak Billur Apartmani</street1>
+      <city>5/2 Mecidiyekoy</city>
+      <state>Ýstanbul</state>
+      <postalCode>80300</postalCode>
+      <country>Türkiye</country>
+      <telephone>902122134142</telephone>
+      <fax>902122135958</fax>
+      <rawText>NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+5/2 Mecidiyekoy
+Ýstanbul,80300
+Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-</rawText>
+    </technicalContact>
+    <domainName>grupsahinler.com.tr</domainName>
+    <nameServers>
+      <rawText>lin11.isimtescil.net
+lin12.isimtescil.net
+</rawText>
+      <hostNames>
+        <Address>lin11.isimtescil.net</Address>
+        <Address>lin12.isimtescil.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>** Domain Name: grupsahinler.com.tr
+
+** Registrant:
+   GRUP ÞAHÝNLER ÝÞ MAKÝNALARI REVÝZYONU YEDEK PARÇA ÝNS. HARF. SAN VE TÝC.LTD ÞTÝ
+   CENDERE YOLU ÞEHÝT ORHAN KARADAÐ SOK NO:37
+   AYAZAÐA/ÞÝÞLÝ
+   Ýstanbul,
+     Türkiye
+   sistem@pusula.net.tr
+   + 90-212-2890870-
+   + 90-212-2890869-
+
+
+** Administrative Contact:
+NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+			  5/2 Mecidiyekoy
+			  Ýstanbul,80300
+			  Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-
+
+
+** Technical Contact:
+NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+			  5/2 Mecidiyekoy
+			  Ýstanbul,80300
+			  Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-
+
+
+** Billing Contact:
+NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+			  5/2 Mecidiyekoy
+			  Ýstanbul,80300
+			  Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-
+
+
+** Domain Servers:
+lin11.isimtescil.net
+lin12.isimtescil.net
+
+** Additional Info:
+Created on..............: 2009-Dec-24.
+Expires on..............: 2018-Dec-23.</rawText>
+    <parseCode>4035</parseCode>
+    <header>** Domain Name: grupsahinler.com.tr</header>
+    <strippedText>** Registrant:
+GRUP ÞAHÝNLER ÝÞ MAKÝNALARI REVÝZYONU YEDEK PARÇA ÝNS. HARF. SAN VE TÝC.LTD ÞTÝ
+CENDERE YOLU ÞEHÝT ORHAN KARADAÐ SOK NO:37
+AYAZAÐA/ÞÝÞLÝ
+Ýstanbul,
+Türkiye
+sistem@pusula.net.tr
++ 90-212-2890870-
++ 90-212-2890869-
+** Administrative Contact:
+NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+5/2 Mecidiyekoy
+Ýstanbul,80300
+Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-
+** Technical Contact:
+NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+5/2 Mecidiyekoy
+Ýstanbul,80300
+Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-
+** Billing Contact:
+NIC Handle		: piv1-metu
+Organization Name	: Pusula Ýletiþim Biliþim Ýnternet San. ve Tic. Ltd. Þti.
+Address			: Otello Kamil Sokak Billur Apartmani
+5/2 Mecidiyekoy
+Ýstanbul,80300
+Türkiye
+Phone			: + 90-212-2134142-
+Fax			: + 90-212-2135958-
+** Domain Servers:
+lin11.isimtescil.net
+lin12.isimtescil.net
+</strippedText>
+    <footer>** Additional Info:</footer>
+    <audit>
+      <createdDate>2018-12-01 14:31:05.504 UTC</createdDate>
+      <updatedDate>2018-12-01 14:31:05.504 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2009-12-24 00:00:00 UTC</createdDateNormalized>
+    <expiresDateNormalized>2018-12-23 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>nic.tr</whoisServer>
+  </registryData>
+  <contactEmail>sistem@pusula.net.tr</contactEmail>
+  <domainNameExt>.com.tr</domainNameExt>
+  <estimatedDomainAge>3264</estimatedDomainAge>
+</WhoisRecord>

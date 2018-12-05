@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>mustdesign.ca</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:16:31.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:16:31.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Go Daddy Domains Canada, Inc</registrarName>
+  <registrarIANAID>1150</registrarIANAID>
+  <registryData>
+    <createdDate>2012/08/03</createdDate>
+    <updatedDate>2016/12/05</updatedDate>
+    <expiresDate>2020/08/03</expiresDate>
+    <domainName>mustdesign.ca</domainName>
+    <nameServers>
+      <rawText>ns233.websitewelcome.com
+ns234.websitewelcome.com
+</rawText>
+      <hostNames>
+        <Address>ns233.websitewelcome.com</Address>
+        <Address>ns234.websitewelcome.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>registered</status>
+    <rawText>Domain name:           mustdesign.ca
+Domain status:         registered
+Creation date:         2012/08/03
+Expiry date:           2020/08/03
+Updated date:          2016/12/05
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              Go Daddy Domains Canada, Inc
+    Number:            2316042
+
+Name servers:
+    ns233.websitewelcome.com
+    ns234.websitewelcome.com
+
+% WHOIS look-up made at 2018-12-01 00:16:30 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain name:           mustdesign.ca
+Domain status:         registered
+Creation date:         2012/08/03
+Expiry date:           2020/08/03
+Updated date:          2016/12/05
+DNSSEC:                Unsigned
+Registrar:
+Name:              Go Daddy Domains Canada, Inc
+Number:            2316042
+Name servers:
+ns233.websitewelcome.com
+ns234.websitewelcome.com
+% WHOIS look-up made at 2018-12-01 00:16:30 (GMT)
+</strippedText>
+    <footer>%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</footer>
+    <audit>
+      <createdDate>2018-12-01 00:16:31.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:16:31.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Go Daddy Domains Canada, Inc</registrarName>
+    <registrarIANAID>1150</registrarIANAID>
+    <createdDateNormalized>2012-08-03 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2016-12-05 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2020-08-03 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.cira.ca</whoisServer>
+  </registryData>
+  <domainNameExt>.ca</domainNameExt>
+  <estimatedDomainAge>2311</estimatedDomainAge>
+</WhoisRecord>

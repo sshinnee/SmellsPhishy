@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2018-11-29T15:37:19Z</createdDate>
+  <updatedDate>2018-11-30T12:43:45Z</updatedDate>
+  <expiresDate>2019-11-29T15:37:19Z</expiresDate>
+  <registrant>
+    <name>Not disclosed Not disclosed</name>
+    <organization>IceNetworks Ltd.</organization>
+    <street1>Klapparstigur 7</street1>
+    <city>Reykjavik</city>
+    <state>IS</state>
+    <postalCode>101</postalCode>
+    <country>ICELAND</country>
+    <countryCode>IS</countryCode>
+    <email>6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com</email>
+    <telephone>15163872248</telephone>
+    <rawText>Registrant Name: Not disclosed Not disclosed
+Registrant Organization: IceNetworks Ltd.
+Registrant Street: Klapparstigur 7
+Registrant City: Reykjavik
+Registrant State/Province: IS
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +1.5163872248
+Registrant Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Not disclosed Not disclosed</name>
+    <organization>IceNetworks Ltd.</organization>
+    <street1>Klapparstigur 7</street1>
+    <city>Reykjavik</city>
+    <state>IS</state>
+    <postalCode>101</postalCode>
+    <country>ICELAND</country>
+    <countryCode>IS</countryCode>
+    <email>6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com</email>
+    <telephone>15163872248</telephone>
+    <rawText>Admin Name: Not disclosed Not disclosed
+Admin Organization: IceNetworks Ltd.
+Admin Street: Klapparstigur 7
+Admin City: Reykjavik
+Admin State/Province: IS
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +1.5163872248
+Admin Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Not disclosed Not disclosed</name>
+    <organization>IceNetworks Ltd.</organization>
+    <street1>Klapparstigur 7</street1>
+    <city>Reykjavik</city>
+    <state>IS</state>
+    <postalCode>101</postalCode>
+    <country>ICELAND</country>
+    <countryCode>IS</countryCode>
+    <email>6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com</email>
+    <telephone>15163872248</telephone>
+    <rawText>Tech Name: Not disclosed Not disclosed
+Tech Organization: IceNetworks Ltd.
+Tech Street: Klapparstigur 7
+Tech City: Reykjavik
+Tech State/Province: IS
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +1.5163872248
+Tech Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com</rawText>
+  </technicalContact>
+  <domainName>id-ee-auth.com</domainName>
+  <status>clientTransferProhibited - clientHold - clientUpdateProhibited -</status>
+  <rawText>Domain Name: ID-EE-AUTH.COM
+Registry Domain ID: 2338065796_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.internet.bs
+Registrar URL: http://www.internetbs.net
+Updated Date: 2018-11-30T12:43:45Z
+Creation Date: 2018-11-29T15:37:19Z
+Registrar Registration Expiration Date: 2019-11-29T15:37:19Z
+Registrar: Internet Domain Service BS Corp.
+Registrar IANA ID: 2487
+Registrar Abuse Contact Email: abuse@internet.bs
+Registrar Abuse Contact Phone: +1.5167401179
+Reseller: 
+Domain Status: clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientHold - http://www.icann.org/epp#clientHold
+Domain Status: clientUpdateProhibited - http://www.icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Not disclosed Not disclosed
+Registrant Organization: IceNetworks Ltd.
+Registrant Street: Klapparstigur 7
+Registrant City: Reykjavik
+Registrant State/Province: IS
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +1.5163872248
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com
+Registry Admin ID: 
+Admin Name: Not disclosed Not disclosed
+Admin Organization: IceNetworks Ltd.
+Admin Street: Klapparstigur 7
+Admin City: Reykjavik
+Admin State/Province: IS
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +1.5163872248
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com
+Registry Tech ID: 
+Tech Name: Not disclosed Not disclosed
+Tech Organization: IceNetworks Ltd.
+Tech Street: Klapparstigur 7
+Tech City: Reykjavik
+Tech State/Province: IS
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +1.5163872248
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com
+Name Server: 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:12:37Z &lt;&lt;&lt;</rawText>
+  <parseCode>3451</parseCode>
+  <header/>
+  <strippedText>Domain Name: ID-EE-AUTH.COM
+Registrar WHOIS Server: whois.internet.bs
+Registrar URL: http://www.internetbs.net
+Updated Date: 2018-11-30T12:43:45Z
+Creation Date: 2018-11-29T15:37:19Z
+Registrar Registration Expiration Date: 2019-11-29T15:37:19Z
+Registrar: Internet Domain Service BS Corp.
+Registrar IANA ID: 2487
+Registrar Abuse Contact Email: abuse@internet.bs
+Registrar Abuse Contact Phone: +1.5167401179
+Domain Status: clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientHold - http://www.icann.org/epp#clientHold
+Domain Status: clientUpdateProhibited - http://www.icann.org/epp#clientUpdateProhibited
+Registrant Name: Not disclosed Not disclosed
+Registrant Organization: IceNetworks Ltd.
+Registrant Street: Klapparstigur 7
+Registrant City: Reykjavik
+Registrant State/Province: IS
+Registrant Postal Code: 101
+Registrant Country: IS
+Registrant Phone: +1.5163872248
+Registrant Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com
+Admin Name: Not disclosed Not disclosed
+Admin Organization: IceNetworks Ltd.
+Admin Street: Klapparstigur 7
+Admin City: Reykjavik
+Admin State/Province: IS
+Admin Postal Code: 101
+Admin Country: IS
+Admin Phone: +1.5163872248
+Admin Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com
+Tech Name: Not disclosed Not disclosed
+Tech Organization: IceNetworks Ltd.
+Tech Street: Klapparstigur 7
+Tech City: Reykjavik
+Tech State/Province: IS
+Tech Postal Code: 101
+Tech Country: IS
+Tech Phone: +1.5163872248
+Tech Email: 6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 00:14:45.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:45.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@internet.bs</customField1Value>
+  <registrarName>Internet Domain Service BS Corp.</registrarName>
+  <registrarIANAID>2487</registrarIANAID>
+  <whoisServer>whois.internet.bs</whoisServer>
+  <createdDateNormalized>2018-11-29 15:37:19 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-11-30 12:43:45 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-11-29 15:37:19 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.5167401179</customField2Value>
+  <customField3Value>http://www.internetbs.net</customField3Value>
+  <registryData>
+    <createdDate>2018-11-29T15:37:19Z</createdDate>
+    <updatedDate>2018-11-30T12:43:45Z</updatedDate>
+    <expiresDate>2019-11-29T15:37:19Z</expiresDate>
+    <domainName>id-ee-auth.com</domainName>
+    <status>clientHold clientTransferProhibited clientUpdateProhibited</status>
+    <rawText>Domain Name: ID-EE-AUTH.COM
+   Registry Domain ID: 2338065796_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.internet.bs
+   Registrar URL: http://www.internet.bs
+   Updated Date: 2018-11-30T12:43:45Z
+   Creation Date: 2018-11-29T15:37:19Z
+   Registry Expiry Date: 2019-11-29T15:37:19Z
+   Registrar: Internet Domain Service BS Corp
+   Registrar IANA ID: 2487
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: clientHold https://icann.org/epp#clientHold
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:14:32Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>123</parseCode>
+    <header/>
+    <strippedText>Domain Name: ID-EE-AUTH.COM
+Registry Domain ID: 2338065796_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.internet.bs
+Registrar URL: http://www.internet.bs
+Updated Date: 2018-11-30T12:43:45Z
+Creation Date: 2018-11-29T15:37:19Z
+Registry Expiry Date: 2019-11-29T15:37:19Z
+Registrar: Internet Domain Service BS Corp
+Registrar IANA ID: 2487
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientHold https://icann.org/epp#clientHold
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:14:32Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:14:45.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:45.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Internet Domain Service BS Corp</registrarName>
+    <registrarIANAID>2487</registrarIANAID>
+    <createdDateNormalized>2018-11-29 15:37:19 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-30 12:43:45 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 15:37:19 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.internet.bs</customField3Value>
+    <whoisServer>whois.internet.bs</whoisServer>
+  </registryData>
+  <contactEmail>6341589d3b43f19bf7c5a4c07cbb9095.gdrp@customers.whoisprivacycorp.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>1</estimatedDomainAge>
+</WhoisRecord>

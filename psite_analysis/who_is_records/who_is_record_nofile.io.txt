@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>nofile.io</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:34:02.000 UTC</createdDate>
+    <updatedDate>2018-12-01 13:34:02.000 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2016-11-25T00:58:32Z</createdDate>
+    <updatedDate>2018-10-20T01:40:09Z</updatedDate>
+    <expiresDate>2019-11-25T00:58:32Z</expiresDate>
+    <registrant>
+      <organization>WhoisGuard, Inc.</organization>
+      <state>Panama</state>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Registrant Country: PA</rawText>
+    </registrant>
+    <domainName>nofile.io</domainName>
+    <nameServers>
+      <rawText>DNS1.REGISTRAR-SERVERS.COM
+DNS2.REGISTRAR-SERVERS.COM
+</rawText>
+      <hostNames>
+        <Address>DNS1.REGISTRAR-SERVERS.COM</Address>
+        <Address>DNS2.REGISTRAR-SERVERS.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: NOFILE.IO
+Registry Domain ID: D503300000040349660-LRMS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: www.namecheap.com
+Updated Date: 2018-10-20T01:40:09Z
+Creation Date: 2016-11-25T00:58:32Z
+Registry Expiry Date: 2019-11-25T00:58:32Z
+Registrar Registration Expiration Date:
+Registrar: NameCheap, Inc
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:33:01Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information provided by Internet Computer Bureau Ltd. ("ICB") is provided to assist persons in determining the contents of a domain name registration record in the ICB registry database. The data in this record is provided by ICB for informational purposes only, and ICB does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(i) allow, enable, or otherwise support the transmission by e-mail, telephone, facsimile or other electronic means of mass, unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (ii) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or ICB or its services providers except as reasonably necessary to register domain names or modify existing registrations. UK privacy laws limit the scope of information permitted for certain public access.  Therefore, concerns regarding abusive use of domain registrations in the ICB registry should be directed to either (a) the Registrar of Record as indicated in the WHOIS output, or (b) the ICB anti-abuse department at abuse@icbregistry.info.
+
+All rights reserved. ICB reserves the right to modify these terms at any time. By submitting this query, you agree to abide by these policies
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: NOFILE.IO
+Registry Domain ID: D503300000040349660-LRMS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: www.namecheap.com
+Updated Date: 2018-10-20T01:40:09Z
+Creation Date: 2016-11-25T00:58:32Z
+Registry Expiry Date: 2019-11-25T00:58:32Z
+Registrar Registration Expiration Date:
+Registrar: NameCheap, Inc
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Name Server: DNS1.REGISTRAR-SERVERS.COM
+Name Server: DNS2.REGISTRAR-SERVERS.COM
+DNSSEC: unsigned
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:33:01Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to WHOIS information provided by Internet Computer Bureau Ltd. ("ICB") is provided to assist persons in determining the contents of a domain name registration record in the ICB registry database. The data in this record is provided by ICB for informational purposes only, and ICB does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(i) allow, enable, or otherwise support the transmission by e-mail, telephone, facsimile or other electronic means of mass, unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (ii) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or ICB or its services providers except as reasonably necessary to register domain names or modify existing registrations. UK privacy laws limit the scope of information permitted for certain public access.  Therefore, concerns regarding abusive use of domain registrations in the ICB registry should be directed to either (a) the Registrar of Record as indicated in the WHOIS output, or (b) the ICB anti-abuse department at abuse@icbregistry.info.
+All rights reserved. ICB reserves the right to modify these terms at any time. By submitting this query, you agree to abide by these policies
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 13:34:02.000 UTC</createdDate>
+      <updatedDate>2018-12-01 13:34:02.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2016-11-25 00:58:32 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-10-20 01:40:09 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-25 00:58:32 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@namecheap.com</contactEmail>
+  <domainNameExt>.io</domainNameExt>
+  <estimatedDomainAge>736</estimatedDomainAge>
+</WhoisRecord>

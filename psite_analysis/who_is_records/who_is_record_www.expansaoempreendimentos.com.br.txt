@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>expansaoempreendimentos.com.br</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:25:09.928 UTC</createdDate>
+    <updatedDate>2018-12-01 14:25:09.928 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>20110220 #7898110</createdDate>
+    <updatedDate>20180131</updatedDate>
+    <expiresDate>20190220</expiresDate>
+    <registrant>
+      <name>Jonas Manfrini</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <rawText>owner:       Jonas Manfrini</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Heron Giacomozzi da Veiga</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>atendimento@veigaeveiga.com.br</email>
+      <rawText>nic-hdl-br:  HEGVE
+person:      Heron Giacomozzi da Veiga
+e-mail:      atendimento@veigaeveiga.com.br
+country:     BR
+created:     20080410
+changed:     20180927</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Heron Giacomozzi da Veiga</name>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>atendimento@veigaeveiga.com.br</email>
+      <rawText>nic-hdl-br:  HEGVE
+person:      Heron Giacomozzi da Veiga
+e-mail:      atendimento@veigaeveiga.com.br
+country:     BR
+created:     20080410
+changed:     20180927</rawText>
+    </technicalContact>
+    <domainName>expansaoempreendimentos.com.br</domainName>
+    <nameServers>
+      <rawText>ns1.cloudnet.com.br
+ns2.cloudnet.com.br
+</rawText>
+      <hostNames>
+        <Address>ns1.cloudnet.com.br</Address>
+        <Address>ns2.cloudnet.com.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>published</status>
+    <rawText>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:25:09-02:00
+
+domain:      expansaoempreendimentos.com.br
+owner:       Jonas Manfrini
+ownerid:     765.041.749-20
+country:     BR
+owner-c:     HEGVE
+admin-c:     HEGVE
+tech-c:      HEGVE
+billing-c:   HEGVE
+nserver:     ns1.cloudnet.com.br
+nsstat:      20181129 AA
+nslastaa:    20181129
+nserver:     ns2.cloudnet.com.br
+nsstat:      20181129 AA
+nslastaa:    20181129
+saci:        yes
+created:     20110220 #7898110
+changed:     20180131
+expires:     20190220
+status:      published
+
+nic-hdl-br:  HEGVE
+person:      Heron Giacomozzi da Veiga
+e-mail:      atendimento@veigaeveiga.com.br
+country:     BR
+created:     20080410
+changed:     20180927
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</rawText>
+    <parseCode>3571</parseCode>
+    <header>% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2018-12-01T12:25:09-02:00</header>
+    <strippedText>
+domain:      expansaoempreendimentos.com.br
+owner:       Jonas Manfrini
+ownerid:     765.041.749-20
+country:     BR
+owner-c:     HEGVE
+admin-c:     HEGVE
+tech-c:      HEGVE
+billing-c:   HEGVE
+nserver:     ns1.cloudnet.com.br
+nsstat:      20181129 AA
+nslastaa:    20181129
+nserver:     ns2.cloudnet.com.br
+nsstat:      20181129 AA
+nslastaa:    20181129
+saci:        yes
+created:     20110220 #7898110
+changed:     20180131
+expires:     20190220
+status:      published
+
+nic-hdl-br:  HEGVE
+person:      Heron Giacomozzi da Veiga
+e-mail:      atendimento@veigaeveiga.com.br
+country:     BR
+created:     20080410
+changed:     20180927
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:25:09.928 UTC</createdDate>
+      <updatedDate>2018-12-01 14:25:09.928 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2011-02-20 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-01-31 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-02-20 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.registro.br</whoisServer>
+  </registryData>
+  <contactEmail>atendimento@veigaeveiga.com.br</contactEmail>
+  <domainNameExt>.com.br</domainNameExt>
+  <estimatedDomainAge>2841</estimatedDomainAge>
+</WhoisRecord>

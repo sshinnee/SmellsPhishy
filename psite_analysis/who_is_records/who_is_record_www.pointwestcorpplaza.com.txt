@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2004-09-28T00:44:15.000Z</createdDate>
+  <updatedDate>2018-03-18T02:55:38.000Z</updatedDate>
+  <expiresDate>2019-09-28T00:44:15.000Z</expiresDate>
+  <registrant>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>Tsakopoulos Investments</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>REDACTED FOR PRIVACY</city>
+    <state>CA</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <email>dataprivacyprotected@1und1.de</email>
+    <telephone/>
+    <fax/>
+    <rawText>Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Tsakopoulos Investments
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: dataprivacyprotected@1und1.de</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>REDACTED FOR PRIVACY</city>
+    <state>REDACTED FOR PRIVACY</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>REDACTED FOR PRIVACY</country>
+    <email>dataprivacyprotected@1und1.de</email>
+    <telephone/>
+    <fax/>
+    <rawText>Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: dataprivacyprotected@1und1.de</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>REDACTED FOR PRIVACY</name>
+    <organization>REDACTED FOR PRIVACY</organization>
+    <street1>REDACTED FOR PRIVACY</street1>
+    <city>REDACTED FOR PRIVACY</city>
+    <state>REDACTED FOR PRIVACY</state>
+    <postalCode>REDACTED FOR PRIVACY</postalCode>
+    <country>REDACTED FOR PRIVACY</country>
+    <email>dataprivacyprotected@1und1.de</email>
+    <telephone/>
+    <fax/>
+    <rawText>Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: dataprivacyprotected@1und1.de</rawText>
+  </technicalContact>
+  <domainName>pointwestcorpplaza.com</domainName>
+  <nameServers>
+    <rawText>ns1032.ui-dns.de
+ns1032.ui-dns.biz
+ns1032.ui-dns.org
+ns1032.ui-dns.com
+</rawText>
+    <hostNames>
+      <Address>ns1032.ui-dns.de</Address>
+      <Address>ns1032.ui-dns.biz</Address>
+      <Address>ns1032.ui-dns.org</Address>
+      <Address>ns1032.ui-dns.com</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited</status>
+  <rawText>Domain Name: pointwestcorpplaza.com
+Registry Domain ID: 131181561_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.ionos.com
+Registrar URL: http://ionos.com
+Updated Date: 2018-03-18T02:55:38.000Z
+Creation Date: 2004-09-28T00:44:15.000Z
+Registrar Registration Expiration Date: 2019-09-28T00:44:15.000Z
+Registrar: 1&amp;1 IONOS SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@ionos.com
+Registrar Abuse Contact Phone: +1.8774612631
+Reseller: 
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Tsakopoulos Investments
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: dataprivacyprotected@1und1.de
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: dataprivacyprotected@1und1.de
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: dataprivacyprotected@1und1.de
+Nameserver: ns1032.ui-dns.de
+Nameserver: ns1032.ui-dns.biz
+Nameserver: ns1032.ui-dns.org
+Nameserver: ns1032.ui-dns.com
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:59:37Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: pointwestcorpplaza.com
+Registrar WHOIS Server: whois.ionos.com
+Registrar URL: http://ionos.com
+Updated Date: 2018-03-18T02:55:38.000Z
+Creation Date: 2004-09-28T00:44:15.000Z
+Registrar Registration Expiration Date: 2019-09-28T00:44:15.000Z
+Registrar: 1&amp;1 IONOS SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@ionos.com
+Registrar Abuse Contact Phone: +1.8774612631
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Tsakopoulos Investments
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: dataprivacyprotected@1und1.de
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: dataprivacyprotected@1und1.de
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: dataprivacyprotected@1und1.de
+Nameserver: ns1032.ui-dns.de
+Nameserver: ns1032.ui-dns.biz
+Nameserver: ns1032.ui-dns.org
+Nameserver: ns1032.ui-dns.com
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 13:59:37.679 UTC</createdDate>
+    <updatedDate>2018-12-01 13:59:37.679 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@ionos.com</customField1Value>
+  <registrarName>1&amp;1 IONOS SE</registrarName>
+  <registrarIANAID>83</registrarIANAID>
+  <whoisServer>whois.ionos.com</whoisServer>
+  <createdDateNormalized>2004-09-28 00:44:15 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-03-18 02:55:38 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-09-28 00:44:15 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.8774612631</customField2Value>
+  <customField3Value>http://ionos.com</customField3Value>
+  <registryData>
+    <createdDate>2004-09-28T00:44:15Z</createdDate>
+    <updatedDate>2018-09-28T07:50:20Z</updatedDate>
+    <expiresDate>2019-09-28T00:44:15Z</expiresDate>
+    <domainName>pointwestcorpplaza.com</domainName>
+    <nameServers>
+      <rawText>NS1032.UI-DNS.BIZ
+NS1032.UI-DNS.COM
+NS1032.UI-DNS.DE
+NS1032.UI-DNS.ORG
+</rawText>
+      <hostNames>
+        <Address>NS1032.UI-DNS.BIZ</Address>
+        <Address>NS1032.UI-DNS.COM</Address>
+        <Address>NS1032.UI-DNS.DE</Address>
+        <Address>NS1032.UI-DNS.ORG</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: POINTWESTCORPPLAZA.COM
+   Registry Domain ID: 131181561_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.1and1.com
+   Registrar URL: http://registrar.1and1.info
+   Updated Date: 2018-09-28T07:50:20Z
+   Creation Date: 2004-09-28T00:44:15Z
+   Registry Expiry Date: 2019-09-28T00:44:15Z
+   Registrar: 1&amp;1 Internet SE
+   Registrar IANA ID: 83
+   Registrar Abuse Contact Email: abuse@1and1.com
+   Registrar Abuse Contact Phone: +1.6105601459
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1032.UI-DNS.BIZ
+   Name Server: NS1032.UI-DNS.COM
+   Name Server: NS1032.UI-DNS.DE
+   Name Server: NS1032.UI-DNS.ORG
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T13:59:25Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: POINTWESTCORPPLAZA.COM
+Registry Domain ID: 131181561_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.1and1.com
+Registrar URL: http://registrar.1and1.info
+Updated Date: 2018-09-28T07:50:20Z
+Creation Date: 2004-09-28T00:44:15Z
+Registry Expiry Date: 2019-09-28T00:44:15Z
+Registrar: 1&amp;1 Internet SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@1and1.com
+Registrar Abuse Contact Phone: +1.6105601459
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1032.UI-DNS.BIZ
+Name Server: NS1032.UI-DNS.COM
+Name Server: NS1032.UI-DNS.DE
+Name Server: NS1032.UI-DNS.ORG
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T13:59:25Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:59:36.766 UTC</createdDate>
+      <updatedDate>2018-12-01 13:59:36.766 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@1and1.com</customField1Value>
+    <registrarName>1&amp;1 Internet SE</registrarName>
+    <registrarIANAID>83</registrarIANAID>
+    <createdDateNormalized>2004-09-28 00:44:15 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-09-28 07:50:20 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-09-28 00:44:15 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6105601459</customField2Value>
+    <customField3Value>http://registrar.1and1.info</customField3Value>
+    <whoisServer>whois.1and1.com</whoisServer>
+  </registryData>
+  <contactEmail>dataprivacyprotected@1und1.de</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>5177</estimatedDomainAge>
+</WhoisRecord>

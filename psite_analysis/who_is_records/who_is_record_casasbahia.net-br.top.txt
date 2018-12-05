@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>net-br.top</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:43:30.332 UTC</createdDate>
+    <updatedDate>2018-12-01 13:43:30.332 UTC</updatedDate>
+  </audit>
+  <registrarName>PDR Ltd</registrarName>
+  <registryData>
+    <createdDate>2016-12-15T18:56:17Z</createdDate>
+    <updatedDate>2018-09-27T10:21:19Z</updatedDate>
+    <expiresDate>2018-12-15T18:56:17Z</expiresDate>
+    <registrant>
+      <name>Adrian Goncalves</name>
+      <organization>GTXHosting</organization>
+      <street1>Rua FV 8, 1782, Goiania-GO
+igara</street1>
+      <city>Goiania</city>
+      <state>AL</state>
+      <postalCode>92445-209</postalCode>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>adrian19442021@hotmail.com</email>
+      <telephone>556241515495</telephone>
+      <rawText>Registrant Name: Adrian Goncalves
+Registrant Organization: GTXHosting
+Registrant Street:  Rua FV 8, 1782, Goiania-GO
+Registrant Street:  igara
+Registrant City: Goiania
+Registrant State/Province: AL
+Registrant Postal Code: 92445-209
+Registrant Country: BR
+Registrant Phone: +55.6241515495
+Registrant Email: adrian19442021@hotmail.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Adrian Goncalves</name>
+      <organization>GTXHosting</organization>
+      <street1>Rua FV 8, 1782, Goiania-GO
+igara</street1>
+      <city>Goiania</city>
+      <state>AL</state>
+      <postalCode>92445-209</postalCode>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>adrian19442021@hotmail.com</email>
+      <telephone>556241515495</telephone>
+      <rawText>Admin Name: Adrian Goncalves
+Admin Organization: GTXHosting
+Admin Street:  Rua FV 8, 1782, Goiania-GO
+Admin Street:  igara
+Admin City: Goiania
+Admin State/Province: AL
+Admin Postal Code: 92445-209
+Admin Country: BR
+Admin Phone: +55.6241515495
+Admin Email: adrian19442021@hotmail.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Adrian Goncalves</name>
+      <organization>GTXHosting</organization>
+      <street1>Rua FV 8, 1782, Goiania-GO
+igara</street1>
+      <city>Goiania</city>
+      <state>AL</state>
+      <postalCode>92445-209</postalCode>
+      <country>BRAZIL</country>
+      <countryCode>BR</countryCode>
+      <email>adrian19442021@hotmail.com</email>
+      <telephone>556241515495</telephone>
+      <rawText>Tech Name: Adrian Goncalves
+Tech Organization: GTXHosting
+Tech Street:  Rua FV 8, 1782, Goiania-GO
+Tech Street:  igara
+Tech City: Goiania
+Tech State/Province: AL
+Tech Postal Code: 92445-209
+Tech Country: BR
+Tech Phone: +55.6241515495
+Tech Email: adrian19442021@hotmail.com</rawText>
+    </technicalContact>
+    <domainName>net-br.top</domainName>
+    <nameServers>
+      <rawText>ns326.gtxhosting.net.br
+ns325.gtxhosting.net.br
+ns328.gtxhosting.net.br
+ns327.gtxhosting.net.br
+</rawText>
+      <hostNames>
+        <Address>ns326.gtxhosting.net.br</Address>
+        <Address>ns325.gtxhosting.net.br</Address>
+        <Address>ns328.gtxhosting.net.br</Address>
+        <Address>ns327.gtxhosting.net.br</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: net-br.top
+Registry Domain ID: D20161216G10001G_93763652-top
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com
+Updated Date: 2018-09-27T10:21:19Z
+Creation Date: 2016-12-15T18:56:17Z
+Registry Expiry Date: 2018-12-15T18:56:17Z
+Registrar: PDR Ltd
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +91.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C20161216C_13873276-top
+Registrant Name: Adrian Goncalves
+Registrant Organization: GTXHosting
+Registrant Street:  Rua FV 8, 1782, Goiania-GO
+Registrant Street:  igara
+Registrant City: Goiania
+Registrant State/Province: AL
+Registrant Postal Code: 92445-209
+Registrant Country: BR
+Registrant Phone: +55.6241515495
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: adrian19442021@hotmail.com
+Registry Admin ID: C20161216C_13873277-top
+Admin Name: Adrian Goncalves
+Admin Organization: GTXHosting
+Admin Street:  Rua FV 8, 1782, Goiania-GO
+Admin Street:  igara
+Admin City: Goiania
+Admin State/Province: AL
+Admin Postal Code: 92445-209
+Admin Country: BR
+Admin Phone: +55.6241515495
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: adrian19442021@hotmail.com
+Registry Tech ID: C20161216C_13873278-top
+Tech Name: Adrian Goncalves
+Tech Organization: GTXHosting
+Tech Street:  Rua FV 8, 1782, Goiania-GO
+Tech Street:  igara
+Tech City: Goiania
+Tech State/Province: AL
+Tech Postal Code: 92445-209
+Tech Country: BR
+Tech Phone: +55.6241515495
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: adrian19442021@hotmail.com
+Name Server: ns326.gtxhosting.net.br
+Name Server: ns325.gtxhosting.net.br
+Name Server: ns328.gtxhosting.net.br
+Name Server: ns327.gtxhosting.net.br
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:39:20Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: The information in the Whois database is collected through ICANN-accredited registrars. Jiangsu bangning science &amp; technology Co., Ltd(“BANGNING”) make this information available to you and do not guarantee its accuracy or completeness. By submitting a whois query, you agree to abide by the following terms of use: you agree that you may use this data only for lawful purposes and that under no circumstances will you use this data to:  (1) to allow， enable， or otherwise support the transmission of mass unsolicited， commercial advertising or solicitations via direct mail， electronic mail， or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume， automated， electronic processes that apply to BANGNING (or its computer systems). Compilation， repackaging， dissemination， or other use of the WHOIS database in its entirety， or of a substantial portion thereof， is not allowed without BANGNING prior written permission. You agree not to use electronic processes that are automated and high-volume to access or query the whois database except as reasonably necessary to register domain names or modify existing registrations. BANGNING reserves the right to restrict your access to the whois database in its sole discretion to ensure operational stability.  BANGNING may restrict or terminate your access to the whois database for failure to abide by these terms of use. BANGNING reserves the right to modify these terms at any time without prior or subsequent notification of any kind.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: net-br.top
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com
+Updated Date: 2018-09-27T10:21:19Z
+Creation Date: 2016-12-15T18:56:17Z
+Registry Expiry Date: 2018-12-15T18:56:17Z
+Registrar: PDR Ltd
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +91.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Adrian Goncalves
+Registrant Organization: GTXHosting
+Registrant Street:  Rua FV 8, 1782, Goiania-GO
+Registrant Street:  igara
+Registrant City: Goiania
+Registrant State/Province: AL
+Registrant Postal Code: 92445-209
+Registrant Country: BR
+Registrant Phone: +55.6241515495
+Registrant Email: adrian19442021@hotmail.com
+Admin Name: Adrian Goncalves
+Admin Organization: GTXHosting
+Admin Street:  Rua FV 8, 1782, Goiania-GO
+Admin Street:  igara
+Admin City: Goiania
+Admin State/Province: AL
+Admin Postal Code: 92445-209
+Admin Country: BR
+Admin Phone: +55.6241515495
+Admin Email: adrian19442021@hotmail.com
+Tech Name: Adrian Goncalves
+Tech Organization: GTXHosting
+Tech Street:  Rua FV 8, 1782, Goiania-GO
+Tech Street:  igara
+Tech City: Goiania
+Tech State/Province: AL
+Tech Postal Code: 92445-209
+Tech Country: BR
+Tech Phone: +55.6241515495
+Tech Email: adrian19442021@hotmail.com
+Name Server: ns326.gtxhosting.net.br
+Name Server: ns325.gtxhosting.net.br
+Name Server: ns328.gtxhosting.net.br
+Name Server: ns327.gtxhosting.net.br
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:43:30.332 UTC</createdDate>
+      <updatedDate>2018-12-01 13:43:30.332 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse-contact@publicdomainregistry.com</customField1Value>
+    <registrarName>PDR Ltd</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2016-12-15 18:56:17 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-09-27 10:21:19 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-12-15 18:56:17 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+91.2013775952</customField2Value>
+    <customField3Value>http://publicdomainregistry.com</customField3Value>
+    <whoisServer>whois.publicdomainregistry.com</whoisServer>
+  </registryData>
+  <contactEmail>adrian19442021@hotmail.com</contactEmail>
+  <domainNameExt>.top</domainNameExt>
+  <estimatedDomainAge>715</estimatedDomainAge>
+</WhoisRecord>

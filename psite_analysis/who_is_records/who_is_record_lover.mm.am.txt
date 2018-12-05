@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>mm.am</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:00:06.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:00:06.000 UTC</updatedDate>
+  </audit>
+  <registrarName>abcdomain (ABCDomain LLC)</registrarName>
+  <registrarIANAID>144</registrarIANAID>
+  <registryData>
+    <createdDate>2016-05-31</createdDate>
+    <updatedDate>2018-05-29</updatedDate>
+    <expiresDate>2019-05-31</expiresDate>
+    <registrant>
+      <name>Domain Privacy</name>
+      <city>REDACTED FOR</city>
+      <state>PRIVACY</state>
+      <postalCode>0000</postalCode>
+      <country>ARMENIA</country>
+      <countryCode>AM</countryCode>
+      <email>privacy@internet.am</email>
+      <rawText>Domain Privacy
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY,  0000
+AM
+Private contact:
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY, 0000
+AM
+privacy@internet.am
+00000000000</rawText>
+      <unparsable>Domain Privacy
+REDACTED FOR PRIVACY
+Private contact:
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY, 0000
+AM
+00000000000</unparsable>
+    </registrant>
+    <domainName>mm.am</domainName>
+    <nameServers>
+      <rawText>ns1.20dragons.com
+ns2.20dragons.com
+</rawText>
+      <hostNames>
+        <Address>ns1.20dragons.com</Address>
+        <Address>ns2.20dragons.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>active</status>
+    <rawText>%
+%AM TLD whois server #2
+% Please see 'whois -h whois.amnic.net help' for usage.
+%
+
+   Domain name: mm.am
+   Registrar:   abcdomain (ABCDomain LLC)
+   Status:      active
+
+   Registrant:
+      Domain Privacy
+      REDACTED FOR PRIVACY
+      REDACTED FOR PRIVACY,  0000
+      AM
+
+   Private contact:
+      REDACTED FOR PRIVACY
+      REDACTED FOR PRIVACY
+      REDACTED FOR PRIVACY, 0000
+      AM
+      privacy@internet.am
+      00000000000
+
+   DNS servers:
+      ns1.20dragons.com
+      ns2.20dragons.com
+
+   Registered:    2016-05-31
+   Last modified: 2018-05-29
+   Expires:       2019-05-31</rawText>
+    <parseCode>1275</parseCode>
+    <header>%
+%AM TLD whois server #2
+% Please see 'whois -h whois.amnic.net help' for usage.
+%</header>
+    <strippedText>Domain name: mm.am
+Registrar:   abcdomain (ABCDomain LLC)
+Status:      active
+Registrant:
+Domain Privacy
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY,  0000
+AM
+Private contact:
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY
+REDACTED FOR PRIVACY, 0000
+AM
+privacy@internet.am
+00000000000
+DNS servers:
+ns1.20dragons.com
+ns2.20dragons.com
+Registered:    2016-05-31
+Last modified: 2018-05-29
+Expires:       2019-05-31
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:00:06.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:00:06.000 UTC</updatedDate>
+    </audit>
+    <registrarName>abcdomain (ABCDomain LLC)</registrarName>
+    <registrarIANAID>144</registrarIANAID>
+    <createdDateNormalized>2016-05-31 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-05-29 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-31 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>am.whois-servers.net</whoisServer>
+  </registryData>
+  <contactEmail>privacy@internet.am</contactEmail>
+  <domainNameExt>.am</domainNameExt>
+  <estimatedDomainAge>914</estimatedDomainAge>
+</WhoisRecord>

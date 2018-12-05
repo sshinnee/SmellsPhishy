@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>sbiixpress.fr</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:00:13.586 UTC</createdDate>
+    <updatedDate>2018-12-01 14:00:13.586 UTC</updatedDate>
+  </audit>
+  <registrarName>AMEN / Agence des Médias Numériques</registrarName>
+  <registryData>
+    <createdDate>2015-12-11T16:06:38Z</createdDate>
+    <updatedDate>2017-12-09T23:34:05Z</updatedDate>
+    <expiresDate>2018-12-09T23:07:31Z</expiresDate>
+    <registrant>
+      <name>Ano Nymous</name>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <rawText>nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------</rawText>
+      <type>PERSON</type>
+    </registrant>
+    <administrativeContact>
+      <name>Ano Nymous</name>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <rawText>nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------</rawText>
+      <type>PERSON</type>
+    </administrativeContact>
+    <technicalContact>
+      <organization>AMEN France</organization>
+      <street1>Departement Noms de domaine</street1>
+      <street2>12, Rond-Point des Champs-Elysees</street2>
+      <street3>75008 Paris</street3>
+      <country>FRANCE</country>
+      <countryCode>FR</countryCode>
+      <email>afnic@amen.fr</email>
+      <telephone>33 8 92 55 66 77</telephone>
+      <rawText>nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC</rawText>
+      <type>ROLE</type>
+    </technicalContact>
+    <domainName>sbiixpress.fr</domainName>
+    <nameServers>
+      <rawText>ns1.amenworld.com
+ns2.amenworld.com
+</rawText>
+      <hostNames>
+        <Address>ns1.amenworld.com</Address>
+        <Address>ns2.amenworld.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ACTIVE</status>
+    <rawText>%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : YYYY-MM-DDThh:mm:ssZ
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [23.228.88.220 REQUEST] &gt;&gt; sbiixpress.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+domain:      sbiixpress.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5030-FRNIC
+registrar:   AMEN / Agence des Médias Numériques
+Expiry Date: 2018-12-09T23:07:31Z
+created:     2015-12-11T16:06:38Z
+last-update: 2017-12-09T23:34:05Z
+source:      FRNIC
+
+ns-list:     NSL5030-FRNIC
+nserver:     ns1.amenworld.com
+nserver:     ns2.amenworld.com
+source:      FRNIC
+
+registrar:   AMEN / Agence des Médias Numériques
+type:        Isp Option 1
+address:     12-14, Rond-Point des Champs Elysées
+address:     75008 PARIS
+country:     FR
+phone:       0 811 88 77 66
+fax-no:      +33 1 70 70 21 10
+e-mail:      afnic@amen.fr
+website:     https://www.amen.fr/nom-de-domaine/
+anonymous:   NO
+registered:  1999-01-17T12:00:00Z
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+registrar:   AMEN / Agence des Médias Numériques
+changed:     2018-06-12T08:45:05Z anonymous@anonymous
+anonymous:   YES
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    2018-06-12T08:45:05Z
+reachstatus: not identified
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+registrar:   AMEN / Agence des Médias Numériques
+changed:     2018-06-12T08:45:08Z anonymous@anonymous
+anonymous:   YES
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    2018-06-12T08:45:08Z
+reachstatus: not identified
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+registrar:   AMEN / Agence des Médias Numériques
+changed:     2008-08-22T09:37:35Z afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  not identified
+reachstatus: not identified
+source:      FRNIC</rawText>
+    <parseCode>3579</parseCode>
+    <header>%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : YYYY-MM-DDThh:mm:ssZ
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/products-and-services/services/whois/whois-special-notice/
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [23.228.88.220 REQUEST] &gt;&gt; sbiixpress.fr
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%</header>
+    <strippedText>
+domain:      sbiixpress.fr
+status:      ACTIVE
+hold:        NO
+holder-c:    ANO00-FRNIC
+admin-c:     ANO00-FRNIC
+tech-c:      AF307-FRNIC
+zone-c:      NFC1-FRNIC
+nsl-id:      NSL5030-FRNIC
+registrar:   AMEN / Agence des Médias Numériques
+Expiry Date: 2018-12-09T23:07:31Z
+created:     2015-12-11T16:06:38Z
+last-update: 2017-12-09T23:34:05Z
+source:      FRNIC
+
+ns-list:     NSL5030-FRNIC
+nserver:     ns1.amenworld.com
+nserver:     ns2.amenworld.com
+source:      FRNIC
+
+registrar:   AMEN / Agence des Médias Numériques
+type:        Isp Option 1
+address:     12-14, Rond-Point des Champs Elysées
+address:     75008 PARIS
+country:     FR
+phone:       0 811 88 77 66
+fax-no:      +33 1 70 70 21 10
+e-mail:      afnic@amen.fr
+website:     https://www.amen.fr/nom-de-domaine/
+anonymous:   NO
+registered:  1999-01-17T12:00:00Z
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+registrar:   AMEN / Agence des Médias Numériques
+changed:     2018-06-12T08:45:05Z anonymous@anonymous
+anonymous:   YES
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    2018-06-12T08:45:05Z
+reachstatus: not identified
+source:      FRNIC
+
+nic-hdl:     ANO00-FRNIC
+type:        PERSON
+contact:     Ano Nymous
+remarks:     -------------- WARNING --------------
+remarks:     While the registrar knows him/her,
+remarks:     this person chose to restrict access
+remarks:     to his/her personal data. So PLEASE,
+remarks:     don't send emails to Ano Nymous. This
+remarks:     address is bogus and there is no hope
+remarks:     of a reply.
+remarks:     -------------- WARNING --------------
+registrar:   AMEN / Agence des Médias Numériques
+changed:     2018-06-12T08:45:08Z anonymous@anonymous
+anonymous:   YES
+obsoleted:   NO
+eligstatus:  ok
+eligdate:    2018-06-12T08:45:08Z
+reachstatus: not identified
+source:      FRNIC
+
+nic-hdl:     AF307-FRNIC
+type:        ROLE
+contact:     AMEN France
+address:     Departement Noms de domaine
+address:     12, Rond-Point des Champs-Elysees
+address:     75008 Paris
+country:     FR
+phone:       +33 8 92 55 66 77
+e-mail:      afnic@amen.fr
+admin-c:     AF307-FRNIC
+tech-c:      AF307-FRNIC
+registrar:   AMEN / Agence des Médias Numériques
+changed:     2008-08-22T09:37:35Z afnic@amen.fr
+anonymous:   NO
+obsoleted:   NO
+eligstatus:  not identified
+reachstatus: not identified
+source:      FRNIC</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:00:13.586 UTC</createdDate>
+      <updatedDate>2018-12-01 14:00:13.586 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>afnic@amen.fr</customField1Value>
+    <registrarName>AMEN / Agence des Médias Numériques</registrarName>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>0 811 88 77 66</customField2Value>
+    <customField3Value>https://www.amen.fr/nom-de-domaine/</customField3Value>
+    <whoisServer>whois.nic.fr</whoisServer>
+  </registryData>
+  <contactEmail>afnic@amen.fr</contactEmail>
+  <domainNameExt>.fr</domainNameExt>
+</WhoisRecord>

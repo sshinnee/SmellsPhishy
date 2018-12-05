@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>com-ak.top</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:02:13.708 UTC</createdDate>
+    <updatedDate>2018-12-01 14:02:13.708 UTC</updatedDate>
+  </audit>
+  <registrarName>NameSilo</registrarName>
+  <registrarIANAID>1479</registrarIANAID>
+  <registryData>
+    <createdDate>2018-06-22T09:43:22Z</createdDate>
+    <updatedDate>2018-06-22T09:45:56Z</updatedDate>
+    <expiresDate>2019-06-22T09:43:22Z</expiresDate>
+    <registrant>
+      <name>Domain Administrator</name>
+      <organization>See PrivacyGuardian.org</organization>
+      <street1>1928 E. Highland Ave. Ste F104
+PMB# 255</street1>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <postalCode>85016</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org</email>
+      <telephone>13478717726</telephone>
+      <rawText>Registrant Name: Domain Administrator
+Registrant Organization: See PrivacyGuardian.org
+Registrant Street:  1928 E. Highland Ave. Ste F104
+Registrant Street:  PMB# 255
+Registrant City: Phoenix
+Registrant State/Province: AZ
+Registrant Postal Code: 85016
+Registrant Country: US
+Registrant Phone: +1.3478717726
+Registrant Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Domain Administrator</name>
+      <organization>See PrivacyGuardian.org</organization>
+      <street1>1928 E. Highland Ave. Ste F104
+PMB# 255</street1>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <postalCode>85016</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org</email>
+      <telephone>13478717726</telephone>
+      <rawText>Admin Name: Domain Administrator
+Admin Organization: See PrivacyGuardian.org
+Admin Street:  1928 E. Highland Ave. Ste F104
+Admin Street:  PMB# 255
+Admin City: Phoenix
+Admin State/Province: AZ
+Admin Postal Code: 85016
+Admin Country: US
+Admin Phone: +1.3478717726
+Admin Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Domain Administrator</name>
+      <organization>See PrivacyGuardian.org</organization>
+      <street1>1928 E. Highland Ave. Ste F104
+PMB# 255</street1>
+      <city>Phoenix</city>
+      <state>AZ</state>
+      <postalCode>85016</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org</email>
+      <telephone>13478717726</telephone>
+      <rawText>Tech Name: Domain Administrator
+Tech Organization: See PrivacyGuardian.org
+Tech Street:  1928 E. Highland Ave. Ste F104
+Tech Street:  PMB# 255
+Tech City: Phoenix
+Tech State/Province: AZ
+Tech Postal Code: 85016
+Tech Country: US
+Tech Phone: +1.3478717726
+Tech Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org</rawText>
+    </technicalContact>
+    <domainName>com-ak.top</domainName>
+    <nameServers>
+      <rawText>ns2.dnsowl.com
+ns3.dnsowl.com
+ns1.dnsowl.com
+</rawText>
+      <hostNames>
+        <Address>ns2.dnsowl.com</Address>
+        <Address>ns3.dnsowl.com</Address>
+        <Address>ns1.dnsowl.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: com-ak.top
+Registry Domain ID: D20180622G10001G_59871344-top
+Registrar WHOIS Server: whois.namesilo.com
+Registrar URL: https://www.namesilo.com
+Updated Date: 2018-06-22T09:45:56Z
+Creation Date: 2018-06-22T09:43:22Z
+Registry Expiry Date: 2019-06-22T09:43:22Z
+Registrar: NameSilo
+Registrar IANA ID: 1479
+Registrar Abuse Contact Email: abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.4805240066
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C20180622C_31776658-top
+Registrant Name: Domain Administrator
+Registrant Organization: See PrivacyGuardian.org
+Registrant Street:  1928 E. Highland Ave. Ste F104
+Registrant Street:  PMB# 255
+Registrant City: Phoenix
+Registrant State/Province: AZ
+Registrant Postal Code: 85016
+Registrant Country: US
+Registrant Phone: +1.3478717726
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org
+Registry Admin ID: C20180622C_31776658-top
+Admin Name: Domain Administrator
+Admin Organization: See PrivacyGuardian.org
+Admin Street:  1928 E. Highland Ave. Ste F104
+Admin Street:  PMB# 255
+Admin City: Phoenix
+Admin State/Province: AZ
+Admin Postal Code: 85016
+Admin Country: US
+Admin Phone: +1.3478717726
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org
+Registry Tech ID: C20180622C_31776658-top
+Tech Name: Domain Administrator
+Tech Organization: See PrivacyGuardian.org
+Tech Street:  1928 E. Highland Ave. Ste F104
+Tech Street:  PMB# 255
+Tech City: Phoenix
+Tech State/Province: AZ
+Tech Postal Code: 85016
+Tech Country: US
+Tech Phone: +1.3478717726
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org
+Name Server: ns2.dnsowl.com
+Name Server: ns3.dnsowl.com
+Name Server: ns1.dnsowl.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:55:07Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: The information in the Whois database is collected through ICANN-accredited registrars. Jiangsu bangning science &amp; technology Co., Ltd(“BANGNING”) make this information available to you and do not guarantee its accuracy or completeness. By submitting a whois query, you agree to abide by the following terms of use: you agree that you may use this data only for lawful purposes and that under no circumstances will you use this data to:  (1) to allow， enable， or otherwise support the transmission of mass unsolicited， commercial advertising or solicitations via direct mail， electronic mail， or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume， automated， electronic processes that apply to BANGNING (or its computer systems). Compilation， repackaging， dissemination， or other use of the WHOIS database in its entirety， or of a substantial portion thereof， is not allowed without BANGNING prior written permission. You agree not to use electronic processes that are automated and high-volume to access or query the whois database except as reasonably necessary to register domain names or modify existing registrations. BANGNING reserves the right to restrict your access to the whois database in its sole discretion to ensure operational stability.  BANGNING may restrict or terminate your access to the whois database for failure to abide by these terms of use. BANGNING reserves the right to modify these terms at any time without prior or subsequent notification of any kind.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: com-ak.top
+Registrar WHOIS Server: whois.namesilo.com
+Registrar URL: https://www.namesilo.com
+Updated Date: 2018-06-22T09:45:56Z
+Creation Date: 2018-06-22T09:43:22Z
+Registry Expiry Date: 2019-06-22T09:43:22Z
+Registrar: NameSilo
+Registrar IANA ID: 1479
+Registrar Abuse Contact Email: abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.4805240066
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Domain Administrator
+Registrant Organization: See PrivacyGuardian.org
+Registrant Street:  1928 E. Highland Ave. Ste F104
+Registrant Street:  PMB# 255
+Registrant City: Phoenix
+Registrant State/Province: AZ
+Registrant Postal Code: 85016
+Registrant Country: US
+Registrant Phone: +1.3478717726
+Registrant Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org
+Admin Name: Domain Administrator
+Admin Organization: See PrivacyGuardian.org
+Admin Street:  1928 E. Highland Ave. Ste F104
+Admin Street:  PMB# 255
+Admin City: Phoenix
+Admin State/Province: AZ
+Admin Postal Code: 85016
+Admin Country: US
+Admin Phone: +1.3478717726
+Admin Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org
+Tech Name: Domain Administrator
+Tech Organization: See PrivacyGuardian.org
+Tech Street:  1928 E. Highland Ave. Ste F104
+Tech Street:  PMB# 255
+Tech City: Phoenix
+Tech State/Province: AZ
+Tech Postal Code: 85016
+Tech Country: US
+Tech Phone: +1.3478717726
+Tech Email: pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org
+Name Server: ns2.dnsowl.com
+Name Server: ns3.dnsowl.com
+Name Server: ns1.dnsowl.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:02:13.708 UTC</createdDate>
+      <updatedDate>2018-12-01 14:02:13.708 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namesilo.com</customField1Value>
+    <registrarName>NameSilo</registrarName>
+    <registrarIANAID>1479</registrarIANAID>
+    <createdDateNormalized>2018-06-22 09:43:22 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-06-22 09:45:56 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-06-22 09:43:22 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4805240066</customField2Value>
+    <customField3Value>https://www.namesilo.com</customField3Value>
+    <whoisServer>whois.namesilo.com</whoisServer>
+  </registryData>
+  <contactEmail>pw-f50018bb734d7935b74cb066df6642d3@privacyguardian.org</contactEmail>
+  <domainNameExt>.top</domainNameExt>
+  <estimatedDomainAge>162</estimatedDomainAge>
+</WhoisRecord>

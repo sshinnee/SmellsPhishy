@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>shortter.ml</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:23:31.787 UTC</createdDate>
+    <updatedDate>2018-12-01 14:23:31.787 UTC</updatedDate>
+  </audit>
+  <dataError>INCOMPLETE_DATA</dataError>
+  <registryData>
+    <domainName>shortter.ml</domainName>
+    <rawText>The domain you requested is not known in Freenoms database.
+
+WHOIS lookup for SHORTTER.ML can temporarily not be answered. Please try again.</rawText>
+    <parseCode>64</parseCode>
+    <header>The domain you requested is not known in Freenoms database.
+WHOIS lookup for SHORTTER.ML can temporarily not be answered. Please try again.</header>
+    <strippedText/>
+    <audit>
+      <createdDate>2018-12-01 14:23:31.787 UTC</createdDate>
+      <updatedDate>2018-12-01 14:23:31.787 UTC</updatedDate>
+    </audit>
+    <dataError>INCOMPLETE_DATA</dataError>
+    <whoisServer>whois.dot.ml</whoisServer>
+  </registryData>
+  <domainNameExt>.ml</domainNameExt>
+</WhoisRecord>

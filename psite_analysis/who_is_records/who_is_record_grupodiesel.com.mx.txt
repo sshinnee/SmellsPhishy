@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>grupodiesel.com.mx</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:16:29.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:16:29.000 UTC</updatedDate>
+  </audit>
+  <registrarName>GoDaddy.com</registrarName>
+  <registrarIANAID>146</registrarIANAID>
+  <registryData>
+    <createdDate>2017-07-20</createdDate>
+    <updatedDate>2018-07-06</updatedDate>
+    <expiresDate>2019-07-20</expiresDate>
+    <registrant>
+      <name>Daniel Jimenez Valadez</name>
+      <city>guadalajara</city>
+      <state>Jalisco</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           Daniel Jimenez Valadez
+City:           guadalajara
+State:          Jalisco
+Country:        Mexico</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Daniel Jimenez Valadez</name>
+      <city>guadalajara</city>
+      <state>Jalisco</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           Daniel Jimenez Valadez
+City:           guadalajara
+State:          Jalisco
+Country:        Mexico</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Daniel Jimenez Valadez</name>
+      <city>guadalajara</city>
+      <state>Jalisco</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           Daniel Jimenez Valadez
+City:           guadalajara
+State:          Jalisco
+Country:        Mexico</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Daniel Jimenez Valadez</name>
+      <city>guadalajara</city>
+      <state>Jalisco</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           Daniel Jimenez Valadez
+City:           guadalajara
+State:          Jalisco
+Country:        Mexico</rawText>
+    </technicalContact>
+    <domainName>grupodiesel.com.mx</domainName>
+    <nameServers>
+      <rawText>ns1.paneldns.net
+ns2.paneldns.net
+</rawText>
+      <hostNames>
+        <Address>ns1.paneldns.net</Address>
+        <Address>ns2.paneldns.net</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain Name:       grupodiesel.com.mx
+
+Created On:        2017-07-20
+Expiration Date:   2019-07-20
+Last Updated On:   2018-07-06
+Registrar:         GoDaddy.com
+URL:               http://www.godaddy.com
+
+Registrant:
+   Name:           Daniel Jimenez Valadez
+   City:           guadalajara
+   State:          Jalisco
+   Country:        Mexico
+
+Administrative Contact:
+   Name:           Daniel Jimenez Valadez
+   City:           guadalajara
+   State:          Jalisco
+   Country:        Mexico
+
+Technical Contact:
+   Name:           Daniel Jimenez Valadez
+   City:           guadalajara
+   State:          Jalisco
+   Country:        Mexico
+
+Billing Contact:
+   Name:           Daniel Jimenez Valadez
+   City:           guadalajara
+   State:          Jalisco
+   Country:        Mexico
+
+Name Servers:
+   DNS:            ns1.paneldns.net       
+   DNS:            ns2.paneldns.net       
+
+DNSSEC DS Records:
+
+
+% NOTICE: The expiration date displayed in this record is the date the
+% registrar's sponsorship of the domain name registration in the registry is
+% currently set to expire. This date does not necessarily reflect the
+% expiration date of the domain name registrant's agreement with the sponsoring
+% registrar. Users may consult the sponsoring registrar's Whois database to
+% view the registrar's reported date of expiration for this registration.
+
+% The requested information ("Information") is provided only for the delegation
+% of domain names and the operation of the DNS administered by NIC Mexico.
+
+% It is absolutely prohibited to use the Information for other purposes, 
+% including sending not requested emails for advertising or promoting products
+% and services purposes (SPAM) without the authorization of the owners of the
+% Information and NIC Mexico.
+
+% The database generated from the delegation system is protected by the
+% intellectual property laws and all international treaties on the matter.
+
+% If you need more information on the records displayed here, please contact us
+% by email at ayuda@nic.mx .
+
+% If you want notify the receipt of SPAM or unauthorized access, please send a
+% email to abuse@nic.mx .
+
+% NOTA: La fecha de expiracion mostrada en esta consulta es la fecha que el
+% registrar tiene contratada para el nombre de dominio en el registry. Esta
+% fecha no necesariamente refleja la fecha de expiracion del nombre de dominio
+% que el registrante tiene contratada con el registrar. Puede consultar la base
+% de datos de Whois del registrar para ver la fecha de expiracion reportada por
+% el registrar para este nombre de dominio.
+
+% La informacion que ha solicitado se provee exclusivamente para fines
+% relacionados con la delegacion de nombres de dominio y la operacion del DNS
+% administrado por NIC Mexico.
+
+% Queda absolutamente prohibido su uso para otros propositos, incluyendo el
+% envio de Correos Electronicos no solicitados con fines publicitarios o de
+% promocion de productos y servicios (SPAM) sin mediar la autorizacion de los
+% afectados y de NIC Mexico.
+
+% La base de datos generada a partir del sistema de delegacion, esta protegida
+% por las leyes de Propiedad Intelectual y todos los tratados internacionales
+% sobre la materia.
+
+% Si necesita mayor informacion sobre los registros aqui mostrados, favor de
+% comunicarse a ayuda@nic.mx.
+
+% Si desea notificar sobre correo no solicitado o accesos no autorizados, favor
+% de enviar su mensaje a abuse@nic.mx.</rawText>
+    <parseCode>4075</parseCode>
+    <header/>
+    <strippedText>Domain Name:       grupodiesel.com.mx
+Created On:        2017-07-20
+Expiration Date:   2019-07-20
+Last Updated On:   2018-07-06
+Registrar:         GoDaddy.com
+DNS:            ns1.paneldns.net
+DNS:            ns2.paneldns.net
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:16:29.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:16:29.000 UTC</updatedDate>
+    </audit>
+    <registrarName>GoDaddy.com</registrarName>
+    <registrarIANAID>146</registrarIANAID>
+    <createdDateNormalized>2017-07-20 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-07-06 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-07-20 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.mx</whoisServer>
+  </registryData>
+  <contactEmail>ayuda@nic.mx</contactEmail>
+  <domainNameExt>.com.mx</domainNameExt>
+  <estimatedDomainAge>499</estimatedDomainAge>
+</WhoisRecord>

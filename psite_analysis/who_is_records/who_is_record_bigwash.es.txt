@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>bigwash.es</domainName>
+  <nameServers>
+    <rawText>ns2.dnsystem.com
+ns3.dnsystem.com
+ns.dnsystem.com
+ns4.dnsystem.com
+</rawText>
+    <hostNames>
+      <Address>ns2.dnsystem.com</Address>
+      <Address>ns3.dnsystem.com</Address>
+      <Address>ns.dnsystem.com</Address>
+      <Address>ns4.dnsystem.com</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <parseCode>128</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:06:24.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:06:24.000 UTC</updatedDate>
+  </audit>
+  <domainNameExt>.es</domainNameExt>
+</WhoisRecord>

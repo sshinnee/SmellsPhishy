@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2016-05-05T00:00:00Z</createdDate>
+  <updatedDate>2016-05-05T10:54:36Z</updatedDate>
+  <expiresDate>2019-05-05T21:00:00Z</expiresDate>
+  <registrant>
+    <name>REDACTED</name>
+    <street1>REDACTED</street1>
+    <city>REDACTED</city>
+    <state>REDACTED</state>
+    <postalCode>REDACTED</postalCode>
+    <country>REDACTED</country>
+    <telephone/>
+    <fax/>
+    <rawText>Registrant Name: REDACTED
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: REDACTED
+Registrant Postal Code: REDACTED
+Registrant Country: REDACTED
+Registrant Phone: REDACTED
+Registrant Fax: REDACTED
+Registrant Email: REDACTED</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>REDACTED</name>
+    <street1>REDACTED</street1>
+    <city>REDACTED</city>
+    <state>REDACTED</state>
+    <postalCode>REDACTED</postalCode>
+    <country>REDACTED</country>
+    <telephone/>
+    <fax/>
+    <rawText>Admin Name: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Fax: REDACTED
+Admin Email: REDACTED</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>REDACTED</name>
+    <street1>REDACTED</street1>
+    <city>REDACTED</city>
+    <state>REDACTED</state>
+    <postalCode>REDACTED</postalCode>
+    <country>REDACTED</country>
+    <telephone/>
+    <fax/>
+    <rawText>Tech Name: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Fax: REDACTED
+Tech Email: REDACTED</rawText>
+  </technicalContact>
+  <domainName>nouvaufersl.com</domainName>
+  <nameServers>
+    <rawText>ns0.unlimited.uk.net
+ns1.unlimited.uk.net
+</rawText>
+    <hostNames>
+      <Address>ns0.unlimited.uk.net</Address>
+      <Address>ns1.unlimited.uk.net</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>active
+clientTransferProhibited</status>
+  <rawText>Domain Name: nouvaufersl.com
+Registrar WHOIS Server: whois.netim.com
+Registrar URL: http://www.netim.com
+Updated Date: 2016-05-05T10:54:36Z
+Creation Date: 2016-05-05T00:00:00Z
+Registrar Registration Expiration Date: 2019-05-05T21:00:00Z
+Registrar: NETIM
+Registrar IANA ID: 1519
+Registrar Abuse Contact Email: abuse@netim.net
+Registrar Abuse Contact Phone: +33.972307476
+Reseller: Nacim ZOUBAINE
+Reseller: 149.255.60.1
+Reseller: 149.255.60.9
+Reseller: www.heberhost.com
+Reseller: n.zoubaine@heberhost.com
+Domain Status: active
+Domain Status: clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: REDACTED
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: REDACTED
+Registrant Postal Code: REDACTED
+Registrant Country: REDACTED
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: REDACTED
+Admin Name: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: REDACTED
+Registry Tech ID:
+Tech Name: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: REDACTED
+Name Server: ns0.unlimited.uk.net
+Name Server: ns1.unlimited.uk.net
+DNSSEC: unsignedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T01:16:28CET&lt;&lt;&lt;
+
+# NOTICE AND TERMS OF USE: You are not authorized to access or query this WHOIS
+# database through the use of high-volume, automated, electronic processes. The
+# Data in this WHOIS database is provided for information purposes only, and to
+# assist persons in obtaining information about or related to a domain name 
+# registration record. We do not guarantee its accuracy.
+# By submitting a WHOIS query, you agree to abide by the following terms of use:
+# You agree that you may use this Data only for lawful purposes and that under no
+# circumstances will you use this Data to: (1) allow, enable, or otherwise support
+# the transmission of mass unsolicited, commercial advertising or solicitations
+# via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+# electronic processes. The compilation, repackaging, dissemination or other use
+# of this Data is expressly prohibited without our prior written consent. You 
+# agree not to use high-volume, automated, electronic processes to access or query 
+# the WHOIS database. 
+# We reserve the right to terminate your access to the WHOIS database in our sole
+# discretion, including without limitation, for excessive querying of the WHOIS
+# database or for failure to otherwise abide by this policy.
+# We reserve the right to modify these terms at any time.</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: nouvaufersl.com
+Registrar WHOIS Server: whois.netim.com
+Registrar URL: http://www.netim.com
+Updated Date: 2016-05-05T10:54:36Z
+Creation Date: 2016-05-05T00:00:00Z
+Registrar Registration Expiration Date: 2019-05-05T21:00:00Z
+Registrar: NETIM
+Registrar IANA ID: 1519
+Registrar Abuse Contact Email: abuse@netim.net
+Registrar Abuse Contact Phone: +33.972307476
+Domain Status: active
+Domain Status: clientTransferProhibited
+Registrant Name: REDACTED
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: REDACTED
+Registrant Postal Code: REDACTED
+Registrant Country: REDACTED
+Registrant Phone: REDACTED
+Registrant Fax: REDACTED
+Registrant Email: REDACTED
+Admin Name: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Fax: REDACTED
+Admin Email: REDACTED
+Tech Name: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Fax: REDACTED
+Tech Email: REDACTED
+Name Server: ns0.unlimited.uk.net
+Name Server: ns1.unlimited.uk.net
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 00:16:29.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:16:29.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@netim.net</customField1Value>
+  <registrarName>NETIM</registrarName>
+  <registrarIANAID>1519</registrarIANAID>
+  <whoisServer>whois.netim.com</whoisServer>
+  <createdDateNormalized>2016-05-05 00:00:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2016-05-05 10:54:36 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-05-05 21:00:00 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+33.972307476</customField2Value>
+  <customField3Value>http://www.netim.com</customField3Value>
+  <registryData>
+    <createdDate>2016-05-05T08:54:39Z</createdDate>
+    <updatedDate>2018-09-23T12:10:10Z</updatedDate>
+    <expiresDate>2019-05-05T08:54:39Z</expiresDate>
+    <domainName>nouvaufersl.com</domainName>
+    <nameServers>
+      <rawText>NS0.UNLIMITED.UK.NET
+NS1.UNLIMITED.UK.NET
+</rawText>
+      <hostNames>
+        <Address>NS0.UNLIMITED.UK.NET</Address>
+        <Address>NS1.UNLIMITED.UK.NET</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: NOUVAUFERSL.COM
+   Registry Domain ID: 2026027601_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.netim.com
+   Registrar URL: http://https://www.netim.com/domain-name
+   Updated Date: 2018-09-23T12:10:10Z
+   Creation Date: 2016-05-05T08:54:39Z
+   Registry Expiry Date: 2019-05-05T08:54:39Z
+   Registrar: NETIM sarl
+   Registrar IANA ID: 1519
+   Registrar Abuse Contact Email: abuse@netim.net
+   Registrar Abuse Contact Phone: +33.972307476
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS0.UNLIMITED.UK.NET
+   Name Server: NS1.UNLIMITED.UK.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:16:17Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: NOUVAUFERSL.COM
+Registry Domain ID: 2026027601_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.netim.com
+Registrar URL: http://https://www.netim.com/domain-name
+Updated Date: 2018-09-23T12:10:10Z
+Creation Date: 2016-05-05T08:54:39Z
+Registry Expiry Date: 2019-05-05T08:54:39Z
+Registrar: NETIM sarl
+Registrar IANA ID: 1519
+Registrar Abuse Contact Email: abuse@netim.net
+Registrar Abuse Contact Phone: +33.972307476
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS0.UNLIMITED.UK.NET
+Name Server: NS1.UNLIMITED.UK.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:16:17Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:16:28.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:16:28.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@netim.net</customField1Value>
+    <registrarName>NETIM sarl</registrarName>
+    <registrarIANAID>1519</registrarIANAID>
+    <createdDateNormalized>2016-05-05 08:54:39 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-09-23 12:10:10 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-05 08:54:39 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+33.972307476</customField2Value>
+    <customField3Value>http://https://www.netim.com/domain-name</customField3Value>
+    <whoisServer>whois.netim.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@netim.net</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>940</estimatedDomainAge>
+</WhoisRecord>

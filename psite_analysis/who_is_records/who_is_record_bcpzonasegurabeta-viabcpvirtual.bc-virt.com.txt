@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2018-11-06T22:39:00.00Z</createdDate>
+  <updatedDate>2018-11-06T14:39:23.00Z</updatedDate>
+  <expiresDate>2019-11-06T22:39:00.00Z</expiresDate>
+  <registrant>
+    <name>Whois Agent</name>
+    <organization>Whois Privacy Protection Service, Inc.</organization>
+    <street1>PO Box 639
+C/O bc-virt.com</street1>
+    <city>Kirkland</city>
+    <state>WA</state>
+    <postalCode>98083</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <email>xxyghtpwws@whoisprivacyprotect.com</email>
+    <telephone>14252740657</telephone>
+    <fax>14259744730</fax>
+    <rawText>Registrant Name: Whois Agent
+Registrant Organization: Whois Privacy Protection Service, Inc.
+Registrant Street: PO Box 639
+Registrant Street: C/O bc-virt.com
+Registrant City: Kirkland
+Registrant State/Province: WA
+Registrant Postal Code: 98083
+Registrant Country: US
+Registrant Phone: +1.4252740657
+Registrant Fax: +1.4259744730
+Registrant Email: xxyghtpwws@whoisprivacyprotect.com</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Whois Agent</name>
+    <organization>Whois Privacy Protection Service, Inc.</organization>
+    <street1>PO Box 639
+C/O bc-virt.com</street1>
+    <city>Kirkland</city>
+    <state>WA</state>
+    <postalCode>98083</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <email>xxyghtpwws@whoisprivacyprotect.com</email>
+    <telephone>14252740657</telephone>
+    <fax>14259744730</fax>
+    <rawText>Admin Name: Whois Agent
+Admin Organization: Whois Privacy Protection Service, Inc.
+Admin Street: PO Box 639
+Admin Street: C/O bc-virt.com
+Admin City: Kirkland
+Admin State/Province: WA
+Admin Postal Code: 98083
+Admin Country: US
+Admin Phone: +1.4252740657
+Admin Fax: +1.4259744730
+Admin Email: xxyghtpwws@whoisprivacyprotect.com</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Whois Agent</name>
+    <organization>Whois Privacy Protection Service, Inc.</organization>
+    <street1>PO Box 639
+C/O bc-virt.com</street1>
+    <city>Kirkland</city>
+    <state>WA</state>
+    <postalCode>98083</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <email>xxyghtpwws@whoisprivacyprotect.com</email>
+    <telephone>14252740657</telephone>
+    <fax>14259744730</fax>
+    <rawText>Tech Name: Whois Agent
+Tech Organization: Whois Privacy Protection Service, Inc.
+Tech Street: PO Box 639
+Tech Street: C/O bc-virt.com
+Tech City: Kirkland
+Tech State/Province: WA
+Tech Postal Code: 98083
+Tech Country: US
+Tech Phone: +1.4252740657
+Tech Fax: +1.4259744730
+Tech Email: xxyghtpwws@whoisprivacyprotect.com</rawText>
+  </technicalContact>
+  <domainName>bc-virt.com</domainName>
+  <nameServers>
+    <rawText>NS1.A2HOSTING.COM
+NS2.A2HOSTING.COM
+NS3.A2HOSTING.COM
+NS4.A2HOSTING.COM
+</rawText>
+    <hostNames>
+      <Address>NS1.A2HOSTING.COM</Address>
+      <Address>NS2.A2HOSTING.COM</Address>
+      <Address>NS3.A2HOSTING.COM</Address>
+      <Address>NS4.A2HOSTING.COM</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>registrar-lock* clienttransferprohibited</status>
+  <rawText>Domain Name: bc-virt.com
+Registry Domain ID: 2330215645_DOMAIN_COM-VRSN
+Registrar WHOIS Server: WHOIS.ENOM.COM
+Registrar URL: WWW.ENOM.COM
+Updated Date: 2018-11-06T14:39:23.00Z
+Creation Date: 2018-11-06T22:39:00.00Z
+Registrar Registration Expiration Date: 2019-11-06T22:39:00.00Z
+Registrar: ENOM, INC.
+Registrar IANA ID: 48
+Domain Status: registrar-lock* https://www.icann.org/epp#registrar-lock*
+Domain Status: clienttransferprohibited https://www.icann.org/epp#clienttransferprohibited
+Registrant Name: Whois Agent
+Registrant Organization: Whois Privacy Protection Service, Inc.
+Registrant Street: PO Box 639
+Registrant Street: C/O bc-virt.com
+Registrant City: Kirkland
+Registrant State/Province: WA
+Registrant Postal Code: 98083
+Registrant Country: US
+Registrant Phone: +1.4252740657
+Registrant Phone Ext: 
+Registrant Fax: +1.4259744730
+Registrant Email: xxyghtpwws@whoisprivacyprotect.com
+Admin Name: Whois Agent
+Admin Organization: Whois Privacy Protection Service, Inc.
+Admin Street: PO Box 639
+Admin Street: C/O bc-virt.com
+Admin City: Kirkland
+Admin State/Province: WA
+Admin Postal Code: 98083
+Admin Country: US
+Admin Phone: +1.4252740657
+Admin Phone Ext: 
+Admin Fax: +1.4259744730
+Admin Email: xxyghtpwws@whoisprivacyprotect.com
+Tech Name: Whois Agent
+Tech Organization: Whois Privacy Protection Service, Inc.
+Tech Street: PO Box 639
+Tech Street: C/O bc-virt.com
+Tech City: Kirkland
+Tech State/Province: WA
+Tech Postal Code: 98083
+Tech Country: US
+Tech Phone: +1.4252740657
+Tech Phone Ext: 
+Tech Fax: +1.4259744730
+Tech Email: xxyghtpwws@whoisprivacyprotect.com
+Name Server: NS1.A2HOSTING.COM
+Name Server: NS2.A2HOSTING.COM
+Name Server: NS3.A2HOSTING.COM
+Name Server: NS4.A2HOSTING.COM
+DNSSEC: UNSIGNED
+Registrar Abuse Contact Email: ABUSE@ENOM.COM
+Registrar Abuse Contact Phone: +1.4259744689
+URL of the ICANN WHOIS Data Problem Reporting System: HTTP://WDPRS.INTERNIC.NET/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-11-06T14:39:23.00Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available "as is," and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  
+
+We reserve the right to modify these terms at any time. By submitting 
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: bc-virt.com
+Registrar WHOIS Server: WHOIS.ENOM.COM
+Registrar URL: WWW.ENOM.COM
+Updated Date: 2018-11-06T14:39:23.00Z
+Creation Date: 2018-11-06T22:39:00.00Z
+Registrar Registration Expiration Date: 2019-11-06T22:39:00.00Z
+Registrar: ENOM, INC.
+Registrar IANA ID: 48
+Domain Status: registrar-lock* https://www.icann.org/epp#registrar-lock*
+Domain Status: clienttransferprohibited https://www.icann.org/epp#clienttransferprohibited
+Registrant Name: Whois Agent
+Registrant Organization: Whois Privacy Protection Service, Inc.
+Registrant Street: PO Box 639
+Registrant Street: C/O bc-virt.com
+Registrant City: Kirkland
+Registrant State/Province: WA
+Registrant Postal Code: 98083
+Registrant Country: US
+Registrant Phone: +1.4252740657
+Registrant Fax: +1.4259744730
+Registrant Email: xxyghtpwws@whoisprivacyprotect.com
+Admin Name: Whois Agent
+Admin Organization: Whois Privacy Protection Service, Inc.
+Admin Street: PO Box 639
+Admin Street: C/O bc-virt.com
+Admin City: Kirkland
+Admin State/Province: WA
+Admin Postal Code: 98083
+Admin Country: US
+Admin Phone: +1.4252740657
+Admin Fax: +1.4259744730
+Admin Email: xxyghtpwws@whoisprivacyprotect.com
+Tech Name: Whois Agent
+Tech Organization: Whois Privacy Protection Service, Inc.
+Tech Street: PO Box 639
+Tech Street: C/O bc-virt.com
+Tech City: Kirkland
+Tech State/Province: WA
+Tech Postal Code: 98083
+Tech Country: US
+Tech Phone: +1.4252740657
+Tech Fax: +1.4259744730
+Tech Email: xxyghtpwws@whoisprivacyprotect.com
+Name Server: NS1.A2HOSTING.COM
+Name Server: NS2.A2HOSTING.COM
+Name Server: NS3.A2HOSTING.COM
+Name Server: NS4.A2HOSTING.COM
+Registrar Abuse Contact Email: ABUSE@ENOM.COM
+Registrar Abuse Contact Phone: +1.4259744689
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 00:14:46.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:46.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>ABUSE@ENOM.COM</customField1Value>
+  <registrarName>ENOM, INC.</registrarName>
+  <registrarIANAID>48</registrarIANAID>
+  <whoisServer>WHOIS.ENOM.COM</whoisServer>
+  <createdDateNormalized>2018-11-06 22:39:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-11-06 14:39:23 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-11-06 22:39:00 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.4259744689</customField2Value>
+  <customField3Value>WWW.ENOM.COM</customField3Value>
+  <registryData>
+    <createdDate>2018-11-06T22:39:22Z</createdDate>
+    <updatedDate>2018-11-06T22:39:26Z</updatedDate>
+    <expiresDate>2019-11-06T22:39:22Z</expiresDate>
+    <domainName>bc-virt.com</domainName>
+    <nameServers>
+      <rawText>NS1.A2HOSTING.COM
+NS2.A2HOSTING.COM
+NS3.A2HOSTING.COM
+NS4.A2HOSTING.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.A2HOSTING.COM</Address>
+        <Address>NS2.A2HOSTING.COM</Address>
+        <Address>NS3.A2HOSTING.COM</Address>
+        <Address>NS4.A2HOSTING.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: BC-VIRT.COM
+   Registry Domain ID: 2330215645_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.enom.com
+   Registrar URL: http://www.enom.com
+   Updated Date: 2018-11-06T22:39:26Z
+   Creation Date: 2018-11-06T22:39:22Z
+   Registry Expiry Date: 2019-11-06T22:39:22Z
+   Registrar: eNom, Inc.
+   Registrar IANA ID: 48
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.A2HOSTING.COM
+   Name Server: NS2.A2HOSTING.COM
+   Name Server: NS3.A2HOSTING.COM
+   Name Server: NS4.A2HOSTING.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:14:32Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: BC-VIRT.COM
+Registry Domain ID: 2330215645_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.enom.com
+Registrar URL: http://www.enom.com
+Updated Date: 2018-11-06T22:39:26Z
+Creation Date: 2018-11-06T22:39:22Z
+Registry Expiry Date: 2019-11-06T22:39:22Z
+Registrar: eNom, Inc.
+Registrar IANA ID: 48
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.A2HOSTING.COM
+Name Server: NS2.A2HOSTING.COM
+Name Server: NS3.A2HOSTING.COM
+Name Server: NS4.A2HOSTING.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T00:14:32Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:14:44.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:44.000 UTC</updatedDate>
+    </audit>
+    <registrarName>eNom, Inc.</registrarName>
+    <registrarIANAID>48</registrarIANAID>
+    <createdDateNormalized>2018-11-06 22:39:22 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-06 22:39:26 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-06 22:39:22 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.enom.com</customField3Value>
+    <whoisServer>whois.enom.com</whoisServer>
+  </registryData>
+  <contactEmail>xxyghtpwws@whoisprivacyprotect.com</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>24</estimatedDomainAge>
+</WhoisRecord>

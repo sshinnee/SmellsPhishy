@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>liyan.or.id</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:07:13.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:07:13.000 UTC</updatedDate>
+  </audit>
+  <registrarName>PT Registrasi Nama Domain</registrarName>
+  <registryData>
+    <createdDate>02-May-2017 03:53:44 UTC</createdDate>
+    <updatedDate>01-Jul-2017 16:01:55 UTC</updatedDate>
+    <expiresDate>02-May-2020 23:59:59 UTC</expiresDate>
+    <domainName>liyan.or.id</domainName>
+    <nameServers>
+      <rawText>DNS1.MASTERWEB.COM
+DNS2.MASTERWEB.COM
+DNS3.MASTERWEB.NET
+DNS4.MASTERWEBNET.COM
+</rawText>
+      <hostNames>
+        <Address>DNS1.MASTERWEB.COM</Address>
+        <Address>DNS2.MASTERWEB.COM</Address>
+        <Address>DNS3.MASTERWEB.NET</Address>
+        <Address>DNS4.MASTERWEBNET.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain ID:PANDI-DO3188696
+Domain Name:LIYAN.OR.ID
+Created On:02-May-2017 03:53:44 UTC
+Last Updated On:01-Jul-2017 16:01:55 UTC
+Expiration Date:02-May-2020 23:59:59 UTC
+Status:ok
+=======================================================
+Sponsoring Registrar Organization:PT Registrasi Nama Domain
+Sponsoring Registrar Street1:Jl. Kuningan Barat No.8 Gedung Elektrindo (Cyber1 ), Lantai 10
+Sponsoring Registrar City: Jakarta Selatan
+Sponsoring Registrar State/Province:Jakarta
+Sponsoring Registrar Postal Code:12710
+Sponsoring Registrar Country:ID
+Sponsoring Registrar Phone:0215269311
+Sponsoring Registrar Website:https://daftarnama.id
+Sponsoring Registrar Contact Email:info@daftarnama.id
+Name Server:DNS1.MASTERWEB.COM
+Name Server:DNS2.MASTERWEB.COM
+Name Server:DNS3.MASTERWEB.NET
+Name Server:DNS4.MASTERWEBNET.COM
+DNSSEC:Unsigned</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain ID:PANDI-DO3188696
+Domain Name:LIYAN.OR.ID
+Created On:02-May-2017 03:53:44 UTC
+Last Updated On:01-Jul-2017 16:01:55 UTC
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:07:13.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:07:13.000 UTC</updatedDate>
+    </audit>
+    <registrarName>PT Registrasi Nama Domain</registrarName>
+    <createdDateNormalized>2017-05-02 03:53:44 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-07-01 16:01:55 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2020-05-02 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField2Value>0215269311</customField2Value>
+    <whoisServer>whois.pandi.or.id</whoisServer>
+  </registryData>
+  <contactEmail>info@daftarnama.id</contactEmail>
+  <domainNameExt>.or.id</domainNameExt>
+  <estimatedDomainAge>578</estimatedDomainAge>
+</WhoisRecord>

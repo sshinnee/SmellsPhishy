@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>al-faraby.kz</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:34:06.088 UTC</createdDate>
+    <updatedDate>2018-12-01 14:34:06.088 UTC</updatedDate>
+  </audit>
+  <registrarName>TELECOM TELECOM</registrarName>
+  <registrarIANAID>125</registrarIANAID>
+  <registryData>
+    <createdDate>2014-12-25 10:55:33 (GMT+0:00)</createdDate>
+    <registrant>
+      <name>Baktybaj Abdukarimov</name>
+      <street1>ul.M.Sarsenbaeva 113</street1>
+      <city>SHymkent</city>
+      <state>YUZ</state>
+      <postalCode>160700</postalCode>
+      <country>KAZAKHSTAN</country>
+      <countryCode>KZ</countryCode>
+      <rawText>Name...................: Baktybaj Abdukarimov
+Organization Name......:
+Street Address.........: ul.M.Sarsenbaeva 113
+City...................: SHymkent
+State..................: YUZ
+Postal Code............: 160700
+Country................: KZ</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Baktybaj Abdukarimov</name>
+      <state>NIC</state>
+      <postalCode>Handle</postalCode>
+      <country>NICARAGUA</country>
+      <countryCode>NI</countryCode>
+      <email>baktibay.79@mail.ru</email>
+      <telephone>77763967979</telephone>
+      <rawText>NIC Handle.............: C000006801368-KZ
+Name...................: Baktybaj Abdukarimov
+Phone Number...........: +7.7763967979
+Fax Number.............:
+Email Address..........: baktibay.79@mail.ru</rawText>
+      <unparsable>: C000006801368-KZ</unparsable>
+    </administrativeContact>
+    <domainName>al-faraby.kz</domainName>
+    <nameServers>
+      <rawText>ns1.cp.idhost.kz
+</rawText>
+      <hostNames>
+        <Address>ns1.cp.idhost.kz</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited -</status>
+    <rawText>Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+
+Domain Name............: al-faraby.kz
+
+Organization Using Domain Name
+Name...................: Baktybaj Abdukarimov
+Organization Name......: 
+Street Address.........: ul.M.Sarsenbaeva 113
+City...................: SHymkent
+State..................: YUZ
+Postal Code............: 160700
+Country................: KZ
+
+Administrative Contact/Agent
+NIC Handle.............: C000006801368-KZ
+Name...................: Baktybaj Abdukarimov
+Phone Number...........: +7.7763967979 
+Fax Number.............:  
+Email Address..........: baktibay.79@mail.ru
+
+Nameserver in listed order
+
+Primary server.........: ns1.cp.idhost.kz
+Primary ip address.....: 92.46.52.24
+
+Secondary server.......: ns2.cp.idhost.kz
+Secondary ip address...: 92.46.52.26
+
+
+Domain created: 2014-12-25 10:55:33 (GMT+0:00)
+Last modified : 
+Domain status : clientTransferProhibited - 
+                clientDeleteProhibited - 
+                clientRenewProhibited - 
+                
+Registar created: TELECOM
+Current Registar: TELECOM</rawText>
+    <parseCode>1497</parseCode>
+    <header>Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+Domain Name............: al-faraby.kz
+</header>
+    <strippedText>Organization Using Domain Name
+Name...................: Baktybaj Abdukarimov
+Organization Name......:
+Street Address.........: ul.M.Sarsenbaeva 113
+City...................: SHymkent
+State..................: YUZ
+Postal Code............: 160700
+Country................: KZ
+Administrative Contact/Agent
+NIC Handle.............: C000006801368-KZ
+Name...................: Baktybaj Abdukarimov
+Phone Number...........: +7.7763967979
+Fax Number.............:
+Email Address..........: baktibay.79@mail.ru
+Nameserver in listed order
+Primary server.........: ns1.cp.idhost.kz
+Primary ip address.....: 92.46.52.24
+Secondary server.......: ns2.cp.idhost.kz
+Secondary ip address...: 92.46.52.26
+Domain created: 2014-12-25 10:55:33 (GMT+0:00)
+Last modified :
+Domain status : clientTransferProhibited -
+clientDeleteProhibited -
+clientRenewProhibited -
+
+Registar created: TELECOM
+Current Registar: TELECOM
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:34:06.088 UTC</createdDate>
+      <updatedDate>2018-12-01 14:34:06.088 UTC</updatedDate>
+    </audit>
+    <registrarName>TELECOM TELECOM</registrarName>
+    <registrarIANAID>125</registrarIANAID>
+    <createdDateNormalized>2014-12-25 00:00:00 UTC</createdDateNormalized>
+    <whoisServer>whois.nic.kz</whoisServer>
+  </registryData>
+  <contactEmail>baktibay.79@mail.ru</contactEmail>
+  <domainNameExt>.kz</domainNameExt>
+  <estimatedDomainAge>1437</estimatedDomainAge>
+</WhoisRecord>

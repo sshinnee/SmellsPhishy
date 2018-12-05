@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>csgo-magic.space</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 10:32:18.000 UTC</createdDate>
+    <updatedDate>2018-12-01 10:32:18.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Name.com LLC</registrarName>
+  <registrarIANAID>625</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-29T21:27:07.0Z</createdDate>
+    <updatedDate>2018-11-29T21:35:11.0Z</updatedDate>
+    <expiresDate>2019-11-29T23:59:59.0Z</expiresDate>
+    <registrant>
+      <name>Registrant State/Province: Moscow</name>
+      <state>Moscow</state>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <rawText>Registrant State/Province: Moscow
+Registrant Country: RU
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </registrant>
+    <administrativeContact>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <rawText>Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </administrativeContact>
+    <billingContact>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <rawText>Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </billingContact>
+    <technicalContact>
+      <country>RUSSIAN FEDERATION</country>
+      <countryCode>RU</countryCode>
+      <rawText>Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    </technicalContact>
+    <domainName>csgo-magic.space</domainName>
+    <nameServers>
+      <rawText>AIDEN.NS.CLOUDFLARE.COM
+ELAINE.NS.CLOUDFLARE.COM
+</rawText>
+      <hostNames>
+        <Address>AIDEN.NS.CLOUDFLARE.COM</Address>
+        <Address>ELAINE.NS.CLOUDFLARE.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>serverTransferProhibited clientTransferProhibited addPeriod</status>
+    <rawText>Domain Name: CSGO-MAGIC.SPACE
+Registry Domain ID: D85499432-CNIC
+Registrar WHOIS Server: whois.name.com
+Registrar URL: http://www.name.com/
+Updated Date: 2018-11-29T21:35:11.0Z
+Creation Date: 2018-11-29T21:27:07.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Name.com LLC
+Registrar IANA ID: 625
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Organization:
+Registrant State/Province: Moscow
+Registrant Country: RU
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: AIDEN.NS.CLOUDFLARE.COM
+Name Server: ELAINE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@name.com
+Registrar Abuse Contact Phone: +1.4252982607
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T10:32:17.0Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This whois service is provided by CentralNic Ltd and only contains
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd https://www.centralnic.com/
+
+Access to the whois service is rate limited. For more information, please
+see https://registrar-console.centralnic.com/pub/whois_guidance.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: CSGO-MAGIC.SPACE
+Registrar WHOIS Server: whois.name.com
+Registrar URL: http://www.name.com/
+Updated Date: 2018-11-29T21:35:11.0Z
+Creation Date: 2018-11-29T21:27:07.0Z
+Registry Expiry Date: 2019-11-29T23:59:59.0Z
+Registrar: Name.com LLC
+Registrar IANA ID: 625
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant State/Province: Moscow
+Registrant Country: RU
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: AIDEN.NS.CLOUDFLARE.COM
+Name Server: ELAINE.NS.CLOUDFLARE.COM
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: abuse@name.com
+Registrar Abuse Contact Phone: +1.4252982607
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 10:32:18.000 UTC</createdDate>
+      <updatedDate>2018-12-01 10:32:18.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@name.com</customField1Value>
+    <registrarName>Name.com LLC</registrarName>
+    <registrarIANAID>625</registrarIANAID>
+    <createdDateNormalized>2018-11-29 21:27:07 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-29 21:35:11 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-29 23:59:59 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4252982607</customField2Value>
+    <customField3Value>http://www.name.com/</customField3Value>
+    <whoisServer>whois.name.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@name.com</contactEmail>
+  <domainNameExt>.space</domainNameExt>
+  <estimatedDomainAge>1</estimatedDomainAge>
+</WhoisRecord>

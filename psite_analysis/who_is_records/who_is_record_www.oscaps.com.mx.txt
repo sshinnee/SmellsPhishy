@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>oscaps.com.mx</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-11-30 17:02:27.000 UTC</createdDate>
+    <updatedDate>2018-11-30 17:02:27.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Akky (Una division de NIC Mexico)</registrarName>
+  <registryData>
+    <createdDate>2013-01-28</createdDate>
+    <updatedDate>2018-08-13</updatedDate>
+    <expiresDate>2020-01-28</expiresDate>
+    <registrant>
+      <name>oscar saucedo gallardo</name>
+      <city>cuauhtemoc</city>
+      <state>Distrito Federal</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           oscar saucedo gallardo
+City:           cuauhtemoc
+State:          Distrito Federal
+Country:        Mexico</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>oscar saucedo gallardo</name>
+      <city>cuauhtemoc</city>
+      <state>Distrito Federal</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           oscar saucedo gallardo
+City:           cuauhtemoc
+State:          Distrito Federal
+Country:        Mexico</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>oscar saucedo gallardo</name>
+      <city>cuauhtemoc</city>
+      <state>Distrito Federal</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           oscar saucedo gallardo
+City:           cuauhtemoc
+State:          Distrito Federal
+Country:        Mexico</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>oscar saucedo gallardo</name>
+      <city>cuauhtemoc</city>
+      <state>Distrito Federal</state>
+      <country>MEXICO</country>
+      <countryCode>MX</countryCode>
+      <rawText>Name:           oscar saucedo gallardo
+City:           cuauhtemoc
+State:          Distrito Federal
+Country:        Mexico</rawText>
+    </technicalContact>
+    <domainName>oscaps.com.mx</domainName>
+    <nameServers>
+      <rawText>ns1-usa24.ahwebhost.com
+ns2-usa24.ahwebhost.com
+</rawText>
+      <hostNames>
+        <Address>ns1-usa24.ahwebhost.com</Address>
+        <Address>ns2-usa24.ahwebhost.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain Name:       oscaps.com.mx
+
+Created On:        2013-01-28
+Expiration Date:   2020-01-28
+Last Updated On:   2018-08-13
+Registrar:         Akky (Una division de NIC Mexico)
+URL:               http://www.akky.mx
+Whois TCP URI:     whois.akky.mx
+Whois Web URL:     http://www.akky.mx/jsf/whois/whois.jsf
+
+Registrant:
+   Name:           oscar saucedo gallardo
+   City:           cuauhtemoc
+   State:          Distrito Federal
+   Country:        Mexico
+
+Administrative Contact:
+   Name:           oscar saucedo gallardo
+   City:           cuauhtemoc
+   State:          Distrito Federal
+   Country:        Mexico
+
+Technical Contact:
+   Name:           oscar saucedo gallardo
+   City:           cuauhtemoc
+   State:          Distrito Federal
+   Country:        Mexico
+
+Billing Contact:
+   Name:           oscar saucedo gallardo
+   City:           cuauhtemoc
+   State:          Distrito Federal
+   Country:        Mexico
+
+Name Servers:
+   DNS:            ns1-usa24.ahwebhost.com       
+   DNS:            ns2-usa24.ahwebhost.com       
+
+DNSSEC DS Records:
+
+
+% NOTICE: The expiration date displayed in this record is the date the
+% registrar's sponsorship of the domain name registration in the registry is
+% currently set to expire. This date does not necessarily reflect the
+% expiration date of the domain name registrant's agreement with the sponsoring
+% registrar. Users may consult the sponsoring registrar's Whois database to
+% view the registrar's reported date of expiration for this registration.
+
+% The requested information ("Information") is provided only for the delegation
+% of domain names and the operation of the DNS administered by NIC Mexico.
+
+% It is absolutely prohibited to use the Information for other purposes, 
+% including sending not requested emails for advertising or promoting products
+% and services purposes (SPAM) without the authorization of the owners of the
+% Information and NIC Mexico.
+
+% The database generated from the delegation system is protected by the
+% intellectual property laws and all international treaties on the matter.
+
+% If you need more information on the records displayed here, please contact us
+% by email at ayuda@nic.mx .
+
+% If you want notify the receipt of SPAM or unauthorized access, please send a
+% email to abuse@nic.mx .
+
+% NOTA: La fecha de expiracion mostrada en esta consulta es la fecha que el
+% registrar tiene contratada para el nombre de dominio en el registry. Esta
+% fecha no necesariamente refleja la fecha de expiracion del nombre de dominio
+% que el registrante tiene contratada con el registrar. Puede consultar la base
+% de datos de Whois del registrar para ver la fecha de expiracion reportada por
+% el registrar para este nombre de dominio.
+
+% La informacion que ha solicitado se provee exclusivamente para fines
+% relacionados con la delegacion de nombres de dominio y la operacion del DNS
+% administrado por NIC Mexico.
+
+% Queda absolutamente prohibido su uso para otros propositos, incluyendo el
+% envio de Correos Electronicos no solicitados con fines publicitarios o de
+% promocion de productos y servicios (SPAM) sin mediar la autorizacion de los
+% afectados y de NIC Mexico.
+
+% La base de datos generada a partir del sistema de delegacion, esta protegida
+% por las leyes de Propiedad Intelectual y todos los tratados internacionales
+% sobre la materia.
+
+% Si necesita mayor informacion sobre los registros aqui mostrados, favor de
+% comunicarse a ayuda@nic.mx.
+
+% Si desea notificar sobre correo no solicitado o accesos no autorizados, favor
+% de enviar su mensaje a abuse@nic.mx.</rawText>
+    <parseCode>4075</parseCode>
+    <header/>
+    <strippedText>Domain Name:       oscaps.com.mx
+Created On:        2013-01-28
+Expiration Date:   2020-01-28
+Last Updated On:   2018-08-13
+Registrar:         Akky (Una division de NIC Mexico)
+DNS:            ns1-usa24.ahwebhost.com
+DNS:            ns2-usa24.ahwebhost.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-30 17:02:27.000 UTC</createdDate>
+      <updatedDate>2018-11-30 17:02:27.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Akky (Una division de NIC Mexico)</registrarName>
+    <createdDateNormalized>2013-01-28 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-08-13 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2020-01-28 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.mx</whoisServer>
+  </registryData>
+  <contactEmail>ayuda@nic.mx</contactEmail>
+  <domainNameExt>.com.mx</domainNameExt>
+  <estimatedDomainAge>2133</estimatedDomainAge>
+</WhoisRecord>

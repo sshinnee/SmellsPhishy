@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2018-11-13T15:37:48Z</createdDate>
+  <updatedDate>2018-11-13T15:37:48Z</updatedDate>
+  <expiresDate>2019-11-13T15:37:48Z</expiresDate>
+  <registrant>
+    <organization>Perez Escriva Miguel</organization>
+    <state>VALENCIA</state>
+    <country>SPAIN</country>
+    <countryCode>ES</countryCode>
+    <rawText>Registrant Country: ES</rawText>
+  </registrant>
+  <domainName>euromaclog.com</domainName>
+  <nameServers>
+    <rawText>ns1.srv-hostalia.com
+ns2.srv-hostalia.com
+</rawText>
+    <hostNames>
+      <Address>ns1.srv-hostalia.com</Address>
+      <Address>ns2.srv-hostalia.com</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>ok</status>
+  <rawText>Domain Name: euromaclog.com
+Registrar WHOIS Server: whois.acens.net
+Registrar URL: http://www.acens.com/
+Updated Date: 2018-11-13T15:37:48Z
+Creation Date: 2018-11-13T15:37:48Z
+Registrar Registration Expiration Date: 2019-11-13T15:37:48Z
+Registrar: acens Technologies, S.L.U.
+Registrar IANA ID: 140
+Registrar Abuse Contact Email: abuse@acens.net
+Registrar Abuse Contact Phone:+34.911418583
+Domain Status: ok http://www.icann.org/epp#ok
+Registrant Organization: Perez Escriva Miguel
+Registrant State/Province: VALENCIA
+Registrant Country: ES
+Name Server: ns1.srv-hostalia.com
+Name Server: ns2.srv-hostalia.com
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
+&gt;&gt;&gt; Last update of WHOIS database:2018-11-13T15:37:48Z&lt;&lt;&lt;
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en 
+
+acens's WHOIS database is provided by acens Technologies for information
+purposes only, proving information about or related to a domain name
+registration record.
+Acens makes this information available "as is," and does not guarantee
+its accuracy.
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or
+by telephone; or (2) enable high volume, automated, electronic processes that
+apply to acens (or its systems).  The compilation, repackaging,
+dissemination or other use of this data is expressly prohibited without the
+prior written consent of acens.
+acens  reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by these terms.
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY. LACK OF A DOMAIN RECORD</rawText>
+  <parseCode>1275</parseCode>
+  <header/>
+  <strippedText>Domain Name: euromaclog.com
+Registrar WHOIS Server: whois.acens.net
+Registrar URL: http://www.acens.com/
+Updated Date: 2018-11-13T15:37:48Z
+Creation Date: 2018-11-13T15:37:48Z
+Registrar Registration Expiration Date: 2019-11-13T15:37:48Z
+Registrar: acens Technologies, S.L.U.
+Registrar IANA ID: 140
+Registrar Abuse Contact Email: abuse@acens.net
+Registrar Abuse Contact Phone:+34.911418583
+Domain Status: ok http://www.icann.org/epp#ok
+Registrant Organization: Perez Escriva Miguel
+Registrant State/Province: VALENCIA
+Registrant Country: ES
+Name Server: ns1.srv-hostalia.com
+Name Server: ns2.srv-hostalia.com
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database:2018-11-13T15:37:48Z&lt;&lt;&lt;
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+acens's WHOIS database is provided by acens Technologies for information
+purposes only, proving information about or related to a domain name
+registration record.
+Acens makes this information available "as is," and does not guarantee
+its accuracy.
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or
+by telephone; or (2) enable high volume, automated, electronic processes that
+apply to acens (or its systems).  The compilation, repackaging,
+dissemination or other use of this data is expressly prohibited without the
+prior written consent of acens.
+acens  reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by these terms.
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY. LACK OF A DOMAIN RECORD
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 14:27:45.887 UTC</createdDate>
+    <updatedDate>2018-12-01 14:27:45.887 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@acens.net</customField1Value>
+  <registrarName>acens Technologies, S.L.U.</registrarName>
+  <registrarIANAID>140</registrarIANAID>
+  <whoisServer>whois.acens.net</whoisServer>
+  <createdDateNormalized>2018-11-13 15:37:48 UTC</createdDateNormalized>
+  <updatedDateNormalized>2018-11-13 15:37:48 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2019-11-13 15:37:48 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+34.911418583</customField2Value>
+  <customField3Value>http://www.acens.com/</customField3Value>
+  <registryData>
+    <createdDate>2018-11-13T14:37:48Z</createdDate>
+    <updatedDate>2018-11-13T14:37:48Z</updatedDate>
+    <expiresDate>2019-11-13T14:37:48Z</expiresDate>
+    <domainName>euromaclog.com</domainName>
+    <nameServers>
+      <rawText>NS1.SRV-HOSTALIA.COM
+NS2.SRV-HOSTALIA.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.SRV-HOSTALIA.COM</Address>
+        <Address>NS2.SRV-HOSTALIA.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: EUROMACLOG.COM
+   Registry Domain ID: 2332208115_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.acens.net
+   Registrar URL: http://https://www.acens.com
+   Updated Date: 2018-11-13T14:37:48Z
+   Creation Date: 2018-11-13T14:37:48Z
+   Registry Expiry Date: 2019-11-13T14:37:48Z
+   Registrar: Acens Technologies, S.L.U.
+   Registrar IANA ID: 140
+   Registrar Abuse Contact Email: abuse@acens.net
+   Registrar Abuse Contact Phone: 911418583
+   Domain Status: ok https://icann.org/epp#ok
+   Name Server: NS1.SRV-HOSTALIA.COM
+   Name Server: NS2.SRV-HOSTALIA.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:27:36Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: EUROMACLOG.COM
+Registry Domain ID: 2332208115_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.acens.net
+Registrar URL: http://https://www.acens.com
+Updated Date: 2018-11-13T14:37:48Z
+Creation Date: 2018-11-13T14:37:48Z
+Registry Expiry Date: 2019-11-13T14:37:48Z
+Registrar: Acens Technologies, S.L.U.
+Registrar IANA ID: 140
+Registrar Abuse Contact Email: abuse@acens.net
+Registrar Abuse Contact Phone: 911418583
+Domain Status: ok https://icann.org/epp#ok
+Name Server: NS1.SRV-HOSTALIA.COM
+Name Server: NS2.SRV-HOSTALIA.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:27:36Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:27:44.375 UTC</createdDate>
+      <updatedDate>2018-12-01 14:27:44.375 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@acens.net</customField1Value>
+    <registrarName>Acens Technologies, S.L.U.</registrarName>
+    <registrarIANAID>140</registrarIANAID>
+    <createdDateNormalized>2018-11-13 14:37:48 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-13 14:37:48 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-13 14:37:48 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>911418583</customField2Value>
+    <customField3Value>http://https://www.acens.com</customField3Value>
+    <whoisServer>whois.acens.net</whoisServer>
+  </registryData>
+  <contactEmail>abuse@acens.net</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>17</estimatedDomainAge>
+</WhoisRecord>

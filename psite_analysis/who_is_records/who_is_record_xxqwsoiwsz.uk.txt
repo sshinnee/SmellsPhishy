@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>xxqwsoiwsz.uk</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:55.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:55.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Register.com Inc t/a Network Solutions [Tag = NSI-US]</registrarName>
+  <registryData>
+    <createdDate>28-Nov-2018</createdDate>
+    <updatedDate>28-Nov-2018</updatedDate>
+    <expiresDate>28-Nov-2019</expiresDate>
+    <domainName>xxqwsoiwsz.uk</domainName>
+    <nameServers>
+      <rawText>ns1.hauntopolismagazine.com
+ns2.hauntopolismagazine.com
+</rawText>
+      <hostNames>
+        <Address>ns1.hauntopolismagazine.com</Address>
+        <Address>ns2.hauntopolismagazine.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>Domain name:
+        xxqwsoiwsz.uk
+
+    Data validation:
+        Nominet was not able to match the registrant's name and/or address against a 3rd party source on 28-Nov-2018
+
+    Registrar:
+        Register.com Inc t/a Network Solutions [Tag = NSI-US]
+        URL: http://www.networksolutions.com
+
+    Relevant dates:
+        Registered on: 28-Nov-2018
+        Expiry date:  28-Nov-2019
+        Last updated:  28-Nov-2018
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        ns1.hauntopolismagazine.com
+        ns2.hauntopolismagazine.com
+
+    WHOIS lookup made at 00:14:54 01-Dec-2018
+
+-- 
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+
+    Copyright Nominet UK 1996 - 2018.
+
+You may not access the .uk WHOIS or use any data from it except as permitted
+by the terms of use available in full at https://www.nominet.uk/whoisterms,
+which includes restrictions on: (A) use of the data for advertising, or its
+repackaging, recompilation, redistribution or reuse (B) obscuring, removing
+or hiding any or all of this notice and (C) exceeding query rate or volume
+limits. The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time.</rawText>
+    <parseCode>235</parseCode>
+    <header/>
+    <strippedText>Domain name:
+xxqwsoiwsz.uk
+Data validation:
+Nominet was not able to match the registrant's name and/or address against a 3rd party source on 28-Nov-2018
+Registrar:
+Register.com Inc t/a Network Solutions [Tag = NSI-US]
+URL: http://www.networksolutions.com
+Relevant dates:
+Registered on: 28-Nov-2018
+Expiry date:  28-Nov-2019
+Last updated:  28-Nov-2018
+Registration status:
+Registered until expiry date.
+Name servers:
+ns1.hauntopolismagazine.com
+ns2.hauntopolismagazine.com
+WHOIS lookup made at 00:14:54 01-Dec-2018
+--
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+Copyright Nominet UK 1996 - 2018.
+You may not access the .uk WHOIS or use any data from it except as permitted
+by the terms of use available in full at https://www.nominet.uk/whoisterms,
+which includes restrictions on: (A) use of the data for advertising, or its
+repackaging, recompilation, redistribution or reuse (B) obscuring, removing
+or hiding any or all of this notice and (C) exceeding query rate or volume
+limits. The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time.
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 00:14:55.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:55.000 UTC</updatedDate>
+    </audit>
+    <registrarName>Register.com Inc t/a Network Solutions [Tag = NSI-US]</registrarName>
+    <createdDateNormalized>2018-11-28 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-28 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-28 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.nic.uk</whoisServer>
+  </registryData>
+  <domainNameExt>.uk</domainNameExt>
+  <estimatedDomainAge>3</estimatedDomainAge>
+</WhoisRecord>

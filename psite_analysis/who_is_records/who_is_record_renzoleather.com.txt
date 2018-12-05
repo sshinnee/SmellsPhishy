@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2017-12-18T19:10:06Z</createdDate>
+  <updatedDate>2017-12-18T19:10:08Z</updatedDate>
+  <expiresDate>2018-12-18T19:10:06Z</expiresDate>
+  <registrant>
+    <name>DOMAIN PRIVACY SERVICE FBO REGISTRANT</name>
+    <organization>THE ENDURANCE INTERNATIONAL GROUP, INC.</organization>
+    <street1>70 BLANCHARD RD</street1>
+    <city>BURLINGTON</city>
+    <state>MASSACHUSETTS</state>
+    <postalCode>01803</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <email>WHOIS@JUSTHOST.COM</email>
+    <telephone>18887557585</telephone>
+    <rawText>Registrant Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Registrant Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Registrant Street: 70 BLANCHARD RD
+Registrant City: BURLINGTON
+Registrant State/Province: MASSACHUSETTS
+Registrant Postal Code: 01803
+Registrant Country: US
+Registrant Phone: +1.8887557585
+Registrant Email: WHOIS@JUSTHOST.COM</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>DOMAIN PRIVACY SERVICE FBO REGISTRANT</name>
+    <organization>THE ENDURANCE INTERNATIONAL GROUP, INC.</organization>
+    <street1>70 BLANCHARD RD</street1>
+    <city>BURLINGTON</city>
+    <state>MASSACHUSETTS</state>
+    <postalCode>01803</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <email>WHOIS@JUSTHOST.COM</email>
+    <telephone>18887557585</telephone>
+    <rawText>Admin Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Admin Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Admin Street: 70 BLANCHARD RD
+Admin City: BURLINGTON
+Admin State/Province: MASSACHUSETTS
+Admin Postal Code: 01803
+Admin Country: US
+Admin Phone: +1.8887557585
+Admin Email: WHOIS@JUSTHOST.COM</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>DOMAIN PRIVACY SERVICE FBO REGISTRANT</name>
+    <organization>THE ENDURANCE INTERNATIONAL GROUP, INC.</organization>
+    <street1>70 BLANCHARD RD</street1>
+    <city>BURLINGTON</city>
+    <state>MASSACHUSETTS</state>
+    <postalCode>01803</postalCode>
+    <country>UNITED STATES</country>
+    <countryCode>US</countryCode>
+    <email>WHOIS@JUSTHOST.COM</email>
+    <telephone>18887557585</telephone>
+    <rawText>Tech Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Tech Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Tech Street: 70 BLANCHARD RD
+Tech City: BURLINGTON
+Tech State/Province: MASSACHUSETTS
+Tech Postal Code: 01803
+Tech Country: US
+Tech Phone: +1.8887557585
+Tech Email: WHOIS@JUSTHOST.COM</rawText>
+  </technicalContact>
+  <domainName>renzoleather.com</domainName>
+  <nameServers>
+    <rawText>NS1.RHOSTJH.COM
+NS2.RHOSTJH.COM
+</rawText>
+    <hostNames>
+      <Address>NS1.RHOSTJH.COM</Address>
+      <Address>NS2.RHOSTJH.COM</Address>
+    </hostNames>
+    <ips/>
+  </nameServers>
+  <status>clientTransferProhibited</status>
+  <rawText>Domain Name: RENZOLEATHER.COM
+Registry Domain ID: 2201548465_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.fastdomain.com
+Registrar URL: http://www.justhost.com/
+Updated Date: 2017-12-18T19:10:08Z
+Creation Date: 2017-12-18T19:10:06Z
+Registrar Registration Expiration Date: 2018-12-18T19:10:06Z
+Registrar: FastDomain Inc.
+Registrar IANA ID: 1154
+Registrar Abuse Contact Email: abuse@justhost.com
+Registrar Abuse Contact Phone: +1.8017659400
+Reseller: JustHost
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Registrant Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Registrant Street: 70 BLANCHARD RD  
+Registrant City: BURLINGTON
+Registrant State/Province: MASSACHUSETTS
+Registrant Postal Code: 01803
+Registrant Country: US
+Registrant Phone: +1.8887557585
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: WHOIS@JUSTHOST.COM
+Registry Admin ID: 
+Admin Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Admin Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Admin Street: 70 BLANCHARD RD  
+Admin City: BURLINGTON
+Admin State/Province: MASSACHUSETTS
+Admin Postal Code: 01803
+Admin Country: US
+Admin Phone: +1.8887557585
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: WHOIS@JUSTHOST.COM
+Registry Tech ID: 
+Tech Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Tech Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Tech Street: 70 BLANCHARD RD  
+Tech City: BURLINGTON
+Tech State/Province: MASSACHUSETTS
+Tech Postal Code: 01803
+Tech Country: US
+Tech Phone: +1.8887557585
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: WHOIS@JUSTHOST.COM
+Name Server: NS1.RHOSTJH.COM
+Name Server: NS2.RHOSTJH.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2017-12-18T19:10:08Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in the JustHost WHOIS database is provided
+to you by JustHost for information purposes only,
+that is, to assist you in obtaining information about or related to
+a domain name registration record. JustHost makes
+this information available "as is," and does not guarantee its
+accuracy.  By submitting a WHOIS query, you  agree that you will use
+this data only for lawful purposes and that, under no circumstances
+will you use this data to: (1) allow, enable, or otherwise support
+the transmission of mass unsolicited, commercial advertising or
+solicitations via direct mail, electronic mail, or by telephone; or
+(2) enable high volume, automated, electronic processes that apply
+to JustHost (or its systems). The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of
+JustHost. JustHost reserves the
+right to modify these terms at any time.  By submitting this query,
+you agree to abide by these terms.
+
+UNLIMITED storage, bandwidth and domains on one account. Also receive a *FREE* domain for one year when you host with http://www.justhost.com/</rawText>
+  <parseCode>3579</parseCode>
+  <header/>
+  <strippedText>Domain Name: RENZOLEATHER.COM
+Registrar WHOIS Server: whois.fastdomain.com
+Registrar URL: http://www.justhost.com/
+Updated Date: 2017-12-18T19:10:08Z
+Creation Date: 2017-12-18T19:10:06Z
+Registrar Registration Expiration Date: 2018-12-18T19:10:06Z
+Registrar: FastDomain Inc.
+Registrar IANA ID: 1154
+Registrar Abuse Contact Email: abuse@justhost.com
+Registrar Abuse Contact Phone: +1.8017659400
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Registrant Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Registrant Street: 70 BLANCHARD RD
+Registrant City: BURLINGTON
+Registrant State/Province: MASSACHUSETTS
+Registrant Postal Code: 01803
+Registrant Country: US
+Registrant Phone: +1.8887557585
+Registrant Email: WHOIS@JUSTHOST.COM
+Admin Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Admin Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Admin Street: 70 BLANCHARD RD
+Admin City: BURLINGTON
+Admin State/Province: MASSACHUSETTS
+Admin Postal Code: 01803
+Admin Country: US
+Admin Phone: +1.8887557585
+Admin Email: WHOIS@JUSTHOST.COM
+Tech Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Tech Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Tech Street: 70 BLANCHARD RD
+Tech City: BURLINGTON
+Tech State/Province: MASSACHUSETTS
+Tech Postal Code: 01803
+Tech Country: US
+Tech Phone: +1.8887557585
+Tech Email: WHOIS@JUSTHOST.COM
+Name Server: NS1.RHOSTJH.COM
+Name Server: NS2.RHOSTJH.COM
+</strippedText>
+  <footer/>
+  <audit>
+    <createdDate>2018-12-01 14:02:06.922 UTC</createdDate>
+    <updatedDate>2018-12-01 14:02:06.922 UTC</updatedDate>
+  </audit>
+  <customField1Name>RegistrarContactEmail</customField1Name>
+  <customField1Value>abuse@justhost.com</customField1Value>
+  <registrarName>FastDomain Inc.</registrarName>
+  <registrarIANAID>1154</registrarIANAID>
+  <whoisServer>whois.fastdomain.com</whoisServer>
+  <createdDateNormalized>2017-12-18 19:10:06 UTC</createdDateNormalized>
+  <updatedDateNormalized>2017-12-18 19:10:08 UTC</updatedDateNormalized>
+  <expiresDateNormalized>2018-12-18 19:10:06 UTC</expiresDateNormalized>
+  <customField2Name>RegistrarContactPhone</customField2Name>
+  <customField3Name>RegistrarURL</customField3Name>
+  <customField2Value>+1.8017659400</customField2Value>
+  <customField3Value>http://www.justhost.com/</customField3Value>
+  <registryData>
+    <createdDate>2017-12-18T19:10:06Z</createdDate>
+    <updatedDate>2017-12-18T19:10:08Z</updatedDate>
+    <expiresDate>2018-12-18T19:10:06Z</expiresDate>
+    <domainName>renzoleather.com</domainName>
+    <nameServers>
+      <rawText>NS1.RHOSTJH.COM
+NS2.RHOSTJH.COM
+</rawText>
+      <hostNames>
+        <Address>NS1.RHOSTJH.COM</Address>
+        <Address>NS2.RHOSTJH.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: RENZOLEATHER.COM
+   Registry Domain ID: 2201548465_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.fastdomain.com
+   Registrar URL: http://www.fastdomain.com
+   Updated Date: 2017-12-18T19:10:08Z
+   Creation Date: 2017-12-18T19:10:06Z
+   Registry Expiry Date: 2018-12-18T19:10:06Z
+   Registrar: FastDomain Inc.
+   Registrar IANA ID: 1154
+   Registrar Abuse Contact Email:
+   Registrar Abuse Contact Phone:
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.RHOSTJH.COM
+   Name Server: NS2.RHOSTJH.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:01:57Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.</rawText>
+    <parseCode>251</parseCode>
+    <header/>
+    <strippedText>Domain Name: RENZOLEATHER.COM
+Registry Domain ID: 2201548465_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.fastdomain.com
+Registrar URL: http://www.fastdomain.com
+Updated Date: 2017-12-18T19:10:08Z
+Creation Date: 2017-12-18T19:10:06Z
+Registry Expiry Date: 2018-12-18T19:10:06Z
+Registrar: FastDomain Inc.
+Registrar IANA ID: 1154
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.RHOSTJH.COM
+Name Server: NS2.RHOSTJH.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2018-12-01T14:01:57Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:02:06.060 UTC</createdDate>
+      <updatedDate>2018-12-01 14:02:06.060 UTC</updatedDate>
+    </audit>
+    <registrarName>FastDomain Inc.</registrarName>
+    <registrarIANAID>1154</registrarIANAID>
+    <createdDateNormalized>2017-12-18 19:10:06 UTC</createdDateNormalized>
+    <updatedDateNormalized>2017-12-18 19:10:08 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2018-12-18 19:10:06 UTC</expiresDateNormalized>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField3Value>http://www.fastdomain.com</customField3Value>
+    <whoisServer>whois.fastdomain.com</whoisServer>
+  </registryData>
+  <contactEmail>WHOIS@JUSTHOST.COM</contactEmail>
+  <domainNameExt>.com</domainNameExt>
+  <estimatedDomainAge>347</estimatedDomainAge>
+</WhoisRecord>

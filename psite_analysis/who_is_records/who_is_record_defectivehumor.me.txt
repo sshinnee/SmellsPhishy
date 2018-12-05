@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>defectivehumor.me</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:59:24.567 UTC</createdDate>
+    <updatedDate>2018-12-01 13:59:24.567 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-02-16T17:44:43Z</createdDate>
+    <updatedDate>2018-04-17T21:15:49Z</updatedDate>
+    <expiresDate>2019-02-16T17:44:43Z</expiresDate>
+    <registrant>
+      <organization>WhoisGuard, Inc.</organization>
+      <state>Panama</state>
+      <country>PANAMA</country>
+      <countryCode>PA</countryCode>
+      <rawText>Registrant Country: PA</rawText>
+    </registrant>
+    <domainName>defectivehumor.me</domainName>
+    <nameServers>
+      <rawText>BOSTON1.VIEWEN.COM
+BOSTON2.VIEWEN.COM
+</rawText>
+      <hostNames>
+        <Address>BOSTON1.VIEWEN.COM</Address>
+        <Address>BOSTON2.VIEWEN.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: DEFECTIVEHUMOR.ME
+Registry Domain ID: D425500000018451491-AGRS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: www.namecheap.com
+Updated Date: 2018-04-17T21:15:49Z
+Creation Date: 2018-02-16T17:44:43Z
+Registry Expiry Date: 2019-02-16T17:44:43Z
+Registrar Registration Expiration Date:
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Name Server: BOSTON1.VIEWEN.COM
+Name Server: BOSTON2.VIEWEN.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form  https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:58:24Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: DEFECTIVEHUMOR.ME
+Registry Domain ID: D425500000018451491-AGRS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: www.namecheap.com
+Updated Date: 2018-04-17T21:15:49Z
+Creation Date: 2018-02-16T17:44:43Z
+Registry Expiry Date: 2019-02-16T17:44:43Z
+Registrar Registration Expiration Date:
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: WhoisGuard, Inc.
+Registrant State/Province: Panama
+Registrant Country: PA
+Name Server: BOSTON1.VIEWEN.COM
+Name Server: BOSTON2.VIEWEN.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form  https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:58:24Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:59:24.567 UTC</createdDate>
+      <updatedDate>2018-12-01 13:59:24.567 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-02-16 17:44:43 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-04-17 21:15:49 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-02-16 17:44:43 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@namecheap.com</contactEmail>
+  <domainNameExt>.me</domainNameExt>
+  <estimatedDomainAge>287</estimatedDomainAge>
+</WhoisRecord>

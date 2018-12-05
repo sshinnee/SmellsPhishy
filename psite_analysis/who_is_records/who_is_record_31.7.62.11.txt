@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <createdDate>2012-04-25T13:14:40Z</createdDate>
+  <updatedDate>2012-04-25T13:14:40Z</updatedDate>
+  <registrant>
+    <organization>Private Layer INC</organization>
+    <street1>Panama City</street1>
+    <city>Panama</city>
+    <postalCode>00000</postalCode>
+    <country>PANAMA</country>
+    <countryCode>PA</countryCode>
+    <email>support@privatelayer.com</email>
+    <telephone>507 833 9167</telephone>
+    <rawText>organisation:   ORG-PLI2-RIPE
+org-name:       Private Layer INC
+org-type:       LIR
+address:        Panama City
+address:        00000
+address:        Panama
+address:        PANAMA
+phone:          +507 833 9167
+e-mail:         support@privatelayer.com
+</rawText>
+  </registrant>
+  <administrativeContact>
+    <name>Breckles Gate</name>
+    <street1>Breckles Attleborough, Norfolk NR171ER United Kingdom</street1>
+    <city>Breckles Attleborough, Norfolk NR171ER United Kingdom</city>
+    <country>PANAMA</country>
+    <countryCode>PA</countryCode>
+    <telephone>7766503245</telephone>
+    <rawText>person:         Breckles Gate
+address:        Breckles Attleborough, Norfolk NR171ER United Kingdom
+phone:          +7766503245
+nic-hdl:        BG3418-RIPE
+mnt-by:         KP73900-MNT
+created:        2011-08-24T19:59:49Z
+last-modified:  2011-08-24T19:59:49Z
+source:         RIPE
+person:         Breckles Gate
+address:        Breckles Attleborough, Norfolk NR171ER United Kingdom
+phone:          +7766503245
+nic-hdl:        BG3418-RIPE
+mnt-by:         KP73900-MNT
+created:        2011-08-24T19:59:49Z
+last-modified:  2011-08-24T19:59:49Z
+source:         RIPE</rawText>
+  </administrativeContact>
+  <technicalContact>
+    <name>Breckles Gate</name>
+    <street1>Breckles Attleborough, Norfolk NR171ER United Kingdom</street1>
+    <city>Breckles Attleborough, Norfolk NR171ER United Kingdom</city>
+    <country>PANAMA</country>
+    <countryCode>PA</countryCode>
+    <telephone>7766503245</telephone>
+    <rawText>person:         Breckles Gate
+address:        Breckles Attleborough, Norfolk NR171ER United Kingdom
+phone:          +7766503245
+nic-hdl:        BG3418-RIPE
+mnt-by:         KP73900-MNT
+created:        2011-08-24T19:59:49Z
+last-modified:  2011-08-24T19:59:49Z
+source:         RIPE
+person:         Breckles Gate
+address:        Breckles Attleborough, Norfolk NR171ER United Kingdom
+phone:          +7766503245
+nic-hdl:        BG3418-RIPE
+mnt-by:         KP73900-MNT
+created:        2011-08-24T19:59:49Z
+last-modified:  2011-08-24T19:59:49Z
+source:         RIPE</rawText>
+  </technicalContact>
+  <domainName>31.7.62.11</domainName>
+  <status>ASSIGNED PA</status>
+  <rawText>% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Information related to '31.7.62.0 - 31.7.62.127'
+
+% Abuse contact for '31.7.62.0 - 31.7.62.127' is 'abuse@privatelayer.com'
+
+inetnum:        31.7.62.0 - 31.7.62.127
+org:            ORG-PLI2-RIPE
+netname:        CLIENT1151
+descr:          CLIENT1151
+country:        CH
+admin-c:        BG3418-RIPE
+tech-c:         BG3418-RIPE
+status:         ASSIGNED PA
+mnt-by:         KP73900-MNT
+created:        2011-08-24T20:01:35Z
+last-modified:  2012-10-08T21:10:31Z
+source:         RIPE
+
+organisation:   ORG-PLI2-RIPE
+org-name:       Private Layer INC
+org-type:       LIR
+address:        Panama City
+address:        00000
+address:        Panama
+address:        PANAMA
+phone:          +507 833 9167
+e-mail:         support@privatelayer.com
+abuse-c:        AR15077-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        KP73900-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         KP73900-MNT
+created:        2010-10-15T13:08:21Z
+last-modified:  2018-05-31T22:39:43Z
+source:         RIPE
+
+person:         Breckles Gate
+address:        Breckles Attleborough, Norfolk NR171ER United Kingdom
+phone:          +7766503245
+nic-hdl:        BG3418-RIPE
+mnt-by:         KP73900-MNT
+created:        2011-08-24T19:59:49Z
+last-modified:  2011-08-24T19:59:49Z
+source:         RIPE
+
+% Information related to '31.7.56.0/21AS51852'
+
+route:          31.7.56.0/21
+descr:          Ripe Allocation
+origin:         AS51852
+mnt-by:         KP73900-MNT
+created:        2012-04-25T13:14:40Z
+last-modified:  2012-04-25T13:14:40Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)</rawText>
+  <parseCode>3385</parseCode>
+  <header>% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf</header>
+  <strippedText>
+% Information related to '31.7.62.0 - 31.7.62.127'
+
+% Abuse contact for '31.7.62.0 - 31.7.62.127' is 'abuse@privatelayer.com'
+
+inetnum:        31.7.62.0 - 31.7.62.127
+org:            ORG-PLI2-RIPE
+netname:        CLIENT1151
+descr:          CLIENT1151
+country:        CH
+admin-c:        BG3418-RIPE
+tech-c:         BG3418-RIPE
+status:         ASSIGNED PA
+mnt-by:         KP73900-MNT
+created:        2011-08-24T20:01:35Z
+last-modified:  2012-10-08T21:10:31Z
+source:         RIPE
+
+organisation:   ORG-PLI2-RIPE
+org-name:       Private Layer INC
+org-type:       LIR
+address:        Panama City
+address:        00000
+address:        Panama
+address:        PANAMA
+phone:          +507 833 9167
+e-mail:         support@privatelayer.com
+abuse-c:        AR15077-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        KP73900-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         KP73900-MNT
+created:        2010-10-15T13:08:21Z
+last-modified:  2018-05-31T22:39:43Z
+source:         RIPE
+
+person:         Breckles Gate
+address:        Breckles Attleborough, Norfolk NR171ER United Kingdom
+phone:          +7766503245
+nic-hdl:        BG3418-RIPE
+mnt-by:         KP73900-MNT
+created:        2011-08-24T19:59:49Z
+last-modified:  2011-08-24T19:59:49Z
+source:         RIPE
+
+% Information related to '31.7.56.0/21AS51852'
+
+route:          31.7.56.0/21
+descr:          Ripe Allocation
+origin:         AS51852
+mnt-by:         KP73900-MNT
+created:        2012-04-25T13:14:40Z
+last-modified:  2012-04-25T13:14:40Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.92.6 (HEREFORD)</strippedText>
+  <audit>
+    <createdDate>2018-12-01 14:06:23.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:06:23.000 UTC</updatedDate>
+  </audit>
+  <customField1Name>netRange</customField1Name>
+  <customField1Value>31.7.62.0 - 31.7.62.127</customField1Value>
+  <registrarName>ORG-PLI2-RIPE</registrarName>
+  <createdDateNormalized>2012-04-25 00:00:00 UTC</createdDateNormalized>
+  <updatedDateNormalized>2012-04-25 00:00:00 UTC</updatedDateNormalized>
+  <customField2Name>netName</customField2Name>
+  <customField3Name>ASN</customField3Name>
+  <customField2Value>CLIENT1151</customField2Value>
+  <customField3Value>AS51852</customField3Value>
+  <registryData>
+    <updatedDate>2010-05</updatedDate>
+    <domainName>31.7.62.11</domainName>
+    <status>ALLOCATED</status>
+    <rawText>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.ripe.net
+
+inetnum:      31.0.0.0 - 31.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2010-05
+source:       IANA</rawText>
+    <parseCode>120</parseCode>
+    <header>% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object</header>
+    <strippedText>
+refer:        whois.ripe.net
+
+inetnum:      31.0.0.0 - 31.255.255.255
+organisation: RIPE NCC
+status:       ALLOCATED
+
+whois:        whois.ripe.net
+
+changed:      2010-05
+source:       IANA</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:06:22.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:06:22.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>netRange</customField1Name>
+    <customField1Value>31.0.0.0 - 31.255.255.255</customField1Value>
+    <registrarName>RIPE NCC</registrarName>
+    <whoisServer>whois.ripe.net</whoisServer>
+  </registryData>
+  <contactEmail>support@privatelayer.com</contactEmail>
+</WhoisRecord>

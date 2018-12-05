@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>dhl.co.jp</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:31:56.484 UTC</createdDate>
+    <updatedDate>2018-12-01 14:31:56.484 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>1998/04/13</createdDate>
+    <updatedDate>2018/06/08 23:25:07 (JST)</updatedDate>
+    <expiresDate>2019/04/30</expiresDate>
+    <registrant>
+      <organization>DHL JAPAN, INC.</organization>
+    </registrant>
+    <domainName>dhl.co.jp</domainName>
+    <nameServers>
+      <rawText>ns4.dhl.com
+ns6.dhl.com
+</rawText>
+      <hostNames>
+        <Address>ns4.dhl.com</Address>
+        <Address>ns6.dhl.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <rawText>[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                DHL.CO.JP
+g. [Organization]               DHL JAPAN, INC.
+l. [Organization Type]          COMPANY
+m. [Administrative Contact]     KK41986JP
+n. [Technical Contact]          KK41986JP
+p. [Name Server]                ns4.dhl.com
+p. [Name Server]                ns6.dhl.com
+s. [Signing Key]                
+[State]                         Connected (2019/04/30)
+[Registered Date]               1998/04/13
+[Connected Date]                1998/08/24
+[Last Update]                   2018/06/08 23:25:07 (JST)</rawText>
+    <parseCode>227</parseCode>
+    <header>[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+</header>
+    <strippedText>Domain Information:
+a. [Domain Name]                DHL.CO.JP
+g. [Organization]               DHL JAPAN, INC.
+l. [Organization Type]          COMPANY
+m. [Administrative Contact]     KK41986JP
+n. [Technical Contact]          KK41986JP
+p. [Name Server]                ns4.dhl.com
+p. [Name Server]                ns6.dhl.com
+s. [Signing Key]
+[State]                         Connected (2019/04/30)
+[Registered Date]               1998/04/13
+[Connected Date]                1998/08/24
+[Last Update]                   2018/06/08 23:25:07 (JST)
+</strippedText>
+    <audit>
+      <createdDate>2018-12-01 14:31:56.484 UTC</createdDate>
+      <updatedDate>2018-12-01 14:31:56.484 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>1998-04-13 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-06-08 14:25:07 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-04-30 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.jprs.jp</whoisServer>
+  </registryData>
+  <domainNameExt>.co.jp</domainNameExt>
+  <estimatedDomainAge>7537</estimatedDomainAge>
+</WhoisRecord>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>iplaymc.info</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 00:14:49.000 UTC</createdDate>
+    <updatedDate>2018-12-01 00:14:49.000 UTC</updatedDate>
+  </audit>
+  <registrarName>GoDaddy.com, LLC</registrarName>
+  <registrarIANAID>146</registrarIANAID>
+  <registryData>
+    <createdDate>2012-03-21T22:23:18Z</createdDate>
+    <updatedDate>2018-11-18T05:35:08Z</updatedDate>
+    <expiresDate>2019-03-21T22:23:18Z</expiresDate>
+    <registrant>
+      <state>Manitoba</state>
+      <country>CANADA</country>
+      <countryCode>CA</countryCode>
+      <rawText>Registrant Country: CA</rawText>
+    </registrant>
+    <domainName>iplaymc.info</domainName>
+    <nameServers>
+      <rawText>NS61.DOMAINCONTROL.COM
+NS62.DOMAINCONTROL.COM
+</rawText>
+      <hostNames>
+        <Address>NS61.DOMAINCONTROL.COM</Address>
+        <Address>NS62.DOMAINCONTROL.COM</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientDeleteProhibited clientRenewProhibited clientTransferProhibited clientUpdateProhibited</status>
+    <rawText>Domain Name: IPLAYMC.INFO
+Registry Domain ID: D45893644-LRMS
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2018-11-18T05:35:08Z
+Creation Date: 2012-03-21T22:23:18Z
+Registry Expiry Date: 2019-03-21T22:23:18Z
+Registrar Registration Expiration Date:
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Reseller:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization:
+Registrant State/Province: Manitoba
+Registrant Country: CA
+Name Server: NS61.DOMAINCONTROL.COM
+Name Server: NS62.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:13:48Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: IPLAYMC.INFO
+Registry Domain ID: D45893644-LRMS
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2018-11-18T05:35:08Z
+Creation Date: 2012-03-21T22:23:18Z
+Registry Expiry Date: 2019-03-21T22:23:18Z
+Registrar Registration Expiration Date:
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Reseller:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization:
+Registrant State/Province: Manitoba
+Registrant Country: CA
+Name Server: NS61.DOMAINCONTROL.COM
+Name Server: NS62.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form is https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T00:13:48Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to AFILIAS WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Afilias registry database. The data in this record is provided by Afilias Limited for informational purposes only, and Afilias does not guarantee its accuracy.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Afilias reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 00:14:49.000 UTC</createdDate>
+      <updatedDate>2018-12-01 00:14:49.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@godaddy.com</customField1Value>
+    <registrarName>GoDaddy.com, LLC</registrarName>
+    <registrarIANAID>146</registrarIANAID>
+    <createdDateNormalized>2012-03-21 22:23:18 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-18 05:35:08 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-03-21 22:23:18 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.4806242505</customField2Value>
+    <customField3Value>http://www.godaddy.com</customField3Value>
+    <whoisServer>whois.godaddy.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse@godaddy.com</contactEmail>
+  <domainNameExt>.info</domainNameExt>
+  <estimatedDomainAge>2445</estimatedDomainAge>
+</WhoisRecord>

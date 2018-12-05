@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>kpmgwinterfest.ca</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:44:41.643 UTC</createdDate>
+    <updatedDate>2018-12-01 13:44:41.643 UTC</updatedDate>
+  </audit>
+  <registrarName>Webnames.ca Inc.</registrarName>
+  <registrarIANAID>456</registrarIANAID>
+  <registryData>
+    <createdDate>2014/10/10</createdDate>
+    <updatedDate>2018/11/27</updatedDate>
+    <expiresDate>2019/10/10</expiresDate>
+    <registrant>
+      <name>KPMG Limited Liability Partnership</name>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <rawText>Name:              KPMG Limited Liability Partnership</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Jason Souliere</name>
+      <street1>3 Chestnut Ridge Rd.</street1>
+      <city>Montvale</city>
+      <state>NJ</state>
+      <postalCode>07645</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>domainadmin@kpmg.com</email>
+      <telephone>12013077000</telephone>
+      <fax>12016433199</fax>
+      <rawText>Name:              Jason Souliere
+Postal address:    3 Chestnut Ridge Rd.
+Montvale NJ 07645 United States
+Phone:             +1.2013077000
+Fax:               +1.2016433199
+Email:             domainadmin@kpmg.com</rawText>
+      <unparsable>Postal</unparsable>
+    </administrativeContact>
+    <technicalContact>
+      <name>Jason Souliere</name>
+      <street1>3 Chestnut Ridge Rd.</street1>
+      <city>Montvale</city>
+      <state>NJ</state>
+      <postalCode>07645</postalCode>
+      <country>UNITED STATES</country>
+      <countryCode>US</countryCode>
+      <email>domaintech@kpmg.com</email>
+      <telephone>12013077000</telephone>
+      <fax>12016433199</fax>
+      <rawText>Name:              Jason Souliere
+Postal address:    3 Chestnut Ridge Rd.
+Montvale NJ 07645 United States
+Phone:             +1.2013077000
+Fax:               +1.2016433199
+Email:             domaintech@kpmg.com</rawText>
+      <unparsable>Postal</unparsable>
+    </technicalContact>
+    <domainName>kpmgwinterfest.ca</domainName>
+    <nameServers>
+      <rawText>ns1.liquidweb.com
+ns.liquidweb.com
+</rawText>
+      <hostNames>
+        <Address>ns1.liquidweb.com</Address>
+        <Address>ns.liquidweb.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>registered</status>
+    <rawText>Domain name:           kpmgwinterfest.ca
+Domain status:         registered
+Creation date:         2014/10/10
+Expiry date:           2019/10/10
+Updated date:          2018/11/27
+DNSSEC:                Unsigned
+
+Registrar:
+    Name:              Webnames.ca Inc.
+    Number:            70
+
+Registrant:
+    Name:              KPMG Limited Liability Partnership
+
+Administrative contact:
+    Name:              Jason Souliere
+    Postal address:    3 Chestnut Ridge Rd.
+                       Montvale NJ 07645 United States
+    Phone:             +1.2013077000
+    Fax:               +1.2016433199
+    Email:             domainadmin@kpmg.com
+
+Technical contact:
+    Name:              Jason Souliere
+    Postal address:    3 Chestnut Ridge Rd.
+                       Montvale NJ 07645 United States
+    Phone:             +1.2013077000
+    Fax:               +1.2016433199
+    Email:             domaintech@kpmg.com
+
+Name servers:
+    ns1.liquidweb.com
+    ns.liquidweb.com
+
+% WHOIS look-up made at 2018-12-01 13:44:41 (GMT)
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en 
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain name:           kpmgwinterfest.ca
+Domain status:         registered
+Creation date:         2014/10/10
+Expiry date:           2019/10/10
+Updated date:          2018/11/27
+DNSSEC:                Unsigned
+Registrar:
+Name:              Webnames.ca Inc.
+Number:            70
+Registrant:
+Name:              KPMG Limited Liability Partnership
+Administrative contact:
+Name:              Jason Souliere
+Postal address:    3 Chestnut Ridge Rd.
+Montvale NJ 07645 United States
+Phone:             +1.2013077000
+Fax:               +1.2016433199
+Email:             domainadmin@kpmg.com
+Technical contact:
+Name:              Jason Souliere
+Postal address:    3 Chestnut Ridge Rd.
+Montvale NJ 07645 United States
+Phone:             +1.2013077000
+Fax:               +1.2016433199
+Email:             domaintech@kpmg.com
+Name servers:
+ns1.liquidweb.com
+ns.liquidweb.com
+% WHOIS look-up made at 2018-12-01 13:44:41 (GMT)
+</strippedText>
+    <footer>%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2018 Canadian Internet Registration Authority, (http://www.cira.ca/)</footer>
+    <audit>
+      <createdDate>2018-12-01 13:44:41.643 UTC</createdDate>
+      <updatedDate>2018-12-01 13:44:41.643 UTC</updatedDate>
+    </audit>
+    <registrarName>Webnames.ca Inc.</registrarName>
+    <registrarIANAID>456</registrarIANAID>
+    <createdDateNormalized>2014-10-10 00:00:00 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-27 00:00:00 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-10-10 00:00:00 UTC</expiresDateNormalized>
+    <whoisServer>whois.cira.ca</whoisServer>
+  </registryData>
+  <contactEmail>domainadmin@kpmg.com</contactEmail>
+  <domainNameExt>.ca</domainNameExt>
+  <estimatedDomainAge>1513</estimatedDomainAge>
+</WhoisRecord>

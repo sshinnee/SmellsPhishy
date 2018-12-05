@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>grefa.org</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:26:35.000 UTC</createdDate>
+    <updatedDate>2018-12-01 14:26:35.000 UTC</updatedDate>
+  </audit>
+  <registrarName>Hosting Concepts B.V. d/b/a Openprovider</registrarName>
+  <registrarIANAID>1647</registrarIANAID>
+  <registryData>
+    <createdDate>1999-05-10T13:30:49Z</createdDate>
+    <updatedDate>2018-05-02T08:23:28Z</updatedDate>
+    <expiresDate>2019-05-10T13:31:23Z</expiresDate>
+    <registrant>
+      <organization>GREFA</organization>
+      <state>MADRID</state>
+      <country>SPAIN</country>
+      <countryCode>ES</countryCode>
+      <rawText>Registrant Country: ES</rawText>
+    </registrant>
+    <domainName>grefa.org</domainName>
+    <nameServers>
+      <rawText>DNS198190.PHDNS.ES
+NS198190.PHDNS.ES
+</rawText>
+      <hostNames>
+        <Address>DNS198190.PHDNS.ES</Address>
+        <Address>NS198190.PHDNS.ES</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ok</status>
+    <rawText>Domain Name: GREFA.ORG
+Registry Domain ID: D6396043-LROR
+Registrar WHOIS Server: whois.registrar.eu
+Registrar URL: http://www.openprovider.com
+Updated Date: 2018-05-02T08:23:28Z
+Creation Date: 1999-05-10T13:30:49Z
+Registry Expiry Date: 2019-05-10T13:31:23Z
+Registrar Registration Expiration Date:
+Registrar: Hosting Concepts B.V. d/b/a Openprovider
+Registrar IANA ID: 1647
+Registrar Abuse Contact Email: abuse@registrar.eu
+Registrar Abuse Contact Phone: +31.104482297
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: GREFA
+Registrant State/Province: MADRID
+Registrant Country: ES
+Name Server: DNS198190.PHDNS.ES
+Name Server: NS198190.PHDNS.ES
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:25:35Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.</rawText>
+    <parseCode>1275</parseCode>
+    <header/>
+    <strippedText>Domain Name: GREFA.ORG
+Registry Domain ID: D6396043-LROR
+Registrar WHOIS Server: whois.registrar.eu
+Registrar URL: http://www.openprovider.com
+Updated Date: 2018-05-02T08:23:28Z
+Creation Date: 1999-05-10T13:30:49Z
+Registry Expiry Date: 2019-05-10T13:31:23Z
+Registrar Registration Expiration Date:
+Registrar: Hosting Concepts B.V. d/b/a Openprovider
+Registrar IANA ID: 1647
+Registrar Abuse Contact Email: abuse@registrar.eu
+Registrar Abuse Contact Phone: +31.104482297
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: GREFA
+Registrant State/Province: MADRID
+Registrant Country: ES
+Name Server: DNS198190.PHDNS.ES
+Name Server: NS198190.PHDNS.ES
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form https://www.icann.org/wicf/)
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:25:35Z &lt;&lt;&lt;
+For more information on Whois status codes, please visit https://icann.org/epp
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:26:35.000 UTC</createdDate>
+      <updatedDate>2018-12-01 14:26:35.000 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@registrar.eu</customField1Value>
+    <registrarName>Hosting Concepts B.V. d/b/a Openprovider</registrarName>
+    <registrarIANAID>1647</registrarIANAID>
+    <createdDateNormalized>1999-05-10 13:30:49 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-05-02 08:23:28 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-05-10 13:31:23 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+31.104482297</customField2Value>
+    <customField3Value>http://www.openprovider.com</customField3Value>
+    <whoisServer>whois.registrar.eu</whoisServer>
+  </registryData>
+  <contactEmail>abuse@registrar.eu</contactEmail>
+  <domainNameExt>.org</domainNameExt>
+  <estimatedDomainAge>7145</estimatedDomainAge>
+</WhoisRecord>

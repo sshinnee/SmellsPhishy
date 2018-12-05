@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>stirless.us</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 14:25:59.754 UTC</createdDate>
+    <updatedDate>2018-12-01 14:25:59.754 UTC</updatedDate>
+  </audit>
+  <registrarName>NameCheap, Inc.</registrarName>
+  <registrarIANAID>1068</registrarIANAID>
+  <registryData>
+    <createdDate>2018-07-06T23:14:34Z</createdDate>
+    <updatedDate>2018-07-11T23:14:34Z</updatedDate>
+    <expiresDate>2019-07-06T23:14:34Z</expiresDate>
+    <registrant>
+      <name>Manager ELAZ</name>
+      <organization>bgreat consulting</organization>
+      <street1>3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4</street1>
+      <city>california</city>
+      <state>california</state>
+      <postalCode>0090000</postalCode>
+      <country>MOZAMBIQUE</country>
+      <countryCode>MZ</countryCode>
+      <email>management@bgreatconsulting.com</email>
+      <telephone>212539342044</telephone>
+      <rawText>Registrant Name: Manager ELAZ
+Registrant Organization: bgreat consulting
+Registrant Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Registrant City: california
+Registrant State/Province: california
+Registrant Postal Code: 0090000
+Registrant Country: MZ
+Registrant Phone: +212.539342044
+Registrant Email: management@bgreatconsulting.com</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Manager ELAZ</name>
+      <organization>bgreat consulting</organization>
+      <street1>3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4</street1>
+      <city>california</city>
+      <state>california</state>
+      <postalCode>0090000</postalCode>
+      <country>MOZAMBIQUE</country>
+      <countryCode>MZ</countryCode>
+      <email>management@bgreatconsulting.com</email>
+      <telephone>212539342044</telephone>
+      <rawText>Admin Name: Manager ELAZ
+Admin Organization: bgreat consulting
+Admin Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Admin City: california
+Admin State/Province: california
+Admin Postal Code: 0090000
+Admin Country: MZ
+Admin Phone: +212.539342044
+Admin Email: management@bgreatconsulting.com</rawText>
+    </administrativeContact>
+    <technicalContact>
+      <name>Manager ELAZ</name>
+      <organization>bgreat consulting</organization>
+      <street1>3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4</street1>
+      <city>california</city>
+      <state>california</state>
+      <postalCode>0090000</postalCode>
+      <country>MOZAMBIQUE</country>
+      <countryCode>MZ</countryCode>
+      <email>management@bgreatconsulting.com</email>
+      <telephone>212539342044</telephone>
+      <rawText>Tech Name: Manager ELAZ
+Tech Organization: bgreat consulting
+Tech Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Tech City: california
+Tech State/Province: california
+Tech Postal Code: 0090000
+Tech Country: MZ
+Tech Phone: +212.539342044
+Tech Email: management@bgreatconsulting.com</rawText>
+    </technicalContact>
+    <domainName>stirless.us</domainName>
+    <nameServers>
+      <rawText>dns1.registrar-servers.com
+dns2.registrar-servers.com
+</rawText>
+      <hostNames>
+        <Address>dns1.registrar-servers.com</Address>
+        <Address>dns2.registrar-servers.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited</status>
+    <rawText>Domain Name: stirless.us
+Registry Domain ID: D10CE4EE80FFF4578A9E339B018E64605-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-07-11T23:14:34Z
+Creation Date: 2018-07-06T23:14:34Z
+Registry Expiry Date: 2019-07-06T23:14:34Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C80B775D0417349F794337AB40D1E4964-NSR
+Registrant Name: Manager ELAZ
+Registrant Organization: bgreat consulting
+Registrant Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Registrant Street:
+Registrant Street:
+Registrant City: california
+Registrant State/Province: california
+Registrant Postal Code: 0090000
+Registrant Country: MZ
+Registrant Phone: +212.539342044
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: management@bgreatconsulting.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C11
+Registry Admin ID: C99D6877E3FCC4AB3A767247FB5141EC5-NSR
+Admin Name: Manager ELAZ
+Admin Organization: bgreat consulting
+Admin Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Admin Street:
+Admin Street:
+Admin City: california
+Admin State/Province: california
+Admin Postal Code: 0090000
+Admin Country: MZ
+Admin Phone: +212.539342044
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: management@bgreatconsulting.com
+Registry Tech ID: CAB9032104BA74C538A4B72E935E6950A-NSR
+Tech Name: Manager ELAZ
+Tech Organization: bgreat consulting
+Tech Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Tech Street:
+Tech Street:
+Tech City: california
+Tech State/Province: california
+Tech Postal Code: 0090000
+Tech Country: MZ
+Tech Phone: +212.539342044
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: management@bgreatconsulting.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T14:25:59Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NeuStar, Inc., the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the NeuStar registry database. NeuStar makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: (1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; (2) in contravention of any applicable data and privacy protection laws; or (3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without NeuStar's prior written permission. NeuStar reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.</rawText>
+    <parseCode>3579</parseCode>
+    <header/>
+    <strippedText>Domain Name: stirless.us
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-07-11T23:14:34Z
+Creation Date: 2018-07-06T23:14:34Z
+Registry Expiry Date: 2019-07-06T23:14:34Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Manager ELAZ
+Registrant Organization: bgreat consulting
+Registrant Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Registrant City: california
+Registrant State/Province: california
+Registrant Postal Code: 0090000
+Registrant Country: MZ
+Registrant Phone: +212.539342044
+Registrant Email: management@bgreatconsulting.com
+Admin Name: Manager ELAZ
+Admin Organization: bgreat consulting
+Admin Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Admin City: california
+Admin State/Province: california
+Admin Postal Code: 0090000
+Admin Country: MZ
+Admin Phone: +212.539342044
+Admin Email: management@bgreatconsulting.com
+Tech Name: Manager ELAZ
+Tech Organization: bgreat consulting
+Tech Street: 3 RUE SAYED KOTB LA PLAGE RUE LHORE ET SAYED KOTB APT49:ETG4
+Tech City: california
+Tech State/Province: california
+Tech Postal Code: 0090000
+Tech Country: MZ
+Tech Phone: +212.539342044
+Tech Email: management@bgreatconsulting.com
+Name Server: dns1.registrar-servers.com
+Name Server: dns2.registrar-servers.com
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 14:25:59.754 UTC</createdDate>
+      <updatedDate>2018-12-01 14:25:59.754 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse@namecheap.com</customField1Value>
+    <registrarName>NameCheap, Inc.</registrarName>
+    <registrarIANAID>1068</registrarIANAID>
+    <createdDateNormalized>2018-07-06 23:14:34 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-07-11 23:14:34 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-07-06 23:14:34 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.6613102107</customField2Value>
+    <customField3Value>http://www.namecheap.com</customField3Value>
+    <whoisServer>whois.namecheap.com</whoisServer>
+  </registryData>
+  <contactEmail>management@bgreatconsulting.com</contactEmail>
+  <domainNameExt>.us</domainNameExt>
+  <estimatedDomainAge>147</estimatedDomainAge>
+</WhoisRecord>

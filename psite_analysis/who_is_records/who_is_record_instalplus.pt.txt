@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>instalplus.pt</domainName>
+  <parseCode>0</parseCode>
+  <audit>
+    <createdDate>2018-11-27 19:15:11.000 UTC</createdDate>
+    <updatedDate>2018-11-27 19:15:11.000 UTC</updatedDate>
+  </audit>
+  <registryData>
+    <createdDate>03/01/2007</createdDate>
+    <registrant>
+      <name>INSTALPLUS - SISTEMAS DE COMUNICAÇÃO INFORMÁTICA LDA</name>
+      <city>RUA</city>
+      <state>DOS</state>
+      <postalCode>CEDROS</postalCode>
+      <country>N</country>
+      <email>geral@instalplus.pt;ernestina.de.jesus@instalplus.pt</email>
+      <rawText>INSTALPLUS - SISTEMAS DE COMUNICAÇÃO INFORMÁTICA LDA
+RUA DOS CEDROS Nº 12, AMORA, 2840-063 AMORA, PT
+Email: geral@instalplus.pt;ernestina.de.jesus@instalplus.pt</rawText>
+      <unparsable>INSTALPLUS - SISTEMAS DE COMUNICAÇÃO INFORMÁTICA LDAº 12, AMORA, 2840-063 AMORA, PT</unparsable>
+    </registrant>
+    <billingContact>
+      <name>AMENWORLD Serviços Internet - Sociedade Unipessoal Lda</name>
+      <street1>Av.</street1>
+      <city>A e B</city>
+      <state>Lisboa</state>
+      <postalCode>1050-082</postalCode>
+      <country>Lisboa</country>
+      <email>mailmanager@registryamen.com.pt;dominios@amen.pt</email>
+      <rawText>AMENWORLD Serviços Internet - Sociedade Unipessoal Lda
+Av. Duque D Ávila, nº 185 4º A e B, Lisboa, 1050-082 Lisboa, PT
+Email: mailmanager@registryamen.com.pt;dominios@amen.pt</rawText>
+      <unparsable>Duque D Ávila, nº 185 4º, PT</unparsable>
+    </billingContact>
+    <domainName>instalplus.pt</domainName>
+    <nameServers>
+      <rawText>ns1.amenworld.com
+ns2.amenworld.com
+</rawText>
+      <hostNames>
+        <Address>ns1.amenworld.com</Address>
+        <Address>ns2.amenworld.com</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>ACTIVE</status>
+    <rawText>Nome de domínio / Domain Name: instalplus.pt
+Data de registo / Creation Date (dd/mm/yyyy): 03/01/2007
+Data de expiração / Expiration Date (dd/mm/yyyy): 28/02/2019
+Estado / Status: ACTIVE
+
+Titular / Registrant
+   INSTALPLUS - SISTEMAS DE COMUNICAÇÃO INFORMÁTICA LDA
+   RUA DOS CEDROS Nº 12, AMORA, 2840-063 AMORA, PT
+   Email: geral@instalplus.pt;ernestina.de.jesus@instalplus.pt
+
+Entidade Gestora / Billing Contact
+   AMENWORLD Serviços Internet - Sociedade Unipessoal Lda
+   Av. Duque D Ávila, nº 185 4º A e B, Lisboa, 1050-082 Lisboa, PT
+   Email: mailmanager@registryamen.com.pt;dominios@amen.pt
+
+
+Nameserver Information
+   Nameserver: instalplus.pt	NS	ns1.amenworld.com.
+   Nameserver: instalplus.pt	NS	ns2.amenworld.com.</rawText>
+    <parseCode>1745</parseCode>
+    <header>Nome de domínio / Domain Name: instalplus.pt</header>
+    <strippedText>Data de registo / Creation Date (dd/mm/yyyy): 03/01/2007
+Data de expiração / Expiration Date (dd/mm/yyyy): 28/02/2019
+Estado / Status: ACTIVE
+Titular / Registrant
+INSTALPLUS - SISTEMAS DE COMUNICAÇÃO INFORMÁTICA LDA
+RUA DOS CEDROS Nº 12, AMORA, 2840-063 AMORA, PT
+Email: geral@instalplus.pt;ernestina.de.jesus@instalplus.pt
+Entidade Gestora / Billing Contact
+AMENWORLD Serviços Internet - Sociedade Unipessoal Lda
+Av. Duque D Ávila, nº 185 4º A e B, Lisboa, 1050-082 Lisboa, PT
+Email: mailmanager@registryamen.com.pt;dominios@amen.pt
+Nameserver Information
+Nameserver: instalplus.pt	NS	ns1.amenworld.com.
+Nameserver: instalplus.pt	NS	ns2.amenworld.com.
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-11-27 19:15:11.000 UTC</createdDate>
+      <updatedDate>2018-11-27 19:15:11.000 UTC</updatedDate>
+    </audit>
+    <createdDateNormalized>2007-01-03 00:00:00 UTC</createdDateNormalized>
+    <whoisServer>whois.dns.pt</whoisServer>
+  </registryData>
+  <contactEmail>geral@instalplus.pt</contactEmail>
+  <domainNameExt>.pt</domainNameExt>
+  <estimatedDomainAge>4350</estimatedDomainAge>
+</WhoisRecord>

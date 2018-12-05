@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?><WhoisRecord>
+  <domainName>cardswer.desi</domainName>
+  <parseCode>8</parseCode>
+  <audit>
+    <createdDate>2018-12-01 13:47:24.447 UTC</createdDate>
+    <updatedDate>2018-12-01 13:47:24.447 UTC</updatedDate>
+  </audit>
+  <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+  <registrarIANAID>303</registrarIANAID>
+  <registryData>
+    <createdDate>2018-11-27T06:42:15Z</createdDate>
+    <updatedDate>2018-11-27T08:24:23Z</updatedDate>
+    <expiresDate>2019-11-27T06:42:15Z</expiresDate>
+    <registrant>
+      <name>Privacy Protected by Registry</name>
+      <organization>Privacy Protected by Registry</organization>
+      <street1>Privacy Protected by Registry</street1>
+      <city>Privacy Protected by Registry</city>
+      <state>Punjab</state>
+      <postalCode>Privacy Protected by Registry</postalCode>
+      <country>INDIA</country>
+      <countryCode>IN</countryCode>
+      <telephone/>
+      <fax/>
+      <rawText>Registrant Name: Privacy Protected by Registry
+Registrant Organization: Privacy Protected by Registry
+Registrant Street: Privacy Protected by Registry
+Registrant City: Privacy Protected by Registry
+Registrant State/Province: Punjab
+Registrant Postal Code: Privacy Protected by Registry
+Registrant Country: IN
+Registrant Phone: Privacy Protected by Registry
+Registrant Fax: Privacy Protected by Registry
+Registrant Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)</rawText>
+    </registrant>
+    <administrativeContact>
+      <name>Privacy Protected by Registry</name>
+      <organization>Privacy Protected by Registry</organization>
+      <street1>Privacy Protected by Registry</street1>
+      <city>Privacy Protected by Registry</city>
+      <state>Privacy Protected by Registry</state>
+      <postalCode>Privacy Protected by Registry</postalCode>
+      <country>Privacy Protected by Registry</country>
+      <telephone/>
+      <fax/>
+      <rawText>Admin Name: Privacy Protected by Registry
+Admin Organization: Privacy Protected by Registry
+Admin Street: Privacy Protected by Registry
+Admin City: Privacy Protected by Registry
+Admin State/Province: Privacy Protected by Registry
+Admin Postal Code: Privacy Protected by Registry
+Admin Country: Privacy Protected by Registry
+Admin Phone: Privacy Protected by Registry
+Admin Fax: Privacy Protected by Registry
+Admin Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)</rawText>
+    </administrativeContact>
+    <billingContact>
+      <name>Privacy Protected by Registry</name>
+      <organization>Privacy Protected by Registry</organization>
+      <street1>Privacy Protected by Registry</street1>
+      <city>Privacy Protected by Registry</city>
+      <state>Privacy Protected by Registry</state>
+      <postalCode>Privacy Protected by Registry</postalCode>
+      <country>Privacy Protected by Registry</country>
+      <telephone/>
+      <fax/>
+      <rawText>Billing Name: Privacy Protected by Registry
+Billing Organization: Privacy Protected by Registry
+Billing Street: Privacy Protected by Registry
+Billing City: Privacy Protected by Registry
+Billing State/Province: Privacy Protected by Registry
+Billing Postal Code: Privacy Protected by Registry
+Billing Country: Privacy Protected by Registry
+Billing Phone: Privacy Protected by Registry
+Billing Fax: Privacy Protected by Registry
+Billing Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)</rawText>
+    </billingContact>
+    <technicalContact>
+      <name>Privacy Protected by Registry</name>
+      <organization>Privacy Protected by Registry</organization>
+      <street1>Privacy Protected by Registry</street1>
+      <city>Privacy Protected by Registry</city>
+      <state>Privacy Protected by Registry</state>
+      <postalCode>Privacy Protected by Registry</postalCode>
+      <country>Privacy Protected by Registry</country>
+      <telephone/>
+      <fax/>
+      <rawText>Tech Name: Privacy Protected by Registry
+Tech Organization: Privacy Protected by Registry
+Tech Street: Privacy Protected by Registry
+Tech City: Privacy Protected by Registry
+Tech State/Province: Privacy Protected by Registry
+Tech Postal Code: Privacy Protected by Registry
+Tech Country: Privacy Protected by Registry
+Tech Phone: Privacy Protected by Registry
+Tech Fax: Privacy Protected by Registry
+Tech Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)</rawText>
+    </technicalContact>
+    <domainName>cardswer.desi</domainName>
+    <nameServers>
+      <rawText>ns1.gurnate.us
+ns2.gurnate.us
+</rawText>
+      <hostNames>
+        <Address>ns1.gurnate.us</Address>
+        <Address>ns2.gurnate.us</Address>
+      </hostNames>
+      <ips/>
+    </nameServers>
+    <status>clientTransferProhibited serverTransferProhibited addPeriod</status>
+    <rawText>Domain Name: CARDSWER.DESI
+Registry Domain ID: 20851212585_DOMAIN-DESI
+Registrar WHOIS Server: http://whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com/
+Updated Date: 2018-11-27T08:24:23Z
+Creation Date: 2018-11-27T06:42:15Z
+Registry Expiry Date: 2019-11-27T06:42:15Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registry Registrant ID: Privacy Protected by Registry
+Registrant Name: Privacy Protected by Registry
+Registrant Organization: Privacy Protected by Registry
+Registrant Street: Privacy Protected by Registry
+Registrant City: Privacy Protected by Registry
+Registrant State/Province: Punjab
+Registrant Postal Code: Privacy Protected by Registry
+Registrant Country: IN
+Registrant Phone: Privacy Protected by Registry
+Registrant Fax: Privacy Protected by Registry
+Registrant Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Registry Admin ID: Privacy Protected by Registry
+Admin Name: Privacy Protected by Registry
+Admin Organization: Privacy Protected by Registry
+Admin Street: Privacy Protected by Registry
+Admin City: Privacy Protected by Registry
+Admin State/Province: Privacy Protected by Registry
+Admin Postal Code: Privacy Protected by Registry
+Admin Country: Privacy Protected by Registry
+Admin Phone: Privacy Protected by Registry
+Admin Fax: Privacy Protected by Registry
+Admin Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Registry Tech ID: Privacy Protected by Registry
+Tech Name: Privacy Protected by Registry
+Tech Organization: Privacy Protected by Registry
+Tech Street: Privacy Protected by Registry
+Tech City: Privacy Protected by Registry
+Tech State/Province: Privacy Protected by Registry
+Tech Postal Code: Privacy Protected by Registry
+Tech Country: Privacy Protected by Registry
+Tech Phone: Privacy Protected by Registry
+Tech Fax: Privacy Protected by Registry
+Tech Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Registry Billing ID: Privacy Protected by Registry
+Billing Name: Privacy Protected by Registry
+Billing Organization: Privacy Protected by Registry
+Billing Street: Privacy Protected by Registry
+Billing City: Privacy Protected by Registry
+Billing State/Province: Privacy Protected by Registry
+Billing Postal Code: Privacy Protected by Registry
+Billing Country: Privacy Protected by Registry
+Billing Phone: Privacy Protected by Registry
+Billing Fax: Privacy Protected by Registry
+Billing Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Name Server: ns1.gurnate.us
+Name Server: ns2.gurnate.us
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-12-01T13:47:24Z &lt;&lt;&lt;
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This data is provided by DESI REGISTRY for information purposes only in
+accordance with the DESI REGISTRY TLD Privacy Policy. It is intended to
+assist persons to obtain information about or related to domain name
+registration records. DESI REGISTRY does not guarantee its accuracy.
+By submitting this query, you agree to abide as follows:
+
+You agree to use this data only for lawful purposes and that under no
+ circumstances will you permit this data to
+1) allow, enable, or otherwise support the transmission of mass
+    unsolicited, commercial advertising or solicitations via e-mail,
+    telephone or fax (spam); nor
+2) enable high volume, automated, electronic processes to the systems
+    of DESI REGISTRY or Registrars, except as reasonably required to
+    register new domain names or modify existing registrations; nor
+3) will you generate a database of registered domain names and
+    registrant data.
+
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.</rawText>
+    <parseCode>4091</parseCode>
+    <header/>
+    <strippedText>Domain Name: CARDSWER.DESI
+Registrar WHOIS Server: http://whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com/
+Updated Date: 2018-11-27T08:24:23Z
+Creation Date: 2018-11-27T06:42:15Z
+Registry Expiry Date: 2019-11-27T06:42:15Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: addPeriod https://icann.org/epp#addPeriod
+Registrant Name: Privacy Protected by Registry
+Registrant Organization: Privacy Protected by Registry
+Registrant Street: Privacy Protected by Registry
+Registrant City: Privacy Protected by Registry
+Registrant State/Province: Punjab
+Registrant Postal Code: Privacy Protected by Registry
+Registrant Country: IN
+Registrant Phone: Privacy Protected by Registry
+Registrant Fax: Privacy Protected by Registry
+Registrant Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Admin Name: Privacy Protected by Registry
+Admin Organization: Privacy Protected by Registry
+Admin Street: Privacy Protected by Registry
+Admin City: Privacy Protected by Registry
+Admin State/Province: Privacy Protected by Registry
+Admin Postal Code: Privacy Protected by Registry
+Admin Country: Privacy Protected by Registry
+Admin Phone: Privacy Protected by Registry
+Admin Fax: Privacy Protected by Registry
+Admin Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Tech Name: Privacy Protected by Registry
+Tech Organization: Privacy Protected by Registry
+Tech Street: Privacy Protected by Registry
+Tech City: Privacy Protected by Registry
+Tech State/Province: Privacy Protected by Registry
+Tech Postal Code: Privacy Protected by Registry
+Tech Country: Privacy Protected by Registry
+Tech Phone: Privacy Protected by Registry
+Tech Fax: Privacy Protected by Registry
+Tech Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Billing Name: Privacy Protected by Registry
+Billing Organization: Privacy Protected by Registry
+Billing Street: Privacy Protected by Registry
+Billing City: Privacy Protected by Registry
+Billing State/Province: Privacy Protected by Registry
+Billing Postal Code: Privacy Protected by Registry
+Billing Country: Privacy Protected by Registry
+Billing Phone: Privacy Protected by Registry
+Billing Fax: Privacy Protected by Registry
+Billing Email: Privacy Protected by Registry (Contact via web form at http://gdpr.nic.desi)
+Name Server: ns1.gurnate.us
+Name Server: ns2.gurnate.us
+</strippedText>
+    <footer/>
+    <audit>
+      <createdDate>2018-12-01 13:47:24.447 UTC</createdDate>
+      <updatedDate>2018-12-01 13:47:24.447 UTC</updatedDate>
+    </audit>
+    <customField1Name>RegistrarContactEmail</customField1Name>
+    <customField1Value>abuse-contact@publicdomainregistry.com</customField1Value>
+    <registrarName>PDR Ltd. d/b/a PublicDomainRegistry.com</registrarName>
+    <registrarIANAID>303</registrarIANAID>
+    <createdDateNormalized>2018-11-27 06:42:15 UTC</createdDateNormalized>
+    <updatedDateNormalized>2018-11-27 08:24:23 UTC</updatedDateNormalized>
+    <expiresDateNormalized>2019-11-27 06:42:15 UTC</expiresDateNormalized>
+    <customField2Name>RegistrarContactPhone</customField2Name>
+    <customField3Name>RegistrarURL</customField3Name>
+    <customField2Value>+1.2013775952</customField2Value>
+    <customField3Value>http://publicdomainregistry.com/</customField3Value>
+    <whoisServer>http://whois.publicdomainregistry.com</whoisServer>
+  </registryData>
+  <contactEmail>abuse-contact@publicdomainregistry.com</contactEmail>
+  <domainNameExt>.desi</domainNameExt>
+  <estimatedDomainAge>4</estimatedDomainAge>
+</WhoisRecord>
