@@ -1,0 +1,67 @@
+/* http://nicolasgallagher.com/micro-clearfix-hack */
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix:after,
+.clearfix:before {
+  display: table;
+  content: "";
+}
+.accordion > section {
+  display: block;
+}
+.accordion > section > :first-child + * {
+  overflow: hidden;
+  -webkit-transition-duration: 0.25s;
+  -moz-transition-duration: 0.25s;
+  -o-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+  -webkit-transition-property: height;
+  -moz-transition-property: height;
+  -o-transition-property: height;
+  transition-property: height;
+}
+.js .accordion > section > :first-child {
+  cursor: pointer;
+}
+.tabs {
+  overflow-y: hidden;
+  position: relative;
+}
+.tabs.cross-fade.transition {
+  -webkit-transition-duration: 0.25s;
+  -moz-transition-duration: 0.25s;
+  -o-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+}
+.tabs.cross-fade.transition > section {
+  -webkit-transition-duration: 0.25s;
+  -moz-transition-duration: 0.25s;
+  -o-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+}
+.js .tabs.hide-title > section > :first-child {
+  display: none;
+}
+.tabs > section {
+  width: 100%;
+}
+.js .tabs > section {
+  opacity: 0;
+  position: absolute;
+  visibility: hidden;
+}
+.tabs > section[aria-expanded="true"] {
+  opacity: 1;
+  visibility: visible;
+}
+.tabs > ul {
+  position: relative;
+  z-index: 99;
+}
+.tabs > ul > li {
+  cursor: pointer;
+}

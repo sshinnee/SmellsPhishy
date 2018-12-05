@@ -1,0 +1,163 @@
+/* http://nicolasgallagher.com/micro-clearfix-hack
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix:after,
+.clearfix:before {
+  display: table;
+  content: "";
+} */
+
+.detached {
+  margin: 0;
+}
+.detached:focus {
+  outline: none;
+}
+.detached.accordion > section {
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  padding: 24px;
+}
+.detached.accordion > section > * {
+  max-width: 100%;
+}
+.detached.accordion > section[aria-expanded="true"] > :first-child {
+  border-bottom-color: #dddddd;
+}
+.detached.accordion > section > :first-child {
+  margin-top: 0;
+}
+.js .detached.accordion > section {
+  padding: 0;
+}
+.js .detached.accordion > section > :first-child {
+  border-bottom: 1px solid transparent;
+  color: #393939;
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+  padding: 25px 24px 20px 24px;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+.js .detached.accordion > section > :first-child span {
+	font-size: 18px;
+	padding: 10px;
+	border: 1px solid #393939;
+	border-radius: 100%;
+	text-align: center;
+}
+.js .detached.accordion > section > :first-child + * > * {
+  padding: 24px;
+}
+.js .detached.accordion > section > :first-child + * > * > * {
+  max-width: 100%;
+}
+.js .detached.accordion > section > :first-child + * > * > :first-child {
+  margin-top: 0;
+}
+.js .detached.accordion > section > :first-child + * > * > :last-child {
+  margin-bottom: 0;
+}
+.detached.accordion > section > :last-child {
+  margin-bottom: 0;
+}
+.detached.accordion > section + section {
+  margin-top: 12px;
+}
+.detached.tabs {
+  padding: 0 0 24px 0;
+  text-align: center;
+}
+.js .detached.tabs.hide-title > section > :first-child + * {
+  margin-top: 0;
+}
+.detached.tabs > section {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 30px 0px 0px 0px;
+  text-align: center;
+}
+.detached.tabs > section > :first-child {
+  margin-top: 0;
+}
+.js .detached.tabs > section > * > * > * {
+  max-width: 100%;
+}
+.js .detached.tabs > section > * > * > :first-child {
+  margin-top: 0;
+}
+.js .detached.tabs > section > * > * > :last-child {
+  margin-bottom: 0;
+}
+.detached.tabs > section > :last-child {
+  margin-bottom: 0;
+}
+.detached.tabs > section + section {
+  margin-top: 12px;
+}
+.js .detached.tabs > section + section {
+  margin-top: 0;
+}
+.detached.tabs > ul {
+  zoom: 1;
+  display: table;
+  list-style: none;
+  margin: 0 auto 24px auto;
+  padding: 0;
+}
+.detached.tabs > ul:after {
+  clear: both;
+}
+.detached.tabs > ul:after,
+.detached.tabs > ul:before {
+  display: table;
+  content: "";
+}
+.detached.tabs > ul > li {
+  border-bottom: 1px solid #eee;
+  color: #eee;
+  float: left;
+  padding: 40px 48px 70px 48px;
+  position: relative;
+}
+.detached.tabs > ul > li.current {
+  border-bottom: 1px solid #eee;
+  color: #393939;
+  pointer-events: none;
+  z-index: 99;
+  background: url(up-arrow.png) no-repeat center bottom;
+}
+.detached.tabs > ul > li:first-child {
+
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+.detached.tabs > ul > li:last-child {
+
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+.detached.tabs > ul > li + li {
+  margin-left: -1px;
+}
+
+
+.detached.tabs > ul > li span {
+	font-size: 45px;
+	padding: 30px;
+	border: 1px solid #eee;
+	border-radius: 100%;
+	text-align: center;
+}
+.detached.tabs > ul > li.current span {
+	border: 1px solid #393939;
+}
+

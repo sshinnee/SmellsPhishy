@@ -1,0 +1,2634 @@
+/* responsive */
+@media only screen and (min-width:320px) and (max-width:360px){
+	.featured_section135 .box-cnt img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+}
+.searchpage1 a img{
+	width:105.5% !important;
+	padding-bottom: 10px;
+}
+.content_fullwidth {
+   
+    margin-top: 10px;
+ 
+}
+.bg{ overflow:hidden; height:auto !important; padding-bottom:0 !important;}
+#pup{
+	margin-top:-450px;
+}
+.top_nav .left a {
+   
+    font-size: 13px;
+    
+}
+.top_nav .left {
+   
+    font-size: 13px;
+    
+}
+.tpbut {
+  
+    font-size: 13px;
+   
+}
+.tpbut:hover, .tpbut.active {
+   
+    font-size: 13px;
+    
+}
+#forg{
+	padding:20px !important;
+}
+#owl-demo15 .item img {
+   
+    width: 100% !important;
+	height: 180px !important;
+}
+.myaccount-Bg {
+   
+    padding: 15px 12px 15px 12px !important;
+}
+.owl-carousel .owl-wrapper {
+    width:100% !important;
+}
+.datetimepicker table thead td {
+   
+    min-width: 32px !important;
+}
+.datetimepicker table {
+   
+    font-size: 13px !important;
+    
+}
+.datetimepicker {
+   width:100%;
+}
+.datetimepicker {
+   
+    display: block !important;
+   
+    margin-bottom: 10px !important;
+    float: left !important;
+    margin-left: 0px !important;
+}
+#m-avail {
+    margin-left: -15px !important;
+}
+#block {
+    float: left !important;
+    margin-right: 0px !important;
+}
+.hallsPl {
+    padding-right: 20px !important;
+}
+#gallery img{
+	width:100%;
+}
+#gall img{
+	width:100%;
+}
+a.but_ok_2 {
+    
+    margin: 0px 0px 10px 0px !important;
+    
+}
+#gallery a.but_ok_2 {
+    
+ 
+	float: right;
+  
+}
+.gallerUpload .feildcont input {
+    float: left;
+    width: 100%;
+    padding: 7px 12px;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 12px;
+}
+a.but_pencil {
+    padding: 10px 5px 10px 5px !important;
+    font-size: 12px !important;
+}
+a#menu-list{
+	font-size:12px;
+	
+}
+#popup2, #hlpopup, #glpopup, #hlupckpopup, #hlcateringmenu, .bMulti {
+   
+    min-width: 275px !important;
+    left:20px !important;
+}
+.myHallsHeadingPT {
+    padding-top: 16px;
+}
+h3.booknowMB{
+	font-size: 16px;
+font-weight: 600;
+}
+.booknowMB {
+    margin-bottom: 0px !important;
+}
+.booknowBtm{
+	padding-top:16px !important;
+}
+.booknowBtm a.but_star {
+    padding: 5px 5px 5px 4px;
+   font-size:15px !important;
+}
+#txtsearch{
+	font-size: 16px !important;
+padding: 7px 5px;
+margin-top: 10px;
+}
+#fresh{
+	padding-left:0px !important;
+}
+.book-satus .tr, .book-satus .tr2, .book-satus .bdr, .tom, .dh{
+	height:auto !important;
+}
+.tom {
+    border-right:0 !important;
+    
+}
+.bookingBox a.but_check1 {
+    padding: 3px 5px 3px 5px;
+    
+    font-size: 12px;
+  
+}
+a.but_file {
+    
+   margin-bottom: 5px !important;
+    padding: 6px 12px;
+    display: inline-block;
+}
+.r-table{
+	display:block;
+	overflow-x:auto;
+	padding:20px 10px;
+}
+div.dataTables_filter label {
+   
+    float: left !important;
+	
+   
+}
+.pl10 {
+    padding-left: 0px !important;
+}
+.top_nav .left a {
+    
+    margin-right: 15px;
+    font-size:13px;
+}
+
+}
+@media only screen and (min-width:361px) and (max-width:480px){
+	.featured_section135 .box-cnt img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+}
+#pup{
+margin-top:-400px;
+}
+.searchpage1 a img{
+	width: 100% !important;
+padding-bottom: 10px;
+padding-left: 15px;
+padding-top: 15px;
+}
+.bg{ overflow:hidden; height:auto !important; padding-bottom:0 !important;}
+.datetimepicker {
+   width:100%;
+}
+.datetimepicker {
+   
+    display: block !important;
+   
+    margin-bottom: 10px !important;
+    float: left !important;
+    margin-left: 0px !important;
+}
+#m-avail {
+    margin-left: -15px !important;
+}
+#block {
+    float: left !important;
+    margin-right: 0px !important;
+}
+#gallery img{
+	width:100%;
+}
+#gallery a.but_ok_2 {
+    
+    margin: 0px 15px 20px 0px;
+	float: right;
+  
+}
+.gallerUpload .feildcont input {
+    float: left;
+    width: 100%;
+    padding: 7px 12px;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 12px;
+}
+#popup, #popup2, #hlpopup, #glpopup, #hlupckpopup, #hlcateringmenu, .bMulti {
+   
+   
+    top:95px !important;
+}
+.booknowBtm a.but_star {
+    padding: 5px 5px 5px 4px;
+   font-size:15px !important;
+}
+#txtsearch{
+	font-size: 16px !important;
+padding: 7px 5px;
+margin-top: 10px;
+}
+#fresh{
+	padding-left:0px !important;
+}
+.book-satus .tr, .book-satus .tr2, .book-satus .bdr, .tom, .dh{
+	height:auto !important;
+}
+.tom {
+    border-right:0 !important;
+    
+}
+.bookingBox a.but_check1 {
+    padding: 3px 5px 3px 5px;
+    
+    font-size: 12px;
+  
+}
+a.but_file {
+    
+   margin-bottom: 5px !important;
+    padding: 6px 12px;
+    display: inline-block;
+}
+.r-table{
+	display:block;
+	overflow-x:auto;
+	padding:20px 10px;
+}
+div.dataTables_filter label {
+   
+    float: left !important;
+	
+   
+}
+#gall img{
+	width:100%;
+	
+}
+a.but_ok_2 {
+    
+    margin: 0px 0px 20px 0px !important;
+    
+}
+h3.myHallsHeadingPT {
+    margin-top: 16px !important;
+	font-size: 20px !important;
+}
+.booknowBtm{
+	padding-top:16px !important;
+}
+.pl10 {
+    padding-left: 0px !important;
+}
+
+}
+@media only screen and (min-width:481px) and (max-width:640px){
+	.featured_section135 .box-cnt img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+}
+#m-avail {
+    margin-left: -15px !important;
+}
+#block {
+    float: left !important;
+    margin-right: 0px !important;
+}
+.gallerUpload .feildcont input {
+    float: left;
+    width: 100%;
+    padding: 7px 12px;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 12px;
+}
+.bg{ overflow:hidden; height:auto !important; padding-bottom:0 !important;}
+.book-satus .tr, .book-satus .tr2, .book-satus .bdr, .tom, .dh{
+	height:auto !important;
+}
+.tom {
+    border-right:0 !important;
+    
+}
+#gall img{
+	width:100%;
+	padding-right: 15px;
+}
+}
+@media only screen and (min-width:641px) and (max-width:1023px){
+	.featured_section135 .box-cnt img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+}
+.searchpage1 a img{
+	padding-left:12px !important;
+	padding-top:14px !important;
+	width: 36%;
+	padding-bottom: 14px;
+}
+.datetimepicker {
+   max-width: 100% !important;
+}
+.datetimepicker {
+   
+    display: block !important;
+   
+    margin-bottom: 10px !important;
+    float: left !important;
+    margin-left: 0px !important;
+}
+#pup{
+	margin-top: -60%;
+}
+#m-avail {
+    margin-left: -15px !important;
+}
+#block {
+    float: left !important;
+    margin-right: 0px !important;
+}
+.datetimepicker table thead td {
+    
+    min-width: 35px !important;
+}
+.bg{ overflow:hidden; height:auto !important; padding-bottom:0 !important;}
+#gallery img{
+	width:100%;
+	margin-bottom: 15px;
+}
+.gallerUpload .feildcont input {
+    float: left;
+    width: 100%;
+    padding: 7px 12px;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 12px;
+}
+a.but_pencil {
+    padding: 10px 10px 10px 10px !important; 
+    
+}
+a.but_pencil{
+	font-size:12px !important;
+}
+a#menu-list{
+	font-size:12px !important;
+}
+.book-satus .tr, .book-satus .tr2, .book-satus .bdr, .tom, .dh{
+	height:auto !important;
+}
+.tom {
+    border-right:0 !important;
+    
+}
+.booknowMB {
+    margin-bottom: 8px;
+    padding-top: 8px;
+}
+.booknowBtm{
+	margin-top:10px;
+}
+#gall img{
+	width:100%;
+	padding-right: 15px;
+}
+.feildcont select#seletime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#eseletime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#deseletime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#selstime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#eselstime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#deselstime{
+	padding: 6px 5px 7px 5px !important;
+}
+#fresh {
+    padding-left: 0px !important;
+}
+.r-table{
+	
+	
+	padding:20px 10px;
+}
+#txtsearch {
+    font-size: 16px !important;
+    padding: 7px 5px;
+    margin-top: 10px;
+}
+.myHallsHeadingPT {
+    padding-top: 16px;
+}
+}
+
+@media only screen and (min-width:1024px) and (max-width:1279px){
+	.featured_section135 .box-cnt img {
+    width: 100% !important;
+    height: auto !important;
+    display: block !important;
+}
+.searchpage1 a img{
+	padding-left:12px !important;
+	padding-top:14px !important;
+	padding-bottom: 14px !important;
+	
+}
+.datetimepicker {
+   max-width: 100% !important;
+}
+.datetimepicker {
+   
+    display: block !important;
+   
+    margin-bottom: 10px !important;
+    float: left !important;
+    margin-left: 0px !important;
+}
+.skdslider a.prev {
+   
+    top: 54%;
+    
+}
+.skdslider a.next {
+   
+    top: 54%;
+    
+}
+#gall img {
+    vertical-align: middle;
+    width: 100%;
+    padding-right: 10px;
+}
+.bg{ overflow:hidden; height:auto !important; padding-bottom:0 !important;}
+a.but_ok_2 {
+    
+    margin: 0px 10px 0px 0px !important;
+    
+}
+#m-avail {
+    margin-left: -15px !important;
+}
+#block {
+    float: left !important;
+    margin-right: 0px !important;
+}
+.datetimepicker table thead td {
+    
+    min-width: 35px !important;
+}
+.gallerUpload .feildcont input {
+    float: left;
+    width: 100%;
+    padding: 7px 12px;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 12px;
+}
+.book-satus a.but_check1 {
+    padding: 3px 20px 3px 20px;
+   
+}
+.book-satus a.but_check {
+    padding: 3px 12px 3px 12px;
+    
+}
+span.blink_me{
+	font-size:13px !important;
+}
+a.but_file {
+  
+    padding: 6px 4px !important;
+}
+.feildcont select#seletime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#eseletime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#deseletime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#selstime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#eselstime{
+	padding: 6px 5px 7px 5px !important;
+}
+.feildcont select#deselstime{
+	padding: 6px 5px 7px 5px !important;
+}
+.r-table{
+	
+	
+	padding:20px 10px;
+}
+}
+
+.hall-dtl {
+	
+	padding-bottom: 20px;
+	clear:both;
+}
+.owl-carousel {
+   
+    padding-top: 5px;
+}
+.hall-dtl #hall-n{
+	font-size:20px;
+	color:#F16536;
+	padding: 10px 0px;
+	text-transform:uppercase;
+	font-weight:600;
+}
+.hall-dtl h6 span#hall-l{
+	font-size: 15px;
+font-weight: 500;
+color: #4c6c13;
+}
+.gallerUpload .feildcont input {
+    float: left;
+    width: 100%;
+    padding: 7px 12px;
+    border: 1px solid #e3e3e3;
+    margin-bottom: 12px;
+}
+.r-table{
+	
+	
+	padding:20px 10px;
+}
+/* #gallery img{
+	width:100%;
+	margin-bottom: 15px;
+} */
+.hallsPl {
+    padding-right: 30px;
+}
+#txtsearch{
+	
+padding: 6px 5px;
+
+}
+.feildcont .checkbox {
+    float: left;
+    margin-top: 0 !important;
+    width: 100%;
+}
+.find{
+	border:1px solid #CCC;
+	padding-left:2px;
+	height:35px;
+}
+.find .f1{
+	
+	float:left;
+	width:80%;
+	
+}
+.find .f2{
+	padding: 8px 0px;
+float: left;
+width: 20%;
+cursor: pointer;
+/* background: url('../images/search-icon-hi.png');
+background-size: 42% 48%;
+background-repeat: no-repeat;
+background-position: center; */
+	
+}
+.find .f2 .fa{
+	font-size:14px;
+	
+}
+.find .f1 input{
+	border:0;
+	padding: 5px 12px;
+}
+/*Package Buttons */
+#day{
+	margin: 0px 0px 0px 0px;
+ background-color: #e41515;
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+ border-radius:5px;
+ width:100%;
+ text-align:center;
+ padding:8px 0px;
+ color: #FFF;
+}
+#day a.but_bookmark , #night a.but_bookmark, #fday a.but_bookmark{
+ text-decoration:none;
+ border-bottom:none;
+ padding:0px;
+}
+#day a:hover {
+ color:#FFF;
+ background-color:none;
+}
+#night{
+	margin: 0px 0px 0px 0px;
+ background-color:#1E5C99;
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+ border-radius:5px;
+ width:100%;
+ text-align:center;
+ padding:8px 0px;
+ color: #FFF;
+}
+#fday{
+	margin: 0px 0px 0px 0px;
+ background-color:#A6C91D;
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+ border-radius:5px;
+ width:100%;
+ text-align:center;
+ padding:8px 0px;
+ color: #FFF;
+}
+#day a.but_bookmark:hover,#day a.but_bookmark:focus, #night a.but_bookmark:hover,#night a.but_bookmark:focus, #fday a.but_bookmark:hover,#fday a.but_bookmark:focus {
+ color:#FFF;
+ background:none;
+ text-decoration:none;
+}
+#block{
+	float:right;
+	margin-right:15px;
+}
+#m-avail{
+	margin-left:15px;
+}
+
+/*Package Buttons */
+.searchdetailsAmenities-Pl p i{
+	
+	padding-right:5px;
+}
+
+ ul.pagination li{
+	
+    list-style: none;
+    display: inline;
+
+    padding-right: 5px;
+
+}
+h3.myHallsHeadingPT{
+	margin-top:0px;
+	font-size: 22px;
+}
+
+/* --responsive-- */
+ul.dropdown-menu>li {
+    width: 100%;
+}
+
+.cen
+{
+	
+text-align:center;	
+	
+}
+
+.pdr{
+	
+	padding-top:7px;
+	
+}
+
+.bdr {
+    border-right: 1px solid #EEE;
+    height: 40px;
+}
+.tr{
+background: #f9f9f9;
+height: 40px;
+}
+
+.book-satus
+{
+	margin-bottom:15px;
+	margin-top:20px;
+	color:#000;
+}
+.tr2
+{
+background: #fff;
+height: 40px;
+}
+
+
+.rad{
+	border-radius:5px
+	
+	
+}
+
+.tbe
+{
+	
+	margin-top:19px;
+	margin-bottom:19px;
+	
+}
+
+.dh{ 
+height: 39px;
+background: #54b74a;
+color: #FFF;
+PADDING-TOP: 0PX;
+font-weight:600;
+font-size:14px
+}
+.tom{
+
+    border-right: 1px solid #fff;
+    height: 40px !important;
+   
+}
+.tom3{
+
+    border-right: 1px solid #fff;
+   
+   
+}
+.tom2{
+
+    border-right: 1px solid #fff;
+    height: 40px !important;
+	
+}
+.pd2{
+	
+	 padding-top: 10px;
+    padding-bottom: 10px;
+}
+.pad2{
+	
+	 padding-top: 6px;
+    padding-bottom: 10px;
+	margin-top:4px;
+}
+.pas{
+	padding-bottom:15px;
+padding-top:4px;
+	
+}
+
+.dr
+{
+background: #f9f9f9;
+font-size: 14px;
+color: #000;
+height:35px;
+}
+.dr2
+{
+background: #fff;
+font-size: 14px;
+color: #000;
+height:35px;
+}
+
+
+
+
+
+.bg
+{
+	background: rgba(255,255,255,0.43);
+    /* padding: 19px; */
+    height: 61px;
+    border-radius: 5px;
+    width: 85%;
+    padding:10px 10px;
+	
+	
+	
+}
+
+
+
+.gfbut {
+	float: left;
+	background: #f16536;
+	padding: 8px 23px;
+	border: none;
+	border-radius: 3px;
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	transition: all 0.3s ease;
+	margin-top: 18px;
+}
+.bannerImages {
+	/* background:url(../images/banner.jpg); */
+	width:100%;
+	height:600px;
+	background-repeat:no-repeat;
+}
+.jodStatusUpdates h4 {
+	font-size: 26px;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+}
+.but_medium1 {
+	background-color: #fec00f;
+	color: #000;
+	font-size: 19px;
+	font-weight: 600;
+	padding: 10px 0;
+	transition: all 0.3s ease 0s;
+	white-space: nowrap;
+	display:block;
+	text-align:center;
+}
+.pt10 {
+	padding-top:10px;
+}
+.but_medium1 {
+	margin-top:0px;
+	display:block;
+}
+.jobSearch {
+	/*background-color:rgba(0, 0, 0, .5);*/
+	padding:40px 40px 37px 40px;
+	margin-top:24%;
+	border-radius:3px;/*margin-left:13%;
+ margin-right:13%;*/
+}
+.searchAdv {
+	margin-top:80%;/*margin-left:13%;
+ margin-right:13%;*/
+}
+.jobSearch h4 {
+	font-size: 34px;
+	color: #fff;
+	font-family: 'Actor', sans-serif;
+	text-align:center;
+	padding-bottom:44px;
+}
+.cforms1 label {
+	float: left;
+	width: 100%;
+	color: #454545;
+	font-weight: normal;
+}
+.cforms1 label em {
+	color: #9eca45;
+	font-size: 12px;
+	font-style: normal;
+}
+.cforms1 input {
+	color: #454545;
+	float: left;
+	width: 50%;
+	padding: 9px 12px;
+	margin-bottom: 10px;
+	border: 1px solid #eee;
+	background: #fff;
+}
+.feildcont1 select {
+	border: 1px solid #e3e3e3;
+	border-left:none;
+	color: #999;
+	float: left;
+	padding: 10px 12px;
+	text-align: left;
+	width: 100%;
+	font-size:14px;
+	line-height:22px;
+	font-family:"Open Sans", sans-serif;
+}
+.headingborder {
+	border-bottom:1px solid #fff;
+	padding-left:50px;
+	padding-right:50px;
+}
+.search {
+	position: relative;
+	color: #aaa;
+	font-size: 24px;
+}
+.search input {
+	text-indent: 32px;
+}
+.search .fa-map-marker {
+	position: absolute;
+	top: 8px;
+	left: 10px;
+}
+.myaccount-Bg {
+	background-color:#fff;
+	border:1px solid #c8c8c8;
+	border-radius:4px;
+	padding:35px;
+}
+.profileimagebox {
+	border:1px solid #c8c8c8;
+}
+.profileimage {
+	width: 75%;
+	border-radius:1%;
+	border:3px solid #ddd;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom:10px;
+}
+.menuonmouse {
+	background-color: #f16536;
+	color: #ffffff;
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 32px;
+	text-decoration: none;
+	text-align:justify;
+	height:35px;
+	padding-left:25px;
+	border:1px solid #f16536;
+}
+.menuonmouse a {
+	color: #ffffff;
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 32px;
+}
+.left_menu {
+	color: #5e5e5e;
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 32px;
+	text-decoration: none;
+	text-align:justify;
+	height:35px;
+	padding-left:25px;
+	border:1px solid #bfbfbf;
+}
+.left_menu a:hover {
+	color: #fff;
+}
+.left_menu a {
+	color: #808080;
+}
+.left_menu:hover {
+	background-color: #f16536;
+	color: #ffffff;
+	font-family: "Open Sans", sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 32px;
+	text-decoration: none;
+	text-align:justify;
+	height:35px;
+	padding-left:25px;
+	border:1px solid #f16536;
+}
+.servicesicons123 {
+	background-color:#eee;
+	border:1px solid #eee;
+	border-radius:100%;
+	padding:15px;
+	text-align:center;
+	height:150px;
+	width:150px;
+}
+.servicesicons123:hover {
+	background-color:#f16536;
+	border:1px solid #f16536;
+	border-radius:50%;
+}
+.pl10 {
+	padding-left:10px;
+}
+.pr10 {
+	padding-right:10px;
+}
+.veiwdetails {
+	color: #333;
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+	padding-left:15px;
+}
+.searchpage {
+	background-color:#fff;
+	border:1px solid #eee;
+	border-radius:3px;
+	padding:25px;
+}
+.searchpage1 {
+	background-color:#fff;
+	border:1px solid #eee;
+	border-radius:3px;
+	clear: both;
+}
+.searchpage1:hover {
+	border:1px solid #eee;
+	border: 1px solid #f9f9f9;
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+}
+.filterbg {
+	background-color:#000;
+	padding:10px 10px 10px 20px;
+	font-size:16px;
+	color:#fff;
+}
+.package {
+	border:1px solid #dddddd;
+	padding:10px;
+}
+.packageheading {
+	background-color:#f2f2f2;
+	height:50px;
+}
+.packageheading i {
+	font-size:30px;
+	color:#ad1982;
+	padding-top:6px;
+	padding-bottom:10px;
+}
+.packageheading h4 {
+	font-size:22px;
+	color:#ad1982;
+	padding-left:25px;
+	padding-top:0px;
+	padding-bottom:10px;
+}
+/*balu*/
+
+.cont {
+	width: 100% !important;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	margin-left: 0px !important;
+	border:none !important;
+}
+.si {
+	font-size:15px !important;
+}
+.rth {
+ background:#
+}
+.colname2 {
+	background-color:#f7f7f7;
+}
+.colname {
+	background-color:#fffaf6;
+}
+.hal:hover {
+	border: 2px solid #8fc74a;
+	-webkit-transition: all 50ms ease;
+	-moz-transition: all 50ms ease;
+	-ms-transition: all 50ms ease;
+	-o-transition: all 50ms ease;
+	transition: all 50ms ease;
+	box-shadow: 0 0 6px #dddddd;
+}
+.hal {
+	border-radius:50%;
+	cursor:pointer;
+}
+.ps {
+	padding:7px !important;
+	font-size:13px;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #000;
+	font-size: 13px !important;
+	font-weight: 600;
+	text-transform:uppercase !important;
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+	text-align: center;
+	border-right: 1px solid #eaeaea;
+	margin:5px 0 !important;
+}
+.navbar-default .navbar-nav > li > a i {
+	font-size:25px;
+	padding-top: 5px !important;
+}
+.navbar-default .navbar-nav > li > a img {
+	width:2em;
+	height:20px;
+	display:block;
+	margin:0 auto;
+}
+.nav-img {
+	display:block !important;
+}
+.nav-img-a {
+	display:none !important;
+}
+.navbar-default .navbar-nav > li > a:hover .nav-img {
+	display:none !important;
+}
+.navbar-default .navbar-nav > li > a:hover .nav-img-a {
+	display:block !important;
+}
+ul.nav > li > a.active .nav-img {
+	display:none !important;
+}
+ul.nav > li > a.active .nav-img-a {
+	display:block !important;
+}
+/* featured section 135 */
+
+.featured_section135 .box:hover .box-details h4 {
+	display:none;
+}
+.day {
+	color:#e2cf00;
+	font-weight:600;
+}
+.evening {
+	color:#3a559b;
+	font-weight:600;
+}
+.blocked {
+	color:#e41515;
+	font-weight:600;
+}
+.unblocked {
+	color:#72ae10;
+	font-weight:600;
+}
+.blinkstyle {
+	color:#ff0000;
+	text-decoration:blink;
+}
+.bookingBox {
+	border:1px solid #eee;
+	border-radius:3px;
+}
+.bookingBox:hover {
+	border:1px solid #eee;
+	border: 1px solid #f9f9f9;
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+}
+.discountSection {
+	background-color:#698300;
+	padding:14px 0px;
+	margin-right:0px;
+	border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+}
+.discountSection h6 {
+	font-size:20px;
+	color:#fff;
+	margin-bottom:0px;
+	font-weight:600;
+}
+.discountSectionscrolling {
+	background-color:#f1ffb6;
+	padding:11px 25px;
+	border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+}
+.discountSectionscrolling span {
+	font-size:15px;
+	color:#000;
+	margin-bottom:0px;
+	font-weight:500;
+	text-align:justify;
+	padding-left:15px;
+	padding-right:15px;
+}
+.packageBoxcolor {
+	border:1px solid #eee;
+	border-radius:3px;
+	background-color:#f8f8f8;
+	padding:15px;
+	margin:6px 0px;
+}
+.packageBoxcolor:hover {
+	border:1px solid #eee;
+	border: 1px solid #f9f9f9;
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+}
+.packageBoxcolor1 {
+	border:1px solid #eee;
+	border-radius:3px;
+	background-color:#fbffe9;
+	padding:15px;
+	margin:6px 0px;
+}
+.packageBoxcolor1:hover {
+	border:1px solid #eee;
+	border: 1px solid #f9f9f9;
+	-webkit-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	-moz-box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+	box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 0.59);
+}
+.feildcont .checkbox{float:none !important; width:100%;}
+ @media screen and (min-width: 320px) {
+ 
+ .gllpMap{width:100% !important;}
+ .datetimepicker{box-shadow:0; margin:0; padding:0;}
+.datetimepicker + .datetimepicker{margin-left:0;}
+ 
+ .bg{ overflow:hidden; /* height:auto; padding-bottom:0; */}
+ .discont {
+margin-bottom: 0px !important;
+}
+ .searchAdv {
+margin-top: 0px;
+}
+.slide-pl {
+padding-left:0px;
+padding-top:10px;
+}
+ .search-Ml {
+margin-left:0px
+}
+.packageheading {
+background-color:#f2f2f2;
+height:38px;
+}
+ .packageheading i {
+font-size:20px;
+color:#ad1982;
+padding-top:6px;
+padding-bottom:10px;
+}
+ .packageheading h4 {
+font-size:16px;
+color:#ad1982;
+padding-left:10px;
+padding-top:0px;
+padding-bottom:10px;
+font-weight:600;
+}
+a.but_bookmark {
+ padding: 10px 55px 10px 40px;
+ margin: 0px 0px 0px 0px;
+ /* background: #e41515; */
+ border-bottom: 1px solid #909090;
+ font-size: 15px;
+ font-weight:600;
+}
+a.but_bookmark:hover {
+ background-color: #b60000;
+}
+.fa-lg {
+ font-size: 1em;
+ line-height: 0.75em;
+ vertical-align: -15%;
+}
+ a.but_cogwheel {
+ padding:10px 45px 10px 37px;
+ margin: 0px 0px 0px 0px;
+ background: #194c7f;
+ border-bottom: 1px solid #909090;
+ font-size: 15px;
+ font-weight:600;
+}
+a.but_cogwheel:hover {
+ background-color: #1e5c99;
+}
+ a.but_check1 {
+ padding: 10px 66px 10px 37px;
+ margin: 0px 0px 0px 0px;
+ background: #a6c91d;
+ border-bottom: 1px solid #a6c91d;
+ color:#fff;
+ font-size: 15px;
+ font-weight: 600;
+ border-radius:5px;
+}
+a.but_check1:hover {
+ background-color: #a6c91d;
+}
+ .callenderimages {
+width:95%;
+}
+ .searchdetailsAmenities-Pl {
+padding-left:10px;
+}
+.bookingHeading {
+font-size:18px;
+padding-top:20px;
+}
+ .veiwdetails {
+color: #333;
+font-family: "Open Sans", sans-serif;
+font-size: 13px;
+font-weight: 500;
+padding-left:5px;
+}
+.day {
+color:#e2cf00;
+font-weight:600;
+}
+ .evening {
+color:#3a559b;
+font-weight:600;
+}
+ .blocked {
+color:#e41515;
+font-weight:600;
+}
+ .unblocked {
+color:#72ae10;
+font-weight:600;
+}
+.packagesTable {
+padding:5px;
+}
+.successmesMt {
+margin-top:45px;
+}
+.searchLocation input {
+border: 1px solid #e3e3e3;
+ float: left;
+ margin-bottom: 12px;
+ padding: 7px 12px;
+ width: 100%;
+}
+.searchproductAmenities {
+font-size:13px;
+}
+ .myaccount-Bg {
+ background-color: #fff;
+ border: 1px solid #c8c8c8;
+ border-radius: 4px;
+ /* padding: 35px 0px 34px 0px !important; */
+}
+.hallsPl {
+padding-left:15px;
+}
+ .logregform .feildcont {
+ float: left;
+ padding: 30px 5px 40px;
+ text-align: left;
+ width: 100%;
+}
+.hallsFormpr10 {
+padding-right:0px;
+}
+.hallsFormpl10 {
+ padding-left: 0px;
+}
+#logo {
+ left: 41px;
+ margin-top: -11px;
+ min-height: 70px;
+ position: relative;
+ text-indent: -999em;
+ top: 5px;
+ width: 70%;
+ background-size:45%;
+}
+.compact .header #logo {
+}
+.site_wrapper .header {
+ height:135px;
+}
+.compact .site_wrapper .header {
+ height:132px;
+}
+.jobSearch h4 {
+font-size: 26px;
+color: #fff;
+ font-family: 'Actor', sans-serif;
+text-align:center;
+padding-bottom:30px;
+line-height:30px;
+}
+.bannerImages {
+/* background:url(../images/banner.jpg); */
+width:100%;
+height:600px;
+background-repeat:no-repeat;
+margin-top:36%;
+}
+.jobSearch {
+ /*background-color:rgba(0, 0, 0, .5);*/
+ padding:30px 40px 37px 40px;
+ margin-top:10%;
+ border-radius:3px;
+/*margin-left:13%;
+ margin-right:13%;*/
+}
+ .HeaderSearchOuter .hFormholderInput {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+.HeaderSearchOuter .hFormholderSelect {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+.HeaderSearchOuter .hFormholderbtn {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+.gallerUpload {
+margin-left:0px !important;
+width:100%;
+border: 0px solid #f9f9f9;
+box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.2);
+}
+.videoUpload {
+padding-top:0px;
+}
+.videoUploadrow {
+margin-left: -28px !important;
+float:left;
+}
+ .hallPackageUpdate {
+padding-top:35px;
+}
+.booknowBtm {
+padding-top:10px;
+padding-bottom:10px;
+}
+.booknowMB {
+margin-bottom:18px;
+}
+.hallspackagesday {
+width:100%;
+}
+.hallspackagesdayStarttime {
+width:100%;
+}
+.hallspackagesdayAMPM {
+width:100%;
+}
+.hallspackagesdayEndtime {
+width:100%;
+}
+.hallspackagesdayPrice {
+width:100%;
+}
+.hallspackagesdayUpdate {
+width:100%;
+}
+
+a.but_pencil1 {
+ padding: 10px 5px 10px 5px !important;
+ margin: 0px 0px 0px 0px;
+ background: #b3d335;
+ border-bottom: 1px solid #b3d335;
+ color:#fff;
+/*  font-size:9px !important; */
+ font-weight:600 !important;
+}
+a.but_pencil1:hover {
+ background-color: #b3d335;
+}
+.editAccount {
+margin-left:0px !important;
+width:100% !important;
+}
+.changePassword {
+margin-left:0px !important;
+width:100% !important;
+}
+.veiwbookingDedilsSearch {
+padding-top:15px;
+float:right !important;
+}
+.myHallsHeadingPT{
+/* padding-top:25px; */
+}
+}
+@media screen and (min-width: 360px) {
+ .featured_section1 h5 {
+ font-weight: bold;
+ font-size:18px;
+ text-transform:none;
+ padding-bottom:5px;
+ font-family:"Open Sans", sans-serif;
+ color:#f4511a;
+}
+}
+ @media screen and (min-width: 480px){
+ .featured_section1 h5 {
+ font-weight: bold;
+ font-size:18px;
+ text-transform:none;
+ padding-bottom:5px;
+ font-family:"Open Sans", sans-serif;
+ color:#f4511a;
+}
+ .packageheading {
+background-color:#f2f2f2;
+height:42px;
+}
+ .packageheading i {
+font-size:28px;
+color:#ad1982;
+padding-top:6px;
+padding-bottom:10px;
+}
+ .packageheading h4 {
+font-size:24px;
+color:#ad1982;
+padding-left:10px;
+padding-top:0px;
+padding-bottom:10px;
+font-weight:500;
+}
+ a.but_bookmark {
+ padding: 10px 132px 10px 90px;
+ margin: 0px 0px 0px 0px;
+ /* background: #e41515; */
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+}
+a.but_bookmark:hover {
+ background-color: #b60000;
+}
+.fa-lg {
+ font-size: 1em;
+ line-height: 0.75em;
+ vertical-align: -15%;
+}
+ a.but_cogwheel {
+ padding: 10px 117px 10px 90px;
+ margin: 0px 0px 0px 0px;
+ background: #194c7f;
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+}
+a.but_cogwheel:hover {
+ background-color: #1e5c99;
+}
+ a.but_check1 {
+ padding: 10px 128px 10px 90px;
+ margin: 0px 0px 0px 0px;
+ background: #a6c91d;
+ border-bottom: 1px solid #a6c91d;
+ color:#fff;
+ font-size: 19px;
+ font-weight: 600;
+}
+a.but_check1:hover {
+ background-color: #a6c91d;
+}
+.bookingHeading {
+font-size:21px;
+padding-top:20px;
+}
+.searchproductAmenities {
+font-size:14px;
+}
+.logregform .feildcont {
+ float: left;
+ padding: 30px 15px 40px;
+ text-align: left;
+ width: 100%;
+}
+.hallsFormpr10 {
+padding-right:0px;
+}
+.hallsFormpl10 {
+ padding-left: 0px;
+}
+ #logo {
+ left: 41px;
+ margin-top: -11px;
+ min-height: 70px;
+ position: relative;
+ text-indent: -999em;
+ top: 5px;
+ width: 70%;
+ background-size:29%;
+}
+.compact .header #logo {
+}
+.site_wrapper .header {
+ height:135px;
+}
+.compact .site_wrapper .header {
+ height:132px;
+}
+.bannerImages {
+/* background:url(../images/banner.jpg); */
+width:100%;
+height:600px;
+background-repeat:no-repeat;
+margin-top:24%;
+}
+.slide-pl {
+padding-left:95px;
+padding-top:10px;
+}
+.HeaderSearchOuter .hFormholderInput {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+.HeaderSearchOuter .hFormholderSelect {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+.HeaderSearchOuter .hFormholderbtn {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+.hallPackageUpdate {
+padding-top:30px;
+}
+.booknowBtm {
+padding-top:0px;
+padding-bottom:10px;
+}
+.booknowMB {
+margin-bottom:0px;
+}
+a.but_pencil {
+ padding: 10px 22px 10px 22px;
+ margin: 0px 0px 0px 0px;
+ background: #cc4c19;
+ border-bottom: 1px solid #909090;
+}
+a.but_pencil:hover {
+ background-color: #da521b;
+}
+a.but_pencil1 {
+ padding: 10px 22px 10px 22px;
+ margin: 0px 0px 0px 0px;
+ background: #b3d335;
+ border-bottom: 1px solid #b3d335;
+ color:#fff;
+ font-size:14px !important;
+ font-weight:600 !important;
+}
+a.but_pencil1:hover {
+ background-color: #b3d335;
+}
+/* .feildcont .checkbox {
+    float: left;
+    margin-top: 0 !important;
+    width: 50%;
+} */
+}
+ @media screen and (min-width: 640px) {
+.discountSection h6 {
+font-size:14px;
+color:#fff;
+margin-bottom:0px;
+font-weight:bold;
+}
+ .featured_section1 h5 {
+ font-weight: bold;
+ font-size:14px;
+ text-transform:none;
+ padding-bottom:5px;
+ font-family:"Open Sans", sans-serif;
+ color:#f4511a;
+}
+.packageheading {
+background-color:#f2f2f2;
+height:60px;
+}
+ .packageheading i {
+font-size:14px;
+color:#ad1982;
+padding-top:6px;
+padding-bottom:10px;
+}
+ .packageheading h4 {
+font-size:14px;
+color:#ad1982;
+padding-left:10px;
+padding-top:0px;
+padding-bottom:10px;
+font-weight:600;
+}
+ a.but_bookmark {
+ padding: 10px 15px 10px 16px;
+ margin: 0px 0px 0px 0px;
+ /* background: #e41515; */
+ border-bottom: 1px solid #909090;
+ font-size: 14px;
+ font-weight:600;
+}
+a.but_bookmark:hover {
+ background-color: #b60000;
+}
+.fa-lg {
+ font-size: 1em;
+ line-height: 0.75em;
+ vertical-align: -15%;
+}
+ a.but_cogwheel {
+ padding:10px 8px 10px 11px;
+ margin: 0px 0px 0px 0px;
+ background: #194c7f;
+ border-bottom: 1px solid #909090;
+ font-size: 14px;
+ font-weight:600;
+}
+a.but_cogwheel:hover {
+ background-color: #1e5c99;
+}
+ a.but_check1 {
+ padding: 10px 24px 10px 16px;
+ margin: 0px 0px 0px 0px;
+ background: #a6c91d;
+ border-bottom: 1px solid #a6c91d;
+ color:#fff;
+ font-size: 14px;
+ font-weight: 600;
+}
+a.but_check1:hover {
+ background-color: #a6c91d;
+}
+.bookingHeading {
+font-size:21px;
+padding-top:0px;
+}
+.packagesTable {
+padding:25px;
+}
+.successmesMt {
+margin-top:0px;
+}
+#logo {
+ left: 41px;
+ margin-top: -11px;
+ min-height: 70px;
+ position: relative;
+ text-indent: -999em;
+ top: 5px;
+ width: 70%;
+ background-size:45%;
+}
+.compact .header #logo {
+}
+.site_wrapper .header {
+ height:65px;
+}
+.compact .site_wrapper .header {
+ height:72px;
+}
+.jobSearch {
+ /*background-color:rgba(0, 0, 0, .5);*/
+ padding:40px 40px 37px 40px;
+ margin-top:5%;
+ border-radius:3px;
+/*margin-left:13%;
+ margin-right:13%;*/
+}
+.jobSearch h4 {
+font-size: 28px;
+color: #fff;
+ font-family: 'Actor', sans-serif;
+text-align:center;
+padding-bottom:44px;
+line-height:32px;
+}
+ .bannerImages {
+/* background:url(../images/banner.jpg); */
+width:100%;
+height:600px;
+background-repeat:no-repeat;
+margin-top:7%;
+}
+.slide-pl {
+padding-left:160px;
+padding-top:25px;
+}
+.HeaderSearchOuter .hFormholderInput {
+width:100%;
+margin-bottom:15px;
+float:left;
+}
+.HeaderSearchOuter .hFormholderSelect {
+width:50%;
+margin-bottom:15px;
+float:left;
+}
+.HeaderSearchOuter .hFormholderbtn {
+width:50%;
+margin-bottom:15px;
+float:left;
+padding:0px 0px 0px 45px;
+}
+ .hallsAddbutton {
+width:100%;
+float:left;
+}
+.booknowMB {
+margin-bottom:0px;
+}
+.hallspackagesday {
+width:100%;
+float:left;
+}
+.hallspackagesdayStarttime {
+width:22%;
+float:left;
+}
+.hallspackagesdayAMPM {
+width:10%;
+float:left;
+}
+.hallspackagesdayEndtime {
+width:22%;
+float:left;
+}
+.hallspackagesdayPrice {
+width:20%;
+float:left;
+}
+.hallspackagesdayUpdate {
+width:16%;
+float:left;
+}
+.hallspackagesdayUpdate .fbut {
+padding: 8px 15px !important;
+}
+.editAccount {
+margin-left:0px !important;
+width:93% !important;
+}
+.changePassword {
+margin-left:0px !important;
+width:92% !important;
+}
+.packageheading{height:auto;}
+.packageheading h4{padding-bottom:0; font-size:12px;}
+}
+ @media screen and (min-width: 768px) {
+ .profileimage{width:auto;}
+.searchAdv {
+margin-top: 20px;
+}
+.discountSection h6 {
+font-size:16px;
+color:#fff;
+margin-bottom:0px;
+font-weight:bold;
+}
+ .packageheading {
+background-color:#f2f2f2;
+height:35px;
+}
+ .packageheading i {
+font-size:15px;
+color:#ad1982;
+padding-top:6px;
+padding-bottom:10px;
+}
+ .packageheading h4 {
+font-size:15px;
+color:#ad1982;
+padding-left:10px;
+padding-top:0px;
+padding-bottom:10px;
+font-weight:600;
+}
+ a.but_bookmark {
+ padding: 10px 63px 10px 16px;
+ margin: 0px 0px 0px 0px;
+/*  background: #e41515; */
+ border-bottom: 1px solid #909090;
+ font-size: 13px;
+ font-weight:600;
+}
+a.but_bookmark:hover {
+ background-color: #b60000;
+}
+.fa-lg {
+ font-size: 1em;
+ line-height: 0.75em;
+ vertical-align: -15%;
+}
+ a.but_cogwheel {
+ padding:10px 56px 10px 11px;
+ margin: 0px 0px 0px 0px;
+ background: #194c7f;
+ border-bottom: 1px solid #909090;
+ font-size: 13px;
+ font-weight:600;
+}
+a.but_cogwheel:hover {
+ background-color: #1e5c99;
+}
+ a.but_check1 {
+ padding: 10px 72px 10px 16px;
+ margin: 0px 0px 0px 0px;
+ background: #a6c91d;
+ border-bottom: 1px solid #a6c91d;
+ color:#fff;
+ font-size: 13px;
+ font-weight: 600;
+}
+a.but_check1:hover {
+ background-color: #a6c91d;
+}
+.veiwdetails {
+color: #333;
+font-family: "Open Sans", sans-serif;
+font-size: 14px;
+font-weight: 500;
+padding-left:10px;
+}
+.day {
+color:#e2cf00;
+font-weight:600;
+}
+ .evening {
+color:#3a559b;
+font-weight:600;
+}
+ .blocked {
+color:#e41515;
+font-weight:600;
+}
+ .unblocked {
+color:#72ae10;
+font-weight:600;
+}
+.packagesTable {
+padding:25px;
+}
+ .searchproductlist {
+margin-left:275px;
+margin-top:-200px;
+}
+ .logregform .feildcont {
+ float: left;
+ padding: 30px 30px 40px;
+ text-align: left;
+ width: 100%;
+}
+.hallsFormpr10 {
+padding-right:10px;
+}
+.hallsFormpl10 {
+ padding-left: 10px;
+}
+#logo {
+ left: 41px;
+ margin-top: -11px;
+ min-height: 70px;
+ position: relative;
+ text-indent: -999em;
+ top: 5px;
+ width: 70%;
+ background-size:35%;
+}
+.compact .header #logo {
+}
+.site_wrapper .header {
+ height:65px;
+}
+.compact .site_wrapper .header {
+ height:75px;
+}
+.jobSearch h4 {
+font-size: 30px;
+color: #fff;
+ font-family: 'Actor', sans-serif;
+text-align:center;
+padding-bottom:44px;
+line-height:34px;
+}
+
+ .bannerImages {
+/* background:url(../images/banner.jpg); */
+width:100%;
+height:510px;
+background-repeat:no-repeat;
+}
+.slide-pl {
+padding-left:250px;
+padding-top:0px;
+}
+.packageheading h4{font-size:13px;}
+
+}
+ @media screen and (min-width: 1024px) {
+.discountSection h6 {
+font-size:18px;
+color:#fff;
+margin-bottom:0px;
+font-weight:bold;
+}
+.featured_section1 h5 {
+ font-weight: bold;
+ font-size:16px;
+ text-transform:none;
+ padding-bottom:5px;
+ font-family:"Open Sans", sans-serif;
+ color:#f4511a;
+}
+ .search-Ml {
+margin-left:25px !important;
+}
+ .packageheading {
+background-color:#f2f2f2;
+height:40px;
+}
+ .packageheading i {
+font-size:24px;
+color:#ad1982;
+padding-top:6px;
+padding-bottom:10px;
+}
+ .packageheading h4 {
+font-size:20px;
+color:#ad1982;
+padding-left:10px;
+padding-top:0px;
+padding-bottom:10px;
+font-weight:600;
+}
+ a.but_bookmark {
+ padding: 10px 98px 10px 50px;
+ margin: 0px 0px 0px 0px;
+/*  background: #e41515; */
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+}
+a.but_bookmark:hover {
+ background-color: #b60000;
+}
+.fa-lg {
+ font-size: 1em;
+ line-height: 0.75em;
+ vertical-align: -15%;
+}
+ a.but_cogwheel {
+ padding:10px 83px 10px 50px;
+ margin: 0px 0px 0px 0px;
+ background: #194c7f;
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+}
+a.but_cogwheel:hover {
+ background-color: #1e5c99;
+}
+ a.but_check1 {
+ padding: 10px 107px 10px 50px;
+ margin: 0px 0px 0px 0px;
+ background: #a6c91d;
+ border-bottom: 1px solid #a6c91d;
+ color:#fff;
+ font-size: 17px;
+ font-weight: 600;
+}
+a.but_check1:hover {
+ background-color: #a6c91d;
+}
+.searchdetailsAmenities-Pl {
+padding-left:30px;
+}
+.searchproductlist-Ml {
+margin-left:60px;
+}
+ .searchproductlist {
+margin-left:60px;
+margin-top:0px;
+}
+.myaccount-Bg {
+ background-color: #fff;
+ border: 1px solid #c8c8c8;
+ border-radius: 4px;
+ padding: 35px !important;
+}
+.hallsPl {
+padding-left:0px;
+}
+#logo {
+ left: 41px;
+ margin-top: -11px;
+ min-height: 70px;
+ position: relative;
+ text-indent: -999em;
+ top: 5px;
+ width: 70%;
+ background-size:42%;
+}
+.compact .header #logo {
+ top: -5px;
+ background-size:38%;
+}
+.site_wrapper .header {
+ height:65px;
+}
+.compact .site_wrapper .header {
+ height:65px;
+ top: 0px;
+}
+.menu-Pt {
+padding-top:3px
+}
+.bannerImages {
+/* background:url(../images/banner.jpg); */
+width:100%;
+height:600px;
+background-repeat:no-repeat;
+margin-top:0%;
+}
+.jobSearch {
+/* background-color:rgba(0, 0, 0, .5);*/
+ padding:25px 40px 25px 40px;
+/*  margin-top:25%; */
+ border-radius:3px;
+/*margin-left:13%;
+ margin-right:13%;*/
+}
+#pup{
+	margin-top:-400px;
+}
+.jobSearch h4 {
+font-size: 28px;
+color: #fff;
+ font-family: 'Actor', sans-serif;
+text-align:center;
+padding-bottom:25px;
+line-height:34px;
+}
+.slide-pl {
+padding-left:0px;
+padding-top:0px;
+}
+ .searchAdv {
+margin-top: 180px;
+}
+.HeaderSearchOuter .hFormholderInput {
+width:55%;
+margin-bottom:15px;
+float:left;
+}
+.HeaderSearchOuter .hFormholderSelect {
+width:30%;
+margin-bottom:15px;
+float:left;
+/* padding:0px 0px 0px 30px; */
+}
+.HeaderSearchOuter .hFormholderbtn {
+width:15%;
+margin-bottom:15px;
+float:left;
+padding:0px 0px 0px 0px;
+}
+.hallPackageUpdate {
+padding-top:0px;
+}
+ .hallspackagesday {
+width:17%;
+float:left;
+}
+.hallspackagesdayStarttime {
+width:16%;
+float:left;
+}
+.hallspackagesdayAMPM {
+width:9%;
+float:left;
+}
+.hallspackagesdayEndtime {
+width:16%;
+float:left;
+}
+.hallspackagesdayPrice {
+width:17%;
+float:left;
+padding-left:15px;
+}
+.hallspackagesdayUpdate {
+width:16%;
+float:left;
+padding-left:15px;
+}
+.hallspackagesdayUpdate .fbut {
+padding: 8px 15px !important;
+}
+.veiwbookingDedilsSearch {
+padding-top:7px;
+float:right !important;
+}
+.myHallsHeadingPT{
+padding-top:0px;}
+}
+ @media screen and (min-width: 1280px) {
+ .discont {
+margin-bottom: 50px;
+}
+.searchAdv {
+ margin-top:70%;
+/*margin-left:13%;
+ margin-right:13%;*/
+}
+ .slide-pl {
+padding-left:0px;
+}
+ .discountSection h6 {
+font-size:20px;
+color:#fff;
+margin-bottom:0px;
+font-weight:600;
+}
+.featured_section1 h5 {
+ font-weight: bold;
+ font-size:16px;
+ text-transform:none;
+ padding-bottom:5px;
+ font-family:"Open Sans", sans-serif;
+ color:#f4511a;
+}
+ .search-Ml {
+margin-left:25px !important;
+}
+ a.but_bookmark {
+ padding: -1px 160px 10px 30px !important;
+ margin: 0px 0px 0px 0px;
+ /* background: #e41515; */
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+ border-radius:5px;
+}
+a.but_bookmark:hover {
+ background-color: #b60000;
+}
+.fa-lg {
+ font-size: 1em;
+ line-height: 0.75em;
+ vertical-align: -15%;
+}
+ a.but_cogwheel 
+ {
+ padding:-1px 146px 10px 30px !important;
+ margin: 0px 0px 0px 0px;
+ background: #194c7f;
+ border-bottom: 1px solid #909090;
+ font-size: 17px;
+ font-weight:600;
+ border-radius:5px;
+}
+a.but_cogwheel:hover {
+ background-color: #1e5c99;
+}
+ a.but_check1 {
+ padding:-1px 169px 10px 30px !important;
+ margin: 0px 0px 0px 0px;
+ background: #a6c91d;
+ border-bottom: 1px solid #a6c91d;
+ color:#fff;
+ font-size: 17px;
+ font-weight: 600;
+ border-radius:5px;
+}
+a.but_check1:hover {
+ background-color: #a6c91d;
+}
+.searchproductlist-Ml {
+margin-left:0px;
+}
+ .myaccount-Bg {
+ background-color: #fff;
+ border: 1px solid #c8c8c8;
+ border-radius: 4px;
+ padding: 35px !important;
+}
+.hallsPl {
+padding-left:0px;
+}
+ #logo {
+background: rgba(0, 0, 0, 0) url("../images/logo1.png") no-repeat scroll left top;
+ display: block;
+ float: left;
+ margin-top: -11px;
+
+ min-height: 137px;
+ position: relative;
+ text-indent: -999em;
+ width: 70%;
+}
+.compact .header #logo {
+ top: 8px;
+ background-size:38%;
+}
+.site_wrapper .header {
+ height:80px;
+}
+.compact .site_wrapper .header {
+ height:80px;
+ top: 0px;
+}
+.menu-Pt {
+padding-top:8px
+}
+ .jobSearch h4 {
+font-size: 34px;
+color: #fff;
+ font-family: 'Actor', sans-serif;
+text-align:center;
+padding-bottom:44px;
+text-shadow: rgb(0, 0, 0) 4px 2px 6px;
+}
+.bannerImages {
+/* background:url(../images/banner2.jpg); */
+width:100%;
+height:500px;
+background-repeat:no-repeat;
+margin-top:0%;
+}
+.jobSearch {
+ /*background-color:rgba(0, 0, 0, .5);*/
+ padding:23px 40px 23px 40px;
+ /* margin-top:22%; */
+ border-radius:3px;
+/*margin-left:13%;
+ margin-right:13%;*/
+}
+.gallerUpload {
+margin-left:0px;
+width:50%;
+border: 0px solid #f9f9f9;
+box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.2);
+}
+.booknowBtm {
+padding-top:0px;
+padding-bottom:0px;
+}
+.discount .three_fourth {
+	width: 78%;
+}
+.selectcategoryAlert{
+background-color:#fff;
+color:#ff0000;}
+
+.err
+{
+font-size:16px;
+padding-left:8px;
+padding-right:8px;
+color:#ff0000;
+float:right;
+background-color:#fff;
+}
+.err2
+{
+font-size:16px;
+padding-left:8px;
+padding-right:8px;
+color:#ff0000;
+float:right;
+
+margin-right:305px;
+background-color:#fff;
+}
+.err1
+{
+font-size:16px;
+padding-left:199px;
+margin-top:-42px;
+color:#ff0000;
+float:left;
+padding:10px;
+}
+
+}
+ @media screen and (-webkit-min-device-pixel-ratio:0) {
+ #selservice {
+ border: 1px solid #e3e3e3;
+ border-left:none;
+ color: #999;
+ float: left;
+ padding: 10px 12px;
+ text-align: left;
+ width: 100%;
+ font-size:14px;
+ line-height:37px;
+ font-family:"Open Sans", sans-serif;
+}
+#btnsearch {
+padding-top:11px;}
+.but_medium1 {
+padding-top:11px;}
+.btn-block{
+padding-top:11px;}
+
+}
+
+/*radio button code*/
+
+.cover ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+}
+
+ul.rbt li {
+	color: #AAAAAA;
+	display: block;
+	position: relative;
+	float: left;
+	/*width: 100%;*/
+	height: 79px;
+	margin-right:15px;
+}
+
+ul.rbt li input[type=radio] {
+	position: absolute;
+	visibility: hidden;
+}
+
+ul.rbt li label {
+display: block;
+    position: relative;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 25px 0px 25px 80px;
+    margin: 3px auto;
+    height: 30px;
+    z-index: 9;
+    cursor: pointer;
+    -webkit-transition: all 0.25s linear;
+    padding-right: 0px;
+    padding-left: 37px;
+    color: #000;
+}
+
+ul.rbt li:hover label {
+	color: #F16536;
+}
+
+ul.rbt li .check {
+	display: block;
+	position: absolute;
+	border: 5px solid #F16536;
+	border-radius: 100%;
+	height: 25px;
+	width: 25px;
+	top: 30px;
+	left: 0px;
+	z-index: 5;
+	transition: border .25s linear;
+	-webkit-transition: border .25s linear;
+}
+
+ul.rbt li:hover .check {
+	border: 5px solid #F16536;
+}
+
+ul.rbt li .check::before {
+	display: block;
+    position: absolute;
+    content: '';
+    border-radius: 100%;
+    height: 6px;
+    width: 6px;
+    top: 5px;
+    left: 5px;
+    margin: auto;
+    transition: background 0.25s linear;
+    -webkit-transition: background 0.25s 
+}
+
+input[type=radio]:checked ~ .check {
+	border: 5px solid #F16536;
+}
+
+input[type=radio]:checked ~ .check::before {
+	background: #F16536;
+}
+
+input[type=radio]:checked ~ label {
+	color: #F16536;
+}
+
+.signature {
+	margin: 10px auto;
+	padding: 10px 0;
+	width: 100%;
+}
+
+.signature p {
+	text-align: center;
+	font-family: Helvetica, Arial, Sans-Serif;
+	font-size: 0.85em;
+	color: #AAAAAA;
+}
+
+.signature .much-heart {
+	display: inline-block;
+	position: relative;
+	margin: 0 4px;
+	height: 10px;
+	width: 10px;
+	background: #AC1D3F;
+	border-radius: 4px;
+	-ms-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+
+.signature .much-heart::before, .signature .much-heart::after {
+	display: block;
+	content: '';
+	position: absolute;
+	margin: auto;
+	height: 10px;
+	width: 10px;
+	border-radius: 5px;
+	background: #AC1D3F;
+	top: -4px;
+}
+
+.signature .much-heart::after {
+	bottom: 0;
+	top: auto;
+	left: -4px;
+}
+
+.signature a {
+	color: #AAAAAA;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+/* Styles for alert... 
+by the way it is so weird when you look at your code a couple of years after you wrote it XD */
+
+.alert {
+	box-sizing: border-box;
+	background-color: #0DFF92;
+	width: 100%;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 300;
+	padding: 20px 40px;
+	color: #333;
+}
+
+.alert h2 {
+	font-size: 22px;
+	color: #232323;
+	margin-top: 0;
+}
+
+.alert p {
+	line-height: 1.6em;
+	font-size: 18px;
+}
+
+.alert a {
+	color: #232323;
+	font-weight: bold;
+}
+
+/* end radio button code */
+

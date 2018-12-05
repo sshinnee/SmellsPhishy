@@ -1,0 +1,3 @@
+Sitemap: http://federal.co.id/sitemap.xml
+Sitemap: http://federal.co.id/sitemapa_258_4455.xml
+Sitemap: http://federal.co.id/map.xml
