@@ -1,0 +1,5 @@
+Total Number of Domain Expiries Retrieved Successfully: 869
+Total Number of Duplicates Abandoned: 254
+Total Number of Domain Expiries Not Retrieved Successfully: 336
+Total Number of Domain Expiries Less Than Three Months: 100
+Total Number of Domain Expiries More Than Three Months: 769

@@ -1,0 +1,502 @@
+Domain Age, Domain Expiry, Registerer, Registrar
+4, 361, ,  <type 'exceptions.IndexError'>
+4, 361, ,  <type 'exceptions.IndexError'>
+6485, 1550, REDACTED FOR PRIVACY, TUCOWS, INC.
+4853, 410, UNITED STATES, MarkMonitor, Inc.
+10, 355, ,  <type 'exceptions.IndexError'>
+3890, 857, UNITED STATES, Safenames Ltd
+, , ,  <type 'exceptions.IndexError'>
+4, 361, BENIN, LWS dba Ligne Web Services
+4, 361, PANAMA, NAMECHEAP INC
+4, 361, PANAMA, NAMECHEAP INC
+2244, 311, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 362, UNITED STATES, GoDaddy.com, LLC
+3289, 1093, NETHERLANDS, GoDaddy.com, LLC
+537, 172, ECUADOR, LogicBoxes Country: IN Phone: 1 832 2951535
+1984, 572, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+1984, 572, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+1984, 572, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+3, 361, ,  <type 'exceptions.IndexError'>
+18, 346, UNITED STATES, GoDaddy.com, LLC
+, , ,  <type 'exceptions.IndexError'>
+2059, 132, MEXICO, Hospedando.Com.Mx
+2059, 132, MEXICO, Hospedando.Com.Mx
+1838, 352, UNITED STATES, GoDaddy.com, LLC
+400, 330, ,  <type 'exceptions.IndexError'>
+933, 1257, GDPR Masked, Hostinger, UAB
+3972, 410, UNITED STATES, FastDomain Inc.
+4853, 410, UNITED STATES, MarkMonitor, Inc.
+8871, 258, UNITED STATES, MarkMonitor, Inc.
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+7710, 325, ,  <type 'exceptions.IndexError'>
+5, 359, CANADA, Google LLC
+829, 266, REDACTED FOR PRIVACY, EPAG Domainservices GmbH
+77, 288, UNITED STATES, Hostinger, UAB
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+3, 362, NEW ZEALAND, GoDaddy.com, LLC
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+4623, 125, PAKISTAN, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+1535, 291, UNITED KINGDOM, BBOnline
+6315, 1720, MALAYSIA, WEBCC
+3, 361, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+5554, 290, UNITED ARAB EMIRATES, Total Registrations
+1759, 66, UNITED STATES, GoDaddy.com, LLC
+1759, 66, UNITED STATES, GoDaddy.com, LLC
+3523, 129, TURKEY, PDR Ltd. d/b/a PublicDomainRegistry.com
+1788, 1864, ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+69, 296, BRAZIL, GoDaddy.com, Inc.
+4224, 158, UNITED STATES, FastDomain Inc.
+2443, 479, UNITED STATES, GoDaddy.com, LLC
+635, 94, ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+3073, 212, NETHERLANDS, eNom, LLC
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+4910, 31, UNITED STATES, MarkMonitor
+4910, 31, UNITED STATES, MarkMonitor
+9, 355, RUSSIAN FEDERATION, Limited Liability Company "Registrar of domain names REG.RU"
+4513, 234, NETHERLANDS, Hosting Concepts B.V. d/b/a Openprovider
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+4910, 31, UNITED STATES, MarkMonitor
+4910, 31, UNITED STATES, MarkMonitor
+860, 234, UNITED STATES, TLDS L.L.C. d/b/a SRSPlus
+, , ,  <type 'exceptions.IndexError'>
+2, 362, GDPR Masked, PDR Ltd. d/b/a PublicDomainRegistry.com
+2, 362, GDPR Masked, PDR Ltd. d/b/a PublicDomainRegistry.com
+1151, 309, BANGLADESH, UNIREGISTRAR CORP
+3236, 50, UNITED STATES, GoDaddy.com, LLC
+3236, 50, UNITED STATES, GoDaddy.com, LLC
+3708, 309, UNITED STATES, FastDomain Inc.
+266, 98, REDACTED FOR PRIVACY, TUCOWS, INC.
+4692, 55, UNITED STATES, CSC CORPORATE DOMAINS, INC.
+4046, 1798, BRAZIL,  <type 'exceptions.IndexError'>
+48, 317, INDIA, FastDomain Inc.
+917, 178, REDACTED FOR PRIVACY, TUCOWS, INC.
+4, 361, ,  <type 'exceptions.IndexError'>
+4, 361, ,  <type 'exceptions.IndexError'>
+145, 585, UNITED STATES, DYNADOT LLC
+933, 162, BOLIVIA (PLURINATIONAL STATE OF),  <type 'exceptions.IndexError'>
+824, 1002, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+824, 1002, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+4, 361, ,  <type 'exceptions.IndexError'>
+4, 361, ,  <type 'exceptions.IndexError'>
+110, 255, ,  <type 'exceptions.IndexError'>
+4, 361, ,  <type 'exceptions.IndexError'>
+824, 1002, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+736, 359, PANAMA, NameCheap, Inc
+4, 361, ,  <type 'exceptions.IndexError'>
+4, 361, ,  <type 'exceptions.IndexError'>
+6023, 185, AUSTRALIA, GoDaddy.com, LLC
+4, 361, ,  <type 'exceptions.IndexError'>
+824, 1002, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+4, 361, ,  <type 'exceptions.IndexError'>
+4, 361, ,  <type 'exceptions.IndexError'>
+7747, 653, UNITED STATES, MarkMonitor, Inc.
+7747, 653, UNITED STATES, MarkMonitor, Inc.
+165, 200, UNITED STATES, NameSilo
+736, 359, PANAMA, NameCheap, Inc
+736, 359, PANAMA, NameCheap, Inc
+321, 44, INDIA, GoDaddy.com, LLC
+321, 44, INDIA, GoDaddy.com, LLC
+321, 44, INDIA, GoDaddy.com, LLC
+321, 44, INDIA, GoDaddy.com, LLC
+2, 362, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+4132, 249, UNITED STATES, Tucows Domains Inc.
+4132, 249, UNITED STATES, Tucows Domains Inc.
+7149, 1983, UNITED STATES, NETWORK SOLUTIONS, LLC.
+7149, 1983, UNITED STATES, NETWORK SOLUTIONS, LLC.
+2318, , ,  <type 'exceptions.IndexError'>
+2452, 104, BRAZIL,  <type 'exceptions.IndexError'>
+2, 362, JAPAN, GMO Internet, Inc. d/b/a Onamae.com
+1838, 352, UNITED STATES, GoDaddy.com, LLC
+5161, 317, UNITED STATES, GoDaddy.com, LLC
+824, 1002, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+824, 1002, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+824, 1002, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+141, 223, TURKEY, NICS Telekomunikasyon A.S.
+3448, 204, INDONESIA, CV. Jogjacamp
+368, 362, HONG KONG, Onlinenic Inc
+3512, 140, UNITED STATES, GoDaddy.com, LLC
+5001, 112, ISRAEL, Domain The Net Technologies Ltd
+6696, 243, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+6696, 243, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+436, 294, INDIA, GoDaddy.com, LLC
+1939, 251, UNITED KINGDOM, 123-Reg Limited
+94, 271, BRAZIL,  <type 'exceptions.IndexError'>
+2132, 424, BRAZIL,  <type 'exceptions.IndexError'>
+345, 385, CAYMAN ISLANDS, UNIREGISTRAR CORP
+2237, 684, UNITED STATES, MarkMonitor, Inc.
+2995, 1753, UNITED STATES, MarkMonitor, Inc.
+6188, 751, UNITED STATES, MarkMonitor, Inc.
+115, 249, PAKISTAN, PDR Ltd. d/b/a PublicDomainRegistry.com
+934, 1257, GDPR Masked, Hostinger, UAB
+1838, 352, UNITED STATES, GoDaddy.com, LLC
+1037, 59, UNITED STATES, Gandi SAS
+4630, 848, UNITED STATES, Safenames Ltd
+1337, 124, RUSSIAN FEDERATION, Regional Network Information Center, JSC dba RU-CENTER
+1817, 8, ,  <type 'exceptions.IndexError'>
+1817, 8, ,  <type 'exceptions.IndexError'>
+2, 363, ,  <type 'exceptions.IndexError'>
+2, 363, ,  <type 'exceptions.IndexError'>
+683, 47, ,  <type 'exceptions.IndexError'>
+3630, 22, BELGIUM, Ascio Technologies, Inc
+1776, 50, INDIA, Endurance Domains Technology LLP
+6696, 609, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+, , ,  <type 'exceptions.IndexError'>
+2, 363, ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.KeyboardInterrupt'>
+1737, 89, UNITED STATES, NAMECHEAP INC
+4, 361, ,  <type 'exceptions.IndexError'>
+7232, 73, UNITED STATES, MarkMonitor, Inc.
+7232, 73, UNITED STATES, MarkMonitor, Inc.
+3727, 303, ,  <type 'exceptions.IndexError'>
+157, 207, NIGERIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+157, 207, NIGERIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+1329, 131, REDACTED FOR PRIVACY, ENOM, INC.
+1329, 131, REDACTED FOR PRIVACY, ENOM, INC.
+157, 207, NIGERIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+157, 207, NIGERIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+4610, 138, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+10, 354, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+10, 354, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+1788, 1864, ,  <type 'exceptions.IndexError'>
+77, 288, UNITED STATES, Hostinger, UAB
+266, 98, REDACTED FOR PRIVACY, TUCOWS, INC.
+2339, 216, UNITED STATES, Catalog.com
+654, 441, BRAZIL,  <type 'exceptions.IndexError'>
+654, 441, BRAZIL,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+2052, 504, ARGENTINA, GoDaddy.com, LLC
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+8871, 258, UNITED STATES, MarkMonitor, Inc.
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+4, 361, PANAMA, NameCheap, Inc.
+277, 88, VENEZUELA (BOLIVARIAN REPUBLIC OF),  <type 'exceptions.IndexError'>
+152, 213, UNITED STATES, GoDaddy.com, LLC
+4, 361, ,  <type 'exceptions.IndexError'>
+2, 363, ,  <type 'exceptions.IndexError'>
+171, 194, REDACTED FOR PRIVACY, TUCOWS, INC.
+4628, 120, SPAIN, Hosting Concepts B.V. d/b/a Openprovider
+32, 332, PANAMA, Namecheap
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+5, 359, REDACTED FOR PRIVACY, TUCOWS, INC.
+1939, 251, UNITED KINGDOM, 123-Reg Limited
+701, 29, EGYPT, Name.com, Inc.
+746, 349, UNITED STATES, NAMECHEAP INC
+8107, 658, UNITED STATES, NETWORK SOLUTIONS, LLC.
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+934, 1257, GDPR Masked, Hostinger, UAB
+, , ,  <type 'exceptions.IndexError'>
+2, 362, GERMANY, 1&amp;1 Internet SE
+791, 303, SPAIN, Hosting Concepts B.V. d/b/a Openprovider
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+6402, 172, GDPR Masked, Interdominios, Inc.
+4890, 223, SPAIN, Hosting Concepts B.V. d/b/a Openprovider
+3896, 121, SPAIN, Hosting Concepts B.V. d/b/a Openprovider
+4, 361, UNITED KINGDOM, Mesh Digital Limited
+402, 328, SPAIN, Hosting Concepts B.V. d/b/a Openprovider
+5198, 280, SPAIN, Hosting Concepts B.V. d/b/a Openprovider
+6052, 156, SPAIN, Arsys Internet, S.L. dba NICLINE.COM
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+4910, 31, UNITED STATES, MarkMonitor
+4910, 31, UNITED STATES, MarkMonitor
+6322, 983, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+, , ,  <type 'exceptions.IndexError'>
+4910, 31, UNITED STATES, MarkMonitor
+6322, 983, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+6322, 983, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+2, 363, PANAMA, NAMECHEAP INC
+2, 363, ,  <type 'exceptions.IndexError'>
+2, 363, PANAMA, Namecheap
+, , ,  <type 'exceptions.IndexError'>
+2, 363, UNITED STATES, Go Daddy, LLC
+2847, 75, TURKEY, Key-Systems GmbH
+3144, 873, UNITED STATES, GoDaddy.com, Inc.
+1916, 274, UNITED KINGDOM, 123-Reg Limited
+3144, 873, UNITED STATES, GoDaddy.com, Inc.
+, , ,  <type 'exceptions.IndexError'>
+3411, 607, UNITED STATES, GoDaddy.com, LLC
+264, 831, UNITED STATES, GoDaddy.com, LLC
+2443, 479, UNITED STATES, GoDaddy.com, LLC
+2443, 479, UNITED STATES, GoDaddy.com, LLC
+3000, 653, ,  <type 'exceptions.IndexError'>
+1586, 605, BRAZIL, PDR Ltd. d/b/a PublicDomainRegistry.com
+, , ,  <type 'exceptions.IndexError'>
+64, 300, PANAMA, NAMECHEAP INC
+, , ,  <type 'exceptions.IndexError'>
+1586, 605, BRAZIL, PDR Ltd. d/b/a PublicDomainRegistry.com
+4910, 31, UNITED STATES, MarkMonitor
+4630, 848, UNITED STATES, Safenames Ltd
+10, 355, GERMANY, 1&amp;1 IONOS SE
+2847, 75, TURKEY, Key-Systems GmbH
+27, 337, UKRAINE, PDR Ltd. d/b/a PublicDomainRegistry.com
+155, 210, PANAMA, NameCheap, Inc.
+6696, 243, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+6696, 243, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+, , ,  <type 'exceptions.IndexError'>
+6696, 243, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+9, 356, SOUTH AFRICA, PDR Ltd. d/b/a PublicDomainRegistry.com
+30, 335, ,  <type 'exceptions.IndexError'>
+2, 363, REDACTED FOR PRIVACY, TUCOWS, INC.
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+15, 350, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+15, 350, SOUTH AFRICA, PDR Ltd. d/b/a PublicDomainRegistry.com
+8514, 185, UNITED STATES, MarkMonitor, Inc.
+35, 330, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+8012, 30, ,  <type 'exceptions.IndexError'>
+1916, 274, UNITED KINGDOM, 123-Reg Limited
+2161, 30, EGYPT, NAMECHEAP INC
+9, 356, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+9, 356, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+9, 356, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+, , ,  <type 'exceptions.IndexError'>
+3, 362, TUNISIA, GoDaddy.com, LLC
+3, 362, ,  <type 'exceptions.IndexError'>
+3, 362, TUNISIA, GoDaddy.com, LLC
+1261, 199, UNITED STATES, MarkMonitor, Inc.
+8108, 657, HONG KONG, NETWORK SOLUTIONS, LLC.
+8108, 657, HONG KONG, NETWORK SOLUTIONS, LLC.
+8108, 657, HONG KONG, NETWORK SOLUTIONS, LLC.
+5736, 108, REDACTED FOR PRIVACY, Key-Systems GmbH
+1, 363, ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+2, 362, PANAMA, NAMECHEAP INC
+2, 362, PANAMA, Namecheap
+2058, 863, FRANCE, Gandi SAS
+950, 145, ,  <type 'exceptions.IndexError'>
+5, 360, BRAZIL, GoDaddy.com, Inc.
+5981, 593, CYPRUS, GoDaddy.com, LLC
+592, 138, PANAMA, Namecheap Inc.
+2847, 75, TURKEY, Key-Systems GmbH
+, , ,  <type 'exceptions.IndexError'>
+6322, 983, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+1495, 331, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+1844, 347, UNITED STATES, DREAMHOST
+2291, 660, ,  <type 'exceptions.IndexError'>
+2090, 101, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+2090, 101, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+3144, 873, UNITED STATES, GoDaddy.com, Inc.
+1558, 267, NIGERIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+2847, 75, TURKEY, Key-Systems GmbH
+3586, 65, UNITED STATES, GoDaddy.com, LLC
+3455, 927, UNITED STATES, GoDaddy.com, LLC
+5771, 803, FRANCE, OVH, SAS
+, , ,  <type 'exceptions.IndexError'>
+7747, 653, UNITED STATES, MarkMonitor, Inc.
+2689, 233, INDONESIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+7512, 523, UNITED STATES, NETWORK SOLUTIONS, LLC.
+934, 1257, GDPR Masked, Hostinger, UAB
+934, 1257, GDPR Masked, Hostinger, UAB
+3, 362, BRAZIL, PDR Ltd. d/b/a PublicDomainRegistry.com
+18, 347, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+715, 14, BRAZIL, PDR Ltd
+2, 362, GERMANY, 1&amp;1 IONOS SE
+2, 363, REDACTED FOR PRIVACY, TUCOWS, INC.
+4164, 219, ARMENIA, abcdomain (ABCDomain LLC)
+6552, 752, ITALY, Tucows Inc.
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+8012, 30, ,  <type 'exceptions.IndexError'>
+2, 363, CANADA, Tucows Domains Inc.
+2, 363, CANADA, Tucows Domains Inc.
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+7340, 695, UNITED STATES, GoDaddy.com, LLC
+7340, 695, UNITED STATES, GoDaddy.com, LLC
+2208, 348, ,  <type 'exceptions.IndexError'>
+2208, 348, ,  <type 'exceptions.IndexError'>
+3215, 437, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+2, 362, UNITED STATES, NETWORK SOLUTIONS, LLC.
+7747, 653, UNITED STATES, MarkMonitor, Inc.
+3512, 140, UNITED STATES, GoDaddy.com, LLC
+1513, 313, UNITED STATES, Webnames.ca Inc.
+1, 363, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+1, 363, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+1, 363, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+2, 362, UNITED STATES, NETWORK SOLUTIONS, LLC.
+9, 355, CANADA, Tucows Domains Inc.
+9, 355, CANADA, Tucows Domains Inc.
+2, 363, RUSSIAN FEDERATION, Registrar of Domain Names REG.RU, LLC
+9, 355, CANADA, Tucows Domains Inc.
+2, 362, UNITED STATES, NETWORK SOLUTIONS, LLC.
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+8514, 185, UNITED STATES, MarkMonitor, Inc.
+417, 312, PANAMA, NAMECHEAP INC
+417, 312, PANAMA, NAMECHEAP INC
+417, 312, PANAMA, NAMECHEAP INC
+4646, 102, SPAIN, 1&amp;1 Internet SE
+490, 239, ECUADOR, PDR Ltd. d/b/a PublicDomainRegistry.com
+490, 239, ECUADOR, PDR Ltd. d/b/a PublicDomainRegistry.com
+2847, 75, TURKEY, Key-Systems GmbH
+1558, 267, NIGERIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+3665, 351, UNITED STATES, MarkMonitor, Inc.
+411, 319, AUSTRALIA, GoDaddy.com, LLC
+, , ,  <type 'exceptions.IndexError'>
+617, 478, TURKEY, GoDaddy.com, LLC
+, , ,  <type 'exceptions.IndexError'>
+7233, 71, MEXICO, Akky (Una division de NIC Mexico)
+7233, 71, MEXICO, Akky (Una division de NIC Mexico)
+2, 363, CANADA, TUCOWS, INC.
+7233, 71, MEXICO, Akky (Una division de NIC Mexico)
+823, 272, CANADA, Google Inc.
+934, 1257, GDPR Masked, Hostinger, UAB
+934, 1257, GDPR Masked, Hostinger, UAB
+249, 116, VIET NAM, P.A. Viet Nam Company Limited
+934, 1257, GDPR Masked, Hostinger, UAB
+57, 307, CANADA, Tucows Domains Inc.
+, , ,  <type 'exceptions.IndexError'>
+1910, 280, MEXICO, GoDaddy.com, LLC
+145, 585, UNITED STATES, DYNADOT LLC
+1, 363, ICELAND, Internet Domain Service BS Corp.
+1233, 228, UNITED STATES, Endurance Domains Technology LLP
+1838, 352, UNITED STATES, GoDaddy.com, LLC
+1, 363, ICELAND, Internet Domain Service BS Corp.
+1838, 352, UNITED STATES, GoDaddy.com, LLC
+9, 355, UNITED STATES, NameSilo, LLC
+4777, 335, UNITED STATES, TLDS LLC. d/b/a SRSPlus
+2513, 408, UNITED STATES, MarkMonitor, Inc.
+2208, 348, ,  <type 'exceptions.IndexError'>
+2208, 348, ,  <type 'exceptions.IndexError'>
+2208, 348, ,  <type 'exceptions.IndexError'>
+8108, 657, HONG KONG, NETWORK SOLUTIONS, LLC.
+45, 319, ECUADOR, PDR Ltd. d/b/a PublicDomainRegistry.com
+8108, 657, HONG KONG, NETWORK SOLUTIONS, LLC.
+2208, 348, ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+3215, 437, UNITED STATES, PDR Ltd. d/b/a PublicDomainRegistry.com
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+3129, 157, ITALY, Aruba s.p.a.
+2679, 243, ,  <type 'exceptions.IndexError'>
+2679, 243, ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+1558, 267, NIGERIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+, , ,  <type 'exceptions.IndexError'>
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+2193, 729, UNITED KINGDOM, GoDaddy.com, LLC
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+1881, 310, SOUTH AFRICA, Hetzner (Pty) Ltd
+8, 356, REDACTED FOR PRIVACY, TUCOWS, INC.
+6485, 1550, REDACTED FOR PRIVACY, TUCOWS, INC.
+2, 362, BAHAMAS, Internet Domain Service BS Corp
+2916, 370, UNITED STATES, GoDaddy.com, LLC
+121, 244, ,  <type 'exceptions.IndexError'>
+121, 244, ,  <type 'exceptions.IndexError'>
+934, 1257, GDPR Masked, Hostinger, UAB
+2, 363, SPAIN, 1&amp;1 IONOS SE
+, , ,  <type 'exceptions.IndexError'>
+5147, 700, DENMARK,  <type 'exceptions.IndexError'>
+4, 361, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+122, 243, ,  <type 'exceptions.IndexError'>
+2911, 11, UNITED STATES, 1&amp;1 IONOS SE
+1301, 160, ISRAEL, Gorni Interactive Ltd
+1916, 274, UNITED KINGDOM, 123-Reg Limited
+6494, 445, BRAZIL,  <type 'exceptions.IndexError'>
+6494, 445, BRAZIL,  <type 'exceptions.IndexError'>
+7416, 984, UNITED STATES, Ladas Domains LLC d/b/a Principium Strategies
+5307, 171, UNITED STATES, Register.com, Inc.
+2, 363, UNITED STATES, GoDaddy.com, LLC
+3708, 309, UNITED STATES, FastDomain Inc.
+3708, 309, UNITED STATES, FastDomain Inc.
+, , ,  <type 'exceptions.IndexError'>
+1, 363, LITHUANIA, Go Daddy, LLC
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>
+, , ,  <type 'exceptions.IndexError'>

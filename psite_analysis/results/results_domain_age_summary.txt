@@ -1,0 +1,5 @@
+Total Number of Domain Ages Retrieved Successfully: 878
+Total Number of Duplicates Abandoned: 263
+Total Number of Domain Ages Not Retrieved Successfully: 318
+Total Number of Domain Ages Less Than One Month: 179
+Total Number of Domain Ages More Than One Month: 699

@@ -1,0 +1,15 @@
+Domain Age, Domain Expiry, Registerer, Location
+4, 361, , 
+4, 361, , 
+6485, 1550, , 
+4853, 410, , 
+10, 355, , 
+Domain Age, Domain Expiry, Registerer, Registrar
+3890, 857, Registrant Name: Data protected, not disclosed Registrant Organisation: Yola, Inc Registrant Street: 548 Market St #38798 Registrant City: San Francisco Registrant State/Province: CA Registrant Postal Code: 94104-5401 Registrant Country: US Registrant Phone: Data protected, not disclosed Registrant Fax: Data protected, not disclosed Registrant Email: domain-admin@yola.com, Safenames Ltd
+, , , 
+4, 361, Registrant Country:           BJ Registrant Email:             b13c438925d5037682d4f976b81a77e0@whois-anonymous.com, LWS dba Ligne Web Services
+4, 361, Registrant Name: WhoisGuard Protected Registrant Organization: WhoisGuard, Inc. Registrant Street: P.O. Box 0823-03411 Registrant City: Panama Registrant State/Province: Panama Registrant Country: PA Registrant Phone: +507.8365503 Registrant Fax: +51.17057182 Registrant Email: 25c1bf6a1c334aee9ebf8e8670f6d008.protect@whoisguard.com, NAMECHEAP INC
+4, 361, Registrant Name: WhoisGuard Protected Registrant Organization: WhoisGuard, Inc. Registrant Street: P.O. Box 0823-03411 Registrant City: Panama Registrant State/Province: Panama Registrant Country: PA Registrant Phone: +507.8365503 Registrant Fax: +51.17057182 Registrant Email: 25c1bf6a1c334aee9ebf8e8670f6d008.protect@whoisguard.com, NAMECHEAP INC
+Domain Age, Domain Expiry, Registerer, Registrar
+2244, 311, INDIA, PDR Ltd. d/b/a PublicDomainRegistry.com
+3, 362, UNITED STATES, GoDaddy.com, LLC
